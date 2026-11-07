@@ -1,0 +1,46 @@
+[Dungeon]
+Type = Lair
+
+[Piece0]
+Blueprint = RLB_Part_3
+Quantity = 1
+
+[Piece1]
+Blueprint = RLB_Base_0
+Quantity = 1
+
+[Piece2]
+Blueprint = RLB_Base_1
+Quantity = 1
+
+[Piece3]
+Blueprint = RLB_Base_2
+Quantity = 1
+
+[Piece4]
+Blueprint = RLB_Base_3
+Quantity = 1
+
+[Piece5]
+Blueprint = RLB_Part_4
+Quantity = 1
+
+[Piece6]
+Blueprint = RLB_Part_1
+Quantity = 4
+Weight = 1
+
+[Piece7]
+Blueprint = RLB_Part_1_2
+Quantity = 4
+Weight = 1
+
+[Piece8]
+Blueprint = RLB_Part_2
+Quantity = 4
+Weight = 1
+
+[Piece9]
+Blueprint = RLB_Part_2_2
+Quantity = 4
+Weight = 1

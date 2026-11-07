@@ -1,0 +1,7 @@
+[Dungeon]
+Type = lair
+
+[Piece0]
+Blueprint = base_001
+Quantity = 1
+

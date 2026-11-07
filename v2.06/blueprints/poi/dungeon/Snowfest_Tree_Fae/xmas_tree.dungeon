@@ -1,0 +1,59 @@
+[Piece0]
+Blueprint = xmas_fae_base
+Quantity = 1
+
+[Piece1]
+Blueprint = xmas_mid_01
+Quantity = 1
+
+[Piece2]
+Blueprint = xmas_mid_02
+Quantity = 1
+
+[Piece3]
+Blueprint = xmas_mid_03
+Quantity = 1
+
+[Piece4]
+Blueprint = xmas_top_01
+Quantity = 1
+
+[Piece5]
+Blueprint = xmas_top_02
+Quantity = 1
+
+[Piece6]
+Blueprint = Fae_DirtGift
+Quantity = 2
+
+[Piece7]
+Blueprint = Fae_PlantBox
+Quantity = 2
+
+[Piece8]
+Blueprint = Fae_SnowGlobe
+Quantity = 1
+
+[Piece9]
+Blueprint = Fae_GlassBox
+Quantity = 2
+
+[Piece10]
+Blueprint = Fae_GlassBox2
+Quantity = 2
+
+[Piece11]
+Blueprint = Fae_FloralBasket
+Quantity = 2
+
+[Piece12]
+Blueprint = Fae_TreeBox
+Quantity = 2
+
+[Piece13]
+Blueprint = Fae_cat
+Quantity = 1
+
+[Piece14]
+Blueprint = Fae_box
+Quantity = 3

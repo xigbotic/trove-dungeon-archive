@@ -1,0 +1,129 @@
+[Dungeon]
+Type = Lair
+
+#Title = Spellbook Stack
+#Biome = Fae Wilds
+#Creator = Evilagician
+
+#number of pieces: 22
+#total varations: 1x4x4x4x3x3x3 = 1728
+
+#Mainplug
+[AllAboutThatBase]
+Blueprint = fae_lair_landplug
+Quantity = 1
+
+#Bottombookvariations
+[Bottom_001]
+Blueprint = fae_lair_bot_book_001
+Quantity = 1
+Weight = .7
+
+[Bottom_002]
+Blueprint = fae_lair_bot_book_002
+Quantity = 1
+Weight = .7
+
+[Bottom_003]
+Blueprint = fae_lair_bot_book_003
+Quantity = 1
+Weight = .7
+
+[Bottom_004]
+Blueprint = fae_lair_bot_book_004
+Quantity = 1
+Weight = .7
+
+#Midbookvariations
+[Mid_001]
+Blueprint = fae_lair_mid_book_001
+Quantity = 1
+Weight = .7
+
+[Mid_002]
+Blueprint = fae_lair_mid_book_002
+Quantity = 1
+Weight = .7
+
+[Mid_003]
+Blueprint = fae_lair_mid_book_003
+Quantity = 1
+Weight = .7
+
+[Mid_004]
+Blueprint = fae_lair_mid_book_004
+Quantity = 1
+Weight = .7
+
+#Topdbookvariations
+[Top_001]
+Blueprint = fae_lair_top_book_001
+Quantity = 1
+Weight = .7
+
+[Top_002]
+Blueprint = fae_lair_top_book_002
+Quantity = 1
+Weight = .7
+
+[Top_003]
+Blueprint = fae_lair_top_book_003
+Quantity = 1
+Weight = .7
+
+[Top_004]
+Blueprint = fae_lair_top_book_004
+Quantity = 2
+Weight = .7
+
+#Bottom Book Inlay Variations
+[Bot_inlay_001]
+Blueprint = fae_lair_bot_inlay_001
+Quantity = 1
+Weight = .7
+
+[Bot_inlay_002]
+Blueprint = fae_lair_bot_inlay_002
+Quantity = 1
+Weight = .7
+
+[Bot_inlay_003]
+Blueprint = fae_lair_bot_inlay_003
+Quantity = 1
+Weight = .7
+
+#Mid Book Inlay Variations
+[Mid_inlay_001]
+Blueprint = fae_lair_mid_inlay_001
+Quantity = 1
+Weight = .7
+
+[Mid_inlay_002]
+Blueprint = fae_lair_mid_inlay_002
+Quantity = 1
+Weight = .7
+
+[Mid_inlay_003]
+Blueprint = fae_lair_mid_inlay_003
+Quantity = 1
+Weight = .7
+
+#Boss GroundInlay Variations
+[Boss_inlay_001]
+Blueprint = fae_lair_landplug_final_001
+Quantity = 1
+Weight = .7
+
+[Boss_inlay_002]
+Blueprint = fae_lair_landplug_final_002
+Quantity = 1
+Weight = .7
+
+[Boss_inlay_003]
+Blueprint = fae_lair_landplug_final_003
+Quantity = 1
+Weight = .7
+
+[Fake_air_layer]
+Blueprint = fae_lair_fake_air
+Quantity = 1

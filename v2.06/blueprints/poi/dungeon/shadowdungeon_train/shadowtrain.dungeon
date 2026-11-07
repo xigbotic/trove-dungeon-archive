@@ -1,0 +1,42 @@
+[Dungeon]
+Type = dungeon
+
+[Piece0]
+Blueprint = bossesa
+Quantity = 1
+Weight = 0.5
+
+[Piece1]
+Blueprint = bossesb
+Quantity = 1
+Weight = 0.5
+
+[Piece2]
+Blueprint = caboose
+Quantity = 1
+Weight = 0.5
+
+[Piece3]
+Blueprint = corner1
+Quantity = 1
+Weight = 0.5
+
+[Piece4]
+Blueprint = corner2
+Quantity = 1
+Weight = 0.5
+
+[Piece5]
+Blueprint = corner3
+Quantity = 1
+Weight = 0.5
+
+[Piece6]
+Blueprint = corner4
+Quantity = 1
+Weight = 0.5
+
+[Piece6]
+Blueprint = dome
+Quantity = 1
+Weight = 0.5

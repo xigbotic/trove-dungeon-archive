@@ -1,0 +1,128 @@
+[Dungeon]
+Type = Dungeon
+
+[Piece0]
+Blueprint = El_Pueblo_terrain
+Quantity = 1
+
+[Piece1]
+Blueprint = Mountain_Base_1
+Quantity = 1
+Weight = 0.5
+
+[Piece2]
+Blueprint = Mountain_Base_2
+Quantity = 1
+Weight = 0.5
+
+[Piece3]
+Blueprint = Mountain_Top_1
+Weight = 0.5
+
+[Piece4]
+Blueprint = Mountain_Top_2
+Weight = 0.5
+
+[Piece5]
+Blueprint = Mines_diamonds
+Weight = 0.5
+
+[Piece6]
+Blueprint = Mines_gold
+Weight = 0.5
+
+[Piece7]
+Blueprint = Totem_1
+Weight = 0.5
+
+[Piece8]
+Blueprint = Totem_2
+Weight = 0.5
+
+[Piece9]
+Blueprint = Platform_mainboss_1
+Weight = 0.5
+
+[Piece10]
+Blueprint = Platform_mainboss_2
+Weight = 0.5
+
+[Piece11]
+Blueprint = Corner_1
+Quantity = 1
+Weight = 0.5
+
+[Piece12]
+Blueprint = Corner_2
+Quantity = 1
+Weight = 0.5
+
+[Piece13]
+Blueprint = Corner_3
+Quantity = 1
+Weight = 1
+
+[Piece14]
+Blueprint = Corner_4
+Quantity = 1
+Weight = 1
+
+[Piece15]
+Blueprint = House_1
+Quantity = 3
+Weight = 0.5
+
+[Piece16]
+Blueprint = House_2
+Quantity = 3
+Weight = 0.5
+
+[Piece17]
+Blueprint = House_3
+Quantity = 2
+Weight = 0.5
+
+[Piece18]
+Blueprint = House_4
+Quantity = 2
+Weight = 0.5
+
+[Piece19]
+Blueprint = Small_House_1
+Quantity = 1
+Weight = 0.30
+
+[Piece20]
+Blueprint = Small_House_2
+Quantity = 1
+Weight = 0.30
+
+[Piece21]
+Blueprint = Small_House_3
+Quantity = 2
+Weight = 0.70
+
+[Piece22]
+Blueprint = Small_House_4
+Quantity = 2
+Weight = 0.70
+
+[Piece23]
+Blueprint = Tower_1_a
+Quantity = 1
+Weight = 0.70
+
+[Piece24]
+Blueprint = Tower_1_b
+Quantity = 1
+Weight = 0.70
+
+[Piece25]
+Blueprint = Tower_2_a
+Quantity = 1
+Weight = 0.70
+
+[Piece26]
+Blueprint = Tower_2_b
+Quantity = 1
+Weight = 0.70

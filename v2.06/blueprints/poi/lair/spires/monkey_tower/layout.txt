@@ -1,0 +1,16 @@
+Seed 1637689489
+TotalQueries 1
+================= PIECES =============
+Piece monkey_tower_3 Plug=0 Size=28x68x27
+	Plug Position=1,17,-1
+	AABB Min=-12,6,-13 Max=16,74,14
+Piece monkey_tower_1 Plug=0 Size=33x71x28
+	Plug Position=1,17,-1
+	AABB Min=-15,6,-14 Max=18,77,14
+Piece monkey_tower_2 Plug=0 Size=34x63x30
+	Plug Position=1,17,-1
+	AABB Min=-16,6,-13 Max=18,69,17
+================= LAYOUT =============
+[0] monkey_tower_1 [Q=0, D=0]
+================= MESSAGES =============
+Dungeon.Type = Lair, 42x96x42 (64 up, 32 down)

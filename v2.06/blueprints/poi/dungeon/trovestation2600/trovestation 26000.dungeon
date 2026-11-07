@@ -1,0 +1,27 @@
+[Dungeon]
+Type = dungeon
+
+[Piece0]
+Blueprint = DNG_trovestation_shell1
+Quantity = 1
+Weight = 1
+
+[Piece1]
+Blueprint = DNG_trovestation_shell2
+Quantity = 1
+Weight = 1
+
+[Piece2]
+Blueprint = DNG_trovestation_shell3
+Quantity = 1
+Weight = 1
+
+[Piece3]
+Blueprint = DNG_trovestation_details
+Quantity = 1
+Weight = 1
+
+
+
+
+

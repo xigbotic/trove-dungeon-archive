@@ -1,0 +1,32 @@
+[Dungeon]
+Type = Lair
+
+[Piece0]
+Blueprint = OasisTop1
+Quantity = 1
+Weight = 1
+
+[Piece1]
+Blueprint = OasisTop2
+Quantity = 1
+Weight = 1
+
+[Piece2]
+Blueprint = OasisMid1
+Quantity = 1
+Weight = 1
+
+[Piece3]
+Blueprint = OasisMid2
+Quantity = 1
+Weight = 1
+
+[Piece4]
+Blueprint = OasisBot1
+Quantity = 1
+Weight = 1
+
+[Piece5]
+Blueprint = OasisBot2
+Quantity = 1
+Weight = 1

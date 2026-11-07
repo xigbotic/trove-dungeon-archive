@@ -1,0 +1,19 @@
+[Piece0]
+Blueprint = cube0
+Quantity = 1
+
+[Piece1]
+Blueprint = cube1
+Quantity = 10
+
+[Piece3]
+Blueprint = cube2
+Quantity = 10
+
+[Piece4]
+Blueprint = layout01
+Quantity = 1
+
+[Piece5]
+Blueprint = bosscube0
+Quantity = 1

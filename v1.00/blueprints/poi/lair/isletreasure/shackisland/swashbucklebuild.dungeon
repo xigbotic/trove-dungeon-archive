@@ -1,0 +1,46 @@
+[Dungeon]
+
+Type = Lair
+
+[SW_Shack]
+Blueprint = SwashBuckleShack
+Quantity = 1
+
+[SW_Enter_1]
+Blueprint = SB-Enter_1
+Quantity = 1
+
+[SW_Enter_2]
+Blueprint = SB-Enter_2
+Quantity = 1
+
+[CornerRoom1]
+Blueprint = SB_Corner_1
+Quantity = 1
+
+[CornerRoom2]
+Blueprint = SB_Corner_2
+Quantity = 1
+
+[CornerRoom3]
+Blueprint = SB_Corner_3
+Quantity = 1
+
+[CornerRoom4]
+Blueprint = SB_Corner_4
+Quantity = 1
+
+[CornerRoom5]
+Blueprint = SB_Corner_5
+Quantity = 1
+
+[CornerRoom6]
+Blueprint = SB_Corner_6
+Quantity = 1
+
+[SwashQuest1]
+Blueprint = SwashQuest_1
+Quantity = 1
+
+[SwashQuest2]
+Blueprint = SwashQuest_2

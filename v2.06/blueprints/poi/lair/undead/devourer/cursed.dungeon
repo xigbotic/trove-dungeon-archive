@@ -1,0 +1,43 @@
+[Dungeon]
+Type = lair
+#Creator = Exootex
+#Dungeon name = Corrupted world devourer
+
+[MainPiece]
+Blueprint = Cursedmain
+Quantity = 1
+Weight = 1
+
+[entrance1]
+Blueprint = entrance1
+Quantity = 1
+Weight = 1
+
+[entrance2]
+Blueprint = entrance2
+Quantity = 1
+Weight = 1
+
+[Gameplayjnr]
+Blueprint = Gameplay1
+Quantity = 1
+Weight = 1
+
+[Gameplay2]
+Blueprint = Gameplay2
+Quantity = 1
+Weight = 1
+
+[Boss2]
+Blueprint = Boss2
+Quantity = 1
+Weight = 1
+
+[Boss1]
+Blueprint = Boss1
+Quantity = 1
+Weight = 1
+
+
+
+

@@ -1,0 +1,94 @@
+[Dungeon]
+Type = lair
+
+#Creator = Cyekie
+
+[PieceBase01]
+Blueprint = chargedtower_neoncity_base_01
+Quantity = 1
+Weight = 0.166
+
+[PieceBase02]
+Blueprint = chargedtower_neoncity_base_02
+Quantity = 1
+Weight = 0.166
+
+[PieceBase03]
+Blueprint = chargedtower_neoncity_base_03
+Quantity = 1
+Weight = 0.166
+
+[PieceBase04]
+Blueprint = chargedtower_neoncity_base_04
+Quantity = 1
+Weight = 0.166
+
+[PieceBase05]
+Blueprint = chargedtower_neoncity_base_05
+Quantity = 1
+Weight = 0.166
+
+[PieceBase06]
+Blueprint = chargedtower_neoncity_base_06
+Quantity = 1
+Weight = 0.166
+
+[PieceTower01]
+Blueprint = chargedtower_neoncity_tower_01
+Quantity = 1
+Weight = 0.166
+
+[PieceTower02]
+Blueprint = chargedtower_neoncity_tower_02
+Quantity = 1
+Weight = 0.166
+
+[PieceTower03]
+Blueprint = chargedtower_neoncity_tower_03
+Quantity = 1
+Weight = 0.166
+
+[PieceTower04]
+Blueprint = chargedtower_neoncity_tower_04
+Quantity = 1
+Weight = 0.166
+
+[PieceTower05]
+Blueprint = chargedtower_neoncity_tower_05
+Quantity = 1
+Weight = 0.166
+
+[PieceTower06]
+Blueprint = chargedtower_neoncity_tower_06
+Quantity = 1
+Weight = 0.166
+
+[PieceBossroom01]
+Blueprint = chargedtower_neoncity_bossroom_01
+Quantity = 1
+Weight = 0.166
+
+[PieceBossroom02]
+Blueprint = chargedtower_neoncity_bossroom_02
+Quantity = 1
+Weight = 0.166
+
+[PieceBossroom03]
+Blueprint = chargedtower_neoncity_bossroom_03
+Quantity = 1
+Weight = 0.166
+
+[PieceBossroom04]
+Blueprint = chargedtower_neoncity_bossroom_04
+Quantity = 1
+Weight = 0.166
+
+[PieceBossroom05]
+Blueprint = chargedtower_neoncity_bossroom_05
+Quantity = 1
+Weight = 0.166
+
+[PieceBossroom06]
+Blueprint = chargedtower_neoncity_bossroom_06
+Quantity = 1
+Weight = 0.166

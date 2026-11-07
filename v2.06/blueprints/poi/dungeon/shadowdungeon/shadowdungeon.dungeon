@@ -1,0 +1,194 @@
+[Piece0]
+Blueprint = base_01
+Quantity = 1
+Weight = 1
+
+[Piece1]
+Blueprint = base_02
+Quantity = 1
+Weight = 1
+
+[Piece2]
+Blueprint = encounter_01a
+Quantity = 1
+Weight = 1
+
+[Piece3]
+Blueprint = encounter_01b
+Quantity = 1
+Weight = 1
+
+[Piece4]
+Blueprint = encounter_01c
+Quantity = 1
+Weight = 1
+
+[Piece5]
+Blueprint = encounter_01d
+Quantity = 1
+Weight = 1
+
+[Piece6]
+Blueprint = encounter_01e
+Quantity = 1
+Weight = 1
+
+[Piece7]
+Blueprint = encounter_01f
+Quantity = 1
+Weight = 1
+
+[Piece8]
+Blueprint = encounter_large_01a
+Quantity = 1
+Weight = 1
+
+[Piece9]
+Blueprint = encounter_large_01b
+Quantity = 1
+Weight = 1
+
+[Piece10]
+Blueprint = encounter_large_01c
+Quantity = 1
+Weight = 1
+
+[Piece11]
+Blueprint = encounter_large_01d
+Quantity = 1
+Weight = 1
+
+[Piece12]
+Blueprint = encounter_large_02a
+Quantity = 1
+Weight = 1
+
+[Piece13]
+Blueprint = encounter_large_02b
+Quantity = 1
+Weight = 1
+
+[Piece14]
+Blueprint = encounter_large_02c
+Quantity = 1
+Weight = 1
+
+[Piece15]
+Blueprint = encounter_large_02d
+Quantity = 1
+Weight = 1
+
+[Piece16]
+Blueprint = encounter_large_03_template
+Quantity = 1
+Weight = 100
+
+[Piece17]
+Blueprint = encounter_large_03_puzzle_01a
+Quantity = 1
+Weight = 1
+
+[Piece18]
+Blueprint = encounter_large_03_puzzle_01b
+Quantity = 1
+Weight = 1
+
+[Piece19]
+Blueprint = encounter_large_03_puzzle_01c
+Quantity = 1
+Weight = 1
+
+[Piece20]
+Blueprint = encounter_large_03_puzzle_02a
+Quantity = 1
+Weight = 1
+
+[Piece21]
+Blueprint = encounter_large_03_puzzle_02b
+Quantity = 1
+Weight = 1
+
+[Piece22]
+Blueprint = encounter_large_03_puzzle_02c
+Quantity = 1
+Weight = 1
+
+[Piece23]
+Blueprint = encounter_02a
+Quantity = 1
+Weight = 1
+
+[Piece24]
+Blueprint = encounter_02b
+Quantity = 1
+Weight = 1
+
+[Piece25]
+Blueprint = encounter_02c
+Quantity = 1
+Weight = 1
+
+[Piece26]
+Blueprint = encounter_02d
+Quantity = 1
+Weight = 1
+
+[Piece27]
+Blueprint = encounter_02e
+Quantity = 1
+Weight = 1
+
+[Piece28]
+Blueprint = encounter_02f
+Quantity = 1
+Weight = 1
+
+[Piece29]
+Blueprint = encounter_03a
+Quantity = 1
+Weight = 1
+
+[Piece30]
+Blueprint = encounter_03b
+Quantity = 1
+Weight = 1
+
+[Piece31]
+Blueprint = encounter_03c
+Quantity = 1
+Weight = 1
+
+[Piece32]
+Blueprint = encounter_03d
+Quantity = 1
+Weight = 1
+
+[Piece33]
+Blueprint = encounter_03e
+Quantity = 1
+Weight = 1
+
+[Piece34]
+Blueprint = encounter_03f
+Quantity = 1
+Weight = 1
+
+[Piece35]
+Blueprint = boss_01
+Quantity = 1
+Weight = 1
+
+[Piece36]
+Blueprint = boss_02
+Quantity = 1
+Weight = 1
+
+[Piece37]
+Blueprint = boss_03
+Quantity = 1
+Weight = 1
+
+[Piece38]
+Blueprint = staging_template
+Quantity = 1
+Weight = 1

@@ -1,0 +1,21 @@
+[Dungeon]
+Type = Dungeon
+
+[Piece0]
+Blueprint = Enter
+Quantity = 1
+
+[Piece1]
+Blueprint = Room1
+Quantity = 1
+Weigth = .33
+
+[Piece2]
+Blueprint = Room2
+Quantity = 1
+Weigth = .33
+
+[Piece3]
+Blueprint = finalboss
+Quantity = 1
+

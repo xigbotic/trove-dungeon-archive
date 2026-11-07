@@ -1,0 +1,32 @@
+[Dungeon]
+Type = Lair
+
+[Piece0]
+Blueprint = PemPez_01_Body
+Quantity = 1
+Weight = 1
+
+[Piece1]
+Blueprint = PemPez_02_Pez_v1
+Quantity = 1
+Weight = 1
+
+[Piece2]
+Blueprint = PemPez_02_Pez_v2
+Quantity = 1
+Weight = 1
+
+[Piece3]
+Blueprint = PemPez_03_Boss_Purple
+Quantity = 1
+Weight = .25
+
+[Piece4]
+Blueprint = PemPez_03_Boss_Orange
+Quantity = 1
+Weight = 1
+
+[Piece5]
+Blueprint = PemPez_03_Boss_Pink
+Quantity = 1
+Weight = 1

@@ -1,0 +1,61 @@
+Seed 1329988116
+TotalQueries 10
+================= PIECES =============
+Piece xmas_tundra_base Plug=0 Size=75x125x75
+	Plug Position=-32,2,-22
+	AABB Min=-69,-2,-59 Max=6,123,16
+	Socket 3
+	Socket 3
+	Socket 2
+	Socket 3
+	Socket 3
+	Socket 3
+	Socket 3
+	Socket 3
+	Socket 1
+Piece xmas_mid_02 Plug=1 Size=51x31x52
+	Plug Position=0,8,26
+	AABB Min=-25,0,-25 Max=26,31,27
+Piece xmas_mid_03 Plug=1 Size=51x31x52
+	Plug Position=0,8,26
+	AABB Min=-25,0,-25 Max=26,31,27
+Piece xmas_mid_01 Plug=1 Size=51x31x52
+	Plug Position=0,8,26
+	AABB Min=-25,0,-25 Max=26,31,27
+Piece xmas_top_02 Plug=2 Size=31x29x32
+	Plug Position=0,6,16
+	AABB Min=-15,0,-15 Max=16,29,17
+Piece xmas_top_01 Plug=2 Size=31x29x32
+	Plug Position=0,6,16
+	AABB Min=-15,0,-15 Max=16,29,17
+Piece Tundra_FrozenGift_SkyRider3217 Plug=3 Size=12x12x13
+	Plug Position=-1,0,6
+	AABB Min=-6,0,-6 Max=6,12,7
+Piece Tundra_winterplush_SkyRider3217 Plug=3 Size=12x12x12
+	Plug Position=-1,0,5
+	AABB Min=-6,0,-5 Max=6,12,7
+Piece Tundra_cat_Minejascraft Plug=3 Size=9x10x8
+	Plug Position=0,0,4
+	AABB Min=-4,0,-3 Max=5,10,5
+Piece Tundra_FrostyGift_FiannaTiger Plug=3 Size=12x12x13
+	Plug Position=-1,0,7
+	AABB Min=-6,0,-5 Max=6,12,8
+Piece Tundra_BowBear_kilikclia Plug=3 Size=10x12x10
+	Plug Position=-1,0,4
+	AABB Min=-5,0,-4 Max=5,12,6
+Piece Tundra_IceBox_SkyRider3217 Plug=3 Size=12x12x13
+	Plug Position=-1,0,7
+	AABB Min=-6,0,-5 Max=6,12,8
+================= LAYOUT =============
+[0] xmas_tundra_base [Q=9, D=9]
+	[1] Tundra_winterplush_SkyRider3217 [Q=0, D=0]
+	[2] Tundra_IceBox_SkyRider3217 [Q=0, D=0]
+	[3] xmas_top_02 [Q=0, D=0]
+	[4] Tundra_BowBear_kilikclia [Q=0, D=0]
+	[5] Tundra_FrozenGift_SkyRider3217 [Q=0, D=0]
+	[6] Tundra_FrostyGift_FiannaTiger [Q=0, D=0]
+	[7] Tundra_cat_Minejascraft [Q=0, D=0]
+	[8] Tundra_FrostyGift_FiannaTiger [Q=0, D=0]
+	[9] xmas_mid_02 [Q=0, D=0]
+================= MESSAGES =============
+Dungeon.Type = Dungeon, 128x256x128

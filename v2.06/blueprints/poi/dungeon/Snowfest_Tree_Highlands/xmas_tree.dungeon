@@ -1,0 +1,63 @@
+[Piece0]
+Blueprint = xmas_highland_base
+Quantity = 1
+
+[Piece1]
+Blueprint = xmas_mid_01
+Quantity = 1
+
+[Piece2]
+Blueprint = xmas_mid_02
+Quantity = 1
+
+[Piece3]
+Blueprint = xmas_mid_03
+Quantity = 1
+
+[Piece4]
+Blueprint = xmas_top_01
+Quantity = 1
+
+[Piece5]
+Blueprint = xmas_top_02
+Quantity = 1
+
+[Piece6]
+Blueprint = xmas_highland_gift_01
+Quantity = 3
+
+[Piece7]
+Blueprint = xmas_highland_gift_02
+Quantity = 3
+
+[Piece8]
+Blueprint = xmas_highland_gift_03
+Quantity = 3
+
+[Piece9]
+Blueprint = xmas_highland_gift_04
+Quantity = 3
+
+[Piece10]
+Blueprint = Highlands_Beehive
+Quantity = 3
+
+[Piece11]
+Blueprint = Highlands_mistletoe
+Quantity = 1
+
+[Piece12]
+Blueprint = Highlands_mushroom
+Quantity = 3
+
+[Piece13]
+Blueprint = Highlands_SteelGift
+Quantity = 3
+
+[Piece14]
+Blueprint = Highlands_mushroom2
+Quantity = 3
+
+[Piece15]
+Blueprint = Highlands_cat
+Quantity = 1

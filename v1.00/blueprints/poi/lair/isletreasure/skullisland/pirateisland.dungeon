@@ -1,0 +1,14 @@
+[Dungeon]
+Type = Lair
+
+[Piece0]
+Blueprint = isle
+Quantity = 1
+Weight = 1
+
+[Piece1]
+Blueprint = isle2
+Quantity = 1
+Weight = 1
+
+

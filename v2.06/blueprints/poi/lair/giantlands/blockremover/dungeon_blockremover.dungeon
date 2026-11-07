@@ -1,0 +1,37 @@
+[Dungeon]
+Type = lair
+
+[Piece0]
+Blueprint = dungeon_blockremover_boss_01
+Quantity = 1
+weight= .33
+
+[Piece2]
+Blueprint = dungeon_blockremover_boss_02
+Quantity = 1
+weight = .33
+
+[Piece3]
+Blueprint = dungeon_blockremover_cubes_01
+Quantity = 1
+weight= .33
+
+[Piece4]
+Blueprint = dungeon_blockremover_cubes_02
+Quantity = 1
+weight = .33
+
+[Piece5]
+Blueprint = dungeon_blockremover_stairs_01
+Quantity = 1
+weight= .33
+
+[Piece6]
+Blueprint = dungeon_blockremover_stairs_02
+Quantity = 1
+weight = .33
+
+[Piece7]
+Blueprint = dungeon_blockremover_fakeroof
+Quantity = 1
+weight = .33

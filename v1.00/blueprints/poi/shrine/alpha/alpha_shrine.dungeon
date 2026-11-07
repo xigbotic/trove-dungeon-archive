@@ -1,0 +1,85 @@
+[Dungeon]
+Type = lair
+
+[Piece0]
+Blueprint = structure
+Quantity = 1
+
+[Piece1]
+Blueprint = base
+Quantity = 1
+
+[Piece2]
+Blueprint = wall_small_04
+Quantity = 1
+Weight = .2
+
+[Piece3]
+Blueprint = wall_small_03
+Quantity = 1
+Weight = .2
+
+[Piece24]
+Blueprint = wall_small_02
+Quantity = 1
+Weight = .2
+
+[Piece5]
+Blueprint = wall_small_01
+Quantity = 1
+Weight = .4
+
+[Piece6]
+Blueprint = wall_large_11
+Quantity = 3
+Weight = .1
+
+[Piece7]
+Blueprint = wall_large_10
+Quantity = 3
+Weight = .1
+
+[Piece8]
+Blueprint = wall_large_09
+Quantity = 3
+Weight = .1
+
+[Piece9]
+Blueprint = wall_large_08
+Quantity = 3
+Weight = .1
+
+[Piece10]
+Blueprint = wall_large_07
+Quantity = 3
+Weight = .1
+
+[Piece11]
+Blueprint = wall_large_06
+Quantity = 3
+Weight = .1
+
+[Piece12]
+Blueprint = wall_large_05
+Quantity = 3
+Weight = .1
+
+[Piece13]
+Blueprint = wall_large_04
+Quantity = 3
+Weight = .1
+
+[Piece14]
+Blueprint = wall_large_03
+Quantity = 3
+Weight = .1
+
+[Piece15]
+Blueprint = wall_large_02
+Quantity = 3
+Weight = .1
+
+[Piece16]
+Blueprint = wall_large_01
+Quantity = 3
+Weight = 1

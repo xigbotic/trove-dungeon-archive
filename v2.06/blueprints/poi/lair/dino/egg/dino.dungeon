@@ -1,0 +1,42 @@
+[Dungeon]
+Type = Lair
+
+[Piece0]
+Blueprint = temple_01
+Quantity = 1
+
+[Piece1]
+Blueprint = basement_01
+Quantity = 1
+
+[Piece2]
+Blueprint = boss_01
+Quantity = 1
+
+[Piece3]
+Blueprint = boss_02
+Quantity = 1
+
+[Piece4]
+Blueprint = boss_03
+Quantity = 1
+
+[Piece5]
+Blueprint = boss_04
+Quantity = 1
+
+[Piece6]
+Blueprint = basement_02
+Quantity = 1
+
+[Piece7]
+Blueprint = basement_03
+Quantity = 1
+
+[Piece8]
+Blueprint = temple_02
+Quantity = 1
+
+[Piece9]
+Blueprint = temple_03
+Quantity = 1

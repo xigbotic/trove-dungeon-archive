@@ -1,0 +1,80 @@
+Seed -1577873004
+TotalQueries 7
+================= PIECES =============
+Piece Boss Plug=0 Size=99x48x104
+	Plug Position=-12,0,11
+	AABB Min=-49,0,-51 Max=50,48,53
+	Socket 1
+	Socket 6
+Piece MiniBoss_2 Plug=1 Size=105x22x24
+	Plug Position=21,4,-10
+	AABB Min=-52,0,-12 Max=53,22,12
+	Socket 2
+Piece MiniBoss_1 Plug=1 Size=105x22x24
+	Plug Position=21,4,-10
+	AABB Min=-52,0,-12 Max=53,22,12
+	Socket 2
+Piece MiniBoss_3 Plug=1 Size=105x22x24
+	Plug Position=21,4,-10
+	AABB Min=-52,0,-12 Max=53,22,12
+	Socket 2
+Piece Stairs_2 Plug=2 Size=19x44x77
+	Plug Position=0,3,38
+	AABB Min=-9,0,-38 Max=10,44,39
+	Socket 3
+Piece Stairs_1 Plug=2 Size=27x44x77
+	Plug Position=0,3,38
+	AABB Min=-13,0,-38 Max=14,44,39
+	Socket 3
+Piece Drop_2 Plug=3 Size=23x40x24
+	Plug Position=0,4,11
+	AABB Min=-11,0,-12 Max=12,40,12
+	Socket 4
+Piece Drop_1 Plug=3 Size=23x40x24
+	Plug Position=0,4,11
+	AABB Min=-11,0,-12 Max=12,40,12
+	Socket 4
+Piece Drop_3 Plug=3 Size=23x40x24
+	Plug Position=0,4,11
+	AABB Min=-11,0,-12 Max=12,40,12
+	Socket 4
+Piece Corner_3 Plug=4 Size=95x19x38
+	Plug Position=-48,2,-7
+	AABB Min=-48,0,-18 Max=47,19,20
+	Socket 5
+Piece Corner_2 Plug=4 Size=95x19x38
+	Plug Position=-48,2,-7
+	AABB Min=-48,0,-18 Max=47,19,20
+	Socket 5
+Piece Corner_1 Plug=4 Size=95x19x23
+	Plug Position=-48,2,0
+	AABB Min=-48,0,-11 Max=47,19,12
+	Socket 5
+Piece Portal_2 Plug=5 Size=23x20x95
+	Plug Position=0,2,-48
+	AABB Min=-11,0,-48 Max=12,20,47
+Piece Portal_3 Plug=5 Size=35x20x95
+	Plug Position=0,2,-48
+	AABB Min=-17,0,-48 Max=18,20,47
+Piece Portal_1 Plug=5 Size=35x20x95
+	Plug Position=1,2,-48
+	AABB Min=-16,0,-48 Max=19,20,47
+Piece SpawnExit_3 Plug=6 Size=56x25x63
+	Plug Position=-6,0,15
+	AABB Min=-28,0,-31 Max=28,25,32
+Piece SpawnExit_2 Plug=6 Size=56x25x63
+	Plug Position=-6,0,15
+	AABB Min=-28,0,-31 Max=28,25,32
+Piece SpawnExit_1 Plug=6 Size=56x25x63
+	Plug Position=-6,0,15
+	AABB Min=-28,0,-31 Max=28,25,32
+================= LAYOUT =============
+[0] Boss [Q=6, D=6]
+	[1] MiniBoss_1 [Q=4, D=4]
+		[2] Stairs_1 [Q=3, D=3]
+			[3] Drop_1 [Q=2, D=2]
+				[4] Corner_3 [Q=1, D=1]
+					[5] Portal_1 [Q=0, D=0]
+	[6] SpawnExit_1 [Q=0, D=0]
+================= MESSAGES =============
+Dungeon.Type = Dungeon, 128x256x128

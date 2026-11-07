@@ -1,0 +1,19 @@
+[Dungeon]
+Type = lair
+
+[Piece0]
+Blueprint = mjolnir2
+Quantity = 1
+
+[Piece1]
+Blueprint = mjfirstfloor1
+Quantity = 1
+
+[Piece2]
+Blueprint = mjfirstfloor2
+Quantity = 1
+
+[Piece3]
+Blueprint = mjbossroom1
+Quantity = 1
+

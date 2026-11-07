@@ -1,0 +1,51 @@
+[Piece0]
+Blueprint = enchanted-cathedral
+Quantity = 1
+
+[Piece1]
+Blueprint = room1a
+Quantity = 1
+
+[Piece2]
+Blueprint = room2a
+Quantity = 1
+
+[Piece3]
+Blueprint = room3a
+Quantity = 1
+
+[Piece4]
+Blueprint = room4a
+Quantity = 1
+
+[Piece5]
+Blueprint = room5a
+Quantity = 1
+
+[Piece6]
+Blueprint = room1b
+Quantity = 1
+
+[Piece7]
+Blueprint = room2b
+Quantity = 1
+
+[Piece8]
+Blueprint = room3b
+Quantity = 1
+
+[Piece9]
+Blueprint = room4b
+Quantity = 1
+
+[Piece10]
+Blueprint = room4c
+Quantity = 1
+
+[Piece11]
+Blueprint = room4d
+Quantity = 1
+
+[Piece12]
+Blueprint = room5b
+Quantity = 1

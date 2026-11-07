@@ -1,0 +1,47 @@
+[Dungeon]
+Type = Lair
+
+[Piece0]
+Blueprint = bird
+Quantity = 1
+Weight = 0.5
+
+[Piece1]
+Blueprint = room1-3a
+Quantity = 1
+Weight = 0.5
+
+[Piece2]
+Blueprint = room1-3b
+Quantity = 1
+Weight = 0.5
+
+[Piece3]
+Blueprint = room1-2
+Quantity = 1
+Weight = 0.5
+
+[Piece4]
+Blueprint = room1-1
+Quantity = 1
+Weight = 0.5
+
+[Piece5]
+Blueprint = room2-3a
+Quantity = 1
+Weight = 0.5
+
+[Piece6]
+Blueprint = room2-3b
+Quantity = 1
+Weight = 0.5
+
+[Piece7]
+Blueprint = room2-2
+Quantity = 1
+Weight = 0.5
+
+[Piece8]
+Blueprint = room2-1
+Quantity = 1
+Weight = 0.5

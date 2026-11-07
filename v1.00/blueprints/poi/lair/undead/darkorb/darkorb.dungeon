@@ -1,0 +1,15 @@
+[Dungeon]
+Type = Lair
+
+[Piece0]
+Blueprint = entrance
+Quantity = 1
+
+[Piece1]
+Blueprint = piso_1
+Quantity = 1
+Weight = .25
+
+[Piece2]
+Blueprint = boss_zone
+Quantity = 1

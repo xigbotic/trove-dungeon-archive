@@ -1,0 +1,46 @@
+[Dungeon]
+Type = lair
+
+#Creator = Foodfight2
+#Dungeon name = Shadow Eye
+
+[Piece1]
+Blueprint = lairentrance2
+Quantity = 1
+Weight = 0.5
+
+[Piece2]
+Blueprint = lairentrance2b
+Quantity = 1
+Weight = 0.5
+
+
+[Piece3]
+Blueprint = lgameplaygeode1
+Quantity = 1
+Weight = 0.5
+
+[Piece4]
+Blueprint = lgameplaygeode1var
+Quantity = 1
+Weight = 0.5
+
+[Piece5]
+Blueprint = lgameplaygeode2
+Quantity = 1
+Weight = 0.5
+
+[Piece6]
+Blueprint = lgameplaygeode2var
+Quantity = 1
+Weight = 0.5
+
+[Piece7]
+Blueprint = lairgeodeboss
+Quantity = 1
+Weight = 0.5
+
+[Piece8]
+Blueprint = lairgeodebossvar
+Quantity = 1
+Weight = 0.5

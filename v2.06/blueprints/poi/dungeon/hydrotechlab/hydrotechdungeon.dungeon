@@ -1,0 +1,11 @@
+[Piece0]
+Blueprint = BlueBottom
+Quantity = 1
+
+[Piece1]
+Blueprint = BlueTop
+Quantity = 1
+
+[Piece2]
+Blueprint = BlueAppendix
+Quantity = 1

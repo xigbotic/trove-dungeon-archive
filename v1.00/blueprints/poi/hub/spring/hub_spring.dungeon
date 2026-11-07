@@ -1,0 +1,30 @@
+[Dungeon]
+Type = Dungeon
+
+[Piece0]
+Blueprint = E_G_hub_spring_base
+Quantity = 1
+
+[Piece1]
+Blueprint = E_G_hub_spring_flora
+Quantity = 1
+
+[Piece2]
+Blueprint = E_G_hub_spring_dragonforge
+Quantity = 1
+
+[Piece3]
+Blueprint = E_G_hub_spring_clubhearts
+Quantity = 1
+
+[Piece4]
+Blueprint = E_G_hub_spring_advtower_001
+Quantity = 1
+
+[Piece5]
+Blueprint = E_G_hub_spring_shipshack
+Quantity = 1
+
+[Piece6]
+Blueprint = E_G_hub_spring_pvpshrine
+Quantity = 1

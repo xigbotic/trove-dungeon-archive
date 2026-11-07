@@ -1,0 +1,143 @@
+[Piece0]
+Blueprint = shadowDungeon_FrozenCaverns_entry_Cretoriani
+Quantity = 1
+
+[Piece1]
+Blueprint = shadowDungeon_FrozenCaverns_layout1_Cretoriani
+Quantity = 1
+
+[Piece2]
+Blueprint = shadowDungeon_FrozenCaverns_layout2_Cretoriani
+Quantity = 1
+
+[Piece3]
+Blueprint = shadowDungeon_FrozenCaverns_layout3_Cretoriani
+Quantity = 1
+
+[Piece4]
+Blueprint = shadowDungeon_FrozenCaverns_bossQuest1_Cretoriani
+Quantity = 1
+
+[Piece5]
+Blueprint = shadowDungeon_FrozenCaverns_bossQuest2_Cretoriani
+Quantity = 1
+
+[Piece6]
+Blueprint = shadowDungeon_FrozenCaverns_bossQuest3_Cretoriani
+Quantity = 1
+
+[Piece7]
+Blueprint = shadowDungeon_FrozenCaverns_quest1_Cretoriani
+Quantity = 1
+
+[Piece8]
+Blueprint = shadowDungeon_FrozenCaverns_quest2_Cretoriani
+Quantity = 1
+
+[Piece9]
+Blueprint = shadowDungeon_FrozenCaverns_quest3_Cretoriani
+Quantity = 1
+
+[Piece10]
+Blueprint = shadowDungeon_FrozenCaverns_smallStalagEmpty_Cretoriani
+Quantity = 200
+
+[Piece11]
+Blueprint = shadowDungeon_FrozenCaverns_smallStalagmite1_Cretoriani
+Quantity = 200
+
+[Piece12]
+Blueprint = shadowDungeon_FrozenCaverns_smallStalagmite2_Cretoriani
+Quantity = 200
+
+[Piece13]
+Blueprint = shadowDungeon_FrozenCaverns_smallStalagmite3_Cretoriani
+Quantity = 200
+
+[Piece14]
+Blueprint = shadowDungeon_FrozenCaverns_smallStalagtite1_Cretoriani
+Quantity = 200
+
+[Piece15]
+Blueprint = shadowDungeon_FrozenCaverns_smallStalagtite2_Cretoriani
+Quantity = 200
+
+[Piece16]
+Blueprint = shadowDungeon_FrozenCaverns_smallStalagtite3_Cretoriani
+Quantity = 200
+
+[Piece17]
+Blueprint = shadowDungeon_FrozenCaverns_stalagEmpty_Cretoriani
+Quantity = 200
+
+[Piece18]
+Blueprint = shadowDungeon_FrozenCaverns_stalagmite1_Cretoriani
+Quantity = 200
+
+[Piece19]
+Blueprint = shadowDungeon_FrozenCaverns_stalagmite2_Cretoriani
+Quantity = 200
+
+[Piece20]
+Blueprint = shadowDungeon_FrozenCaverns_stalagmite3_Cretoriani
+Quantity = 200
+
+[Piece21]
+Blueprint = shadowDungeon_FrozenCaverns_stalagtite1_Cretoriani
+Quantity = 200
+
+[Piece22]
+Blueprint = shadowDungeon_FrozenCaverns_stalagtite2_Cretoriani
+Quantity = 200
+
+[Piece23]
+Blueprint = shadowDungeon_FrozenCaverns_stalagtite3_Cretoriani
+Quantity = 200
+
+[Piece24]
+Blueprint = shadowDungeon_FrozenCaverns_questSpikes1_Cretoriani
+Quantity = 2
+
+[Piece25]
+Blueprint = shadowDungeon_FrozenCaverns_questSpikes2_Cretoriani
+Quantity = 2
+
+[Piece26]
+Blueprint = shadowDungeon_FrozenCaverns_questSpikes3_Cretoriani
+Quantity = 2
+
+[Piece27]
+Blueprint = shadowDungeon_FrozenCaverns_questSpikes4_Cretoriani
+Quantity = 2
+
+[Piece28]
+Blueprint = shadowDungeon_FrozenCaverns_questTraps1_Cretoriani
+Quantity = 1
+
+[Piece29]
+Blueprint = shadowDungeon_FrozenCaverns_questTraps2_Cretoriani
+Quantity = 1
+
+[Piece30]
+Blueprint = shadowDungeon_FrozenCaverns_questTraps3_Cretoriani
+Quantity = 1
+
+[Piece31]
+Blueprint = shadowDungeon_FrozenCaverns_questTraps4_Cretoriani
+Quantity = 1
+
+[Piece32]
+Blueprint = shadowDungeon_FrozenCaverns_bossQuestTraps1_Cretoriani
+Quantity = 1
+
+[Piece33]
+Blueprint = shadowDungeon_FrozenCaverns_bossQuestTraps2_Cretoriani
+Quantity = 1
+
+[Piece34]
+Blueprint = shadowDungeon_FrozenCaverns_bossQuestTraps3_Cretoriani
+Quantity = 1
+
+[Piece35]
+Blueprint = shadowDungeon_FrozenCaverns_bossQuestTraps4_Cretoriani
+Quantity = 1

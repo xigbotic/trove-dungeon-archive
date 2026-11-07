@@ -1,0 +1,152 @@
+[Dungeon]
+Type = Dungeon
+
+[Piece0]
+Blueprint = main
+Quantity = 1
+Weight = 1
+
+[Piece1]
+Blueprint = long_dip
+Quantity = 2
+Weight = .2
+
+[Piece2]
+Blueprint = long_loop
+Quantity = 1
+Weight = .3
+
+[Piece3]
+Blueprint = long_silos
+Quantity = 1
+Weight = .3
+
+[Piece4]
+Blueprint = long_wave
+Quantity = 2
+Weight = .2
+
+[Piece5]
+Blueprint = short_basic
+Quantity = 2
+Weight = .3
+
+[Piece6]
+Blueprint = short_caged
+Quantity = 1
+Weight = .3
+
+[Piece7]
+Blueprint = short_platform
+Quantity = 1
+Weight = .2
+
+[Piece8]
+Blueprint = short_glass
+Quantity = 1
+Weight = .2
+
+[Piece9]
+Blueprint = split_platform
+Quantity = 2
+Weight = .2
+
+[Piece10]
+Blueprint = split_r1
+Quantity = 2
+Weight = .25
+
+[Piece11]
+Blueprint = split_r2
+Quantity = 2
+Weight = .3
+
+[Piece12]
+Blueprint = split_y
+Quantity = 2
+Weight = .25
+
+[Piece13]
+Blueprint = switch_basic
+Quantity = 1
+Weight = .5
+
+[Piece14]
+Blueprint = switch_factory
+Quantity = 1
+Weight = .5
+
+[Piece15]
+Blueprint = curve_big_basic
+Quantity = 1
+Weight = .5
+
+[Piece16]
+Blueprint = curve_big_factory
+Quantity = 1
+Weight = .5
+
+[Piece17]
+Blueprint = curve_small_basic
+Quantity = 2
+Weight = .7
+
+[Piece18]
+Blueprint = curve_small_platform
+Quantity = 2
+Weight = .3
+
+[Piece19]
+Blueprint = boss1_cage
+Quantity = 1
+Weight = .7
+
+[Piece20]
+Blueprint = boss1_nuclear
+Quantity = 1
+Weight = .3
+
+[Piece21]
+Blueprint = boss2_cage
+Quantity = 1
+Weight = .3
+
+[Piece22]
+Blueprint = boss2_nuclear
+Quantity = 1
+Weight = .7
+
+[Piece23]
+Blueprint = blankPlug1
+Quantity = 10
+Weight = 0
+
+[Piece24]
+Blueprint = blankPlug2
+Quantity = 10
+Weight = 0
+
+[Piece25]
+Blueprint = blankPlug3
+Quantity = 10
+Weight = 0
+
+[Piece26]
+Blueprint = blankPlug4
+Quantity = 10
+Weight = 0
+
+[Piece27]
+Blueprint = blankPlug5
+Quantity = 10
+Weight = 0
+
+[Piece28]
+Blueprint = blankPlug6
+Quantity = 10
+Weight = 0
+
+[Piece29]
+Blueprint = blankPlug7
+Quantity = 10
+Weight = 0

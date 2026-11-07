@@ -1,0 +1,37 @@
+[Dungeon]
+Type = Lair
+
+[Piece0]
+Blueprint = newbhill_bottompiece_01
+Quantity = 1
+Weight = 1
+
+[Piece1]
+Blueprint = newbhill_toppiece_01
+Quantity = 1
+Weight = 1
+
+[Piece2]
+Blueprint = newbhill_toppiece_02
+Quantity = 1
+Weight = 1
+
+[Piece3]
+Blueprint = newbhill_toppiece_03
+Quantity = 1
+Weight = 1
+
+[Piece4]
+Blueprint = newbhill_bottompiece_02
+Quantity = 1
+Weight = 1
+
+[Piece5]
+Blueprint = newbhill_bottompiece_03
+Quantity = 1
+Weight = 1
+
+[Piece6]
+Blueprint = newbhill_bottompiece_04
+Quantity = 1
+Weight = 1

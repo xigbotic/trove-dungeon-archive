@@ -1,0 +1,15 @@
+[Piece0]
+Blueprint = E_G_tutorial_cn_island_03
+Quantity = 1
+
+[Piece1]
+Blueprint = E_G_tutorial_cn_deco
+Quantity = 1
+
+[Piece2]
+Blueprint = E_G_tutorial_cn_rails_001
+Quantity = 1
+
+[Piece3]
+Blueprint = E_G_tutorial_cn_landpad_01
+Quantity = 1

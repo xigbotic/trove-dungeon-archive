@@ -1,0 +1,11 @@
+[Piece0]
+Blueprint = NEWBlue1
+Quantity = 1
+
+[Piece1]
+Blueprint = NEWBlue2
+Quantity = 1
+
+[Piece2]
+Blueprint = NEWBlue3
+Quantity = 1

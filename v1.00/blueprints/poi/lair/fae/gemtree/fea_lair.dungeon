@@ -1,0 +1,42 @@
+[Dungeon]
+Type = Lair
+
+[Piece0]
+Blueprint = Fea_Lair_Entrance.blueprint
+Quantity = 1
+Weight = 1
+
+[Piece1]
+Blueprint = Fea_Top_a.blueprint
+Quantity = 1
+Weight = 1
+
+[Piece2]
+Blueprint = Fea_Top_b.blueprint
+Quantity = 2
+Weight = 1
+
+[Piece3]
+Blueprint = Fea_Gem_a.blueprint
+Quantity = 1
+Weight = 1
+
+[Piece4]
+Blueprint = Fea_Gem_b.blueprint
+Quantity = 1
+Weight = 1
+
+[Piece5]
+Blueprint = Fea_Gem_c.blueprint
+Quantity = 2
+Weight = 1
+
+[Piece6]
+Blueprint = Fea_Gem_d.blueprint
+Quantity = 2
+Weight = 1
+
+[Piece7]
+Blueprint = Fea_Boss_Room.blueprint
+Quantity = 1
+Weight = 1

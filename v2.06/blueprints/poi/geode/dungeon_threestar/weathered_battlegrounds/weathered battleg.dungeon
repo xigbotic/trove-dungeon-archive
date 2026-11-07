@@ -1,0 +1,35 @@
+[Dungeon]
+Type = Dungeon
+#Biome = Medieval
+#Creator = JoshuaFT
+#Dungeon name = Weathered battlegrounds
+
+[Part1]
+Blueprint = 3_SGeode_Top
+Quantity = 1
+Weight = 0.5
+
+[Part1V2]
+Blueprint = 3_SGeode_Top_V2
+Quantity = 1
+Weight = 0.6
+
+[Part2]
+Blueprint = 3_SGeode_Bottom_1
+Quantity = 1
+Weight = 0.5
+
+[Part2V2]
+Blueprint = 3_SGeode_Bottom_1_V2
+Quantity = 1
+Weight = 0.5
+
+[Part3]
+Blueprint = 3_SGeode_Bottom_2
+Quantity = 1
+Weight = 0.5
+
+[Part3V2]
+Blueprint = 3_SGeode_Bottom_2_V2
+Quantity = 1
+Weight = 0.5

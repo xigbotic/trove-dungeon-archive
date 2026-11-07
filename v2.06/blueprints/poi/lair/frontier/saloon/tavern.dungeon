@@ -1,0 +1,33 @@
+[Dungeon]
+Type = Lair
+
+[Piece0]
+Blueprint = tavern
+Quantity = 1
+Weight = 1
+
+[Piece1]
+Blueprint = roomset1
+Quantity = 1
+Weight = 1
+
+
+[Piece2]
+Blueprint = roomset2
+Quantity = 1
+Weight = 1
+
+[Piece3]
+Blueprint = bossroom
+Quantity = 1
+Weight = 1
+
+[Piece4]
+Blueprint = bossroomB
+Quantity = 1
+Weight = 1
+
+[Piece5]
+Blueprint = bossroomC
+Quantity = 1
+Weight = 1

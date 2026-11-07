@@ -1,0 +1,78 @@
+Seed 1929267439
+TotalQueries 26
+================= PIECES =============
+Piece layout Plug=0
+	Socket 4
+	Socket 4
+	Socket 4
+	Socket 4
+	Socket 4
+	Socket 4
+	Socket 4
+	Socket 4
+	Socket 4
+	Socket 4
+	Socket 4
+	Socket 4
+	Socket 4
+	Socket 4
+	Socket 4
+	Socket 4
+	Socket 4
+	Socket 4
+	Socket 4
+	Socket 4
+	Socket 4
+	Socket 4
+	Socket 4
+	Socket 4
+	Socket 4
+Piece FA1 Plug=4
+Piece FA3 Plug=4
+Piece F2 Plug=4
+Piece D3 Plug=4
+Piece D1 Plug=4
+Piece C2 Plug=4
+Piece panel Plug=4
+Piece CA3 Plug=4
+Piece CA1 Plug=4
+Piece I2 Plug=4
+Piece holo Plug=4
+Piece FA2 Plug=4
+Piece C1 Plug=4
+Piece F3 Plug=4
+Piece D2 Plug=4
+Piece F1 Plug=4
+Piece I1 Plug=4
+Piece CA2 Plug=4
+Piece plat Plug=4
+Piece I3 Plug=4
+Piece C3 Plug=4
+================= LAYOUT =============
+[0] layout [Q=25, D=25]
+	[1] I1 [Q=0, D=0]
+	[2] I2 [Q=0, D=0]
+	[3] FA1 [Q=0, D=0]
+	[4] F2 [Q=0, D=0]
+	[5] D1 [Q=0, D=0]
+	[6] C1 [Q=0, D=0]
+	[7] D2 [Q=0, D=0]
+	[8] C2 [Q=0, D=0]
+	[9] F1 [Q=0, D=0]
+	[10] FA2 [Q=0, D=0]
+	[11] CA1 [Q=0, D=0]
+	[12] holo [Q=0, D=0]
+	[13] CA2 [Q=0, D=0]
+	[14] plat [Q=0, D=0]
+	[15] holo [Q=0, D=0]
+	[16] plat [Q=0, D=0]
+	[17] panel [Q=0, D=0]
+	[18] panel [Q=0, D=0]
+	[19] panel [Q=0, D=0]
+	[20] CA3 [Q=0, D=0]
+	[21] FA3 [Q=0, D=0]
+	[22] D3 [Q=0, D=0]
+	[23] I3 [Q=0, D=0]
+	[24] C3 [Q=0, D=0]
+	[25] F3 [Q=0, D=0]
+================= MESSAGES =============

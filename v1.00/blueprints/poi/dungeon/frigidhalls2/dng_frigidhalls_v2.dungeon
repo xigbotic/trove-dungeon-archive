@@ -1,0 +1,137 @@
+[Dungeon]
+
+[Piece0]
+Blueprint = DNG_FrigidHalls_v2__f1_fp1
+Quantity = 1
+
+[Piece1]
+Blueprint = DNG_FrigidHalls_v2__f1_fp2
+Quantity = 1
+
+[Piece2]
+Blueprint = DNG_FrigidHalls_v2__f1_fp3
+Quantity = 1
+
+[Piece3]
+Blueprint = DNG_FrigidHalls_v2__f2_fp1
+Quantity = 1
+
+[Piece4]
+Blueprint = DNG_FrigidHalls_v2__f2_fp2
+Quantity = 1
+
+[Piece5]
+Blueprint = DNG_FrigidHalls_v2__f2_fp3
+Quantity = 1
+
+[Piece6]
+Blueprint = DNG_FrigidHalls_v2__fm_fp1
+Quantity = 1
+
+[Piece7]
+Blueprint = DNG_FrigidHalls_v2__fm_fp2
+Quantity = 1
+
+[Piece8]
+Blueprint = DNG_FrigidHalls_v2__fm_fp3
+Quantity = 1
+
+[Piece9]
+Blueprint = genericSky
+Quantity = 1
+
+[Piece10]
+Blueprint = DNG_FrigidHalls_v2__bqr_fp1
+Quantity = 1
+
+[Piece11]
+Blueprint = DNG_FrigidHalls_v2__bqr_fp2
+Quantity = 1
+
+[Piece12]
+Blueprint = DNG_FrigidHalls_v2__bqr_fp3
+Quantity = 1
+
+[Piece13]
+Blueprint = DNG_FrigidHalls_v2__qr_fp1
+Quantity = 1
+
+[Piece14]
+Blueprint = DNG_FrigidHalls_v2__qr_fp2
+Quantity = 1
+
+[Piece15]
+Blueprint = DNG_FrigidHalls_v2__qr_fp3
+Quantity = 1
+
+[Piece16]
+Blueprint = DNG_FrigidHalls_v2__qrc_fp1
+Quantity = 1
+
+[Piece17]
+Blueprint = DNG_FrigidHalls_v2__qrc_fp2
+Quantity = 1
+
+[Piece18]
+Blueprint = DNG_FrigidHalls_v2__qrc_fp3
+Quantity = 1
+
+[Piece19]
+Blueprint = DNG_FrigidHalls_v2__srb_fp1
+Quantity = 1
+
+[Piece20]
+Blueprint = DNG_FrigidHalls_v2__srb_fp2
+Quantity = 1
+
+[Piece21]
+Blueprint = DNG_FrigidHalls_v2__srb_fp3
+Quantity = 1
+
+[Piece22]
+Blueprint = DNG_FrigidHalls_v2__stc_fp1
+Quantity = 1
+
+[Piece23]
+Blueprint = DNG_FrigidHalls_v2__stc_fp2
+Quantity = 1
+
+[Piece24]
+Blueprint = DNG_FrigidHalls_v2__stc_fp3
+Quantity = 1
+
+[Piece25]
+Blueprint = DNG_FrigidHalls_v2__sts_fp1
+Quantity = 1
+
+[Piece26]
+Blueprint = DNG_FrigidHalls_v2__sts_fp2
+Quantity = 1
+
+[Piece27]
+Blueprint = DNG_FrigidHalls_v2__sts_fp3
+Quantity = 1
+
+[Piece28]
+Blueprint = DNG_FrigidHalls_v2__ca_fp1
+Quantity = 2
+
+[Piece29]
+Blueprint = DNG_FrigidHalls_v2__ca_fp2
+Quantity = 2
+
+[Piece30]
+Blueprint = DNG_FrigidHalls_v2__ca_fp3
+Quantity = 2
+
+[Piece31]
+Blueprint = DNG_FrigidHalls_v2__cac_fp1
+Quantity = 2
+
+[Piece32]
+Blueprint = DNG_FrigidHalls_v2__cac_fp2
+Quantity = 2
+
+[Piece33]
+Blueprint = DNG_FrigidHalls_v2__cac_fp3
+Quantity = 2

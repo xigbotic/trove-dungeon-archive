@@ -1,0 +1,118 @@
+[Dungeon]
+Type = Dungeon
+
+#STORY
+
+# Undertow brought the sandkraken to geode. Devouring everything in its path.
+# Glad the santuarys shield still stops this beast.
+# The greatest treasures are said to be found in its belly.
+
+[BaseTop]
+Blueprint = geodekraken_maintop
+Quantity = 1
+
+[BaseBot]
+Blueprint = geodekraken_mainbot
+Quantity = 1
+
+[ArmSwitch001]
+Blueprint = geodekraken_armswitch_001
+Quantity = 1
+Weight = 0.5
+
+[ArmSwitch002]
+Blueprint = geodekraken_armswitch_002
+Quantity = 1
+Weight = 0.5
+
+[ArmSwitch003]
+Blueprint = geodekraken_armswitch_003
+Quantity = 1
+Weight = 0.5
+
+[ArmSwitch004]
+Blueprint = geodekraken_armswitch_004
+Quantity = 1
+Weight = 0.5
+
+[RegArm001]
+Blueprint = geodekraken_arm_001
+Quantity = 4
+Weight = 0.5
+
+[RegArm002]
+Blueprint = geodekraken_arm_002
+Quantity = 4
+Weight = 0.5
+
+[RegArm003]
+Blueprint = geodekraken_arm_003
+Quantity = 4
+Weight = 0.5
+
+[RegArm004]
+Blueprint = geodekraken_arm_004
+Quantity = 4
+Weight = 0.5
+
+[BossArm001]
+Blueprint = geodekraken_arm_005
+Quantity = 1
+Weight = 0.5
+
+[BossArm002]
+Blueprint = geodekraken_arm_006
+Quantity = 1
+Weight = 0.5
+
+[BossArm003]
+Blueprint = geodekraken_arm_007
+Quantity = 1
+Weight = 0.5
+
+[BossArm004]
+Blueprint = geodekraken_arm_008
+Quantity = 1
+Weight = 0.5
+
+[BosslessDeco001]
+Blueprint = geodekraken_arm_009
+Quantity = 1
+Weight = 0.5
+
+[BosslessDeco002]
+Blueprint = geodekraken_arm_010
+Quantity = 1
+Weight = 0.5
+
+[BosslessDeco003]
+Blueprint = geodekraken_arm_011
+Quantity = 1
+Weight = 0.5
+
+[GutsFixed001]
+Blueprint = geodekraken_guts_crossing
+Quantity = 1
+
+[GutsFixed002]
+Blueprint = geodekraken_guts_entrance
+Quantity = 1
+
+[GutsFixed003]
+Blueprint = geodekraken_guts_parallel
+Quantity = 1
+
+
+[GutOptional001]
+Blueprint = geodekraken_guts_entrance
+Quantity = 1
+Weight = 0.5
+
+[GutOptional002]
+Blueprint = geodekraken_guts_parallel
+Quantity = 1
+Weight = 0.5
+
+
+
+

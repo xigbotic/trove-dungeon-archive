@@ -1,0 +1,32 @@
+[Dungeon]
+Type = lair
+
+[Piece0]
+Blueprint = RadiantLairWater1_1
+Quantity = 1
+Weight = 0.5
+
+[Piece1]
+Blueprint = RadiantLairWater1_2
+Quantity = 1
+Weight = 0.5
+
+[Piece2]
+Blueprint = RadiantLairWater2_1
+Quantity = 1
+Weight = 0.5
+
+[Piece3]
+Blueprint = RadiantLairWater2_2
+Quantity = 1
+Weight = 0.5
+
+[Piece4]
+Blueprint = RadiantLairWater3_1
+Quantity = 1
+Weight = 0.5
+
+[Piece5]
+Blueprint = RadiantLairWater3_2
+Quantity = 1
+Weight = 0.5

@@ -1,0 +1,27 @@
+[Piece0]
+Blueprint = x1
+Quantity = 1
+
+[Piece1]
+Blueprint = icetower1
+Quantity = 2
+
+[Piece2]
+Blueprint = icetower2
+Quantity = 2
+
+[Piece5]
+Blueprint = icetower4
+Quantity = 2
+
+[Piece6]
+Blueprint = icecrystal1
+Quantity = 1
+
+[Piece7]
+Blueprint = icecrystal2
+Quantity = 1
+
+[Piece8]
+Blueprint = x2
+Quantity = 1

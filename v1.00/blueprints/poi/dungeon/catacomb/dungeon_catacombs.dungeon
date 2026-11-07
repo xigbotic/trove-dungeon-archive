@@ -1,0 +1,71 @@
+[Piece01]
+Blueprint = Dungeon_Catacombs_Entrance
+Quantity = 1
+
+[Piece02]
+Blueprint = Dungeon_Catacombs_Underground
+Quantity = 1
+
+[Piece03]
+Blueprint = Dungeon_Catacombs_Boss
+Quantity = 1
+
+[Piece04]
+Blueprint = Dungeon_Catacombs_Drop_Lava
+Quantity = 1
+
+[Piece05]
+Blueprint = Dungeon_Catacombs_Drop_Water
+Quantity = 1
+
+[Piece06]
+Blueprint = Dungeon_Catacombs_Drop_Spike
+Quantity = 1
+
+[Piece07]
+Blueprint = Dungeon_Catacombs_Drop_Natural
+Quantity = 1
+
+[Piece08]
+Blueprint = Dungeon_Catacombs_Wall_Plain
+Quantity = 1
+
+[Piece09]
+Blueprint = Dungeon_Catacombs_Wall_Door
+Quantity = 1
+
+[Piece10]
+Blueprint = Dungeon_Catacombs_Wall_Coffin_01
+Quantity = 1
+
+[Piece11]
+Blueprint = Dungeon_Catacombs_Wall_Coffin_02
+Quantity = 1
+
+[Piece12]
+Blueprint = Dungeon_Catacombs_Wall_Coffin_03
+Quantity = 1
+
+[Piece13]
+Blueprint = Dungeon_Catacombs_Graveyard_Owl_Gold
+Quantity = 1
+
+[Piece14]
+Blueprint = Dungeon_Catacombs_Graveyard_Owl
+Quantity = 1
+
+[Piece15]
+Blueprint = Dungeon_Catacombs_Entrance_Door_01
+Quantity = 1
+
+[Piece16]
+Blueprint = Dungeon_Catacombs_Entrance_Door_02
+Quantity = 1
+
+[Piece17]
+Blueprint = Dungeon_Catacombs_Entrance_Door_03
+Quantity = 1
+
+[Piece18]
+Blueprint = Dungeon_Catacombs_Entrance_Door_04
+Quantity = 1

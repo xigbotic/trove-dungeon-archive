@@ -1,0 +1,54 @@
+[Dungeon]
+Type = Lair
+
+[Piece0]
+Blueprint = DNG_DustyLode_core
+Quantity = 1
+
+[Piece1]
+Blueprint = DNG_DustyLode_top1
+Quantity = 1
+
+[Piece2]
+Blueprint = DNG_DustyLode_top2
+Quantity = 1
+
+[Piece3]
+Blueprint = DNG_DustyLode_top3
+Quantity = 1
+
+[Piece4]
+Blueprint = DNG_DustyLode_mid1
+Quantity = 1
+
+[Piece5]
+Blueprint = DNG_DustyLode_mid2
+Quantity = 1
+
+[Piece6]
+Blueprint = DNG_DustyLode_mid3
+Quantity = 1
+
+[Piece7]
+Blueprint = DNG_DustyLode_quest1_w
+Quantity = 1
+
+[Piece8]
+Blueprint = DNG_DustyLode_quest1_l
+Quantity = 1
+
+[Piece9]
+Blueprint = DNG_DustyLode_quest2_w
+Quantity = 1
+
+[Piece10]
+Blueprint = DNG_DustyLode_quest2_l
+Quantity = 1
+
+[Piece11]
+Blueprint = DNG_DustyLode_quest3_w
+Quantity = 1
+
+[Piece12]
+Blueprint = DNG_DustyLode_quest3_l
+Quantity = 1

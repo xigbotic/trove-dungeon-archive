@@ -1,0 +1,74 @@
+
+
+[Piece0]
+Blueprint = Base_01
+Quantity = 1
+Weight = 1
+
+[Piece1]
+Blueprint = Boss_01
+Quantity = 1
+Weight = 1
+
+[Piece2]
+Blueprint = Side_01
+Quantity = 1
+Weight = 1
+
+[Piece3]
+Blueprint = Bottom_01
+Quantity = 1
+Weight = 1
+
+[Piece4]
+Blueprint = Base_02
+Quantity = 1
+Weight = 1
+
+[Piece5]
+Blueprint = Side_02
+Quantity = 2
+Weight = 1
+
+[Piece6]
+Blueprint = Side_03
+Quantity = 1
+Weight = 1
+
+[Piece7]
+Blueprint = Boss_02
+Quantity = 1
+
+[Piece8]
+Blueprint = Boss_03
+Quantity = 1
+
+[Piece9]
+Blueprint = Side_04
+Quantity = 1
+Weight = 1
+
+[Piece10]
+Blueprint = Side_05
+Quantity = 1
+Weight = 1
+
+[Piece11]
+Blueprint = Base_03
+Quantity = 1
+Weight = 1
+
+[Piece12]
+Blueprint = Bottom_02
+Quantity = 1
+Weight = 1
+
+[Piece13]
+Blueprint = Bottom_03
+Quantity = 1
+Weight = 1
+
+
+
+
+

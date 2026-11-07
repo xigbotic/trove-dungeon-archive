@@ -1,0 +1,42 @@
+[Dungeon]
+Type = Lair
+
+[Piece0]
+Blueprint = cc-entrance
+Quantity = 1
+weight = .25
+
+[Piece1]
+Blueprint = cc-entrance2
+Quantity = 1
+weight = .25
+
+[Piece2]
+Blueprint = cc-entrance3
+Quantity = 1
+weight = .25
+
+[Piece3]
+Blueprint = cc-entrance4
+Quantity = 1
+weight = .25
+
+[Piece4]
+Blueprint = cc-stairs
+Quantity = 1
+weight = .50
+
+[Piece5]
+Blueprint = cc-stairs2
+Quantity = 1
+weight = .50
+
+[Piece6]
+Blueprint = cc-bottom
+Quantity = 1
+weight = .50
+
+[Piece7]
+Blueprint = cc-bottom2
+Quantity = 1
+weight = .50

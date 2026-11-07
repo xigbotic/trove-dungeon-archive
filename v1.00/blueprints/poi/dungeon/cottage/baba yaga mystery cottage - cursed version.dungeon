@@ -1,0 +1,67 @@
+[Piece0]
+Blueprint = cottage_ROOTCURSE.blueprint
+Quantity = 1
+
+[Piece1]
+Blueprint = cottage_SEQA.blueprint
+Quantity = 1
+
+[Piece2]
+Blueprint = cottage_SEQB.blueprint
+Quantity = 1
+
+[Piece3]
+Blueprint = cottage_SEQC.blueprint
+Quantity = 1
+
+[Piece4]
+Blueprint = cottage_SEQD.blueprint
+Quantity = 1
+
+[Piece5]
+Blueprint = cottage_SWQA.blueprint
+Quantity = 1
+
+[Piece6]
+Blueprint = cottage_SWQB.blueprint
+Quantity = 1
+
+[Piece7]
+Blueprint = cottage_SWQC.blueprint
+Quantity = 1
+
+[Piece8]
+Blueprint = cottage_SWQD.blueprint
+Quantity = 1
+
+[Piece9]
+Blueprint = cottage_NWQA.blueprint
+Quantity = 1
+
+[Piece10]
+Blueprint = cottage_NWQB.blueprint
+Quantity = 1
+
+[Piece11]
+Blueprint = cottage_NWQC.blueprint
+Quantity = 1
+
+[Piece12]
+Blueprint = cottage_NWQD.blueprint
+Quantity = 1
+
+[Piece13]
+Blueprint = cottage_NEQA.blueprint
+Quantity = 1
+
+[Piece14]
+Blueprint = cottage_NEQB.blueprint
+Quantity = 1
+
+[Piece15]
+Blueprint = cottage_NEQC.blueprint
+Quantity = 1
+
+[Piece16]
+Blueprint = cottage_NEQD.blueprint
+Quantity = 1

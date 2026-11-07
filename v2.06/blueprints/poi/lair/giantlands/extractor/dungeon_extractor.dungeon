@@ -1,0 +1,42 @@
+[Dungeon]
+Type = lair
+
+[Piece0]
+Blueprint = dungeon_extractor_bot_01
+Quantity = 1
+weight= .33
+
+[Piece1]
+Blueprint = dungeon_extractor_bot_02
+Quantity = 1
+weight = .33
+
+[Piece2]
+Blueprint = dungeon_extractor_mid_01
+Quantity = 1
+weight = .33
+
+[Piece3]
+Blueprint = dungeon_extractor_mid_02
+Quantity = 1
+weight= .33
+
+[Piece4]
+Blueprint = dungeon_extractor_top_01
+Quantity = 1
+weight = .33
+
+[Piece5]
+Blueprint = dungeon_extractor_top_02
+Quantity = 1
+weight = .33
+
+[Piece6]
+Blueprint = dungeon_extractor_boss_01
+Quantity = 1
+weight = .33
+
+[Piece7]
+Blueprint = dungeon_extractor_boss_02
+Quantity = 1
+weight = .33

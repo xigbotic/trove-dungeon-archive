@@ -1,0 +1,12 @@
+[Dungeon]
+Type = Lair
+
+[Piece0]
+Blueprint = NoobZiggurat_BaseA
+Quantity = 1
+Weight = 1
+
+[Piece1]
+Blueprint = NoobZiggurat_BaseB
+Quantity = 1
+Weight = 1

@@ -1,0 +1,94 @@
+[Piece0]
+Blueprint = Frame
+Quantity = 1
+Weight = 1
+
+[Piece1]
+Blueprint = Entrance1
+Quantity = 1
+Weight = 1
+
+[Piece2]
+Blueprint = Entrance2
+Quantity = 1
+Weight = 1
+
+[Piece3]
+Blueprint = Tunnel1
+Quantity = 1
+Weight = 1
+
+[Piece4]
+Blueprint = Tunnel2
+Quantity = 1
+Weight = 1
+
+[Piece5]
+Blueprint = Tunnel3
+Quantity = 1
+Weight = 1
+
+[Piece6]
+Blueprint = Tunnel4
+Quantity = 1
+Weight = 1
+
+[Piece7]
+Blueprint = Tunnel5
+Quantity = 1
+Weight = 1
+
+[Piece8]
+Blueprint = Tunnel6
+Quantity = 1
+Weight = 1
+
+[Piece9]
+Blueprint = Tunnel7
+Quantity = 1
+Weight = 1
+
+[Piece10]
+Blueprint = Tunnel8
+Quantity = 1
+Weight = 1
+
+[Piece11]
+Blueprint = Lair1
+Quantity = 1
+Weight = 1
+
+[Piece12]
+Blueprint = Lair2
+Quantity = 1
+Weight = 1
+
+[Piece13]
+Blueprint = Lair3
+Quantity = 1
+Weight = 1
+
+[Piece14]
+Blueprint = Lair4
+Quantity = 1
+Weight = 1
+
+[Piece15]
+Blueprint = Lair5
+Quantity = 1
+Weight = 1
+
+[Piece16]
+Blueprint = Boss1
+Quantity = 1
+Weight = 1
+
+[Piece17]
+Blueprint = Boss2
+Quantity = 1
+Weight = 1
+
+[Piece18]
+Blueprint = Boss3
+Quantity = 1
+Weight = 1

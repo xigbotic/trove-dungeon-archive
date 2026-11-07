@@ -1,0 +1,28 @@
+Seed -1175770535
+TotalQueries 3
+================= PIECES =============
+Piece Dragon_1 Plug=0 Size=110x125x125
+	Plug Position=0,10,0
+	AABB Min=-55,0,-62 Max=55,125,63
+	Socket 1
+	Socket 3
+Piece Dragon_2 Plug=0 Size=110x125x125
+	Plug Position=0,10,0
+	AABB Min=-55,0,-62 Max=55,125,63
+	Socket 3
+	Socket 2
+Piece Inside_1 Plug=1 Size=106x51x118
+	Plug Position=-34,19,40
+	AABB Min=-53,0,-59 Max=53,51,59
+Piece Inside_2 Plug=2 Size=106x51x118
+	Plug Position=-34,19,40
+	AABB Min=-53,0,-59 Max=53,51,59
+Piece Bones Plug=3 Size=99x33x113
+	Plug Position=-34,20,40
+	AABB Min=-47,17,-54 Max=52,50,59
+================= LAYOUT =============
+[0] Dragon_2 [Q=2, D=2]
+	[1] Bones [Q=0, D=0]
+	[2] Inside_2 [Q=0, D=0]
+================= MESSAGES =============
+Dungeon.Type = Dungeon, 128x256x128

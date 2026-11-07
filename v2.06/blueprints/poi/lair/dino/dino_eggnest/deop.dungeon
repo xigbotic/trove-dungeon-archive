@@ -1,0 +1,35 @@
+[Dungeon]
+Type = lair
+
+#Creator = Slaycool
+#Dungeon name = Dino Egg on Plant
+
+[Eggs1]
+Blueprint = EggsDEoP_1
+Quantity = 1
+Weight = 0.5
+
+[Eggs2]
+Blueprint = EggsDEoP_2
+Quantity = 1
+Weight = 0.5
+
+[Plant1]
+Blueprint = PlantDEoP_1
+Quantity = 1
+Weight = 0.5
+
+[Plant2]
+Blueprint = PlantDEoP_2
+Quantity = 1
+Weight = 0.5
+
+[Bottom1]
+Blueprint = BottomDEoP_1
+Quantity = 1
+Weight = 0.5
+
+[Bottom2]
+Blueprint = BottomDEoP_2
+Quantity = 1
+Weight = 0.5

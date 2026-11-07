@@ -1,0 +1,108 @@
+[Dungeon]
+
+
+Type = Lair
+
+[Piece0]
+Blueprint = crystal_harmonizer_piece_base
+Quantity = 1
+
+[Piece1]
+Blueprint = crystal_harmonizer_piece_alignment_001
+Quantity = 3
+Weight = 0.3
+
+[Piece2]
+Blueprint = crystal_harmonizer_piece_alignment_002
+Quantity = 3
+Weight = 0.3
+
+[Piece3]
+Blueprint = crystal_harmonizer_piece_alignment_003
+Quantity = 3
+Weight = 0.3
+
+[Piece4]
+Blueprint = crystal_harmonizer_piece_alignment_004
+Quantity = 3
+Weight = 0.3
+
+[Piece5a]
+Blueprint = crystal_harmonizer_piece_wing
+Quantity = 4
+Weight = 0.3
+
+[Piece5b]
+Blueprint = crystal_harmonizer_piece_wing_smudge
+Quantity = 4
+Weight = 0.3
+
+[Piece5c]
+Blueprint = crystal_harmonizer_piece_wing_damaged
+Quantity = 4
+Weight = 0.3
+
+[Piece5d]
+Blueprint = crystal_harmonizer_piece_wing_damagedplus
+Quantity = 4
+Weight = 0.3
+
+[PieceTop001]
+Blueprint = crystal_harmonizer_piece_base_top_001
+Quantity = 1
+Weight = 0.3
+
+[PieceTop002]
+Blueprint = crystal_harmonizer_piece_base_top_002
+Quantity = 1
+Weight = 0.3
+
+[PieceTop003]
+Blueprint = crystal_harmonizer_piece_base_top_003
+Quantity = 1
+Weight = 0.3
+
+[PieceTop004]
+Blueprint = crystal_harmonizer_piece_base_top_004
+Quantity = 1
+Weight = 0.3
+
+[Piecemid001]
+Blueprint = crystal_harmonizer_piece_base_mid_001
+Quantity = 1
+Weight = 0.3
+
+[Piecemid002]
+Blueprint = crystal_harmonizer_piece_base_mid_002
+Quantity = 1
+Weight = 0.3
+
+[Piecemid003]
+Blueprint = crystal_harmonizer_piece_base_mid_003
+Quantity = 1
+Weight = 0.3
+
+[Piecemid004]
+Blueprint = crystal_harmonizer_piece_base_mid_004
+Quantity = 1
+Weight = 0.3
+
+[Piecebot001]
+Blueprint = crystal_harmonizer_piece_base_bot_001
+Quantity = 1
+Weight = 0.3
+
+[Piecebot002]
+Blueprint = crystal_harmonizer_piece_base_bot_002
+Quantity = 1
+Weight = 0.3
+
+[Piecebot003]
+Blueprint = crystal_harmonizer_piece_base_bot_003
+Quantity = 1
+Weight = 0.3
+
+[Piecebot004]
+Blueprint = crystal_harmonizer_piece_base_bot_004
+Quantity = 1
+Weight = 0.3

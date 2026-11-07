@@ -1,0 +1,68 @@
+Seed 959283100
+TotalQueries 9
+================= PIECES =============
+Piece xmas_neon_base Plug=0 Size=75x124x75
+	Plug Position=0,4,0
+	AABB Min=-37,1,-37 Max=38,125,38
+	Socket 3
+	Socket 3
+	Socket 3
+	Socket 3
+	Socket 3
+	Socket 1
+	Socket 3
+	Socket 2
+Piece xmas_mid_03 Plug=1 Size=51x31x52
+	Plug Position=0,8,26
+	AABB Min=-25,0,-25 Max=26,31,27
+Piece xmas_mid_02 Plug=1 Size=51x31x52
+	Plug Position=0,8,26
+	AABB Min=-25,0,-25 Max=26,31,27
+Piece xmas_mid_01 Plug=1 Size=51x31x52
+	Plug Position=0,8,26
+	AABB Min=-25,0,-25 Max=26,31,27
+Piece xmas_top_02 Plug=2 Size=31x29x32
+	Plug Position=0,6,16
+	AABB Min=-15,0,-15 Max=16,29,17
+Piece xmas_top_01 Plug=2 Size=31x29x32
+	Plug Position=0,6,16
+	AABB Min=-15,0,-15 Max=16,29,17
+Piece neon_blue_humpypants Plug=3 Size=12x12x13
+	Plug Position=-1,0,-7
+	AABB Min=-6,0,-7 Max=6,12,6
+Piece Neon_GlowingGift2_DestertOne Plug=3 Size=11x12x11
+	Plug Position=4,0,1
+	AABB Min=-5,0,-4 Max=6,12,7
+Piece Neon_HealthPack_Minejascraft Plug=3 Size=12x12x12
+	Plug Position=5,0,0
+	AABB Min=-6,0,-5 Max=6,12,7
+Piece neon_yellow_humpypants Plug=3 Size=12x12x13
+	Plug Position=-1,0,-7
+	AABB Min=-6,0,-7 Max=6,12,6
+Piece Neon_PlasmaBox_giziyo Plug=3 Size=12x12x12
+	Plug Position=-1,0,-4
+	AABB Min=-6,0,-5 Max=6,12,7
+Piece Neon_FuturisticWrapping_Minejascraft Plug=3 Size=8x10x9
+	Plug Position=-1,0,-5
+	AABB Min=-4,0,-5 Max=4,10,4
+Piece Neon_cat_Minejascraft Plug=3 Size=9x10x8
+	Plug Position=0,0,4
+	AABB Min=-4,0,-3 Max=5,10,5
+Piece neon_pink_humpypants Plug=3 Size=12x12x13
+	Plug Position=-1,0,-7
+	AABB Min=-6,0,-7 Max=6,12,6
+Piece Neon_mistletoe _bobfishkins23 Plug=3 Size=9x6x9
+	Plug Position=-1,0,-4
+	AABB Min=-5,0,-4 Max=4,6,5
+================= LAYOUT =============
+[0] xmas_neon_base [Q=8, D=8]
+	[1] Neon_PlasmaBox_giziyo [Q=0, D=0]
+	[2] Neon_PlasmaBox_giziyo [Q=0, D=0]
+	[3] Neon_HealthPack_Minejascraft [Q=0, D=0]
+	[4] neon_blue_humpypants [Q=0, D=0]
+	[5] Neon_mistletoe _bobfishkins23 [Q=0, D=0]
+	[6] xmas_mid_01 [Q=0, D=0]
+	[7] Neon_HealthPack_Minejascraft [Q=0, D=0]
+	[8] xmas_top_02 [Q=0, D=0]
+================= MESSAGES =============
+Dungeon.Type = Dungeon, 128x256x128

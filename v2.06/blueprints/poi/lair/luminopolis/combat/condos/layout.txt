@@ -1,0 +1,91 @@
+Seed -2050586413
+TotalQueries 3
+================= PIECES =============
+Piece lumi_lair_apartments_top_3b Plug=0 Size=39x55x39
+	Plug Position=0,3,0
+	AABB Min=-19,0,-19 Max=20,55,20
+	Socket 1
+Piece lumi_lair_apartments_top_2a Plug=0 Size=39x55x39
+	Plug Position=0,3,0
+	AABB Min=-19,0,-19 Max=20,55,20
+	Socket 1
+Piece lumi_lair_apartments_top_4a Plug=0 Size=39x61x39
+	Plug Position=0,3,0
+	AABB Min=-19,0,-19 Max=20,61,20
+	Socket 1
+Piece lumi_lair_apartments_top_2b Plug=0 Size=39x55x39
+	Plug Position=0,3,0
+	AABB Min=-19,0,-19 Max=20,55,20
+	Socket 1
+Piece lumi_lair_apartments_top_1b Plug=0 Size=39x55x39
+	Plug Position=0,3,0
+	AABB Min=-19,0,-19 Max=20,55,20
+	Socket 1
+Piece lumi_lair_apartments_top_3a Plug=0 Size=39x55x39
+	Plug Position=0,3,0
+	AABB Min=-19,0,-19 Max=20,55,20
+	Socket 1
+Piece lumi_lair_apartments_top_1a Plug=0 Size=39x55x39
+	Plug Position=0,3,0
+	AABB Min=-19,0,-19 Max=20,55,20
+	Socket 1
+Piece lumi_lair_apartments_top_4b Plug=0 Size=39x61x39
+	Plug Position=0,3,0
+	AABB Min=-19,0,-19 Max=20,61,20
+	Socket 1
+Piece lumi_lair_apartments_room_3a Plug=1 Size=33x10x33
+	Plug Position=-16,9,16
+	AABB Min=-16,0,-16 Max=17,10,17
+	Socket 2
+Piece lumi_lair_apartments_room_2a Plug=1 Size=33x10x33
+	Plug Position=-16,9,16
+	AABB Min=-16,0,-16 Max=17,10,17
+	Socket 2
+Piece lumi_lair_apartments_room_1b Plug=1 Size=33x10x33
+	Plug Position=-16,9,16
+	AABB Min=-16,0,-16 Max=17,10,17
+	Socket 2
+Piece lumi_lair_apartments_room_4a Plug=1 Size=33x10x33
+	Plug Position=-16,9,16
+	AABB Min=-16,0,-16 Max=17,10,17
+	Socket 2
+Piece lumi_lair_apartments_room_2b Plug=1 Size=33x10x33
+	Plug Position=-16,9,16
+	AABB Min=-16,0,-16 Max=17,10,17
+	Socket 2
+Piece lumi_lair_apartments_room_3b Plug=1 Size=33x10x33
+	Plug Position=-16,9,16
+	AABB Min=-16,0,-16 Max=17,10,17
+	Socket 2
+Piece lumi_lair_apartments_room_4b Plug=1 Size=33x10x33
+	Plug Position=-16,9,16
+	AABB Min=-16,0,-16 Max=17,10,17
+	Socket 2
+Piece lumi_lair_apartments_room_1a Plug=1 Size=33x10x33
+	Plug Position=-16,9,16
+	AABB Min=-16,0,-16 Max=17,10,17
+	Socket 2
+Piece lumi_lair_apartments_boss_2b Plug=2 Size=31x19x31
+	Plug Position=2,18,2
+	AABB Min=-15,0,-15 Max=16,19,16
+Piece lumi_lair_apartments_boss_1c Plug=2 Size=31x19x31
+	Plug Position=2,18,2
+	AABB Min=-15,0,-15 Max=16,19,16
+Piece lumi_lair_apartments_boss_2c Plug=2 Size=31x19x31
+	Plug Position=2,18,2
+	AABB Min=-15,0,-15 Max=16,19,16
+Piece lumi_lair_apartments_boss_1b Plug=2 Size=31x19x31
+	Plug Position=2,18,2
+	AABB Min=-15,0,-15 Max=16,19,16
+Piece lumi_lair_apartments_boss_2a Plug=2 Size=31x19x31
+	Plug Position=2,18,2
+	AABB Min=-15,0,-15 Max=16,19,16
+Piece lumi_lair_apartments_boss_1a Plug=2 Size=31x19x31
+	Plug Position=2,18,2
+	AABB Min=-15,0,-15 Max=16,19,16
+================= LAYOUT =============
+[0] lumi_lair_apartments_top_4a [Q=2, D=2]
+	[1] lumi_lair_apartments_room_1a [Q=1, D=1]
+		[2] lumi_lair_apartments_boss_2a [Q=0, D=0]
+================= MESSAGES =============
+Dungeon.Type = Dungeon, 128x256x128

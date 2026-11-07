@@ -1,0 +1,88 @@
+[Dungeon]
+Type = Dungeon
+
+[Piece0]
+Blueprint = crypt_basepiece_01
+Quantity = 1
+Weight = 1
+
+[Piece1]
+Blueprint = crypt_boss_01
+Quantity = 1
+Weight = 1
+
+[Piece2]
+Blueprint = crypt_firstfloor_01
+Quantity = 1
+Weight = 1
+
+[Piece3]
+Blueprint = crypt_firstfloor_02
+Quantity = 1
+Weight = 1
+
+[Piece4]
+Blueprint = crypt_firstfloor_03
+Quantity = 1
+Weight = 1
+
+[Piece5]
+Blueprint = crypt_secondfloor_01
+Quantity = 1
+Weight = 1
+
+[Piece6]
+Blueprint = crypt_bossstairs_01
+Quantity = 1
+Weight = 1
+
+[Piece7]
+Blueprint = crypt_secondfloor_02
+Quantity = 1
+Weight = 1
+
+[Piece8]
+Blueprint = crypt_secondfloor_03
+Quantity = 1
+Weight = 1
+
+[Piece9]
+Blueprint = crypt_boss_02
+Quantity = 1
+Weight = 1
+
+[Piece10]
+Blueprint = crypt_boss_03
+Quantity = 1
+Weight = 1
+
+[Piece11]
+Blueprint = crypt_firstfloor_04
+Quantity = 1
+Weight = 1
+
+[Piece12]
+Blueprint = crypt_firstfloor_05
+Quantity = 1
+Weight = 1
+
+[Piece13]
+Blueprint = crypt_bossstairs_02
+Quantity = 1
+Weight = 1
+
+[Piece14]
+Blueprint = crypt_bossstairs_03
+Quantity = 1
+Weight = 1
+
+[Piece15]
+Blueprint = crypt_secondfloor_04
+Quantity = 1
+Weight = 1
+
+
+
+
+
+

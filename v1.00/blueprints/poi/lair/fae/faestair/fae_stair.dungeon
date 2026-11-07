@@ -1,0 +1,18 @@
+[Dungeon]
+Type = lair
+
+[Piece0]
+Blueprint = Lair_faestaircase
+Quantity = 1
+Weight = 1
+
+[Piece1]
+Blueprint = Lair_basement1
+Quantity = 1
+Weight = 1
+
+[Piece2]
+Blueprint = Lair_basement2
+Quantity = 1
+Weight = 1
+

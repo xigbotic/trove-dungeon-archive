@@ -1,0 +1,14 @@
+[Dungeon]
+Type = lair
+
+[Piece0]
+Blueprint = Level01
+Quantity = 1
+
+[Piece1]
+Blueprint = Level02
+Quantity = 1
+
+[Piece2]
+Blueprint = Level03
+Quantity = 1

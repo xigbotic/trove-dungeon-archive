@@ -1,0 +1,220 @@
+Seed -78800609
+TotalQueries 59
+================= PIECES =============
+Piece Main_1 Plug=0 Size=37x43x37
+	Plug Position=0,3,0
+	AABB Min=-18,0,-18 Max=19,43,19
+	Socket 3
+	Socket 3
+	Socket 7
+	Socket 3
+	Socket 3
+	Socket 7
+	Socket 3
+	Socket 7
+	Socket 3
+	Socket 3
+	Socket 1
+	Socket 3
+Piece Main_2 Plug=0 Size=37x43x37
+	Plug Position=0,3,0
+	AABB Min=-18,0,-18 Max=19,43,19
+	Socket 7
+	Socket 7
+	Socket 7
+	Socket 3
+	Socket 3
+	Socket 3
+	Socket 3
+	Socket 3
+	Socket 3
+	Socket 1
+Piece Path_2 Plug=1 Size=39x30x39
+	Plug Position=0,29,0
+	AABB Min=-19,0,-19 Max=20,30,20
+	Socket 7
+	Socket 7
+	Socket 6
+	Socket 7
+	Socket 7
+	Socket 5
+	Socket 5
+	Socket 2
+	Socket 5
+	Socket 7
+	Socket 6
+	Socket 6
+	Socket 5
+Piece Path_3 Plug=1 Size=39x30x39
+	Plug Position=0,29,0
+	AABB Min=-19,0,-19 Max=20,30,20
+	Socket 6
+	Socket 5
+	Socket 5
+	Socket 2
+	Socket 5
+	Socket 7
+	Socket 7
+	Socket 5
+	Socket 6
+	Socket 7
+	Socket 5
+	Socket 7
+	Socket 6
+	Socket 5
+Piece Path_1 Plug=1 Size=39x30x39
+	Plug Position=0,29,0
+	AABB Min=-19,0,-19 Max=20,30,20
+	Socket 6
+	Socket 5
+	Socket 6
+	Socket 2
+	Socket 6
+	Socket 5
+	Socket 7
+	Socket 6
+	Socket 7
+Piece Boss_2 Plug=2 Size=29x8x29
+	Plug Position=0,6,0
+	AABB Min=-14,0,-14 Max=15,8,15
+	Socket 7
+	Socket 7
+	Socket 7
+	Socket 5
+	Socket 5
+	Socket 7
+	Socket 7
+	Socket 5
+	Socket 5
+	Socket 5
+	Socket 7
+Piece Boss_1 Plug=2 Size=29x8x29
+	Plug Position=0,6,0
+	AABB Min=-14,0,-14 Max=15,8,15
+	Socket 7
+	Socket 5
+	Socket 5
+	Socket 7
+	Socket 5
+	Socket 5
+	Socket 7
+	Socket 5
+	Socket 7
+	Socket 7
+	Socket 7
+Piece Tree_4 Plug=3 Size=6x11x9
+	Plug Position=-3,0,1
+	AABB Min=-3,0,-4 Max=3,11,5
+Piece Tree_1 Plug=3 Size=4x6x8
+	Plug Position=-1,0,-1
+	AABB Min=-2,0,-4 Max=2,6,4
+Piece Rock_Grey_3 Plug=3 Size=6x2x6
+	Plug Position=-1,0,3
+	AABB Min=-3,0,-2 Max=3,2,4
+Piece Tree_3 Plug=3 Size=7x8x9
+	Plug Position=-2,0,0
+	AABB Min=-3,0,-4 Max=4,8,5
+Piece Rock_Grey_1 Plug=3 Size=4x2x4
+	Plug Position=-1,0,2
+	AABB Min=-2,0,-1 Max=2,2,3
+Piece Rock_Grey_2 Plug=3 Size=3x4x4
+	Plug Position=0,0,2
+	AABB Min=-1,0,-1 Max=2,4,3
+Piece Tree_6 Plug=3 Size=10x17x9
+	Plug Position=-1,0,3
+	AABB Min=-5,0,-4 Max=5,17,5
+Piece Tree_5 Plug=3 Size=15x11x10
+	Plug Position=-3,0,-4
+	AABB Min=-7,0,-5 Max=8,11,5
+Piece Tree_2 Plug=3 Size=6x7x6
+	Plug Position=-3,0,1
+	AABB Min=-3,0,-3 Max=3,7,3
+Piece Rock_Brown_1 Plug=5 Size=5x2x3
+	Plug Position=-3,0,0
+	AABB Min=-3,0,-1 Max=2,2,2
+Piece Rock_Brown_2 Plug=5 Size=6x2x6
+	Plug Position=-1,0,3
+	AABB Min=-3,0,-2 Max=3,2,4
+Piece Pillar_3 Plug=5 Size=6x8x5
+	Plug Position=-3,0,0
+	AABB Min=-3,0,-2 Max=3,8,3
+Piece Stalagmite_3 Plug=5 Size=6x7x6
+	Plug Position=-1,0,3
+	AABB Min=-3,0,-2 Max=3,7,4
+Piece Pillar_2 Plug=5 Size=6x8x3
+	Plug Position=-3,0,0
+	AABB Min=-3,0,-1 Max=3,8,2
+Piece Stalagmite_1 Plug=5 Size=3x4x4
+	Plug Position=0,0,2
+	AABB Min=-1,0,-1 Max=2,4,3
+Piece Stalagmite_2 Plug=5 Size=4x5x4
+	Plug Position=-1,0,2
+	AABB Min=-2,0,-1 Max=2,5,3
+Piece Rock_Brown_3 Plug=5 Size=7x3x7
+	Plug Position=0,0,3
+	AABB Min=-3,0,-3 Max=4,3,4
+Piece Pillar_1 Plug=5 Size=4x8x3
+	Plug Position=-2,0,-1
+	AABB Min=-2,0,-2 Max=2,8,1
+Piece Room_1 Plug=6 Size=11x5x8
+	Plug Position=-5,1,0
+	AABB Min=-5,0,-4 Max=6,5,4
+Piece Room_2 Plug=6 Size=11x7x10
+	Plug Position=-5,1,0
+	AABB Min=-5,0,-4 Max=6,7,6
+Piece Room_4 Plug=6 Size=11x9x11
+	Plug Position=-5,2,0
+	AABB Min=-5,0,-5 Max=6,9,6
+Piece Room_3 Plug=6 Size=11x9x11
+	Plug Position=-5,1,0
+	AABB Min=-5,0,-5 Max=6,9,6
+Piece Stalagtite_2 Plug=7 Size=4x5x4
+	Plug Position=-1,4,2
+	AABB Min=-2,0,-1 Max=2,5,3
+Piece Stalagtite_3 Plug=7 Size=6x7x6
+	Plug Position=-1,6,3
+	AABB Min=-3,0,-2 Max=3,7,4
+Piece Stalagtite_1 Plug=7 Size=3x4x4
+	Plug Position=0,3,2
+	AABB Min=-1,0,-1 Max=2,4,3
+================= LAYOUT =============
+[0] Main_1 [Q=58, D=37]
+	[1] Tree_2 [Q=0, D=0]
+	[2] Tree_6 [Q=0, D=0]
+	[3] Stalagtite_1 [Q=0, D=0]
+	[4] Tree_3 [Q=0, D=0]
+	[5] Tree_5 [Q=0, D=0]
+	[6] Stalagtite_1 [Q=0, D=0]
+	[7] Rock_Grey_3 [Q=0, D=0]
+	[8] Stalagtite_1 [Q=0, D=0]
+	[9] Rock_Grey_2 [Q=0, D=0]
+	[10] Rock_Grey_2 [Q=0, D=0]
+	[11] Path_3 [Q=25, D=25]
+		[12] Room_1 [Q=0, D=0]
+		[13] Stalagmite_1 [Q=0, D=0]
+		[14] Rock_Brown_2 [Q=0, D=0]
+		[15] Boss_1 [Q=11, D=11]
+			[16] Stalagtite_3 [Q=0, D=0]
+			[17] Stalagmite_2 [Q=0, D=0]
+			[18] Pillar_3 [Q=0, D=0]
+			[19] Stalagtite_3 [Q=0, D=0]
+			[20] Rock_Brown_3 [Q=0, D=0]
+			[21] Pillar_1 [Q=0, D=0]
+			[22] Stalagtite_2 [Q=0, D=0]
+			[23] Stalagmite_2 [Q=0, D=0]
+			[24] Stalagtite_2 [Q=0, D=0]
+			[25] Stalagtite_1 [Q=0, D=0]
+			[26] Stalagtite_1 [Q=0, D=0]
+		[27] Pillar_2 [Q=0, D=0]
+		[28] Stalagtite_2 [Q=0, D=0]
+		[29] Stalagtite_3 [Q=0, D=0]
+		[30] Rock_Brown_1 [Q=0, D=0]
+		[31] Room_3 [Q=0, D=0]
+		[32] Stalagtite_2 [Q=0, D=0]
+		[33] Stalagmite_3 [Q=0, D=0]
+		[34] Stalagtite_2 [Q=0, D=0]
+		[35] Room_4 [Q=0, D=0]
+		[36] Stalagmite_3 [Q=0, D=0]
+	[37] Tree_4 [Q=0, D=0]
+================= MESSAGES =============
+Dungeon.Type = Lair, 42x96x42 (64 up, 32 down)

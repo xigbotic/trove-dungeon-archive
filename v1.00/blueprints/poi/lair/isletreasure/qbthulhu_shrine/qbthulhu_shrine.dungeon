@@ -1,0 +1,137 @@
+[Dungeon]
+Type = lair
+
+[Piece0] 
+Blueprint = base_a
+Quantity = 1
+Weight = 1
+
+[Piece1] 
+Blueprint = top_a
+Quantity = 1
+Weight = 1
+
+[Piece2] 
+Blueprint = top_b
+Quantity = 1
+Weight = 1
+
+[Piece3] 
+Blueprint = top_c
+Quantity = 1
+Weight = 1
+
+[Piece4] 
+Blueprint = basement_a
+Quantity = 1
+Weight = 1
+
+[Piece5] 
+Blueprint = basement_b
+Quantity = 1
+Weight = 1
+
+[Piece6] 
+Blueprint = basement_c
+Quantity = 1
+Weight = 1
+
+[Piece7] 
+Blueprint = boss_a
+Quantity = 1
+Weight = 1
+
+[Piece8] 
+Blueprint = boss_b
+Quantity = 1
+Weight = 1
+
+[Piece9] 
+Blueprint = boss_c
+Quantity = 1
+Weight = 1
+
+[Piece10] 
+Blueprint = boss_d
+Quantity = 1
+Weight = 1
+
+[Piece11] 
+Blueprint = walls_base_01_a
+Quantity = 1
+Weight = .2
+
+[Piece12] 
+Blueprint = walls_base_01_b
+Quantity = 1
+Weight = .2
+
+[Piece13] 
+Blueprint = walls_base_01_c
+Quantity = 1
+Weight = .2
+
+[Piece14] 
+Blueprint = walls_base_01_d
+Quantity = 1
+Weight = .2
+
+[Piece15] 
+Blueprint = walls_base_02_a
+Quantity = 1
+Weight = .2
+
+[Piece16] 
+Blueprint = walls_base_02_b
+Quantity = 1
+Weight = .2
+
+[Piece17] 
+Blueprint = walls_base_03_a
+Quantity = 1
+Weight = .2
+
+[Piece18] 
+Blueprint = walls_base_03_b
+Quantity = 1
+Weight = .2
+
+[Piece19] 
+Blueprint = walls_base_03_c
+Quantity = 1
+Weight = .2
+
+[Piece20] 
+Blueprint = walls_base_04_a
+Quantity = 1
+Weight = .2
+
+[Piece21] 
+Blueprint = walls_base_04_b
+Quantity = 1
+Weight = .2
+
+[Piece22] 
+Blueprint = walls_base_04_c
+Quantity = 1
+Weight = .2
+
+[Piece23] 
+Blueprint = walls_base_05_a
+Quantity = 1
+Weight = .2
+
+[Piece24] 
+Blueprint = walls_base_05_b
+Quantity = 1
+Weight = .2
+
+[Piece25] 
+Blueprint = walls_base_05_c
+Quantity = 1
+Weight = .2
+
+[Piece26] 
+Blueprint = walls_base_05_d
+Quantity = 1
+Weight = .2

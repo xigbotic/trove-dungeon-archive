@@ -1,0 +1,42 @@
+[Dungeon]
+Type = Lair
+
+#Creator = KeKo
+#Dungeon name = Ice Cavern
+
+
+
+[Piece1]
+Blueprint = Snowhouse_Entrance
+Quantity = 1
+Weight = .5
+
+[Piece2]
+Blueprint = Snowhouse_Entrance_2
+Quantity = 1
+Weight = .5
+
+[Piece3]
+Blueprint = Snowhouse_Floor1_1
+Quantity = 1
+Weight = .34
+
+[Piece4]
+Blueprint = Snowhouse_Floor1_2
+Quantity = 1
+Weight = .33
+
+[Piece5]
+Blueprint = Snowhouse_Floor1_3
+Quantity = 1
+Weight = .33
+
+[Piece6]
+Blueprint = Snowhouse_Boss_1
+Quantity = 1
+Weight = .5
+
+[Piece7]
+Blueprint = Snowhouse_Boss_2
+Quantity = 1
+Weight = .5

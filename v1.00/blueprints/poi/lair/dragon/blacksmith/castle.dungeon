@@ -1,0 +1,26 @@
+[Dungeon]
+Type = Lair
+
+[Piece0]
+Blueprint = Castle
+Quantity = 1
+
+[Piece1]
+Blueprint = Lower
+weight = .33
+
+[Piece3]
+Blueprint = Castle2
+weight = .33
+
+[Piece4]
+Blueprint = Castle1
+weight = .33
+
+[Piece5]
+Blueprint = Boss
+Quantity = 1
+
+[Piece6]
+Blueprint = Roof
+Quantity = 1

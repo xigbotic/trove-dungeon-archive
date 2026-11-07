@@ -1,0 +1,62 @@
+[Dungeon]
+Type = Lair
+
+[Piece0]
+Blueprint = lair_FrostflakesLair_core
+Quantity = 1
+
+[Piece1]
+Blueprint = lair_FrostflakesLair_bossRoom_1
+Quantity = 1
+
+[Piece2]
+Blueprint = lair_FrostflakesLair_bossRoom_2
+Quantity = 1
+
+[Piece3]
+Blueprint = lair_FrostflakesLair_bossRoom_3
+Quantity = 1
+
+[Piece4]
+Blueprint = lair_FrostflakesLair_platform_1_mid
+Quantity = 1
+
+[Piece5]
+Blueprint = lair_FrostflakesLair_platform_2_mid
+Quantity = 1
+
+[Piece6]
+Blueprint = lair_FrostflakesLair_platform_3_mid
+Quantity = 1
+
+[Piece7]
+Blueprint = lair_FrostflakesLair_platform_4_mid
+Quantity = 1
+
+[Piece8]
+Blueprint = lair_FrostflakesLair_platform_1_top
+Quantity = 1
+
+[Piece9]
+Blueprint = lair_FrostflakesLair_platform_2_top
+Quantity = 1
+
+[Piece10]
+Blueprint = lair_FrostflakesLair_platform_3_top
+Quantity = 1
+
+[Piece11]
+Blueprint = lair_FrostflakesLair_platform_4_top
+Quantity = 1
+
+[Piece12]
+Blueprint = lair_FrostflakesLair_bossTraps_1
+Quantity = 1
+
+[Piece13]
+Blueprint = lair_FrostflakesLair_bossTraps_2
+Quantity = 1
+
+[Piece14]
+Blueprint = lair_FrostflakesLair_bossTraps_3
+Quantity = 1

@@ -1,0 +1,35 @@
+[Dungeon]
+Type = lair
+
+#Creator = Thor
+#Dungeon name = thor_crypt
+
+[Piece1]
+Blueprint = thor_crypt_top
+Quantity = 1
+Weight = .5
+
+[Piece2]
+Blueprint = thor_crypt_top2
+Quantity = 1
+Weight = .5
+
+[Piece3]
+Blueprint = thor_crypt_maze
+Quantity = 1
+Weight = .5
+
+[Piece4]
+Blueprint  = thor_crypt_maze2
+Quantity = 1
+Weight = .5
+
+[Piece5]
+Blueprint = thor_crypt_boss_room
+Quantity = 1
+Weight = .5
+
+[Peice6]
+Blueprint = thor_crypt_boss_room2
+Quantity = 1
+Weight = .5

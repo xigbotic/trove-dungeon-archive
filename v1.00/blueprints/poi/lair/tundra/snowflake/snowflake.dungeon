@@ -1,0 +1,67 @@
+[Dungeon]
+Type = lair
+
+[Piece0]
+Blueprint = Flake_Base_01
+Quantity = 1
+Weight = 1
+
+[Piece1]
+Blueprint = Flake_Stair_01
+Quantity = 1
+Weight = 1
+
+[Piece2]
+Blueprint = Flake_Middle_01
+Quantity = 1
+Weight = 1
+
+[Piece3]
+Blueprint = Flake_StairMiddle_01
+Quantity = 1
+Weight = 1
+
+[Piece4]
+Blueprint = Flake_BossTop_01
+Quantity = 1
+Weight = 1
+
+[Piece5]
+Blueprint = Flake_Middle_02
+Quantity = 1
+Weight = 1
+
+[Piece6]
+Blueprint = Flake_Base_02
+Quantity = 1
+Weight = 1
+
+[Piece7]
+Blueprint = Flake_Middle_03
+Quantity = 1
+Weight = 1
+
+[Piece8]
+Blueprint = Flake_Stair_02
+Quantity = 1
+Weight = 1
+
+[Piece9]
+Blueprint = Flake_StairMiddle_02
+Quantity = 1
+Weight = 1
+
+[Piece10]
+Blueprint = Flake_BossTop_02
+Quantity = 1
+Weight = 1
+
+[Piece11]
+Blueprint = Flake_Base_03
+Quantity = 1
+Weight = 1
+
+[Piece12]
+Blueprint = Flake_BossTop_03
+Quantity = 1
+Weight = 1

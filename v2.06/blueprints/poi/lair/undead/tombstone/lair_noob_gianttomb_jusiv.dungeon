@@ -1,0 +1,77 @@
+[Dungeon]
+Type = Lair
+
+[Piece0]
+Blueprint = lair_noob_GiantTomb_entrance1
+Quantity = 1
+Weight = 0.33
+
+[Piece1]
+Blueprint = lair_noob_GiantTomb_entrance2
+Quantity = 1
+Weight = 0.33
+
+[Piece2]
+Blueprint = lair_noob_GiantTomb_entrance3
+Quantity = 1
+Weight = 0.33
+
+[Piece3]
+Blueprint = lair_noob_GiantTomb_trap1
+Quantity = 2
+Weight = 0.5
+
+[Piece4]
+Blueprint = lair_noob_GiantTomb_trap2
+Quantity = 2
+Weight = 0.5
+
+[Piece5]
+Blueprint = lair_noob_GiantTomb_tunnel1
+Quantity = 1
+Weight = 0.16
+
+[Piece6]
+Blueprint = lair_noob_GiantTomb_tunnel2
+Quantity = 1
+Weight = 0.16
+
+[Piece7]
+Blueprint = lair_noob_GiantTomb_tunnel3
+Quantity = 1
+Weight = 0.16
+
+[Piece8]
+Blueprint = lair_noob_GiantTomb_tunnel4
+Quantity = 1
+Weight = 0.16
+
+[Piece9]
+Blueprint = lair_noob_GiantTomb_tunnel5
+Quantity = 1
+Weight = 0.16
+
+[Piece10]
+Blueprint = lair_noob_GiantTomb_tunnel6
+Quantity = 1
+Weight = 0.16
+
+[Piece11]
+Blueprint = lair_noob_GiantTomb_boss1
+Quantity = 1
+Weight = 0.33
+
+[Piece12]
+Blueprint = lair_noob_GiantTomb_boss2
+Quantity = 1
+Weight = 0.33
+
+[Piece13]
+Blueprint = lair_noob_GiantTomb_boss3
+Quantity = 1
+Weight = 0.33
+
+[Piece14]
+Blueprint = lair_noob_GiantTomb_lid
+Quantity = 1
+Weight = 1

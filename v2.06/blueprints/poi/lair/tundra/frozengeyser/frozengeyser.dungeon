@@ -1,0 +1,17 @@
+[Dungeon]
+Type = Lair
+
+[Piece0]
+Blueprint = aFrozenGeyserTop
+Quantity = 1
+Weight = 1
+
+[Piece1]
+Blueprint = aFrozenGeyserBottom01
+Quantity = 1
+Weight = 1
+
+[Piece3]
+Blueprint = aFrozenGeyserBottom03
+Quantity = 1
+Weight = 1

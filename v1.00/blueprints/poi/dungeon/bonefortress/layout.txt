@@ -1,0 +1,39 @@
+Seed -614828312
+TotalQueries 5
+================= PIECES =============
+Piece layout Plug=0
+	Socket 1
+	Socket 1
+	Socket 1
+	Socket 1
+Piece 13 Plug=1
+Piece 15 Plug=1
+Piece 2 Plug=1
+Piece 11 Plug=1
+Piece 24 Plug=1
+Piece 9 Plug=1
+Piece 17 Plug=1
+Piece 6 Plug=1
+Piece 23 Plug=1
+Piece 21 Plug=1
+Piece 4 Plug=1
+Piece 19 Plug=1
+Piece 7 Plug=1
+Piece 14 Plug=1
+Piece 1 Plug=1
+Piece 12 Plug=1
+Piece 8 Plug=1
+Piece 10 Plug=1
+Piece 16 Plug=1
+Piece 20 Plug=1
+Piece 22 Plug=1
+Piece 5 Plug=1
+Piece 3 Plug=1
+Piece 18 Plug=1
+================= LAYOUT =============
+[0] layout [Q=4, D=4]
+	[1] 15 [Q=0, D=0]
+	[2] 19 [Q=0, D=0]
+	[3] 6 [Q=0, D=0]
+	[4] 18 [Q=0, D=0]
+================= MESSAGES =============

@@ -1,0 +1,139 @@
+[Piece0]
+Blueprint = ThornThicket_Boss_01
+Quantity = 1
+Weight = 1
+
+[Piece1]
+Blueprint = ThornThicket_BossStair_01
+Quantity = 1
+Weight = 1
+
+[Piece2]
+Blueprint = ThornThicket_CornerHallway1_01
+Quantity = 2
+Weight = 1
+
+[Piece4]
+Blueprint = ThornThicket_CornerHallway2_01
+Quantity = 2
+Weight = 1
+
+[Piece5]
+Blueprint = ThornThicket_Dome_01
+Quantity = 1
+Weight = 1
+
+[Piece6]
+Blueprint = ThornThicket_Entrance_01
+Quantity = 1
+Weight = 1
+
+[Piece7]
+Blueprint = ThornThicket_SideRoom_01
+Quantity = 2
+Weight = 1
+
+[Piece8]
+Blueprint = ThornThicket_CornerHallway1_02
+Quantity = 2
+Weight = 1
+
+[Piece9]
+Blueprint = ThornThicket_CornerHallway2_02
+Quantity = 2
+Weight = 1
+
+[Piece10]
+Blueprint = ThornThicket_Corner_02
+Quantity = 4
+Weight = 1
+
+[Piece11]
+Blueprint = ThornThicket_SideRoom_02
+Quantity = 2
+Weight = 1
+
+[Piece12]
+Blueprint = ThornThicket_CornerHallway1_03
+Quantity = 2
+Weight = 1
+
+[Piece13]
+Blueprint = ThornThicket_CornerHallway2_03
+Quantity = 2
+Weight = 1
+
+[Piece14]
+Blueprint = ThornThicket_SideRoom_03
+Quantity = 2
+Weight = 1
+
+[Piece15]
+Blueprint = ThornThicket_Corner_03
+Quantity = 4
+Weight = 1
+
+[Piece16]
+Blueprint = ThornThicket_BossStair_02
+Quantity = 1
+Weight = 1
+
+[Piece17]
+Blueprint = ThornThicket_Entrance_02
+Quantity = 1
+Weight = 1
+
+[Piece18]
+Blueprint = ThornThicket_Boss_02
+Quantity = 1
+Weight = 1
+
+[Piece19]
+Blueprint = ThornThicket_SideRoom_04
+Quantity = 2
+Weight = 1
+
+[Piece20]
+Blueprint = ThornThicket_Boss_03
+Quantity = 1
+Weight = 1
+
+[Piece21]
+Blueprint = ThornThicket_BossStair_03
+Quantity = 1
+Weight = 1
+
+[Piece22]
+Blueprint = ThornThicket_CornerHallway1_04
+Quantity = 2
+Weight = 1
+
+[Piece23]
+Blueprint = ThornThicket_CornerHallway2_04
+Quantity = 2
+Weight = 1
+
+[Piece25]
+Blueprint = ThornThicket_Entrance_03
+Quantity = 1
+Weight = 1
+
+[Piece26]
+Blueprint = ThornThicket_Boss_04
+Quantity = 1
+Weight = 1
+
+[Piece27]
+Blueprint = ThornThicket_Dome_02
+Quantity = 1
+Weight = 1
+
+[Piece28]
+Blueprint = ThornThicket_Dome_03
+Quantity = 1
+Weight = 1
+
+[Piece29]
+Blueprint = ThornThicket_Dome_04
+Quantity = 1
+Weight = 1

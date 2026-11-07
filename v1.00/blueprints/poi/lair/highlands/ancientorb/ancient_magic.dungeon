@@ -1,0 +1,6 @@
+[Dungeon]
+Type = Lair
+
+[Piece0]
+Blueprint = ancient_magic
+Quantity = 1

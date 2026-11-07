@@ -1,0 +1,26 @@
+[Dungeon]
+Type = Lair
+
+[Piece0]
+Blueprint = crescentmoon_ext
+Quantity = 1
+
+[Piece2]
+Blueprint = cm_lvl2a
+Quantity = 1
+Weight = 0.3
+
+[Piece3]
+Blueprint = cm_lvl2b
+Quantity = 1
+Weight = .5
+
+
+[Piece1]
+Blueprint = cm_lvl2c
+Quantity = 1
+Weight = .5
+
+[Piece4]
+Blueprint = cm_boss
+Quantity = 1

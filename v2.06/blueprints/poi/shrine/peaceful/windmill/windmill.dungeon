@@ -1,0 +1,35 @@
+[Dungeon]
+Type = Lair
+
+[Piece0]
+Blueprint = mill_1
+Quantity = 1
+weight = 0.33
+
+[Piece1]
+Blueprint = mill_2
+Quantity = 1
+weight = 0.33
+
+[Piece2]
+Blueprint = mill_3
+Quantity = 1
+weight = 0.33
+
+[Piece3]
+Blueprint = flower_1
+Quantity = 1
+weight = 1
+
+[Piece4]
+Blueprint = flower_2
+Quantity = 2
+weight = 1
+
+[Piece5]
+Blueprint = flower_3
+Quantity = 3
+weight = 1
+
+
+

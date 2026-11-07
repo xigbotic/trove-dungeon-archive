@@ -1,0 +1,32 @@
+[Dungeon]
+Type = lair
+
+[Piece0] 
+Blueprint = turtle_01
+Quantity = 1
+Weight = .5
+
+[Piece1] 
+Blueprint = turtle_02
+Quantity = 1
+Weight = .5
+
+[Piece2] 
+Blueprint = turtle_03
+Quantity = 1
+Weight = .5
+
+[Piece3]
+Blueprint = ship_01
+Quantity = 1
+Weight = .5
+
+[Piece4]
+Blueprint = ship_02
+Quantity = 1
+Weight = .5
+
+[Piece6]
+Blueprint = ship_02
+Quantity = 1
+Weight = .5

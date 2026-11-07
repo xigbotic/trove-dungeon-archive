@@ -1,0 +1,45 @@
+Seed 1468095427
+TotalQueries 6
+================= PIECES =============
+Piece base Plug=0 Size=17x28x17
+	Plug Position=0,24,0
+	AABB Min=-8,0,-8 Max=9,28,9
+	Socket 1
+Piece middle_01 Plug=1 Size=33x12x33
+	Plug Position=5,0,0
+	AABB Min=-16,0,-16 Max=17,12,17
+	Socket 2
+Piece middle_00 Plug=1 Size=33x12x33
+	Plug Position=5,0,0
+	AABB Min=-16,0,-16 Max=17,12,17
+	Socket 2
+Piece top_01 Plug=2 Size=33x12x33
+	Plug Position=5,0,0
+	AABB Min=-16,0,-16 Max=17,12,17
+	Socket 3
+Piece top_00 Plug=2 Size=33x13x33
+	Plug Position=5,0,0
+	AABB Min=-16,0,-16 Max=17,13,17
+	Socket 3
+Piece cage_01 Plug=3 Size=39x38x39
+	Plug Position=9,0,0
+	AABB Min=-19,0,-19 Max=20,38,20
+	Socket 4
+Piece cage_00 Plug=3 Size=39x39x39
+	Plug Position=9,0,0
+	AABB Min=-19,0,-19 Max=20,39,20
+	Socket 4
+Piece dome_01 Plug=4 Size=30x16x27
+	Plug Position=14,6,0
+	AABB Min=-15,0,-13 Max=15,16,14
+Piece dome_00 Plug=4 Size=30x16x27
+	Plug Position=14,6,0
+	AABB Min=-15,0,-13 Max=15,16,14
+================= LAYOUT =============
+[0] base [Q=5, D=4]
+	[1] middle_00 [Q=4, D=3]
+		[2] top_01 [Q=3, D=2]
+			[3] cage_01 [Q=1, D=1]
+				[4] dome_01 [Q=0, D=0]
+================= MESSAGES =============
+Dungeon.Type = Lair, 42x96x42 (64 up, 32 down)

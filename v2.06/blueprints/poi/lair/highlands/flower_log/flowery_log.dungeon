@@ -1,0 +1,27 @@
+[Dungeon]
+Type = Lair
+
+[Piece0]
+Blueprint = FloweryLogDungeonEntrance_v1
+Quentity = 1
+Weight = 0.5
+
+[Piece1]
+Blueprint = FloweryLogDungeonEntrance_v2
+Quentity = 1
+Weight = 0.5
+
+[Piece2]
+Blueprint = FloweryLogDungeonLabyrinth_v1
+Quentity = 1
+Weight = 0.5
+
+[Piec3]
+Blueprint = FloweryLogDungeonLabyrinth_v2
+Quentity = 1
+Weight = 0.5
+
+[Piece4]
+Blueprint = FloweryLogDungeonBossRoom_v1
+Quentity = 1
+Weight = 0.5

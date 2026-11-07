@@ -1,0 +1,202 @@
+[Dungeon]
+Type = Dungeon
+
+[Piece0]
+Blueprint = arcanium_museum_base_down
+Quantity = 1
+Weight = 1
+
+[Piece1]
+Blueprint = arcanium_museum_base_up
+Quantity = 1
+Weight = 1
+
+[Piece2]
+Blueprint = arcanium_museum_disc_1
+Quantity = 1
+Weight = 1
+
+[Piece3]
+Blueprint = arcanium_museum_disc_2
+Quantity = 1
+Weight = 1
+
+[Piece4]
+Blueprint = arcanium_museum_entrance_long_blue
+Quantity = 1
+Weight = 1
+
+[Piece5]
+Blueprint = arcanium_museum_entrance_long_purple
+Quantity = 1
+Weight = 1
+
+[Piece6]
+Blueprint = arcanium_museum_entrance_short_blue
+Quantity = 1
+Weight = 1
+
+[Piece7]
+Blueprint = arcanium_museum_entrance_short_purple
+Quantity = 1
+Weight = 1
+
+[Piece8]
+Blueprint = arcanium_museum_gear_big_1
+Quantity = 1
+Weight = 1
+
+[Piece9]
+Blueprint = arcanium_museum_gear_big_2
+Quantity = 1
+Weight = 1
+
+[Piece10]
+Blueprint = arcanium_museum_gear_medium_1
+Quantity = 4
+Weight = 1
+
+[Piece11]
+Blueprint = arcanium_museum_gear_medium_2
+Quantity = 4
+Weight = 1
+
+[Piece12]
+Blueprint = arcanium_museum_gear_small_1
+Quantity = 3
+Weight = 1
+
+[Piece13]
+Blueprint = arcanium_museum_gear_small_2
+Quantity = 3
+Weight = 1
+
+[Piece14]
+Blueprint = arcanium_museum_gear_tiny_1
+Quantity = 4
+Weight = 1
+
+[Piece15]
+Blueprint = arcanium_museum_gear_tiny_2
+Quantity = 4
+Weight = 1
+
+[Piece16]
+Blueprint = arcanium_museum_crossing_blue_left
+Quantity = 1
+Weight = 1
+
+[Piece17]
+Blueprint = arcanium_museum_crossing_blue_right
+Quantity = 1
+Weight = 1
+
+[Piece18]
+Blueprint = arcanium_museum_crossing_purple_left
+Quantity = 1
+Weight = 1
+
+[Piece19]
+Blueprint = arcanium_museum_crossing_purple_right
+Quantity = 1
+Weight = 1
+
+[Piece20]
+Blueprint = arcanium_museum_endcap_beetle
+Quantity = 1
+Weight = 1
+
+[Piece21]
+Blueprint = arcanium_museum_endcap_scorpion
+Quantity = 1
+Weight = 1
+
+[Piece22]
+Blueprint = arcanium_museum_endcap_snake
+Quantity = 1
+Weight = 1
+
+[Piece23]
+Blueprint = arcanium_museum_bigboss_1
+Quantity = 1
+Weight = 1
+
+[Piece24]
+Blueprint = arcanium_museum_bigboss_2
+Quantity = 1
+Weight = 1
+
+[Piece25]
+Blueprint = arcanium_museum_bigboss_3
+Quantity = 1
+Weight = 1
+
+[Piece26]
+Blueprint = arcanium_museum_bigboss_4
+Quantity = 1
+Weight = 1
+
+[Piece27]
+Blueprint = arcanium_museum_corridor_1
+Quantity = 1
+Weight = 1
+
+[Piece28]
+Blueprint = arcanium_museum_corridor_2
+Quantity = 1
+Weight = 1
+
+[Piece29]
+Blueprint = arcanium_museum_corridor_3
+Quantity = 1
+Weight = 1
+
+[Piece30]
+Blueprint = arcanium_museum_corridor_4
+Quantity = 1
+Weight = 1
+
+[Piece31]
+Blueprint = arcanium_museum_corridor_5
+Quantity = 1
+Weight = 1
+
+[Piece32]
+Blueprint = arcanium_museum_miniboss_1
+Quantity = 1
+Weight = 1
+
+[Piece33]
+Blueprint = arcanium_museum_miniboss_2
+Quantity = 1
+Weight = 1
+
+[Piece34]
+Blueprint = arcanium_museum_miniboss_3
+Quantity = 1
+Weight = 1
+
+[Piece35]
+Blueprint = arcanium_museum_miniboss_4
+Quantity = 1
+Weight = 1
+
+[Piece36]
+Blueprint = arcanium_museum_miniboss_5
+Quantity = 1
+Weight = 1
+
+[Piece37]
+Blueprint = arcanium_museum_endcap_toombraiser
+Quantity = 1
+Weight = 0.2
+
+[Piece38]
+Blueprint = arcanium_museum_endcap_miningbot
+Quantity = 1
+Weight = 1
+
+[Piece39]
+Blueprint = arcanium_museum_endcap_cutebot
+Quantity = 1
+Weight = 1

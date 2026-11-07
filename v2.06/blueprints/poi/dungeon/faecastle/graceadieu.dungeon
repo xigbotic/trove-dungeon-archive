@@ -1,0 +1,52 @@
+[Dungeon]
+Type = Dungeon
+
+[Piece0]
+Blueprint = graceadieu_0
+Quantity = 1
+Weight = 1
+
+[Piece1]
+Blueprint= skyumbrella_0
+Quantity = 1
+Weight = 1
+
+[Piece2]
+Blueprint = mainhall_0
+Quantity = 1
+Weight = 0.5
+
+[Piece3]
+Blueprint = mainhall_1
+Quantity = 1
+Weight = 0.5
+
+[Piece4]
+Blueprint = firechamber_0
+Quantity = 1
+Weight = 0.5
+
+[Piece5]
+Blueprint = firechamber_1 
+Quantity = 1
+Weight = 0.5
+
+[Piece6]
+Blueprint = snowglobe_0
+Quantity = 1
+Weight = 0.5
+
+[Piece7]
+Blueprint = snowglobe_1
+Quantity = 1
+Weight = 0.5
+
+[Piece8]
+Blueprint = antechamber_0
+Quantity = 1
+Weight = 0.5
+
+[Piece9]
+Blueprint = antechamber_1
+Quantity = 1
+Weight = 0.5

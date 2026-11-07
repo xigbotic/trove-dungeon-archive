@@ -1,0 +1,28 @@
+[Dungeon]
+Type = lair
+
+[Piece0]
+Blueprint = BlastMine_Entrance
+Quantity = 1
+
+[Piece1]
+Blueprint = BlastMine_lvl1
+Quantity = 1
+
+[Piece2]
+Blueprint = BlastMine_Boss_1
+Quantity = 1
+Weight = 0.33
+
+[Piece3]
+Blueprint = BlastMine_Boss_2
+Quantity = 1
+Weight = 0.33
+
+[Piece4]
+Blueprint = BlastMine_Boss_4
+Quantity = 1
+Weight = 0.33
+
+
+

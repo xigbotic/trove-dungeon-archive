@@ -1,0 +1,7 @@
+[Dungeon]
+
+Type = Dungeon
+
+[Piece0]
+Blueprint = Dungeon_DonutofDoom_Pupshies
+Quantity = 1

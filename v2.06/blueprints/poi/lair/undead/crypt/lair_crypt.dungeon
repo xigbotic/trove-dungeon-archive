@@ -1,0 +1,42 @@
+[Dungeon]
+Type = Lair
+
+[Piece01]
+Blueprint = Lair_Entrance
+Quantity = 1
+
+[Piece02]
+Blueprint = Lair_Boss_Lava
+Quantity = 1
+
+[Piece03]
+Blueprint = Lair_Boss_Water
+Quantity = 1
+
+[Piece04]
+Blueprint = Lair_Boss_Spike
+Quantity = 1
+
+[Piece05]
+Blueprint = Lair_Boss_Natural
+Quantity = 1
+
+[Piece06]
+Blueprint = Lair_Wall_Plain
+Quantity = 1
+
+[Piece07]
+Blueprint = Lair_Wall_Door
+Quantity = 1
+
+[Piece08]
+Blueprint = Lair_Wall_Coffin_1
+Quantity = 1
+
+[Piece09]
+Blueprint = Lair_Wall_Coffin_2
+Quantity = 1
+
+[Piece10]
+Blueprint = Lair_Wall_Coffin_3
+Quantity = 1

@@ -1,0 +1,27 @@
+[Dungeon]
+Type = Lair
+
+[Piece0]
+Blueprint = frozenruinbottom_v1
+Quantity = 1
+Weight = 1
+
+[Piece1]
+Blueprint = frozenruinbottom_v2
+Quantity = 1
+Weight = 1
+
+[Piece2]
+Blueprint = frozenruintop_v1
+Quantity = 1
+Weight = 1
+
+[Piece3]
+Blueprint = frozenruintop_v2
+Quantity = 1
+Weight = 1
+
+[Piece4]
+Blueprint = frozenruintop_v3
+Quantity = 1
+Weight = 1

@@ -1,0 +1,195 @@
+[Piece0]
+Blueprint = Fae_Grodo
+Quantity = 1
+Weight = .25
+
+[Piece1]
+Blueprint = Mid_Platform_01
+Quantity = 1
+Weight = .25
+
+[Piece2]
+Blueprint = Mid_Platform_02
+Quantity = 1
+Weight = .25
+
+[Piece3]
+Blueprint = Red_01
+Quantity = 1
+Weight = .25
+
+[Piece4]
+Blueprint = White_01
+Quantity = 2
+Weight = .25
+
+[Piece5]
+Blueprint = Mush_01
+Quantity = 3
+Weight = .75
+
+[Piece6]
+Blueprint = Mush_02
+Quantity = 3
+Weight = .75
+
+[Piece7]
+Blueprint = Mush_03
+Quantity = 3
+Weight = .75
+
+[Piece5]
+Blueprint = Mush_01
+Quantity = 3
+Weight = .75
+
+[Piece6]
+Blueprint = Mush_02
+Quantity = 3
+Weight = .75
+
+[Piece8]
+Blueprint = Mush_04
+Quantity = 3
+Weight = .75
+
+[Piece9]
+Blueprint = Mush_05
+Quantity = 3
+Weight = .5
+
+[Piece10]
+Blueprint = Mush_06
+Quantity = 3
+Weight = .5
+
+[Piece11]
+Blueprint = Mush_07
+Quantity = 3
+Weight = .5
+
+[Piece12]
+Blueprint = Mush_08
+Quantity = 2
+Weight = .5
+
+[Piece13]
+Blueprint = Mush_09
+Quantity = 2
+Weight = .5
+
+[Piece14]
+Blueprint = Mush_010
+Quantity = 2
+Weight = .25
+
+[Piece15]
+Blueprint = Mush_011
+Quantity = 1
+Weight = .25
+
+[Piece16]
+Blueprint = Mush_012
+Quantity = 1
+Weight = .25
+
+[Piece17]
+Blueprint = Blue_01
+Quantity = 1
+Weight = .25
+
+[Piece18]
+Blueprint = Blue_02
+Quantity = 1
+Weight = .25
+
+[Piece19]
+Blueprint = Red_02
+Quantity = 1
+Weight = .25
+
+[Piece20]
+Blueprint = Yellow_01
+Quantity = 2
+Weight = .25
+
+[Piece21]
+Blueprint = White_02
+Quantity = 2
+Weight = .25
+
+[Piece22]
+Blueprint = White_03
+Quantity = 1
+Weight = .25
+
+[Piece23]
+Blueprint = Red_03
+Quantity = 1
+Weight = .25
+
+[Piece24]
+Blueprint = Red_04
+Quantity = 2
+Weight = .25
+
+[Piece25]
+Blueprint = Red_05
+Quantity = 2
+Weight = .25
+
+[Piece26]
+Blueprint = Red_06
+Quantity = 2
+Weight = .25
+
+[Piece27]
+Blueprint = Blue_03
+Quantity = 1
+Weight = .25
+
+
+[Piece28]
+Blueprint = White_04
+Quantity = 1
+Weight = .25
+
+[Piece29]
+Blueprint = Blue_04
+Quantity = 1
+Weight = .25
+
+[Piece30]
+Blueprint = Mid_Platform_03
+Quantity = 1
+Weight = .25
+
+[Piece31]
+Blueprint = Mid_Platform_04
+Quantity = 1
+Weight = .25
+
+[Piece32]
+Blueprint = Mush_013
+Quantity = 1
+Weight = .25
+
+[Piece33]
+Blueprint = Mush_014
+Quantity = 3
+Weight = .5
+
+[Piece34]
+Blueprint = Mush_015
+Quantity = 3
+Weight = .5
+
+[Piece35]
+Blueprint = Yellow_02
+Quantity = 2
+Weight = .25
+
+[Piece36]
+Blueprint = Yellow_03
+Quantity = 2
+Weight = .25

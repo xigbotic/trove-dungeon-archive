@@ -1,0 +1,32 @@
+[Dungeon]
+
+Type = Lair
+
+[DiscBlue]
+Blueprint = Disc
+Quantity = 1
+Weight = .4
+
+[DiscYellow]
+Blueprint = DiscY
+Quantity = 1
+Weight = .3
+
+[DiscRed]
+Blueprint = DiscR
+Quantity = 1
+Weight = .3
+
+[GameplayBlue]
+Blueprint = L1
+Quantity = 1
+Weight = .5
+
+[GameplayYellow]
+Blueprint = L2
+Quantity = 1
+Weight = .5
+
+[BossArena]
+Blueprint = Arena
+Quantity = 1

@@ -1,0 +1,41 @@
+[Dungeon]
+Type = lair
+
+[Piece0]
+Blueprint = eiscromcone_var1
+Quantity = 1
+Weight = 0.5
+
+
+[Piece1]
+Blueprint = eiscromcone_var2
+Quantity = 1
+Weight = 0.5
+
+[Piece2]
+Blueprint = eiscromconemit_var2
+Quantity = 1
+Weight = 0.5
+
+
+[Piece3]
+Blueprint = eiscromconemit_var3
+Quantity = 1
+Weight = 0.5
+
+
+[Piece4]
+Blueprint = eiscromconetop_var1
+Quantity = 1
+Weight = 0.4
+
+[Piece5]
+Blueprint = eiscromconetop_var2
+Quantity = 1
+Weight = 0.3
+
+
+[Piece6]
+Blueprint = eiscromconetop_var3
+Quantity = 1
+Weight = 0.3

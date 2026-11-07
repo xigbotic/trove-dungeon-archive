@@ -1,0 +1,76 @@
+
+
+[Piece0]
+Blueprint = CandyTracksEntrance
+Quantity = 1
+Weight = 1
+
+[Piece1]
+Blueprint = CandyTracksRightCornerTrap1
+Quantity = 1
+Weight = .33
+
+[Piece3]
+Blueprint = CandyTracksRightCornerTrap2
+Quantity = 1
+Weight = .33
+
+[Piece4]
+Blueprint = CandyTracksLeftCornerTrap1
+Quantity = 1
+Weight = .33
+
+[Piece5]
+Blueprint = CandyTracksLeftCornerTrap2
+Quantity = 1
+Weight = .33
+
+[Piece6]
+Blueprint = CandyTracksLairRight1
+Quantity = 1
+Weight = .33
+
+[Piece7]
+Blueprint = CandyTracksLairRight2
+Quantity = 1
+Weight = .33
+
+[Piece8]
+Blueprint = CandyTracksLairLeft1
+Quantity = 1
+Weight = .33
+
+[Piece+9]
+Blueprint = CandyTracksLairLeft2
+Quantity = 1
+Weight = .33
+
+[Piece10]
+Blueprint = CandyTracksCorridoorRight1
+Quantity = 1
+Weight = .33
+
+[Piece11]
+Blueprint = CandyTracksCorridoorRight2
+Quantity = 1
+Weight = .33
+
+[Piece12]
+Blueprint = CandyTracksCorridoorLeft1
+Quantity = 1
+Weight = .33
+
+[Piece13]
+Blueprint = CandyTracksCorridoorLeft2
+Quantity = 1
+Weight = .33
+
+[Piece14]
+Blueprint = CandyTracksBoss1
+Quantity = 1
+Weight = .33
+
+[Piece15]
+Blueprint = CandyTracksBoss2
+Quantity = 1
+Weight = .33

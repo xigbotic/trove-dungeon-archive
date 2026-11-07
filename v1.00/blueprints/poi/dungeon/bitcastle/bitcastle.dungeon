@@ -1,0 +1,98 @@
+[Dungeon]
+Type = Dungeon
+
+[Piece0]
+Blueprint = MainTower
+Quantity = 1
+
+[Piece1]
+Blueprint = MainFloor_1
+Quantity = 1
+Weight = .33
+
+[Piece2]
+Blueprint = MainFloor_2
+Quantity = 1
+Weight = .33
+
+[Piece3]
+Blueprint = MainFloor_3
+Quantity = 1
+Weight = .33
+
+[Piece4]
+Blueprint = MainFloor_Q
+Quantity = 1
+
+[Piece5]
+Blueprint = Ringpath
+Quantity = 1
+
+[Piece6]
+Blueprint = RingpathConect_1
+Quantity = 2
+Weight = .25
+
+[Piece7]
+Blueprint = RingpathConect_2
+Quantity = 2
+Weight = .25
+
+[Piece8]
+Blueprint = RingpathConect_3
+Quantity = 2
+Weight = .25
+
+[Piece9]
+Blueprint = RingpathConect_4
+Quantity = 2
+Weight = .25
+
+[Piece10]
+Blueprint = SubTower_1
+Quantity = 2
+Weight = .5
+
+[Piece11]
+Blueprint = SubTower_3
+Quantity = 2
+Weight = .5
+
+[Piece12]
+Blueprint = SubFloor_1
+Quantity = 2
+Weight = .33
+
+[Piece13]
+Blueprint = SubFloor_2
+Quantity = 2
+Weight = .33
+
+[Piece14]
+Blueprint = SubFloor_3
+Quantity = 2
+Weight = .33
+
+[Piece15]
+Blueprint = SubFloor_1_1
+Quantity = 2
+Weight = .33
+
+
+[Piece16]
+Blueprint = SubFloor_2_1
+Quantity = 2
+Weight = .33
+
+[Piece17]
+Blueprint = SubFloor_3_1
+Quantity = 2
+Weight = .33
+
+[Piece18]
+Blueprint = SubFloor_Q
+Quantity = 1
+
+[Piece19]
+Blueprint = SubFloor_B
+Quantity = 1

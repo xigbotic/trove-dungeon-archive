@@ -1,0 +1,70 @@
+Seed 731681378
+TotalQueries 10
+================= PIECES =============
+Piece main_00 Plug=0 Size=57x125x58
+	Plug Position=0,10,0
+	AABB Min=-28,0,-28 Max=29,125,30
+	Socket 1
+Piece main_01 Plug=0 Size=57x97x58
+	Plug Position=0,10,0
+	AABB Min=-28,0,-28 Max=29,97,30
+	Socket 1
+Piece ring_00 Plug=1 Size=121x43x120
+	Plug Position=0,16,28
+	AABB Min=-60,0,-60 Max=61,43,60
+	Socket 3
+	Socket 2
+	Socket 5
+	Socket 4
+	Socket 5
+	Socket 4
+	Socket 3
+	Socket 2
+Piece ring_01 Plug=1 Size=121x43x120
+	Plug Position=0,16,-30
+	AABB Min=-60,0,-60 Max=61,43,60
+	Socket 2
+	Socket 5
+	Socket 4
+	Socket 3
+	Socket 2
+	Socket 4
+	Socket 5
+	Socket 3
+Piece hall_00 Plug=2 Size=15x12x26
+	Plug Position=0,1,12
+	AABB Min=-7,0,-13 Max=8,12,13
+Piece fill_00 Plug=2 Size=15x12x24
+	Plug Position=0,1,11
+	AABB Min=-7,0,-12 Max=8,12,12
+Piece hall_01 Plug=3 Size=15x12x26
+	Plug Position=0,1,12
+	AABB Min=-7,0,-13 Max=8,12,13
+Piece fill_01 Plug=3 Size=15x12x24
+	Plug Position=0,1,11
+	AABB Min=-7,0,-12 Max=8,12,12
+Piece fill_02 Plug=4 Size=15x12x24
+	Plug Position=0,1,11
+	AABB Min=-7,0,-12 Max=8,12,12
+Piece hall_02 Plug=4 Size=15x12x26
+	Plug Position=0,1,12
+	AABB Min=-7,0,-13 Max=8,12,13
+Piece hall_03 Plug=5 Size=15x12x26
+	Plug Position=0,1,12
+	AABB Min=-7,0,-13 Max=8,12,13
+Piece fill_03 Plug=5 Size=15x12x24
+	Plug Position=0,1,11
+	AABB Min=-7,0,-12 Max=8,12,12
+================= LAYOUT =============
+[0] main_01 [Q=9, D=9]
+	[1] ring_01 [Q=8, D=8]
+		[2] hall_00 [Q=0, D=0]
+		[3] hall_03 [Q=0, D=0]
+		[4] hall_02 [Q=0, D=0]
+		[5] fill_01 [Q=0, D=0]
+		[6] fill_00 [Q=0, D=0]
+		[7] fill_02 [Q=0, D=0]
+		[8] fill_03 [Q=0, D=0]
+		[9] hall_01 [Q=0, D=0]
+================= MESSAGES =============
+Dungeon.Type = Dungeon, 128x256x128

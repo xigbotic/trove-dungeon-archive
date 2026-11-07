@@ -1,0 +1,45 @@
+Seed 1203617480
+TotalQueries 4
+================= PIECES =============
+Piece DNG_frontierchurch_base Plug=0 Size=39x22x39
+	Plug Position=0,20,0
+	AABB Min=-19,0,-19 Max=20,22,20
+	Socket 1
+	Socket 3
+Piece DNG_frontierchurch_boss1 Plug=1 Size=37x18x37
+	Plug Position=0,2,-14
+	AABB Min=-18,0,-18 Max=19,18,19
+Piece DNG_frontierchurch_boss2 Plug=1 Size=37x18x37
+	Plug Position=0,2,-14
+	AABB Min=-18,0,-18 Max=19,18,19
+Piece DNG_frontierchurch_boss3 Plug=1 Size=37x18x37
+	Plug Position=0,2,-14
+	AABB Min=-18,0,-18 Max=19,18,19
+Piece DNG_frontierchurch_church3 Plug=2 Size=23x36x37
+	Plug Position=0,1,-15
+	AABB Min=-11,-2,-18 Max=12,34,19
+Piece DNG_frontierchurch_church1 Plug=2 Size=23x34x37
+	Plug Position=-1,1,-15
+	AABB Min=-12,0,-18 Max=11,34,19
+Piece DNG_frontierchurch_church2 Plug=2 Size=23x34x37
+	Plug Position=-1,1,-15
+	AABB Min=-12,0,-18 Max=11,34,19
+Piece DNG_frontierchurch_exterior1 Plug=3 Size=39x38x39
+	Plug Position=0,2,-19
+	AABB Min=-19,0,-19 Max=20,38,20
+	Socket 2
+Piece DNG_frontierchurch_exterior3 Plug=3 Size=31x38x41
+	Plug Position=0,2,-19
+	AABB Min=-15,0,-20 Max=16,38,21
+	Socket 2
+Piece DNG_frontierchurch_exterior2 Plug=3 Size=39x38x39
+	Plug Position=0,2,-19
+	AABB Min=-19,0,-19 Max=20,38,20
+	Socket 2
+================= LAYOUT =============
+[0] DNG_frontierchurch_base [Q=3, D=3]
+	[1] DNG_frontierchurch_boss1 [Q=0, D=0]
+	[2] DNG_frontierchurch_exterior2 [Q=1, D=1]
+		[3] DNG_frontierchurch_church2 [Q=0, D=0]
+================= MESSAGES =============
+Dungeon.Type = Lair, 42x96x42 (64 up, 32 down)

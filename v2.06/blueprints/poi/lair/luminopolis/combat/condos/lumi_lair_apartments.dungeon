@@ -1,0 +1,133 @@
+[Dungeon]
+Type = Dungeon
+
+[Piece0]
+Blueprint = lumi_lair_apartments_top_1a
+Quantity = 1
+Weight = 0.25
+
+[Piece1]
+Blueprint = lumi_lair_apartments_top_1b
+Quantity = 1
+Weight = 0.25
+
+
+[Piece2]
+Blueprint = lumi_lair_apartments_top_2a
+Quantity = 1
+Weight = 0.25
+
+
+[Piece3]
+Blueprint = lumi_lair_apartments_top_2b
+Quantity = 1
+Weight = 0.25
+
+
+[Piece4]
+Blueprint = lumi_lair_apartments_top_3a
+Quantity = 1
+Weight = 0.25
+
+
+[Piece5]
+Blueprint = lumi_lair_apartments_top_3b
+Quantity = 1
+Weight = 0.25
+
+
+[Piece6]
+Blueprint = lumi_lair_apartments_top_4a
+Quantity = 1
+Weight = 0.25
+
+
+[Piece7]
+Blueprint = lumi_lair_apartments_top_4b
+Quantity = 1
+Weight = 0.25
+
+
+[Piece8]
+Blueprint = lumi_lair_apartments_room_1a
+Quantity = 1
+Weight = 0.25
+
+
+[Piece9]
+Blueprint = lumi_lair_apartments_room_1b
+Quantity = 1
+Weight = 0.25
+
+
+[Piece10]
+Blueprint = lumi_lair_apartments_room_2a
+Quantity = 1
+Weight = 0.25
+
+
+[Piece11]
+Blueprint = lumi_lair_apartments_room_2b
+Quantity = 1
+Weight = 0.25
+
+
+[Piece12]
+Blueprint = lumi_lair_apartments_room_3a
+Quantity = 1
+Weight = 0.25
+
+
+[Piece13]
+Blueprint = lumi_lair_apartments_room_3b
+Quantity = 1
+Weight = 0.25
+
+
+[Piece14]
+Blueprint = lumi_lair_apartments_room_4a
+Quantity = 1
+Weight = 0.25
+
+
+[Piece15]
+Blueprint = lumi_lair_apartments_room_4b
+Quantity = 1
+Weight = 0.25
+
+
+[Piece16]
+Blueprint = lumi_lair_apartments_boss_1a
+Quantity = 1
+Weight = 0.25
+
+
+[Piece17]
+Blueprint = lumi_lair_apartments_boss_1b
+Quantity = 1
+Weight = 0.25
+
+
+[Piece18]
+Blueprint = lumi_lair_apartments_boss_1c
+Quantity = 1
+Weight = 0.25
+
+
+[Piece19]
+Blueprint = lumi_lair_apartments_boss_2a
+Quantity = 1
+Weight = 0.25
+
+
+[Piece20]
+Blueprint = lumi_lair_apartments_boss_2b
+Quantity = 1
+Weight = 0.25
+
+
+[Piece21]
+Blueprint = lumi_lair_apartments_boss_2c
+Quantity = 1
+Weight = 0.25
+

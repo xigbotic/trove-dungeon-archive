@@ -1,0 +1,40 @@
+Seed 978309674
+TotalQueries 4
+================= PIECES =============
+Piece core Plug=0 Size=39x73x39
+	Plug Position=0,13,0
+	AABB Min=-19,0,-19 Max=20,73,20
+	Socket 3
+	Socket 2
+	Socket 1
+Piece bossa Plug=1 Size=32x12x32
+	Plug Position=0,11,-1
+	AABB Min=-16,0,-16 Max=16,12,16
+Piece bossb Plug=1 Size=32x12x32
+	Plug Position=0,11,-1
+	AABB Min=-16,0,-16 Max=16,12,16
+Piece tablea Plug=2 Size=37x14x25
+	Plug Position=0,0,-2
+	AABB Min=-18,0,-12 Max=19,14,13
+Piece tableb Plug=2 Size=37x15x25
+	Plug Position=0,0,-2
+	AABB Min=-18,0,-12 Max=19,15,13
+Piece heady Plug=3 Size=17x38x39
+	Plug Position=-2,0,1
+	AABB Min=-8,0,-19 Max=9,38,20
+Piece headb Plug=3 Size=17x39x39
+	Plug Position=-2,0,1
+	AABB Min=-8,0,-19 Max=9,39,20
+Piece headg Plug=3 Size=17x39x39
+	Plug Position=-2,0,1
+	AABB Min=-8,0,-19 Max=9,39,20
+Piece headp Plug=3 Size=17x38x39
+	Plug Position=-2,0,1
+	AABB Min=-8,0,-19 Max=9,38,20
+================= LAYOUT =============
+[0] core [Q=3, D=3]
+	[1] headg [Q=0, D=0]
+	[2] tablea [Q=0, D=0]
+	[3] bossa [Q=0, D=0]
+================= MESSAGES =============
+Dungeon.Type = Lair, 42x96x42 (64 up, 32 down)

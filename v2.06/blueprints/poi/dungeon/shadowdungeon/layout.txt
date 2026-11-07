@@ -1,0 +1,138 @@
+Seed 171082864
+TotalQueries 8
+================= PIECES =============
+Piece base_02 Plug=0 Size=82x45x117
+	Plug Position=0,0,-1
+	AABB Min=-36,0,-58 Max=46,45,59
+	Socket 2
+	Socket 1
+	Socket 4
+	Socket 5
+	Socket 6
+Piece base_01 Plug=0 Size=82x45x117
+	Plug Position=0,0,-1
+	AABB Min=-36,0,-58 Max=46,45,59
+	Socket 4
+	Socket 5
+	Socket 2
+	Socket 1
+	Socket 6
+Piece encounter_01e Plug=1 Size=29x19x29
+	Plug Position=14,1,-1
+	AABB Min=-14,0,-15 Max=15,19,14
+Piece encounter_01d Plug=1 Size=29x19x29
+	Plug Position=14,1,-1
+	AABB Min=-14,0,-15 Max=15,19,14
+Piece encounter_01c Plug=1 Size=29x19x29
+	Plug Position=14,1,-1
+	AABB Min=-14,0,-15 Max=15,19,14
+Piece encounter_01b Plug=1 Size=29x19x29
+	Plug Position=14,1,-1
+	AABB Min=-14,0,-15 Max=15,19,14
+Piece encounter_01a Plug=1 Size=29x19x29
+	Plug Position=14,1,-1
+	AABB Min=-14,0,-15 Max=15,19,14
+Piece encounter_01f Plug=1 Size=29x19x29
+	Plug Position=14,1,-1
+	AABB Min=-14,0,-15 Max=15,19,14
+Piece encounter_large_02d Plug=2 Size=35x41x59
+	Plug Position=0,12,28
+	AABB Min=-17,0,-30 Max=18,41,29
+Piece encounter_large_02c Plug=2 Size=35x41x59
+	Plug Position=0,12,28
+	AABB Min=-17,0,-30 Max=18,41,29
+Piece encounter_large_03_template Plug=2 Size=57x61x59
+	Plug Position=0,39,28
+	AABB Min=-28,0,-30 Max=29,61,29
+	Socket 3
+	Socket 7
+Piece encounter_large_01a Plug=2 Size=29x20x59
+	Plug Position=0,1,28
+	AABB Min=-14,0,-30 Max=15,20,29
+Piece encounter_large_02b Plug=2 Size=35x41x59
+	Plug Position=0,12,28
+	AABB Min=-17,0,-30 Max=18,41,29
+Piece encounter_large_01d Plug=2 Size=29x20x59
+	Plug Position=0,1,28
+	AABB Min=-14,0,-30 Max=15,20,29
+Piece encounter_large_01c Plug=2 Size=29x20x59
+	Plug Position=0,1,28
+	AABB Min=-14,0,-30 Max=15,20,29
+Piece encounter_large_02a Plug=2 Size=35x41x59
+	Plug Position=0,12,28
+	AABB Min=-17,0,-30 Max=18,41,29
+Piece encounter_large_01b Plug=2 Size=29x20x59
+	Plug Position=0,1,28
+	AABB Min=-14,0,-30 Max=15,20,29
+Piece encounter_large_03_puzzle_02c Plug=3 Size=39x15x48
+	Plug Position=0,14,23
+	AABB Min=-19,0,-24 Max=20,15,24
+Piece encounter_large_03_puzzle_02b Plug=3 Size=39x15x48
+	Plug Position=0,14,23
+	AABB Min=-19,0,-24 Max=20,15,24
+Piece encounter_large_03_puzzle_02a Plug=3 Size=39x19x48
+	Plug Position=0,14,23
+	AABB Min=-19,0,-24 Max=20,19,24
+Piece encounter_large_03_puzzle_01a Plug=3 Size=51x16x55
+	Plug Position=0,12,26
+	AABB Min=-25,0,-28 Max=26,16,27
+Piece encounter_large_03_puzzle_01c Plug=3 Size=51x13x56
+	Plug Position=0,12,26
+	AABB Min=-25,0,-29 Max=26,13,27
+Piece encounter_large_03_puzzle_01b Plug=3 Size=51x13x55
+	Plug Position=0,12,26
+	AABB Min=-25,0,-28 Max=26,13,27
+Piece encounter_02e Plug=4 Size=29x19x29
+	Plug Position=0,1,13
+	AABB Min=-14,0,-15 Max=15,19,14
+Piece encounter_02f Plug=4 Size=29x19x29
+	Plug Position=0,1,13
+	AABB Min=-14,0,-15 Max=15,19,14
+Piece encounter_02a Plug=4 Size=29x19x29
+	Plug Position=0,1,13
+	AABB Min=-14,0,-15 Max=15,19,14
+Piece encounter_02d Plug=4 Size=29x19x29
+	Plug Position=0,1,13
+	AABB Min=-14,0,-15 Max=15,19,14
+Piece encounter_02b Plug=4 Size=29x19x29
+	Plug Position=0,1,13
+	AABB Min=-14,0,-15 Max=15,19,14
+Piece encounter_02c Plug=4 Size=29x19x29
+	Plug Position=0,1,13
+	AABB Min=-14,0,-15 Max=15,19,14
+Piece encounter_03a Plug=5 Size=29x19x29
+	Plug Position=-14,1,-1
+	AABB Min=-14,0,-15 Max=15,19,14
+Piece encounter_03b Plug=5 Size=29x19x29
+	Plug Position=-14,1,-1
+	AABB Min=-14,0,-15 Max=15,19,14
+Piece encounter_03e Plug=5 Size=29x19x29
+	Plug Position=-14,1,-1
+	AABB Min=-14,0,-15 Max=15,19,14
+Piece encounter_03f Plug=5 Size=29x19x29
+	Plug Position=-14,1,-1
+	AABB Min=-14,0,-15 Max=15,19,14
+Piece encounter_03d Plug=5 Size=29x19x29
+	Plug Position=-14,1,-1
+	AABB Min=-14,0,-15 Max=15,19,14
+Piece encounter_03c Plug=5 Size=29x19x29
+	Plug Position=-14,1,-1
+	AABB Min=-14,0,-15 Max=15,19,14
+Piece boss_01 Plug=6 Size=47x19x47
+	Plug Position=0,1,-24
+	AABB Min=-23,0,-24 Max=24,19,23
+Piece boss_03 Plug=6 Size=47x19x47
+	Plug Position=0,1,-24
+	AABB Min=-23,0,-24 Max=24,19,23
+Piece boss_02 Plug=6 Size=47x19x47
+	Plug Position=0,1,-24
+	AABB Min=-23,0,-24 Max=24,19,23
+================= LAYOUT =============
+[0] base_02 [Q=7, D=5]
+	[1] encounter_large_02c [Q=0, D=0]
+	[2] encounter_01e [Q=0, D=0]
+	[3] encounter_02e [Q=0, D=0]
+	[4] encounter_03d [Q=0, D=0]
+	[5] boss_01 [Q=0, D=0]
+================= MESSAGES =============
+Dungeon.Type = Dungeon, 128x256x128

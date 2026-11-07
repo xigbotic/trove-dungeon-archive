@@ -1,0 +1,84 @@
+Seed 546345926
+TotalQueries 4
+================= PIECES =============
+Piece main Plug=0 Size=38x61x37
+	Plug Position=0,30,0
+	AABB Min=-18,29,-18 Max=20,90,19
+	Socket 1
+Piece main_alt Plug=0 Size=38x61x37
+	Plug Position=0,30,0
+	AABB Min=-19,29,-18 Max=19,90,19
+	Socket 4
+Piece 003_top Plug=1 Size=39x10x39
+	Plug Position=0,9,0
+	AABB Min=-19,0,-19 Max=20,10,20
+	Socket 2
+Piece 001_top Plug=1 Size=39x10x39
+	Plug Position=0,9,0
+	AABB Min=-19,0,-19 Max=20,10,20
+	Socket 2
+Piece 002_top Plug=1 Size=39x10x39
+	Plug Position=0,9,0
+	AABB Min=-19,0,-19 Max=20,10,20
+	Socket 2
+Piece 002_mid Plug=2 Size=39x11x39
+	Plug Position=0,10,0
+	AABB Min=-19,0,-19 Max=20,11,20
+	Socket 3
+Piece 001_mid Plug=2 Size=39x11x39
+	Plug Position=0,10,0
+	AABB Min=-19,0,-19 Max=20,11,20
+	Socket 3
+Piece 003_mid Plug=2 Size=39x11x39
+	Plug Position=0,10,0
+	AABB Min=-19,0,-19 Max=20,11,20
+	Socket 3
+Piece 003_bot Plug=3 Size=39x11x39
+	Plug Position=0,10,0
+	AABB Min=-19,0,-19 Max=20,11,20
+Piece 001_bot Plug=3 Size=39x11x39
+	Plug Position=0,10,0
+	AABB Min=-19,0,-19 Max=20,11,20
+Piece 002_bot Plug=3 Size=39x11x39
+	Plug Position=0,10,0
+	AABB Min=-19,0,-19 Max=20,11,20
+Piece 001_top_alt Plug=4 Size=39x10x39
+	Plug Position=0,9,0
+	AABB Min=-19,0,-19 Max=20,10,20
+	Socket 5
+Piece 003_top_alt Plug=4 Size=39x10x39
+	Plug Position=0,9,0
+	AABB Min=-19,0,-19 Max=20,10,20
+	Socket 5
+Piece 002_top_alt Plug=4 Size=39x10x39
+	Plug Position=0,9,0
+	AABB Min=-19,0,-19 Max=20,10,20
+	Socket 5
+Piece 001_mid_alt Plug=5 Size=39x11x39
+	Plug Position=0,10,0
+	AABB Min=-19,0,-19 Max=20,11,20
+	Socket 6
+Piece 002_mid_alt Plug=5 Size=39x11x39
+	Plug Position=0,10,0
+	AABB Min=-19,0,-19 Max=20,11,20
+	Socket 6
+Piece 003_mid_alt Plug=5 Size=39x11x39
+	Plug Position=0,10,0
+	AABB Min=-19,0,-19 Max=20,11,20
+	Socket 6
+Piece 002_bot_alt Plug=6 Size=39x11x39
+	Plug Position=0,10,0
+	AABB Min=-19,0,-19 Max=20,11,20
+Piece 001_bot_alt Plug=6 Size=39x11x39
+	Plug Position=0,10,0
+	AABB Min=-19,0,-19 Max=20,11,20
+Piece 003_bot_alt Plug=6 Size=39x11x39
+	Plug Position=0,10,0
+	AABB Min=-19,0,-19 Max=20,11,20
+================= LAYOUT =============
+[0] main [Q=3, D=3]
+	[1] 002_top [Q=2, D=2]
+		[2] 001_mid [Q=1, D=1]
+			[3] 002_bot [Q=0, D=0]
+================= MESSAGES =============
+Dungeon.Type = Lair, 42x96x42 (64 up, 32 down)

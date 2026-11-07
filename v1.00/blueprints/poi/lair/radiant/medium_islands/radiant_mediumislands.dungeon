@@ -1,0 +1,91 @@
+[Dungeon]
+Type = Lair
+
+[Piece0]
+Blueprint = base_01
+Quantity = 1
+
+[Piece1]
+Blueprint = underground_01_template
+Quantity = 1
+Weight = .5
+
+[Piece2]
+Blueprint = underground_01_hollow_template
+Quantity = 1
+Weight = .25
+
+[Piece3]
+Blueprint = underground_02_template
+Quantity = 1
+Weight = .5
+
+[Piece4]
+Blueprint = underground_02_hollow_template
+Quantity = 1
+Weight = .25
+
+[Piece5]
+Blueprint = platform_l01_template
+Quantity = 1
+Weight = .33
+
+[Piece6]
+Blueprint = platform_l02_template
+Quantity = 1
+Weight = .33
+
+[Piece7]
+Blueprint = platform_l03_template
+Quantity = 1
+Weight = .33
+
+[Piece8]
+Blueprint = platform_m01_template
+Quantity = 4
+Weight = .25
+
+[Piece9]
+Blueprint = platform_m02_template
+Quantity = 4
+Weight = .25
+
+[Piece10]
+Blueprint = platform_m03_template
+Quantity = 4
+Weight = .25
+
+[Piece11]
+Blueprint = platform_m04_template
+Quantity = 4
+Weight = .25
+
+[Piece12]
+Blueprint = platform_s01_template
+Quantity = 4
+Weight = .2
+
+[Piece13]
+Blueprint = platform_s02_template
+Quantity = 4
+Weight = .2
+
+[Piece14]
+Blueprint = platform_s03_template
+Quantity = 4
+Weight = .4
+
+[Piece15]
+Blueprint = beacon_01_template
+Quantity = 4
+Weight = .33
+
+[Piece16]
+Blueprint = beacon_02_template
+Quantity = 4
+Weight = .33
+
+[Piece17]
+Blueprint = beacon_03_template
+Quantity = 4
+Weight = .33

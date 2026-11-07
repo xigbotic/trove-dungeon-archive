@@ -1,0 +1,47 @@
+[Dungeon]
+Type = Lair
+
+[Piece0]
+Blueprint = desert_lair_critters_final_1
+Quantity = 1
+Weight = 0.4
+
+[Piece1]
+Blueprint = desert_lair_critters_final_2
+Quantity = 1
+Weight = 0.4
+
+[Piece2]
+Blueprint = desert_lair_critters_final_3
+Quantity = 1
+Weight = 0.4
+
+[Piece3]
+Blueprint = desert_lair_critters_room_1
+Quantity = 1
+Weight = 0.4
+
+[Piece4]
+Blueprint = desert_lair_critters_room_2
+Quantity = 1
+Weight = 0.4
+
+[Piece5]
+Blueprint = desert_lair_critters_room_3
+Quantity = 1
+Weight = 0.4
+
+[Piece6]
+Blueprint = desert_lair_critters_top_1
+Quantity = 1
+Weight = 0.4
+
+[Piece7]
+Blueprint = desert_lair_critters_top_2
+Quantity = 1
+Weight = 0.4
+
+[Piece8]
+Blueprint = desert_lair_critters_top_3
+Quantity = 1
+Weight = 0.4

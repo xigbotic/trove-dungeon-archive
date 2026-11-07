@@ -1,0 +1,11 @@
+[Piece0]
+Blueprint = Ice_Queen_Globe
+Quantity = 1
+
+[Piece1]
+Blueprint = Ice_Queen_Globe_F1
+Quantity = 1
+
+[Piece2]
+Blueprint = Ice_Queen_Globe_F2
+Quantity = 1

@@ -1,0 +1,162 @@
+[Dungeon]
+Type = Lair
+
+[Piece0]
+Blueprint = Main_1
+Quantity = 1
+Weight = 1
+
+[Piece1]
+Blueprint = Main_2
+Quantity = 1
+Weight = 1
+
+[Piece2]
+Blueprint = Path_1
+Quantity = 1
+Weight = 1
+
+[Piece3]
+Blueprint = Path_2
+Quantity = 1
+Weight = 1
+
+[Piece4]
+Blueprint = Path_3
+Quantity = 1
+Weight = 1
+
+[Piece5]
+Blueprint = Boss_1
+Quantity = 1
+Weight = 1
+
+[Piece6]
+Blueprint = Boss_2
+Quantity = 1
+Weight = 1
+
+[Piece7]
+Blueprint = Tree_1
+Quantity = 2
+Weight = 1
+
+[Piece8]
+Blueprint = Tree_2
+Quantity = 2
+Weight = 1
+
+[Piece9]
+Blueprint = Tree_3
+Quantity = 1
+Weight = 1
+
+[Piece10]
+Blueprint = Tree_4
+Quantity = 1
+Weight = 1
+
+[Piece11]
+Blueprint = Tree_5
+Quantity = 1
+Weight = 1
+
+[Piece12]
+Blueprint = Tree_6
+Quantity = 1
+Weight = 1
+
+[Piece13]
+Blueprint = Rock_Grey_1
+Quantity = 2
+Weight = 1
+
+[Piece14]
+Blueprint = Rock_Grey_2
+Quantity = 2
+Weight = 1
+
+[Piece15]
+Blueprint = Rock_Grey_3
+Quantity = 1
+Weight = 1
+
+[Piece16]
+Blueprint = Room_1
+Quantity = 2
+Weight = 1
+
+[Piece17]
+Blueprint = Room_2
+Quantity = 2
+Weight = 1
+
+[Piece18]
+Blueprint = Room_3
+Quantity = 2
+Weight = 1
+
+[Piece19]
+Blueprint = Room_4
+Quantity = 1
+Weight = 1
+
+[Piece20]
+Blueprint = Rock_Brown_1
+Quantity = 1
+Weight = 1
+
+[Piece21]
+Blueprint = Rock_Brown_2
+Quantity = 1
+Weight = 1
+
+[Piece22]
+Blueprint = Rock_Brown_3
+Quantity = 1
+Weight = 1
+
+[Piece23]
+Blueprint = Pillar_1
+Quantity = 1
+Weight = 1
+
+[Piece24]
+Blueprint = Pillar_2
+Quantity = 1
+Weight = 1
+
+[Piece25]
+Blueprint = Pillar_3
+Quantity = 1
+Weight = 1
+
+[Piece26]
+Blueprint = Stalagmite_1
+Quantity = 1
+Weight = 1
+
+[Piece27]
+Blueprint = Stalagmite_2
+Quantity = 2
+Weight = 1
+
+[Piece28]
+Blueprint = Stalagmite_3
+Quantity = 2
+Weight = 1
+
+[Piece29]
+Blueprint = Stalagtite_1
+Quantity = 5
+Weight = 1
+
+[Piece30]
+Blueprint = Stalagtite_2
+Quantity = 5
+Weight = 1
+
+[Piece31]
+Blueprint = Stalagtite_3
+Quantity = 3
+Weight = 1

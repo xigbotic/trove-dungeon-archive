@@ -1,0 +1,117 @@
+[Dungeon]
+Type = Dungeon
+
+[Piece0]
+Blueprint = dungeon_spacecraft_case_01
+Quantity = 1
+Weight = 0.5
+
+#[Piece1]
+#Blueprint = dungeon_spacecraft_case_02
+#Quantity = 1
+#Weight = 0.5
+
+[Piece2]
+Blueprint = dungeon_spacecraft_corridors_left_01
+Quantity = 1
+Weight = 0.5
+
+[Piece3]
+Blueprint = dungeon_spacecraft_corridors_left_02
+Quantity = 1
+Weight = 0.5
+
+[Piece4]
+Blueprint = dungeon_spacecraft_corridors_left_03
+Quantity = 1
+Weight = 0.5
+
+[Piece5]
+Blueprint = dungeon_spacecraft_corridors_right_01
+Quantity = 1
+Weight = 0.5
+
+[Piece6]
+Blueprint = dungeon_spacecraft_corridors_right_02
+Quantity = 1
+Weight = 0.5
+
+[Piece7]
+Blueprint = dungeon_spacecraft_corridors_right_03
+Quantity = 1
+Weight = 0.5
+
+[Piece8]
+Blueprint = dungeon_spacecraft_corridors_center_01
+Quantity = 1
+Weight = 0.5
+
+[Piece9]
+Blueprint = dungeon_spacecraft_corridors_center_02
+Quantity = 1
+Weight = 0.5
+
+[Piece10]
+Blueprint = dungeon_spacecraft_corridors_center_03
+Quantity = 1
+Weight = 0.5
+
+#[Piece11]
+#Blueprint = dungeon_spacecraft_corridors_center_04
+#Quantity = 1
+#Weight = 0.5
+
+[Piece12]
+Blueprint = dungeon_spacecraft_spine
+Quantity = 1
+Weight = 1
+
+[Piece13]
+Blueprint = dungeon_spacecraft_boss_master_01
+Quantity = 1
+Weight = 0.5
+
+[Piece14]
+Blueprint = dungeon_spacecraft_boss_master_02
+Quantity = 1
+Weight = 0.5
+
+[Piece15]
+Blueprint = dungeon_spacecraft_miniboss_engineering
+Quantity = 1
+Weight = 0.5
+
+[Piece16]
+Blueprint = dungeon_spacecraft_miniboss_boiler
+Quantity = 1
+Weight = 0.5
+
+[Piece17]
+Blueprint = dungeon_spacecraft_miniboss_teleport
+Quantity = 1
+Weight = 0.5
+
+[Piece18]
+Blueprint = dungeon_spacecraft_miniboss_storage
+Quantity = 1
+Weight = 0.5
+
+[Piece19]
+Blueprint = dungeon_spacecraft_miniboss_pumps
+Quantity = 1
+Weight = 0.5
+
+[Piece20]
+Blueprint = dungeon_spacecraft_miniboss_circuit
+Quantity = 1
+Weight = 0.5
+
+[Piece21]
+Blueprint = dungeon_spacecraft_miniboss_containment
+Quantity = 1
+Weight = 0.5
+
+[Piece22]
+Blueprint = dungeon_spacecraft_miniboss_gears
+Quantity = 1
+Weight = 0.5

@@ -1,0 +1,162 @@
+[Dungeon]
+Type = Dungeon
+
+[Piece0]
+Blueprint = dungeon_miningdrones_spine_bot_01
+Quantity = 1
+Weight = 0.5
+
+[Piece1]
+Blueprint = dungeon_miningdrones_bot_case_01_01
+Quantity = 1
+Weight = 0.5
+
+[Piece2]
+Blueprint = dungeon_miningdrones_bot_case_01_02
+Quantity = 1
+Weight = 0.5
+
+[Piece3]
+Blueprint = dungeon_miningdrones_spine_bot_02
+Quantity = 1
+Weight = 0.5
+
+[Piece4]
+Blueprint = dungeon_miningdrones_bot_case_02_01
+Quantity = 1
+Weight = 0.5
+
+[Piece5]
+Blueprint = dungeon_miningdrones_bot_case_02_02
+Quantity = 1
+Weight = 0.5
+
+[Piece6]
+Blueprint = dungeon_miningdrones_spine_bot_03
+Quantity = 1
+Weight = 0.5
+
+[Piece7]
+Blueprint = dungeon_miningdrones_bot_case_03_01
+Quantity = 1
+Weight = 0.5
+
+[Piece8]
+Blueprint = dungeon_miningdrones_bot_case_03_02
+Quantity = 1
+Weight = 0.5
+
+[Piece9]
+Blueprint = dungeon_miningdrones_spine_mid_01
+Quantity = 1
+Weight = 0.5
+
+[Piece10]
+Blueprint = dungeon_miningdrones_mid_case_01_01
+Quantity = 1
+Weight = 0.5
+
+[Piece11]
+Blueprint = dungeon_miningdrones_mid_case_01_02
+Quantity = 1
+Weight = 0.5
+
+[Piece12]
+Blueprint = dungeon_miningdrones_spine_mid_02
+Quantity = 1
+Weight = 0.5
+
+[Piece13]
+Blueprint = dungeon_miningdrones_mid_case_02_01
+Quantity = 1
+Weight = 0.5
+
+[Piece14]
+Blueprint = dungeon_miningdrones_mid_case_02_02
+Quantity = 1
+Weight = 0.5
+
+[Piece15]
+Blueprint = dungeon_miningdrones_spine_mid_03
+Quantity = 1
+Weight = 0.5
+
+[Piece16]
+Blueprint = dungeon_miningdrones_mid_case_03_01
+Quantity = 1
+Weight = 0.5
+
+[Piece17]
+Blueprint = dungeon_miningdrones_mid_case_03_02
+Quantity = 1
+Weight = 0.5
+
+[Piece18]
+Blueprint = dungeon_miningdrones_spine_top_01
+Quantity = 1
+Weight = 0.5
+
+[Piece19]
+Blueprint = dungeon_miningdrones_top_case_01_01
+Quantity = 1
+Weight = 0.5
+
+[Piece20]
+Blueprint = dungeon_miningdrones_top_case_01_02
+Quantity = 1
+Weight = 0.5
+
+[Piece21]
+Blueprint = dungeon_miningdrones_spine_top_02
+Quantity = 1
+Weight = 0.5
+
+[Piece22]
+Blueprint = dungeon_miningdrones_top_case_02_01
+Quantity = 1
+Weight = 0.5
+
+[Piece23]
+Blueprint = dungeon_miningdrones_top_case_02_02
+Quantity = 1
+Weight = 0.5
+
+[Piece24]
+Blueprint = dungeon_miningdrones_spine_top_03
+Quantity = 1
+Weight = 0.5
+
+[Piece25]
+Blueprint = dungeon_miningdrones_top_case_03_01
+Quantity = 1
+Weight = 0.5
+
+[Piece26]
+Blueprint = dungeon_miningdrones_top_case_03_02
+Quantity = 1
+Weight = 0.5
+
+[Piece27]
+Blueprint = dungeon_miningdrones_lid
+Quantity = 1
+Weight = 0.5
+
+[Piece28]
+Blueprint = dungeon_miningdrones_spine_miniboss
+Quantity = 12
+Weight = 1
+
+[Piece29]
+Blueprint = dungeon_miningdrones_miniboss_case_01
+Quantity = 4
+Weight = 1
+
+[Piece30]
+Blueprint = dungeon_miningdrones_miniboss_case_02
+Quantity = 4
+Weight = 1
+
+[Piece31]
+Blueprint = dungeon_miningdrones_miniboss_case_03
+Quantity = 4
+Weight = 1

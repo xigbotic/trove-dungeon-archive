@@ -1,0 +1,54 @@
+[Dungeon]
+Type = lair
+
+#Creator = Cyekie
+
+[PieceBase]
+Blueprint = geodianspheretower_topside_base
+Quantity = 1
+Weight = 1
+
+[PieceEntrance01]
+Blueprint = geodianspheretower_topside_entrance_01
+Quantity = 1
+Weight = 0.5
+
+[PieceGameplay01]
+Blueprint = geodianspheretower_topside_gameplay_01
+Quantity = 1
+Weight = 0.3
+
+[PieceGameplay02]
+Blueprint = geodianspheretower_topside_gameplay_02
+Quantity = 1
+Weight = 0.3
+
+[PieceGameplay03]
+Blueprint = geodianspheretower_topside_gameplay_03
+Quantity = 1
+Weight = 0.3
+
+[PieceTube01]
+Blueprint = geodianspheretower_topside_tube_01
+Quantity = 1
+Weight = 1
+
+[PieceBossroom01]
+Blueprint = geodianspheretower_topside_bossroom_01
+Quantity = 1
+Weight = 1
+
+[PieceBossroom02]
+Blueprint = geodianspheretower_topside_bossroom_02
+Quantity = 1
+Weight = 1
+
+[PieceBossroom03]
+Blueprint = geodianspheretower_topside_bossroom_03
+Quantity = 1
+Weight = 1
+
+[PieceBossroom04]
+Blueprint = geodianspheretower_topside_bossroom_04
+Quantity = 1
+Weight = 1

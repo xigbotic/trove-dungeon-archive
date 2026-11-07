@@ -1,0 +1,55 @@
+[Dungeon]
+
+Type = Dungeon
+
+[Piece=0]
+Blueprint = base_template
+Quantity = 1
+
+[Piece=1]
+Blueprint = tower_template
+Quantity = 1
+
+[Piece=2]
+Blueprint = airship_template
+Quantity = 1
+
+[Piece=3]
+Blueprint = boat_large_plain_template
+Quantity = 2
+Weight = .35
+
+[Piece=4]
+Blueprint = boat_large_pirate_template
+Quantity = 2
+Weight = .55
+
+[Piece=5]
+Blueprint = boat_large_stripes_template
+Quantity = 2
+Weight = .35
+
+[Piece=6]
+Blueprint = boat_large_blank
+Quantity = 4
+Weight = 1
+
+[Piece=7]
+Blueprint = boat_small_plain_template
+Quantity = 2
+Weight = .35
+
+[Piece=8]
+Blueprint = boat_small_pirate_template
+Quantity = 2
+Weight = .35
+
+[Piece=9]
+Blueprint = boat_small_stripes_template
+Quantity = 2
+Weight = .35
+
+[Piece=10]
+Blueprint = boat_small_blank
+Quantity = 5
+Weight = 1

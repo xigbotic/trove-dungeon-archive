@@ -1,0 +1,33 @@
+[Dungeon]
+Type = Lair
+
+[Piece0]
+Blueprint = DarkCrypt_Top_01
+Quantity = 1
+Weight = 1
+
+[Piece1]
+Blueprint = DarkCrypt_Top_02
+Quantity = 1
+Weight = 1
+
+[Piece2]
+Blueprint = DarkCrypt_Top_03
+Quantity = 1
+Weight = 1
+
+[Piece3]
+Blueprint = DarkCrypt_Bottom_01
+Quantity = 1
+Weight = 1
+
+[Piece4]
+Blueprint = DarkCrypt_Bottom_02
+Quantity = 1
+Weight = 1
+
+[Piece5]
+Blueprint = DarkCrypt_Bottom_03
+Quantity = 1
+Weight = 1
+

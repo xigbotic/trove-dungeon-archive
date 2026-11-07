@@ -1,0 +1,37 @@
+[Dungeon]
+
+Type = Lair
+
+[Piece01]
+Blueprint = the_altar
+Quantity = 1
+
+[Piece02]
+Blueprint = the_underground_level_01_a
+Quantity = 1
+Weight = 0.50
+
+[Piece03]
+Blueprint = the_underground_level_01_b
+Quantity = 1
+Weight = 0.50
+
+[Piece04]
+Blueprint = The_underground_level_02_a
+Quantity = 1
+Weight = 0.50
+
+[Piece05]
+Blueprint = The_underground_level_02_b
+Quantity = 1
+Weight = 0.50
+
+[Piece06]
+Blueprint = boss_room_a
+Quantity = 1
+Weight = 0.50
+
+[Piece07]
+Blueprint = boss_room_b
+Quantity = 1
+Weight = 0.50

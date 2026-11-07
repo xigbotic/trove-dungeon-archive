@@ -1,0 +1,88 @@
+[Dungeon]
+Type = dungeon
+
+#Creator = Triky313
+#Dungeon name = Waterfall gorge
+
+[Piece0]
+Blueprint = waterfall_gorge_main
+Quantity = 1
+
+
+[Piece1]
+Blueprint = green_entrance_01
+Quantity = 1
+Weight = .33
+
+[Piece2]
+Blueprint = green_entrance_02
+Quantity = 1
+Weight = .33
+
+[Piece3]
+Blueprint = green_entrance_03
+Quantity = 1
+Weight = .33
+
+
+[Piece4]
+Blueprint = pink_area_01
+Quantity = 1
+Weight = .33
+
+[Piece5]
+Blueprint = pink_area_02
+Quantity = 1
+Weight = .33
+
+[Piece6]
+Blueprint = pink_area_03
+Quantity = 1
+Weight = .33
+
+
+[Piece7]
+Blueprint = yellow_area_01
+Quantity = 1
+Weight = .25
+
+[Piece8]
+Blueprint = yellow_area_02
+Quantity = 1
+Weight = .25
+
+[Piece9]
+Blueprint = yellow_area_03
+Quantity = 1
+Weight = .25
+
+[Piece10]
+Blueprint = yellow_area_04
+Quantity = 1
+Weight = .25
+
+
+[Piece11]
+Blueprint = blue_area_01
+Quantity = 1
+Weight = .24
+
+[Piece12]
+Blueprint = blue_area_02
+Quantity = 1
+Weight = .24
+
+[Piece13]
+Blueprint = blue_area_03
+Quantity = 1
+Weight = .24
+
+[Piece14]
+Blueprint = blue_area_04
+Quantity = 1
+Weight = .24
+
+[Piece15]
+Blueprint = blue_area_05
+Quantity = 1
+Weight = .04

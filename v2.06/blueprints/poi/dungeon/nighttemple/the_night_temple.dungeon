@@ -1,0 +1,35 @@
+[Dungeon]
+
+[Piece1]
+Blueprint = 008_the_night_temple
+Quantity = 1
+
+[Piece2]
+Blueprint = 008_boss_room_1
+Quantity = 1
+Weight = 0.50
+
+[Piece3]
+Blueprint = 008_boss_room_2
+Quantity = 1
+Weight = 0.50
+
+[Piece4]
+Blueprint = 008_pillar_room_01
+Quantity = 1
+Weight = 0.25
+
+[Piece5]
+Blueprint = 008_pillar_room_02
+Quantity = 1
+Weight = 0.25
+
+[Piece6]
+Blueprint = 008_pillar_room_03
+Quantity = 1
+Weight = 0.25
+
+[Piece7]
+Blueprint = 008_pillar_room_04
+Quantity = 1
+Weight = 0.25

@@ -1,0 +1,51 @@
+[Piece0]
+Blueprint = DNG_faelake_psychobeans_main
+Quantity = 1
+
+[Piece1]
+Blueprint = DNG_faelake_psychobeans_depths_1a
+Quantity = 1
+
+[Piece2]
+Blueprint = DNG_faelake_psychobeans_depths_1b
+Quantity = 1
+
+[Piece3]
+Blueprint = DNG_faelake_psychobeans_depths_2a
+Quantity = 1
+
+[Piece4]
+Blueprint = DNG_faelake_psychobeans_depths_2b
+Quantity = 1
+
+[Piece5]
+Blueprint = DNG_faelake_psychobeans_depths_3a
+Quantity = 1
+
+[Piece6]
+Blueprint = DNG_faelake_psychobeans_depths_3b
+Quantity = 1
+
+[Piece7]
+Blueprint = DNG_faelake_psychobeans_depths_4a
+Quantity = 1
+
+[Piece8]
+Blueprint = DNG_faelake_psychobeans_depths_4b
+Quantity = 1
+
+[Piece9]
+Blueprint = DNG_faelake_psychobeans_depths_5a
+Quantity = 1
+
+[Piece10]
+Blueprint = DNG_faelake_psychobeans_depths_5b
+Quantity = 1
+
+[Piece11]
+Blueprint = DNG_faelake_psychobeans_depths_6a
+Quantity = 1
+
+[Piece12]
+Blueprint = DNG_faelake_psychobeans_depths_6b
+Quantity = 1

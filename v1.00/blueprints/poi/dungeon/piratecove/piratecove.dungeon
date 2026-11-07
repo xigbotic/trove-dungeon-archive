@@ -1,0 +1,64 @@
+[Piece0]
+Blueprint = pirate_cove_base_island
+Quantity = 1
+
+[Piece1]
+Blueprint = pirate_cove_blue_01
+Quantity = 1
+
+[Piece2]
+Blueprint = pirate_cove_blue_02
+Quantity = 1
+
+[Piece3]
+Blueprint = pirate_cove_blue_03
+Quantity = 1
+
+[Piece4]
+Blueprint = pirate_cove_green_01
+Quantity = 1
+
+[Piece5]
+Blueprint = pirate_cove_green_02
+Quantity = 1
+
+[Piece6]
+Blueprint = pirate_cove_green_03
+Quantity = 1
+
+[Piece7]
+Blueprint = pirate_cove_orange_01
+Quantity = 1
+
+[Piece8]
+Blueprint = pirate_cove_orange_02
+Quantity = 1
+
+[Piece9]
+Blueprint = pirate_cove_orange_03
+Quantity = 1
+
+[Piece10]
+Blueprint = pirate_cove_pink_01
+Quantity = 1
+
+[Piece11]
+Blueprint = pirate_cove_pink_02
+Quantity = 1
+
+[Piece12]
+Blueprint = pirate_cove_pink_03
+Quantity = 1
+
+
+[Piece13]
+Blueprint = pirate_cove_yellow_01
+Quantity = 1
+
+[Piece14]
+Blueprint = pirate_cove_yellow_02
+Quantity = 1
+
+[Piece15]
+Blueprint = pirate_cove_yellow_03
+Quantity = 1

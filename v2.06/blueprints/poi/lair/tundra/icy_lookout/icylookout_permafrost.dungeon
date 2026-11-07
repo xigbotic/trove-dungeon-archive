@@ -1,0 +1,29 @@
+[Dungeon]
+Type = lair
+
+#Creator = Cyekie
+
+[PieceEntrance]
+Blueprint = icylookout_permafrost_entrance
+Quantity = 1
+Weight = 1
+
+[PieceGameplay01]
+Blueprint = icylookout_permafrost_gameplay_01
+Quantity = 1
+Weight = 0.5
+
+[PieceGameplay02]
+Blueprint = icylookout_permafrost_gameplay_02
+Quantity = 1
+Weight = 0.5
+
+[PieceBoss01]
+Blueprint = icylookout_permafrost_boss_01
+Quantity = 1
+Weight = 0.5
+
+[PieceBoss02]
+Blueprint = icylookout_permafrost_boss_02
+Quantity = 1
+Weight = 0.5

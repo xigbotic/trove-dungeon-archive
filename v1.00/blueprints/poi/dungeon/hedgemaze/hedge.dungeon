@@ -1,0 +1,199 @@
+[Piece0]
+Blueprint = DNG_hedgemaze_room1
+Quantity = 30
+Weight = 1
+
+[Piece1]
+Blueprint = DNG_hedgemaze_room21
+Quantity = 30
+Weight = 1
+
+[Piece2]
+Blueprint = DNG_hedgemaze_room22
+Quantity = 30
+Weight = 1
+
+[Piece3]
+Blueprint = DNG_hedgemaze_room23
+Quantity = 30
+Weight = 1
+
+[Piece4]
+Blueprint = DNG_hedgemaze_room31
+Quantity = 30
+Weight = 5
+
+[Piece5]
+Blueprint = DNG_hedgemaze_room32
+Quantity = 30
+Weight = 5
+
+[Piece6]
+Blueprint = DNG_hedgemaze_room33
+Quantity = 30
+Weight = 5
+
+[Piece7]
+Blueprint = DNG_hedgemaze_room41
+Quantity = 30
+Weight = 6
+
+[Piece8]
+Blueprint = DNG_hedgemaze_room42
+Quantity = 30
+Weight = 6
+
+[Piece9]
+Blueprint = DNG_hedgemaze_room43
+Quantity = 30
+Weight = 6
+
+[Piece10]
+Blueprint = DNG_hedgemaze_room44
+Quantity = 30
+Weight = 6
+
+[Piece11]
+Blueprint = DNG_hedgemaze_room45
+Quantity = 30
+Weight = 5
+
+[Piece12]
+Blueprint = DNG_hedgemaze_room46
+Quantity = 30
+Weight = 5
+
+[Piece13]
+Blueprint = DNG_hedgemaze_Finisher
+Quantity = 9999
+Weight = 0
+
+[Piece14]
+Blueprint = DNG_hedgemaze_Base1
+Quantity = 30
+Weight = 1
+
+[Piece15]
+Blueprint = DNG_hedgemaze_Base2
+Quantity = 30
+Weight = 1
+
+[Piece16]
+Blueprint = DNG_hedgemaze_Base3
+Quantity = 30
+Weight = 1
+
+[Piece17]
+Blueprint = DNG_hedgemaze_Base4
+Quantity = 30
+Weight = 1
+
+[Piece18]
+Blueprint = DNG_hedgemaze_Skirt1
+Quantity = 1
+Weight = 1
+
+[Piece19]
+Blueprint = DNG_hedgemaze_Skirt2
+Quantity = 1
+Weight = 1
+
+[Piece20]
+Blueprint = DNG_hedgemaze_Roof1
+Quantity = 1
+Weight = 1
+
+[Piece21]
+Blueprint = DNG_hedgemaze_Roof2
+Quantity = 1
+Weight = 1
+
+[Piece22]
+Blueprint = DNG_hedgemaze_Roof3
+Quantity = 1
+Weight = 1
+
+[Piece23]
+Blueprint = DNG_hedgemaze_Roof4
+Quantity = 1
+Weight = 1
+
+[Piece24]
+Blueprint = DNG_hedgemaze_Hedge1
+Quantity = 1
+Weight = 1
+
+[Piece26]
+Blueprint = DNG_hedgemaze_Hedge2
+Quantity = 1
+Weight = 1
+
+[Piece27]
+Blueprint = DNG_hedgemaze_Hedge3
+Quantity = 1
+Weight = 1
+
+[Piece28]
+Blueprint = DNG_hedgemaze_Hedge4
+Quantity = 1
+Weight = 1
+
+[Piece29]
+Blueprint = DNG_hedgemaze_Hedge5
+Quantity = 1
+Weight = 1
+
+[Piece30]
+Blueprint = DNG_hedgemaze_Hedge6
+Quantity = 1
+Weight = 1
+
+[Piece31]
+Blueprint = DNG_hedgemaze_Hedge7
+Quantity = 1
+Weight = 1
+
+[Piece32]
+Blueprint = DNG_hedgemaze_Hedge8
+Quantity = 1
+Weight = 1
+
+[Piece33]
+Blueprint = DNG_hedgemaze_Hedge9
+Quantity = 1
+Weight = 1
+
+[Piece34]
+Blueprint = DNG_hedgemaze_Hedge10
+Quantity = 1
+Weight = 1
+
+[Piece35]
+Blueprint = DNG_hedgemaze_Hedge11
+Quantity = 1
+Weight = 1
+
+[Piece36]
+Blueprint = DNG_hedgemaze_Hedge12
+Quantity = 1
+Weight = 1
+
+[Piece37]
+Blueprint = DNG_hedgemaze_Hedge13
+Quantity = 1
+Weight = 1
+
+[Piece38]
+Blueprint = DNG_hedgemaze_Hedge14
+Quantity = 1
+Weight = 1
+
+[Piece39]
+Blueprint = DNG_hedgemaze_Hedge15
+Quantity = 1
+Weight = 1
+
+[Piece25]
+Blueprint = DNG_hedgemaze_Hedge16
+Quantity = 1
+Weight = 1

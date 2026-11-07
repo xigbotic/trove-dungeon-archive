@@ -1,0 +1,155 @@
+[Dungeon]
+Type = Dungeon
+#Mode = 3-star dungeon
+#Title = Walled Geode City
+
+
+#Plug 0 Done
+[PieceMain]
+Blueprint = main
+Quantity = 1
+
+#Plug 1 groundbit
+[PieceBody]
+Blueprint = groundside
+Quantity = 1
+
+#Plug 2 roofs
+[PieceRoof001]
+Blueprint = roof_001
+Quantity = 1
+Weight = 0.54
+
+[PieceRoof002]
+Blueprint = roof_002
+Quantity = 1
+Weight = 0.54
+
+[PieceRoof003]
+Blueprint = roof_003
+Quantity = 1
+Weight = 0.54
+
+#Plug 3 battleroomsside
+[Piecesidebattle001]
+Blueprint = side_mob_001
+Quantity = 1
+Weight = 0.54
+
+[Piecesidebattle002]
+Blueprint = side_mob_002
+Quantity = 1
+Weight = 0.54
+
+[Piecesidebattle003]
+Blueprint = side_mob_003
+Quantity = 1
+Weight = 0.54
+
+[Piecesidebattle004]
+Blueprint = side_mob_004
+Quantity = 1
+Weight = 0.54
+
+#Plug 4 battleroomscorners
+[Piececornerbattle001]
+Blueprint = corner_mob_001
+Quantity = 1
+Weight = 0.54
+
+[Piececornerbattle002]
+Blueprint = corner_mob_002
+Quantity = 1
+Weight = 0.54
+
+[Piececornerbattle003]
+Blueprint = corner_mob_003
+Quantity = 1
+Weight = 0.54
+
+[Piececornerbattle004]
+Blueprint = corner_mob_004
+Quantity = 1
+Weight = 0.54
+
+#Plug 5 clockarms bottom
+[PieceClockarmB001]
+Blueprint = clocktimedown_diag_001
+Quantity = 1
+Weight = 0.54
+
+[PieceClockarmB002]
+Blueprint = clocktimedown_straight_001
+Quantity = 1
+Weight = 0.54
+
+[PieceClockarmB003]
+Blueprint = clocktimedown_diag_002
+Quantity = 1
+Weight = 0.54
+
+[PieceClockarmB004]
+Blueprint = clocktimedown_straight_002
+Quantity = 1
+Weight = 0.54
+
+[PieceClockarmB005]
+Blueprint = clocktimedown_diag_003
+Quantity = 1
+Weight = 0.54
+
+[PieceClockarmB006]
+Blueprint = clocktimedown_straight_003
+Quantity = 1
+Weight = 0.54
+
+[PieceClockarmB007]
+Blueprint = clocktimedown_diag_004
+Quantity = 1
+Weight = 0.54
+
+[PieceClockarmB008]
+Blueprint = clocktimedown_straight_004
+Quantity = 1
+Weight = 0.54
+
+#Plug 6 clockarms top
+[PieceClockarmT001]
+Blueprint = clocktimeup_diag_001
+Quantity = 1
+Weight = 0.54
+
+[PieceClockarmT002]
+Blueprint = clocktimeup_straight_001
+Quantity = 1
+Weight = 0.54
+
+[PieceClockarmT003]
+Blueprint = clocktimeup_diag_002
+Quantity = 1
+Weight = 0.54
+
+[PieceClockarmT004]
+Blueprint = clocktimeup_straight_002
+Quantity = 1
+Weight = 0.54
+
+[PieceClockarmT005]
+Blueprint = clocktimeup_diag_003
+Quantity = 1
+Weight = 0.54
+
+[PieceClockarmT006]
+Blueprint = clocktimeup_straight_003
+Quantity = 1
+Weight = 0.54
+
+[PieceClockarmT007]
+Blueprint = clocktimeup_diag_004
+Quantity = 1
+Weight = 0.54
+
+[PieceClockarmT008]
+Blueprint = clocktimeup_straight_004
+Quantity = 1
+Weight = 0.54

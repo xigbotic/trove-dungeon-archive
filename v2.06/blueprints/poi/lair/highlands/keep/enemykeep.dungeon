@@ -1,0 +1,10 @@
+[Dungeon]
+Type = Lair
+
+[Piece2]
+Blueprint = EK_2
+Quantity = 1
+
+[Piece3]
+Blueprint = EK_3
+Quantity = 1

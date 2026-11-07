@@ -1,0 +1,5 @@
+[Dungeon]
+
+[Piece01]
+Blueprint = the_citadel
+Quantity = 1

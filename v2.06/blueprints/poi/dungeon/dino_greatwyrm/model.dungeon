@@ -1,0 +1,260 @@
+[Dungeon]
+Type = Dungeon
+
+[Piece0] 
+Blueprint = Layout
+Quantity = 1
+
+[Piece1] 
+Blueprint = Terrain_1
+Quantity = 1
+Weight = 10
+
+[Piece2] 
+Blueprint = Terrain_2
+Quantity = 1
+Weight = 10
+
+[Piece3] 
+Blueprint = Terrain_3
+Quantity = 1
+Weight = 10
+
+[Piece4] 
+Blueprint = Terrain_4
+Quantity = 1
+Weight = 10
+
+[Piece5] 
+Blueprint = Terrain_5
+Quantity = 1
+Weight = 10
+
+[Piece6] 
+Blueprint = Terrain_6
+Quantity = 1
+Weight = 10
+
+[Piece7] 
+Blueprint = Terrain_7
+Quantity = 1
+Weight = 10
+
+[Piece8] 
+Blueprint = Secondquest
+Quantity = 1
+Weight = 1
+
+[Piece9] 
+Blueprint = Secondquest6
+Quantity = 1
+Weight = 20
+
+[Piece10] 
+Blueprint = Secondquest2
+Quantity = 1
+Weight = 20
+
+[Piece11] 
+Blueprint = Secondquest3
+Quantity = 1
+Weight = 20
+
+[Piece12] 
+Blueprint = Secondquest4
+Quantity = 1
+Weight = 20
+
+[Piece13] 
+Blueprint = Secondquest5
+Quantity = 1
+Weight = 20
+
+
+[Piece20] 
+Blueprint = main_3
+Quantity = 1
+Weight = 20
+
+[Piece21] 
+Blueprint = main_4
+Quantity = 1
+Weight = 20
+
+[Piece22] 
+Blueprint = dino1
+Quantity = 3
+Weight = 20
+
+[Piece23] 
+Blueprint = dino2
+Quantity = 3
+Weight = 20
+
+[Piece24] 
+Blueprint = dino3
+Quantity = 3
+Weight = 20
+
+[Piece25] 
+Blueprint = dino4
+Quantity = 3
+Weight = 20
+
+[Piece26] 
+Blueprint = dino5
+Quantity = 3
+Weight = 20
+
+[Piece27] 
+Blueprint = dino6
+Quantity = 3
+Weight = 20
+
+[Piece28] 
+Blueprint = dino7
+Quantity = 3
+Weight = 20
+
+[Piece29] 
+Blueprint = emptydino
+Quantity = 10
+Weight = 20
+
+[Piece30] 
+Blueprint = Trex
+Quantity = 1
+Weight = 20
+
+[Piece31] 
+Blueprint = emptyTrex
+Quantity = 1
+Weight = 80
+
+[Piece32] 
+Blueprint = e_dino_forest_tree_small_03
+Quantity = 1
+Weight = 40
+
+[Piece33] 
+Blueprint = e_dino_forest_tree_small_02
+Quantity = 1
+Weight = 40
+
+[Piece34] 
+Blueprint = e_dino_forest_tree_small_01
+Quantity = 1
+Weight = 40
+
+[Piece35] 
+Blueprint = e_dino_forest_tree_medium_02
+Quantity = 1
+Weight = 80
+
+[Piece36] 
+Blueprint = e_dino_forest_tree_medium_01
+Quantity = 2
+Weight = 80
+
+[Piece37] 
+Blueprint = e_dino_canopy_tree_03
+Quantity = 2
+Weight = 80
+
+[Piece38] 
+Blueprint = e_dino_canopy_tree_02
+Quantity = 2
+Weight = 80
+
+[Piece39] 
+Blueprint = e_dino_canopy_tree_01
+Quantity = 2
+Weight = 80
+
+[Piece40] 
+Blueprint = e_dino_canopy_grass_03
+Quantity = 1
+Weight = 30
+
+[Piece41] 
+Blueprint = e_dino_canopy_grass_02
+Quantity = 1
+Weight = 30
+
+[Piece42] 
+Blueprint = e_dino_canopy_grass_01
+Quantity = 1
+Weight = 30
+
+[Piece43] 
+Blueprint = e_dino_airtree_noair_02
+Quantity = 1
+Weight = 20
+
+[Piece44] 
+Blueprint = e_dino_airtree_noair_01
+Quantity = 1
+Weight = 20
+
+[Piece45] 
+Blueprint = e_dino_airtree_02
+Quantity = 1
+Weight = 20
+
+[Piece46] 
+Blueprint = e_dino_airtree_01
+Quantity = 1
+Weight = 20
+
+[Piece47] 
+Blueprint = first_encounter
+Quantity = 1
+Weight = 10
+
+[Piece48] 
+Blueprint = first_encounter2
+Quantity = 1
+Weight = 10
+
+[Piece49] 
+Blueprint = first_encounter3
+Quantity = 1
+Weight = 10
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

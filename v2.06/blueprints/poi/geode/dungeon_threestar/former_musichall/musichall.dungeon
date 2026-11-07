@@ -1,0 +1,97 @@
+[Dungeon]
+Type = Dungeon
+
+#STORY
+
+# Geodians Love music and entertainment. These music halls where made just for that.
+# Sadly the underground was filled with lava, bleeding from the soil.. or was it something else
+
+[TopBase1]
+Blueprint = musichall_top_001
+Quantity = 1
+Weight = 0.5
+
+[TopBase2]
+Blueprint = musichall_top_002
+Quantity = 1
+Weight = 0.5
+
+[TopBase3]
+Blueprint = musichall_top_003
+Quantity = 1
+Weight = 0.5
+
+[BottomBaseLeft]
+Blueprint = musichall_bot_L
+Quantity = 1
+Weight = 0.5
+
+[BottomBaseRight]
+Blueprint = musichall_bot_R
+Quantity = 1
+Weight = 0.5
+
+[Hallway001]
+Blueprint = musichall_hall_001
+Quantity = 1
+Weight = 0.5
+
+[Hallway002]
+Blueprint = musichall_hall_002
+Quantity = 1
+Weight = 0.5
+
+[Hallway003]
+Blueprint = musichall_hall_003
+Quantity = 1
+Weight = 0.5
+
+[Hallway004]
+Blueprint = musichall_hall_004
+Quantity = 1
+Weight = 0.5
+
+[Hallway005]
+Blueprint = musichall_hall_005
+Quantity = 1
+Weight = 0.5
+
+[Hallway006]
+Blueprint = musichall_hall_006
+Quantity = 1
+Weight = 0.5
+
+[Hallway007]
+Blueprint = musichall_hall_007
+Quantity = 1
+Weight = 0.5
+
+[MinorBoss001]
+Blueprint = musichall_minor_001
+Quantity = 1
+Weight = 0.5
+
+[MinorBoss002]
+Blueprint = musichall_minor_002
+Quantity = 1
+Weight = 0.5
+
+[MinorBoss003]
+Blueprint = musichall_minor_003
+Quantity = 1
+Weight = 0.5
+
+[majorBoss001]
+Blueprint = musichall_major_001
+Quantity = 1
+Weight = 0.5
+
+[majorBoss002]
+Blueprint = musichall_major_002
+Quantity = 1
+Weight = 0.5
+
+[majorBoss003]
+Blueprint = musichall_major_003
+Quantity = 1
+Weight = 0.5

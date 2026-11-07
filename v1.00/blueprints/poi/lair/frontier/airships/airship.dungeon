@@ -1,0 +1,35 @@
+[Dungeon]
+Type = Lair
+
+[Piece0]
+Blueprint = crashedship_yellow
+Quanity = 1
+
+[Piece1]
+Blueprint = crashedship_purple
+Quanity = 1
+
+[Piece2]
+Blueprint = crashedship_blue
+Quanity = 1
+
+
+[Piece3]
+Blueprint = airship_bomber_war
+Quanity = 1
+
+[Piece4]
+Blueprint = airship_bomber_trickster
+Quanity = 1
+
+[Piece5]
+Blueprint = airship_boss_war
+Quanity = 1
+
+[Piece6]
+Blueprint = airship_boss_trickster
+Quanity = 1
+
+
+
+

@@ -1,0 +1,31 @@
+[Dungeon]
+
+Type = Dungeon
+
+[Piece=0]
+Blueprint = LostCityOfStone
+Quantity = 1
+
+[Piece=1]
+Blueprint = LostCityOfStoneRoom1
+Quantity = 1
+
+[Piece=2]
+Blueprint = LostCityOfStoneBossRoom1
+Quantity = 1
+
+[Piece=3]
+Blueprint = LostCityOfStoneRoom2
+Quantity = 1
+
+[Piece=4]
+Blueprint = LostCityOfStoneBossRoom2
+Quantity = 1
+
+[Piece=5]
+Blueprint = LostCityOfStoneRoom3
+Quantity = 1
+
+[Piece=6]
+Blueprint = LostCityOfStoneBossRoom3
+Quantity = 1

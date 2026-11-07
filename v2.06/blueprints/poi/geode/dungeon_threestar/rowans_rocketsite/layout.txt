@@ -1,0 +1,88 @@
+Seed -2002008062
+TotalQueries 11
+================= PIECES =============
+Piece rocketsite_land_R Plug=0 Size=123x124x123
+	Plug Position=0,50,0
+	AABB Min=-61,0,-61 Max=62,124,62
+	Socket 4
+	Socket 3
+	Socket 4
+	Socket 4
+	Socket 4
+	Socket 2
+	Socket 1
+Piece rocketsite_land_L Plug=0 Size=123x124x123
+	Plug Position=0,50,0
+	AABB Min=-61,0,-61 Max=62,124,62
+	Socket 4
+	Socket 2
+	Socket 4
+	Socket 3
+	Socket 4
+	Socket 1
+	Socket 4
+Piece rocketsite_shield_B_01 Plug=1 Size=47x24x32
+	Plug Position=0,0,14
+	AABB Min=-23,0,-16 Max=24,24,16
+Piece rocketsite_shield_B_02 Plug=1 Size=47x24x41
+	Plug Position=0,0,20
+	AABB Min=-23,0,-20 Max=24,24,21
+	Blocker 0,0,17 Size=2
+Piece rocketsite_shield_B_03 Plug=1 Size=47x24x49
+	Plug Position=0,0,24
+	AABB Min=-23,0,-24 Max=24,24,25
+	Blocker 0,0,21 Size=2
+Piece rocketsite_shield_T_02 Plug=2 Size=47x24x41
+	Plug Position=0,0,-20
+	AABB Min=-23,0,-20 Max=24,24,21
+	Blocker 0,0,-17 Size=2
+Piece rocketsite_shield_T_01 Plug=2 Size=47x24x31
+	Plug Position=0,0,-15
+	AABB Min=-23,0,-15 Max=24,24,16
+Piece rocketsite_shield_T_03 Plug=2 Size=47x24x49
+	Plug Position=0,0,-24
+	AABB Min=-23,0,-24 Max=24,24,25
+	Blocker 0,0,-21 Size=2
+Piece rocketsite_rocket_fail_02 Plug=3 Size=43x47x55
+	Plug Position=0,1,0
+	AABB Min=-21,0,-27 Max=22,47,28
+	Socket 5
+Piece rocketsite_rocket_fail_01 Plug=3 Size=43x48x55
+	Plug Position=0,1,0
+	AABB Min=-21,0,-27 Max=22,48,28
+	Socket 5
+Piece rocketsite_rocket_fail_03 Plug=3 Size=43x26x55
+	Plug Position=0,1,0
+	AABB Min=-21,0,-27 Max=22,26,28
+	Socket 5
+Piece rocketsite_rocket_succes Plug=3 Size=35x4x48
+	Plug Position=0,0,0
+	AABB Min=-17,0,-25 Max=18,4,23
+	Socket 5
+Piece rocketsite_empty Plug=4 Size=1x1x1
+	Plug Position=0,2,0
+	AABB Min=0,2,0 Max=1,3,1
+Piece rocketsite_minor_002 Plug=4 Size=15x15x15
+	Plug Position=0,2,0
+	AABB Min=-7,0,-7 Max=8,15,8
+	Blocker 0,3,0 Size=2
+Piece rocketsite_minor_001 Plug=4 Size=15x15x15
+	Plug Position=0,2,0
+	AABB Min=-7,0,-7 Max=8,15,8
+	Blocker 0,3,0 Size=2
+Piece rocketsite_major Plug=5 Size=15x15x15
+	Plug Position=0,2,0
+	AABB Min=-7,0,-7 Max=8,15,8
+	Blocker 0,3,0 Size=2
+================= LAYOUT =============
+[0] rocketsite_land_L [Q=10, D=8]
+	[1] rocketsite_minor_001 [Q=0, D=0]
+	[2] rocketsite_shield_T_02 [Q=0, D=0]
+	[3] rocketsite_minor_002 [Q=0, D=0]
+	[4] rocketsite_rocket_fail_01 [Q=1, D=1]
+		[5] rocketsite_major [Q=0, D=0]
+	[6] rocketsite_empty [Q=0, D=0]
+	[7] rocketsite_shield_B_03 [Q=0, D=0]
+	[8] rocketsite_empty [Q=0, D=0]
+================= MESSAGES =============
+Dungeon.Type = Dungeon, 128x256x128

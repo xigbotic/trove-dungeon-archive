@@ -1,0 +1,84 @@
+[Dungeon]
+Type = Dungeon
+
+[Piece0]
+Blueprint = base_piece_01
+Quantity = 1
+Weight = 1
+
+[Piece1]
+Blueprint = base_piece_02
+Quantity = 1
+Weight = 1
+
+[Piece2]
+Blueprint = cage_01
+Quantity = 1
+Weight = 1
+
+[Piece3]
+Blueprint = cage_02
+Quantity = 1
+Weight = 1
+
+[Piece4]
+Blueprint = cage_03
+Quantity = 1
+Weight = 1
+
+[Piece5]
+Blueprint = cage_04
+Quantity = 1
+Weight = 1
+
+[Piece6]
+Blueprint = cage_05
+Quantity = 1
+Weight = 1
+
+[Piece7]
+Blueprint = boss_01
+Quantity = 1
+Weight = 1
+
+[Piece8]
+Blueprint = base_piece_03
+Quantity = 1
+Weight = 1
+
+[Piece9]
+Blueprint = boss_02
+Quantity = 1
+Weight = 1
+
+[Piece10]
+Blueprint = boss_03
+Quantity = 1
+Weight = 1
+
+[Piece11]
+Blueprint = cage_06
+Quantity = 1
+Weight = 1
+
+[Piece12]
+Blueprint = cage_07
+Quantity = 1
+Weight = 1
+
+[Piece13]
+Blueprint = cage_08
+Quantity = 1
+Weight = 1
+
+[Piece14]
+Blueprint = base_piece_04
+Quantity = 1
+Weight = 1
+
+[Piece15]
+Blueprint = boss_04
+Quantity = 1
+Weight = 1
+
+

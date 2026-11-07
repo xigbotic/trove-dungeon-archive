@@ -1,0 +1,13 @@
+[Dungeon]
+Type = Lair
+
+[Piece0]
+Blueprint = Beetle_Bottom_2
+Quantity = 1
+Weight = 1
+
+[Piece1]
+Blueprint = Beetle_Tree_1
+Quantity = 1
+Weight = 1
+

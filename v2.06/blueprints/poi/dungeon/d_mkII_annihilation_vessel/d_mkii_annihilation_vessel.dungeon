@@ -1,0 +1,156 @@
+[Dungeon]
+Type = Dungeon
+#Mode = 3-star dungeon
+#Title = MKII Annihilation Vessel
+#Creator = Evilagician
+
+#mainpiece
+[Piece0]
+Blueprint = d_mkII_annihilation_vessel_ground
+Quantity = 1
+
+#Selection towers
+[Piece1a]
+Blueprint = d_mkII_annihilation_vessel_tower_jl
+Quantity = 1
+Weight = .44
+
+[Piece1b]
+Blueprint = d_mkII_annihilation_vessel_tower_jr
+Quantity = 1
+Weight = .44
+
+[Piece1c]
+Blueprint = d_mkII_annihilation_vessel_tower_sl
+Quantity = 1
+Weight = .44
+
+[Piece1d]
+Blueprint = d_mkII_annihilation_vessel_tower_sr
+Quantity = 1
+Weight = .44
+
+#Selection tower colors
+[Piece2a]
+Blueprint = d_mkII_annihilation_vessel_tower_jl_green
+Quantity = 1
+Weight = .44
+
+[Piece2b]
+Blueprint = d_mkII_annihilation_vessel_tower_jl_red
+Quantity = 1
+Weight = .44
+
+[Piece2c]
+Blueprint = d_mkII_annihilation_vessel_tower_jr_blue
+Quantity = 1
+Weight = .44
+
+[Piece2d]
+Blueprint = d_mkII_annihilation_vessel_tower_jr_pink
+Quantity = 1
+Weight = .44
+
+[Piece2e]
+Blueprint = d_mkII_annihilation_vessel_tower_sl_green
+Quantity = 1
+Weight = .44
+
+[Piece2f]
+Blueprint = d_mkII_annihilation_vessel_tower_sl_red
+Quantity = 1
+Weight = .44
+
+[Piece2g]
+Blueprint = d_mkII_annihilation_vessel_tower_sr_blue
+Quantity = 1
+Weight = .44
+
+[Piece2h]
+Blueprint = d_mkII_annihilation_vessel_tower_sr_pink
+Quantity = 1
+Weight = .44
+
+#Vessel
+[Piece3]
+Blueprint = d_mkII_annihilation_vessel_vessel
+Quantity = 1
+
+#Selection Vessel Colors
+[Piece4a]
+Blueprint = d_mkII_annihilation_vessel_vessel_blue
+Quantity = 1
+Weight = .44
+
+[Piece4b]
+Blueprint = d_mkII_annihilation_vessel_vessel_green
+Quantity = 1
+Weight = .44
+
+[Piece4c]
+Blueprint = d_mkII_annihilation_vessel_vessel_pink
+Quantity = 1
+Weight = .44
+
+[Piece4d]
+Blueprint = d_mkII_annihilation_vessel_vessel_red
+Quantity = 1
+Weight = .44
+
+#Selection Bridges 
+[Piece5a]
+Blueprint = d_mkII_annihilation_vessel_bridge_001
+Quantity = 1
+Weight = .44
+
+[Piece5b]
+Blueprint = d_mkII_annihilation_vessel_bridge_002
+Quantity = 1
+Weight = .44
+
+[Piece5c]
+Blueprint = d_mkII_annihilation_vessel_bridge_003
+Quantity = 1
+Weight = .44
+
+[Piece5d]
+Blueprint = d_mkII_annihilation_vessel_bridge_004
+Quantity = 1
+Weight = .44
+
+#Selection Minibosses 
+[Piece6a]
+Blueprint = d_mkII_annihilation_vessel_miniboss_001
+Quantity = 1
+Weight = .44
+
+[Piece6b]
+Blueprint = d_mkII_annihilation_vessel_miniboss_002
+Quantity = 1
+Weight = .44
+
+[Piece6c]
+Blueprint = d_mkII_annihilation_vessel_miniboss_003
+Quantity = 1
+Weight = .44
+
+[Piece6d]
+Blueprint = d_mkII_annihilation_vessel_miniboss_004
+Quantity = 1
+Weight = .44
+
+#Selection BigBosses 
+[Piece7a]
+Blueprint = d_mkII_annihilation_vessel_bigboss_001
+Quantity = 1
+Weight = .44
+
+[Piece7b]
+Blueprint = d_mkII_annihilation_vessel_bigboss_002
+Quantity = 1
+Weight = .44
+
+[Piece7c]
+Blueprint = d_mkII_annihilation_vessel_bigboss_003
+Quantity = 1
+Weight = .44

@@ -1,0 +1,31 @@
+[Dungeon]
+Type = Lair
+
+[Piece0]
+Blueprint = RobotOutside
+Quantity = 1
+
+[Piece1]
+Blueprint = RobotInside1
+Quantity = 1
+Weight = 0.25
+
+[Piece2]
+Blueprint = RobotInside2
+Quantity = 1
+Weight = 0.25
+
+[Piece3]
+Blueprint = RobotInside3
+Quantity = 1
+Weight = 0.25
+
+[Piece4]
+Blueprint = RobotInside4
+Quantity = 1
+Weight = 0.25
+
+
+[Piece5]
+Blueprint = RobotBossRoom
+Quantity = 1

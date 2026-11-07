@@ -1,0 +1,30 @@
+[Dungeon]
+Type = lair
+
+[Piece0]
+Blueprint = Env_luminopolis_lair_combat_bsodtower_base_00
+Quantity = 1
+
+[Piece1]
+Blueprint = Env_luminopolis_lair_combat_bsodtower_lobby_00
+Quantity = 1
+Weight = 0.25
+
+[Piece2]
+Blueprint = Env_luminopolis_lair_combat_bsodtower_lobby_01
+Quantity = 1
+Weight = 0.25
+
+[Piece3]
+Blueprint = Env_luminopolis_lair_combat_bsodtower_lobby_02
+Quantity = 1
+Weight = 0.25
+
+[Piece4]
+Blueprint = Env_luminopolis_lair_combat_bsodtower_lobby_03
+Quantity = 1
+Weight = 0.25
+
+[Piece5]
+Blueprint = Env_luminopolis_lair_combat_bsodtower_foundation_00
+Quantity = 1

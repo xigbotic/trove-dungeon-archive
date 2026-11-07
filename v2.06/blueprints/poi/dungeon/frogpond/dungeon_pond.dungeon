@@ -1,0 +1,23 @@
+[Piece0]
+Blueprint = TopNew
+Quantity = 1
+
+[Piece1]
+Blueprint = Middle
+Quantity = 1
+
+[Piece2]
+Blueprint = Left
+Quantity = 1
+
+[Piece3]
+Blueprint = Right
+Quantity = 1
+
+[Piece4]
+Blueprint = FrogBossNew
+Quantity = 1
+
+[Piece5]
+Blueprint = Sky
+Quantity = 1

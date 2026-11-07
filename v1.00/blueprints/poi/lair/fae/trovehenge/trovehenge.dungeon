@@ -1,0 +1,23 @@
+[Dungeon]
+Type = Lair
+
+[Piece0]
+Blueprint = TrovehengeBoss_a
+Quantity = 1
+Weight = .5
+
+[Piece1]
+Blueprint = TrovehengeBoss_b
+Quantity = 1
+Weight = .5
+
+
+[Piece3]
+Blueprint = TrovehengeSurface_a
+Quantity = 1
+Weight = .5
+
+[Piece4]
+Blueprint = TrovehengeSurface_b
+Quantity = 1
+Weight = .5

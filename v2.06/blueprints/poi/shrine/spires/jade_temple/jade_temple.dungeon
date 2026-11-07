@@ -1,0 +1,7 @@
+[Dungeon]
+Type = Lair
+
+[Piece0]
+Blueprint = jade_monkey
+Quantity = 1
+Weight = 1

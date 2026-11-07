@@ -1,0 +1,32 @@
+[Dungeon]
+Type = Lair
+
+[piece0]
+Blueprint = Hourglass_Base1
+Weight = .5
+
+[piece1]
+Blueprint = Hourglass_Base2
+Weight = .5
+
+[Piece2]
+Blueprint = HourGlass_Shell
+
+[Piece3]
+Blueprint = Hourglass_Bottom1
+Weight = .5
+
+[Piece4]
+Blueprint = Hourglass_Bottom2
+Weight = .5
+
+[Piece5]
+Blueprint = Hourglass_Top1
+Weight = .5
+
+[Piece6]
+Blueprint = Hourglass_Top2
+Weight = .5
+
+[Piece7]
+Blueprint = Hourglass_AirBlocks

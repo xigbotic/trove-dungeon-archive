@@ -1,0 +1,43 @@
+Seed 668486851
+TotalQueries 4
+================= PIECES =============
+Piece shuttlesrest_top_003 Plug=0 Size=85x84x125
+	Plug Position=0,9,0
+	AABB Min=-42,1,-62 Max=43,85,63
+	Socket 1
+Piece shuttlesrest_top_002 Plug=0 Size=85x84x125
+	Plug Position=0,9,0
+	AABB Min=-42,1,-62 Max=43,85,63
+	Socket 1
+Piece shuttlesrest_top_001 Plug=0 Size=85x85x125
+	Plug Position=0,9,0
+	AABB Min=-42,0,-62 Max=43,85,63
+	Socket 1
+Piece shuttlesrest_bot_001 Plug=1 Size=85x42x125
+	Plug Position=0,41,0
+	AABB Min=-42,0,-62 Max=43,42,63
+	Socket 2
+	Socket 2
+Piece shuttlesrest_bot_002 Plug=1 Size=85x42x125
+	Plug Position=0,41,0
+	AABB Min=-42,0,-62 Max=43,42,63
+	Socket 2
+	Socket 2
+Piece shuttlesrest_bot_003 Plug=1 Size=85x42x125
+	Plug Position=0,41,0
+	AABB Min=-42,0,-62 Max=43,42,63
+	Socket 2
+	Socket 2
+Piece shuttlesrest_minor_002 Plug=2 Size=21x17x21
+	Plug Position=0,1,0
+	AABB Min=-10,0,-10 Max=11,17,11
+Piece shuttlesrest_major Plug=2 Size=21x17x21
+	Plug Position=0,1,0
+	AABB Min=-10,0,-10 Max=11,17,11
+================= LAYOUT =============
+[0] shuttlesrest_top_002 [Q=3, D=3]
+	[1] shuttlesrest_bot_001 [Q=2, D=2]
+		[2] shuttlesrest_major [Q=0, D=0]
+		[3] shuttlesrest_minor_002 [Q=0, D=0]
+================= MESSAGES =============
+Dungeon.Type = Dungeon, 128x256x128

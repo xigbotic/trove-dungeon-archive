@@ -1,0 +1,109 @@
+[Dungeon]
+Type = dungeon
+
+#Creator = Cyekie
+
+[PieceEntrance]
+Blueprint = forbidden_caves_forbiddenspires_entrance
+Quantity = 1
+Weight = 1
+
+[PieceCave01]
+Blueprint = forbidden_caves_forbiddenspires_cave_01
+Quantity = 1
+Weight = 1
+
+[PieceCave02]
+Blueprint = forbidden_caves_forbiddenspires_cave_02
+Quantity = 1
+Weight = 1
+
+[PieceCave0202]
+Blueprint = forbidden_caves_forbiddenspires_cave_02_02
+Quantity = 1
+Weight = 1
+
+[PieceCave03]
+Blueprint = forbidden_caves_forbiddenspires_cave_03
+Quantity = 1
+Weight = 1
+
+[PieceCaveTurn01]
+Blueprint = forbidden_caves_forbiddenspires_cave_turn_01
+Quantity = 1
+Weight = 1
+
+[PieceCaveTurn02]
+Blueprint = forbidden_caves_forbiddenspires_cave_turn_02
+Quantity = 1
+Weight = 1
+
+[PieceCaveFloor01]
+Blueprint = forbidden_caves_forbiddenspires_cave_floor_01
+Quantity = 1
+Weight = 1
+
+[PieceCaveFloor02]
+Blueprint = forbidden_caves_forbiddenspires_cave_floor_02
+Quantity = 1
+Weight = 1
+
+[PieceCaveFloor03]
+Blueprint = forbidden_caves_forbiddenspires_cave_floor_03
+Quantity = 1
+Weight = 1
+
+[PieceCaveFloor04]
+Blueprint = forbidden_caves_forbiddenspires_cave_floor_04
+Quantity = 1
+Weight = 1
+
+[PieceBossroom0101]
+Blueprint = forbidden_caves_forbiddenspires_bossroom_01_01
+Quantity = 1
+Weight = 1
+
+[PieceBossroom0102]
+Blueprint = forbidden_caves_forbiddenspires_bossroom_01_02
+Quantity = 1
+Weight = 1
+
+[PieceBossroom0201]
+Blueprint = forbidden_caves_forbiddenspires_bossroom_02_01
+Quantity = 1
+Weight = 1
+
+[PieceBossroom0202]
+Blueprint = forbidden_caves_forbiddenspires_bossroom_02_02
+Quantity = 1
+Weight = 1
+
+[PieceBossroom0301]
+Blueprint = forbidden_caves_forbiddenspires_bossroom_03_01
+Quantity = 1
+Weight = 1
+
+[PieceBossroom0302]
+Blueprint = forbidden_caves_forbiddenspires_bossroom_03_02
+Quantity = 1
+Weight = 1
+
+[PieceBossroom0303]
+Blueprint = forbidden_caves_forbiddenspires_bossroom_03_03
+Quantity = 1
+Weight = 1
+
+[PieceBossroom0304]
+Blueprint = forbidden_caves_forbiddenspires_bossroom_03_04
+Quantity = 1
+Weight = 1
+
+[PieceBossroom0401]
+Blueprint = forbidden_caves_forbiddenspires_bossroom_04_01
+Quantity = 1
+Weight = 1
+
+[PieceBossroom0402]
+Blueprint = forbidden_caves_forbiddenspires_bossroom_04_02
+Quantity = 1
+Weight = 1

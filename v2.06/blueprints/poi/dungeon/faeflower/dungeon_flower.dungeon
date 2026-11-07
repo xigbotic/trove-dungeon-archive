@@ -1,0 +1,44 @@
+[Piece0]
+Blueprint = Dungeon_Flower_Main
+Quantity = 1
+
+[Piece1]
+Blueprint = Dungeon_Flower_Top_Platform
+Quantity = 1
+
+[Piece2]
+Blueprint = Dungeon_Flower_Bot_Platform
+Quantity = 1
+
+[Piece3]
+Blueprint = Dungeon_Flower_Orb1
+Quantity = 2
+
+[Piece4]
+Blueprint = Dungeon_Flower_Orb2
+Quantity = 2
+
+[Piece5]
+Blueprint = Dungeon_Flower_Orb3
+Quantity = 2
+
+[Piece6]
+Blueprint = Dungeon_Flower_Orb4
+Quantity = 1
+Weight = 1.2
+
+[Piece7]
+Blueprint = Dungeon_Flower_Orb5
+Quantity = 5
+
+[Piece8]
+Blueprint = Dungeon_Flower_Orb6
+Quantity = 5
+
+[Piece9]
+Blueprint = Dungeon_Flower_Vine_Side
+Quantity = 4
+
+[Piece10]
+Blueprint = Dungeon_Flower_Top_Platform2
+Quantity = 1

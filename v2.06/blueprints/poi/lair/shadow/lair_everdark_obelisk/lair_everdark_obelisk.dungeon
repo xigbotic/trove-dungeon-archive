@@ -1,0 +1,39 @@
+[Dungeon]
+Type = Lair
+
+[Piece0]
+Blueprint = e_d_everdark_obelisk_boss_01
+Quanity = 1
+
+[Piece1]
+Blueprint = e_d_everdark_obelisk_boss_02
+Quanity = 1
+
+[Piece2]
+Blueprint = e_d_everdark_obelisk_entrance_01
+Quanity = 1
+
+
+[Piece3]
+Blueprint = e_d_everdark_obelisk_entrance_02
+Quanity = 1
+
+[Piece4]
+Blueprint = e_d_everdark_obelisk_room_01
+Quanity = 1
+
+[Piece5]
+Blueprint = e_d_everdark_obelisk_room_02
+Quanity = 1
+
+[Piece6]
+Blueprint = e_d_everdark_obelisk_top_01
+Quanity = 1
+
+[Piece7]
+Blueprint = e_d_everdark_obelisk_top_02
+Quanity = 1
+
+[Piece8]
+Blueprint = e_d_everdark_obelisk_top_03
+Quanity = 1

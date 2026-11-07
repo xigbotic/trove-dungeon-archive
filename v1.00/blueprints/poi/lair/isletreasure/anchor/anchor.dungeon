@@ -1,0 +1,7 @@
+[Dungeon]
+Type = lair
+
+[Piece0] 
+Blueprint = anchor
+Quantity = 1
+Weight = 1

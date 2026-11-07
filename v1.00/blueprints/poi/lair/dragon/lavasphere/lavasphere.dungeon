@@ -1,0 +1,38 @@
+[Dungeon]
+Type = Lair
+
+[Piece0]
+Blueprint = Walyn_lavaSphere_exterior1
+Quantity = 1
+
+[Piece1]
+Blueprint = Walyn_lavaSphere_exterior2
+Quantity = 1
+
+[Piece2]
+Blueprint = Walyn_lavaSphere_interior1
+Quantity = 2
+
+[Piece3]
+Blueprint = Walyn_lavaSphere_interior2
+Quantity = 2
+
+[Piece4]
+Blueprint = Walyn_lavaSphere_interior3
+Quantity = 2
+
+[Piece5]
+Blueprint = Walyn_lavaSphere_roof1
+Quantity = 1
+
+[Piece6]
+Blueprint = Walyn_lavaSphere_roof2
+Quantity = 1
+
+[Piece7]
+Blueprint = Walyn_lavaSphere_orb1
+Quantity = 1
+
+[Piece8]
+Blueprint = Walyn_lavaSphere_orb2
+Quantity = 1

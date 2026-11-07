@@ -1,0 +1,65 @@
+Seed -1386703985
+TotalQueries 3
+================= PIECES =============
+Piece base_piece_01 Plug=0 Size=35x68x35
+	Plug Position=0,8,0
+	AABB Min=-17,0,-17 Max=18,68,18
+	Socket 2
+	Socket 1
+Piece base_piece_02 Plug=0 Size=35x68x35
+	Plug Position=0,8,0
+	AABB Min=-17,0,-17 Max=18,68,18
+	Socket 2
+	Socket 1
+Piece base_piece_04 Plug=0 Size=39x68x39
+	Plug Position=0,8,0
+	AABB Min=-19,0,-19 Max=20,68,20
+	Socket 1
+	Socket 2
+Piece base_piece_03 Plug=0 Size=35x68x35
+	Plug Position=0,8,0
+	AABB Min=-17,0,-17 Max=18,68,18
+	Socket 2
+	Socket 1
+Piece cage_08 Plug=1 Size=21x51x21
+	Plug Position=0,51,0
+	AABB Min=-10,2,-10 Max=11,53,11
+Piece cage_01 Plug=1 Size=17x47x17
+	Plug Position=0,45,0
+	AABB Min=-8,0,-8 Max=9,47,9
+Piece cage_04 Plug=1 Size=15x44x15
+	Plug Position=0,45,0
+	AABB Min=-7,3,-7 Max=8,47,8
+Piece cage_05 Plug=1 Size=21x44x25
+	Plug Position=0,45,0
+	AABB Min=-10,3,-12 Max=11,47,13
+Piece cage_06 Plug=1 Size=28x55x26
+	Plug Position=0,53,0
+	AABB Min=-13,0,-14 Max=15,55,12
+Piece cage_03 Plug=1 Size=17x46x20
+	Plug Position=0,45,3
+	AABB Min=-8,1,-8 Max=9,47,12
+Piece cage_02 Plug=1 Size=21x47x19
+	Plug Position=0,45,1
+	AABB Min=-10,0,-8 Max=11,47,11
+Piece cage_07 Plug=1 Size=20x53x21
+	Plug Position=0,51,0
+	AABB Min=-9,0,-9 Max=11,53,12
+Piece boss_04 Plug=2 Size=35x23x35
+	Plug Position=0,22,0
+	AABB Min=-17,0,-17 Max=18,23,18
+Piece boss_02 Plug=2 Size=35x23x35
+	Plug Position=0,22,0
+	AABB Min=-17,0,-17 Max=18,23,18
+Piece boss_01 Plug=2 Size=35x23x35
+	Plug Position=0,22,0
+	AABB Min=-17,0,-17 Max=18,23,18
+Piece boss_03 Plug=2 Size=35x23x35
+	Plug Position=0,22,0
+	AABB Min=-17,0,-17 Max=18,23,18
+================= LAYOUT =============
+[0] base_piece_02 [Q=2, D=2]
+	[1] boss_04 [Q=0, D=0]
+	[2] cage_07 [Q=0, D=0]
+================= MESSAGES =============
+Dungeon.Type = Lair, 42x96x42 (64 up, 32 down)

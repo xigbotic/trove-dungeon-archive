@@ -1,0 +1,7 @@
+[Dungeon]
+Type = Lair
+
+[Piece0]
+Blueprint = monkey_tower_3
+Quantity = 1
+Weight = 1

@@ -1,0 +1,112 @@
+[Dungeon]
+Type = lair
+
+[Piece0]
+Blueprint = base_03
+Quantity = 1
+Weight = .1
+
+[Piece1]
+Blueprint = base_02
+Quantity = 1
+Weight = .2
+
+[Piece2]
+Blueprint = base_01
+Quantity = 1
+Weight = .7
+
+[Piece3]
+Blueprint = structure_01
+Quantity = 1
+Weight = .9
+
+[Piece4]
+Blueprint = structure_02
+Quantity = 1
+Weight = .1
+
+[Piece5]
+Blueprint = stem_01
+Quantity = 1
+Weight = .5
+
+[Piece6]
+Blueprint = stem_02
+Quantity = 1
+Weight = .5
+
+[Piece7]
+Blueprint = bloom_bottom_01
+Quantity = 1
+Weight = .2
+
+[Piece8]
+Blueprint = bloom_bottom_02
+Quantity = 1
+Weight = .2
+
+[Piece9]
+Blueprint = bloom_bottom_03
+Quantity = 1
+Weight = .2
+
+[Piece10]
+Blueprint = bloom_full
+Quantity = 1
+Weight = .4
+
+[Piece11]
+Blueprint = bloom_top_01
+Quantity = 1
+Weight = .33
+
+[Piece12]
+Blueprint = bloom_top_02
+Quantity = 1
+Weight = .33
+
+[Piece13]
+Blueprint = bloom_top_03
+Quantity = 1
+Weight = .33
+
+[Piece14]
+Blueprint = flower_01
+Quantity = 3
+Weight = .2
+
+[Piece15]
+Blueprint = flower_02
+Quantity = 3
+Weight = .2
+
+[Piece16]
+Blueprint = flower_03
+Quantity = 3
+Weight = .2
+
+[Piece17]
+Blueprint = flower_04
+Quantity = 3
+Weight = .2
+
+[Piece18]
+Blueprint = flower_05
+Quantity = 3
+Weight = .2
+
+[Piece19]
+Blueprint = leaf_01
+Quantity = 4
+Weight = .33
+
+[Piece20]
+Blueprint = leaf_02
+Quantity = 4
+Weight = .33
+
+[Piece21]
+Blueprint = leaf_03
+Quantity = 4
+Weight = .33

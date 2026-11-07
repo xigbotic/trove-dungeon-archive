@@ -1,0 +1,21 @@
+Seed 1094147154
+TotalQueries 2
+================= PIECES =============
+Piece Lair_grave_yard_base Plug=0 Size=30x13x30
+	Plug Position=0,0,-1
+	AABB Min=-15,0,-15 Max=15,13,15
+	Socket 1
+Piece Lair_grave_yard_room_01 Plug=1 Size=30x13x30
+	Plug Position=-1,12,11
+	AABB Min=-15,0,-15 Max=15,13,15
+Piece Lair_grave_yard_room_02 Plug=1 Size=30x13x30
+	Plug Position=-1,12,11
+	AABB Min=-15,0,-15 Max=15,13,15
+Piece Lair_grave_yard_room_03 Plug=1 Size=30x13x30
+	Plug Position=-1,12,11
+	AABB Min=-15,0,-15 Max=15,13,15
+================= LAYOUT =============
+[0] Lair_grave_yard_base [Q=1, D=1]
+	[1] Lair_grave_yard_room_03 [Q=0, D=0]
+================= MESSAGES =============
+Dungeon.Type = Lair, 32x96x32 (64 up, 32 down)

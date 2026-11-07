@@ -1,0 +1,25 @@
+[Dungeon]
+Type = lair
+
+#Creator = onigiry
+#Dungeon name = Lying_Dragon
+
+[Piece1]
+Blueprint = lying_dragon_entrance1
+Quantity = 1
+Weight = 0.5
+
+[Piece2]
+Blueprint = lying_dragon_entrance2
+Quantity = 1
+Weight = 0.5
+
+[Piece3]
+Blueprint = lying_dragon_bossroom1
+Quantity = 1
+Weight = 0.5
+
+[Piece4]
+Blueprint = lying_dragon_bossroom2
+Quantity = 1
+Weight = 0.5

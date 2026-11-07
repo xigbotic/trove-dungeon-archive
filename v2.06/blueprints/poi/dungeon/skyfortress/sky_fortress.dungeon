@@ -1,0 +1,52 @@
+[Piece0]
+Blueprint = Center
+Quantity = 1
+
+[Piece1]
+Blueprint = Cloud1
+Quantity = 2
+
+[Piece2]
+Blueprint = Cloud2
+Quantity = 2
+
+[Piece3]
+Blueprint = Cloud3
+Quantity = 2
+
+[Piece4]
+Blueprint = Bottom_Archery
+Quantity = 2
+
+[Piece5]
+Blueprint = Bottom_Crafting
+Quantity = 2
+
+[Piece6]
+Blueprint = Bottom_Statues
+Quantity = 2
+
+[Piece7]
+Blueprint = Middle_Garden
+Quantity = 2
+
+[Piece8]
+Blueprint = Middle_Fountain
+Quantity = 2
+
+[Piece9]
+Blueprint = Middle_Fighter
+Quantity = 2
+
+[Piece10]
+Blueprint = Top_Books
+Quantity = 2
+
+[Piece11]
+Blueprint = Top_Plants
+Quantity = 2
+
+[Piece12]
+Blueprint = Top_Throne
+Quantity = 1
+Weight = 2

@@ -1,0 +1,57 @@
+[Dungeon]
+Type = lair
+
+[Piece0]
+Blueprint = dungeon_drillingdevice_boss_01
+Quantity = 1
+weight= .33
+
+[Piece1]
+Blueprint = dungeon_drillingdevice_boss_02
+Quantity = 1
+weight = .33
+
+[Piece2]
+Blueprint = dungeon_drillingdevice_shell_01
+Quantity = 1
+weight = .33
+
+[Piece3]
+Blueprint = dungeon_drillingdevice_shell_02
+Quantity = 1
+weight= .33
+
+[Piece4]
+Blueprint = dungeon_drillingdevice_gameplay_01
+Quantity = 1
+weight = .33
+
+[Piece5]
+Blueprint = dungeon_drillingdevice_gameplay_02
+Quantity = 1
+weight = .33
+
+[Piece6]
+Blueprint = dungeon_drillingdevice_gameplay_03
+Quantity = 1
+weight = .33
+
+[Piece7]
+Blueprint = dungeon_drillingdevice_stairs_01
+Quantity = 1
+weight = .33
+
+[Piece8]
+Blueprint = dungeon_drillingdevice_stairs_02
+Quantity = 1
+weight = .33
+
+[Piece9]
+Blueprint = dungeon_drillingdevice_stairs_03
+Quantity = 1
+weight = .33
+
+[Piece10]
+Blueprint = dungeon_drillingdevice_fakeroof
+Quantity = 1
+weight = .33

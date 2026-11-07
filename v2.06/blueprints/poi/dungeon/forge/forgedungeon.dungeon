@@ -1,0 +1,37 @@
+[Piece0]
+Blueprint = Forge_Entrance2
+Quantity = 1
+
+[Piece1]
+Blueprint = Forge_main
+Quantity = 1
+
+[Piece2]
+Blueprint = Forge_Right1
+Quantity = 1
+
+[Piece3]
+Blueprint = Forge_Right_Back
+Quantity = 2
+
+[Piece4]
+Blueprint = Forge_r_pre
+Quantity = 1
+
+[Piece5]
+Blueprint = Forge_Left3
+Quantity = 1
+
+[Piece6]
+Blueprint = Forge_L_pre
+Quantity = 1
+
+
+[Piece7]
+Blueprint = Forge_Boss
+Quantity = 1
+
+
+[Piece8]
+Blueprint = Forge_Cap
+Quantity = 1

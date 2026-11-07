@@ -1,0 +1,52 @@
+[Dungeon]
+Type = Dungeon
+
+[Piece0]
+Blueprint = dungeon_miningdrones_spine_bot_01_debug
+Quantity = 1
+Weight = 0.5
+
+[Piece1]
+Blueprint = dungeon_miningdrones_spine_bot_02_debug
+Quantity = 1
+Weight = 0.5
+
+[Piece2]
+Blueprint = dungeon_miningdrones_spine_bot_03_debug
+Quantity = 1
+Weight = 0.5
+
+[Piece3]
+Blueprint = dungeon_miningdrones_spine_mid_01_debug
+Quantity = 1
+Weight = 0.5
+
+[Piece4]
+Blueprint = dungeon_miningdrones_spine_mid_02_debug
+Quantity = 1
+Weight = 0.5
+
+[Piece5]
+Blueprint = dungeon_miningdrones_spine_mid_03_debug
+Quantity = 1
+Weight = 0.5
+
+[Piece6]
+Blueprint = dungeon_miningdrones_spine_top_01_debug
+Quantity = 1
+Weight = 0.5
+
+[Piece7]
+Blueprint = dungeon_miningdrones_spine_top_02_debug
+Quantity = 1
+Weight = 0.5
+
+[Piece8]
+Blueprint = dungeon_miningdrones_spine_top_03_debug
+Quantity = 1
+Weight = 0.5
+
+[Piece9]
+Blueprint = dungeon_miningdrones_spine_miniboss_debug
+Quantity = 12
+Weight = 1

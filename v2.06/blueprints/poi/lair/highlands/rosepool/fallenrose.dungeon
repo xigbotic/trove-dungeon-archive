@@ -1,0 +1,51 @@
+[Dungeon]
+Type = Lair
+
+[Piece 0]
+Blueprint = FallenRose_Rose
+Quantity = 1
+
+
+[Piece 2]
+Blueprint = FallenRose_FirstFloor_1
+Quantity = 1
+
+
+[Piece 3]
+Blueprint = FallenRose_SecondFloor_1
+Quantity = 1
+
+
+[Piece 4]
+Blueprint = FallenRose_BossRoom_1
+Quantity = 1
+
+
+[Piece 5]
+Blueprint = FallenRose_FirstFloor_2
+Quantity = 1
+
+
+[Piece 6]
+Blueprint = FallenRose_SecondFloor_2
+Quantity = 1
+
+
+[Piece 7]
+Blueprint = FallenRose_BossRoom_2
+Quantity = 1
+
+
+[Piece 8]
+Blueprint = FallenRose_FirstFloor_3
+Quantity = 1
+
+
+[Piece 9]
+Blueprint = FallenRose_SecondFloor_3
+Quantity = 1
+
+
+[Piece 10]
+Blueprint = FallenRose_BossRoom_3
+Quantity = 1

@@ -1,0 +1,42 @@
+[Dungeon]
+Type = lair
+
+[Piece0]
+Blueprint = dungeon_recipe_shuttle_case_01
+Quantity = 1
+weight= .33
+
+[Piece1]
+Blueprint = dungeon_recipe_shuttle_case_02
+Quantity = 1
+weight = .33
+
+[Piece2]
+Blueprint = dungeon_recipe_shuttle_glass_01
+Quantity = 1
+weight = .33
+
+[Piece3]
+Blueprint = dungeon_recipe_shuttle_glass_02
+Quantity = 1
+weight= .33
+
+[Piece4]
+Blueprint = dungeon_recipe_shuttle_gameplay_01
+Quantity = 1
+weight= .33
+
+[Piece5]
+Blueprint = dungeon_recipe_shuttle_boss_01
+Quantity = 1
+weight= .33
+
+[Piece6]
+Blueprint = dungeon_recipe_shuttle_boss_02
+Quantity = 1
+weight= .33
+
+[Piece7]
+Blueprint = dungeon_recipe_shuttle_fakeroof
+Quantity = 1
+weight= .33

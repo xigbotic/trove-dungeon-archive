@@ -1,0 +1,372 @@
+[Dungeon]
+Type = Dungeon
+#Mode = 3-star dungeon
+#Title = Icecream mountain (Sweetness Overload)
+#Creator = Evilagician
+
+#mainpiece
+[Piece0]
+Blueprint = d_icecream_mountain_main
+Quantity = 1
+
+#Selection left or right jumpers
+[Piece1a]
+Blueprint = d_icecream_mountain_jumper_right
+Quantity = 1
+Weight = .44
+
+[Piece1b]
+Blueprint = d_icecream_mountain_jumper_left
+Quantity = 1
+Weight = .44
+
+#Selection jumperpads
+[Piece2a]
+Blueprint = d_icecream_mountain_jumper_candy001
+Quantity = 1
+Weight = .44
+
+[Piece2b]
+Blueprint = d_icecream_mountain_jumper_candy002
+Quantity = 1
+Weight = .44
+
+[Piece2c]
+Blueprint = d_icecream_mountain_jumper_candy003
+Quantity = 1
+Weight = .44
+
+[Piece2d]
+Blueprint = d_icecream_mountain_jumper_candy004
+Quantity = 1
+Weight = .44
+
+[Piece2e]
+Blueprint = d_icecream_mountain_jumper_candy005
+Quantity = 1
+Weight = .44
+
+[Piece2f]
+Blueprint = d_icecream_mountain_jumper_candy006
+Quantity = 1
+Weight = .44
+
+[Piece2g]
+Blueprint = d_icecream_mountain_jumper_candy007
+Quantity = 1
+Weight = .44
+
+[Piece2h]
+Blueprint = d_icecream_mountain_jumper_candy008
+Quantity = 1
+Weight = .44
+
+[Piece2i]
+Blueprint = d_icecream_mountain_jumper_candy009
+Quantity = 1
+Weight = .44
+
+[Piece2j]
+Blueprint = d_icecream_mountain_jumper_candy010
+Quantity = 1
+Weight = .44
+
+[Piece2k]
+Blueprint = d_icecream_mountain_jumper_candy011
+Quantity = 1
+Weight = .44
+
+[Piece2l]
+Blueprint = d_icecream_mountain_jumper_candy012
+Quantity = 1
+Weight = .44
+
+[Piece2m]
+Blueprint = d_icecream_mountain_jumper_candy013
+Quantity = 1
+Weight = .44
+
+[Piece2n]
+Blueprint = d_icecream_mountain_jumper_candy014
+Quantity = 1
+Weight = .44
+
+[Piece2o]
+Blueprint = d_icecream_mountain_jumper_candy015
+Quantity = 1
+Weight = .44
+
+[Piece2p]
+Blueprint = d_icecream_mountain_jumper_candy016
+Quantity = 1
+Weight = .44
+
+#Selection baths
+[Piece3Batha]
+Blueprint = d_icecream_mountain_encounter_bath_001
+Quantity = 1
+Weight = .44
+
+[Piece3Bathb]
+Blueprint = d_icecream_mountain_encounter_bath_002
+Quantity = 1
+Weight = .44
+
+[Piece3Bathc]
+Blueprint = d_icecream_mountain_encounter_bath_003
+Quantity = 1
+Weight = .44
+
+[Piece3Bathd]
+Blueprint = d_icecream_mountain_encounter_bath_004
+Quantity = 1
+Weight = .44
+
+#Selection mushroom
+[Piece3mushrooma]
+Blueprint = d_icecream_mountain_encounter_mushroom_001
+Quantity = 1
+Weight = .44
+
+[Piece3mushroomb]
+Blueprint = d_icecream_mountain_encounter_mushroom_002
+Quantity = 1
+Weight = .44
+
+[Piece3mushroomc]
+Blueprint = d_icecream_mountain_encounter_mushroom_003
+Quantity = 1
+Weight = .44
+
+[Piece3mushroomd]
+Blueprint = d_icecream_mountain_encounter_mushroom_004
+Quantity = 1
+Weight = .44
+
+#Selection platform
+[Piece3platforma]
+Blueprint = d_icecream_mountain_encounter_platform_001
+Quantity = 1
+Weight = .44
+
+[Piece3platformb]
+Blueprint = d_icecream_mountain_encounter_platform_002
+Quantity = 1
+Weight = .44
+
+[Piece3platformc]
+Blueprint = d_icecream_mountain_encounter_platform_003
+Quantity = 1
+Weight = .44
+
+[Piece3platformd]
+Blueprint = d_icecream_mountain_encounter_platform_004
+Quantity = 1
+Weight = .44
+
+#Selection wall
+[Piece3walla]
+Blueprint = d_icecream_mountain_encounter_wall_001
+Quantity = 1
+Weight = .44
+
+[Piece3wallb]
+Blueprint = d_icecream_mountain_encounter_wall_002
+Quantity = 1
+Weight = .44
+
+[Piece3wallc]
+Blueprint = d_icecream_mountain_encounter_wall_003
+Quantity = 1
+Weight = .44
+
+[Piece3walld]
+Blueprint = d_icecream_mountain_encounter_wall_004
+Quantity = 1
+Weight = .44
+
+#Selection Minor female version
+[Piece4minora]
+Blueprint = d_icecream_mountain_minor_f_gingerbread_happy
+Quantity = 1
+Weight = .44
+
+[Piece4minorb]
+Blueprint = d_icecream_mountain_minor_f_gingerbread_superhappy
+Quantity = 1
+Weight = .45
+
+[Piece4minorc]
+Blueprint = d_icecream_mountain_minor_f_gingerbread_sad
+Quantity = 1
+Weight = .46
+
+#Selection Minor male version
+[Piece5minora]
+Blueprint = d_icecream_mountain_minor_m_gingerbread_happy
+Quantity = 1
+Weight = .44
+
+[Piece5minorb]
+Blueprint = d_icecream_mountain_minor_m_gingerbread_superhappy
+Quantity = 1
+Weight = .45
+
+[Piece5minorc]
+Blueprint = d_icecream_mountain_minor_m_gingerbread_sad
+Quantity = 1
+Weight = .46
+
+#Selection icecream props colors
+[Piece6a]
+Blueprint = d_icecream_mountain_icecream_prop001
+Quantity = 1
+Weight = .44
+
+[Piece6b]
+Blueprint = d_icecream_mountain_icecream_prop002
+Quantity = 1
+Weight = .45
+
+[Piece6c]
+Blueprint = d_icecream_mountain_icecream_prop003
+Quantity = 1
+Weight = .46
+
+[Piece6d]
+Blueprint = d_icecream_mountain_icecream_prop004
+Quantity = 1
+Weight = .47
+
+#Selection major fights
+[Piece7majora]
+Blueprint = d_icecream_mountain_major_001
+Quantity = 1
+Weight = .44
+
+[Piece7majorb]
+Blueprint = d_icecream_mountain_major_002
+Quantity = 1
+Weight = .45
+
+[Piece7majorc]
+Blueprint = d_icecream_mountain_major_003
+Quantity = 1
+Weight = .46
+
+[Piece7majord]
+Blueprint = d_icecream_mountain_major_004
+Quantity = 1
+Weight = .47
+
+#Selection props to decorate the sides, these might also be used to climb the other sides.
+#the props have a total of 40 options
+[Piece8empty]
+Blueprint = d_icecream_mountain_prop_empty
+Quantity = 8
+Weight = .34
+
+[Piece8Gumdropblue]
+Blueprint = d_icecream_mountain_prop_gumdropblue
+Quantity = 4
+Weight = .34
+
+[Piece8Gumdropgreen]
+Blueprint = d_icecream_mountain_prop_gumdropgreen
+Quantity = 4
+Weight = .34
+
+[Piece8Gumdropred]
+Blueprint = d_icecream_mountain_prop_gumdropred
+Quantity = 4
+Weight = .34
+
+[Piece8Gumdropyellow]
+Blueprint = d_icecream_mountain_prop_gumdropyellow
+Quantity = 4
+Weight = .34
+
+[Piece8stick]
+Blueprint = d_icecream_mountain_prop_stick
+Quantity = 4
+Weight = .34
+
+[Piece8a]
+Blueprint = d_icecream_mountain_prop_candy001
+Quantity = 1
+Weight = .44
+
+[Piece8b]
+Blueprint = d_icecream_mountain_prop_candy002
+Quantity = 1
+Weight = .44
+
+[Piece8c]
+Blueprint = d_icecream_mountain_prop_candy003
+Quantity = 1
+Weight = .44
+
+[Piece8d]
+Blueprint = d_icecream_mountain_prop_candy004
+Quantity = 1
+Weight = .44
+
+[Piece8e]
+Blueprint = d_icecream_mountain_prop_candy005
+Quantity = 1
+Weight = .44
+
+[Piece8f]
+Blueprint = d_icecream_mountain_prop_candy006
+Quantity = 1
+Weight = .44
+
+[Piece8g]
+Blueprint = d_icecream_mountain_prop_candy007
+Quantity = 1
+Weight = .44
+
+[Piece8h]
+Blueprint = d_icecream_mountain_prop_candy008
+Quantity = 1
+Weight = .44
+
+[Piece8i]
+Blueprint = d_icecream_mountain_prop_candy009
+Quantity = 1
+Weight = .44
+
+[Piece8j]
+Blueprint = d_icecream_mountain_prop_candy010
+Quantity = 1
+Weight = .44
+
+[Piece8k]
+Blueprint = d_icecream_mountain_prop_candy011
+Quantity = 1
+Weight = .44
+
+[Piece8l]
+Blueprint = d_icecream_mountain_prop_candy012
+Quantity = 1
+Weight = .44
+
+[Piece8m]
+Blueprint = d_icecream_mountain_prop_candy013
+Quantity = 1
+Weight = .44
+
+[Piece8n]
+Blueprint = d_icecream_mountain_prop_candy014
+Quantity = 1
+Weight = .44
+
+[Piece8o]
+Blueprint = d_icecream_mountain_prop_candy015
+Quantity = 1
+Weight = .44
+
+[Piece8p]
+Blueprint = d_icecream_mountain_prop_candy016
+Quantity = 1
+Weight = .44

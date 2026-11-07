@@ -1,0 +1,70 @@
+[Dungeon]
+Type = Dungeon
+#Mode = 3-star dungeon
+#Title = Walled Geode keep
+
+
+#Plug 0 Done
+[Main]
+Blueprint = mainleft
+Quantity = 1
+Weight = 0.64
+
+[MainMirrored]
+Blueprint = mainright
+Quantity = 1
+Weight = 0.54
+
+#plug 1 corneroptions
+[keepcorner01]
+Blueprint = corner_01
+Quantity = 4
+Weight = 0.44
+
+[keepcorner02]
+Blueprint = corner_02
+Quantity = 4
+Weight = 0.44
+
+#plug 2 walloptions
+[PiecelandplugsYellow]
+Blueprint = wall_01
+Quantity = 3
+Weight = 0.44
+
+[PiecelandplugsPink]
+Blueprint = wall_02
+Quantity = 3
+Weight = 0.44
+
+[PiecelandplugsParty]
+Blueprint = wall_03
+Quantity = 3
+Weight = 0.44
+
+#Plug 2
+[PieceBuildplugsBlue]
+Blueprint = wall_04
+Quantity = 3
+Weight = 0.44
+
+#plug 3 cellardooroptions
+[CellarWall001]
+Blueprint = cellarwall_001
+Quantity = 1
+Weight = 0.44
+
+[CellarWall002]
+Blueprint = cellarwall_002
+Quantity = 1
+Weight = 0.44
+
+[CellarWall003]
+Blueprint = cellarwall_003
+Quantity = 1
+Weight = 0.44
+
+[CellarWall004]
+Blueprint = cellarwall_004
+Quantity = 1
+Weight = 0.44

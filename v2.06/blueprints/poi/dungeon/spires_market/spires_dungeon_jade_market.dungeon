@@ -1,0 +1,118 @@
+[Dungeon]
+Type = Dungeon
+
+[Piece0]
+Blueprint = spires_dungeon_jade_market_top_beetle
+Quantity = 1
+Weight = 0.25
+
+[Piece1]
+Blueprint = spires_dungeon_jade_market_top_clay
+Quantity = 1
+Weight = 0.25
+
+[Piece2]
+Blueprint = spires_dungeon_jade_market_top_fox
+Quantity = 1
+Weight = 0.25
+
+
+[Piece3]
+Blueprint = spires_dungeon_jade_market_top_panda
+Quantity = 1
+Weight = 0.25
+
+[Piece4]
+Blueprint = spires_dungeon_jade_market_miniboss1_1
+Quantity = 1
+Weight = 0.5
+
+[Piece5]
+Blueprint = spires_dungeon_jade_market_miniboss1_2
+Quantity = 1
+Weight = 0.5
+
+[Piece6]
+Blueprint = spires_dungeon_jade_market_top_1
+Quantity = 1
+Weight = 0.5
+
+[Piece7]
+Blueprint = spires_dungeon_jade_market_top_2
+Quantity = 1
+Weight = 0.5
+
+[Piece8]
+Blueprint = spires_dungeon_jade_market_top_3
+Quantity = 1
+Weight = 0.5
+
+[Piece9]
+Blueprint = spires_dungeon_jade_market_top_4
+Quantity = 1
+Weight = 0.5
+
+[Piece10]
+Blueprint = spires_dungeon_jade_market_corridor_1
+Quantity = 1
+Weight = 0.5
+
+[Piece11]
+Blueprint = spires_dungeon_jade_market_corridor_2
+Quantity = 1
+Weight = 0.5
+
+[Piece12]
+Blueprint = spires_dungeon_jade_market_startroom_1
+Quantity = 1
+Weight = 0.5
+
+[Piece13]
+Blueprint = spires_dungeon_jade_market_startroom_2
+Quantity = 1
+Weight = 0.5
+
+[Piece14]
+Blueprint = spires_dungeon_jade_market_secondroom_1
+Quantity = 1
+Weight = 0.5
+
+[Piece15]
+Blueprint = spires_dungeon_jade_market_secondroom_2
+Quantity = 1
+Weight = 0.5
+
+[Piece16]
+Blueprint = spires_dungeon_jade_market_miniboss2_1
+Quantity = 1
+Weight = 0.5
+
+[Piece17]
+Blueprint = spires_dungeon_jade_market_miniboss2_2
+Quantity = 1
+Weight = 0.5
+
+[Piece18]
+Blueprint = spires_dungeon_jade_market_miniboss2_3
+Quantity = 1
+Weight = 0.5
+
+[Piece19]
+Blueprint = spires_dungeon_jade_market_bigboss_1
+Quantity = 1
+Weight = 0.5
+
+[Piece20]
+Blueprint = spires_dungeon_jade_market_bigboss_2
+Quantity = 1
+Weight = 0.5
+
+[Piece21]
+Blueprint = spires_dungeon_jade_market_bigboss_3
+Quantity = 1
+Weight = 0.5
+
+[Piece22]
+Blueprint = spires_dungeon_jade_market_roof
+Quantity = 1
+Weight = 1

@@ -1,0 +1,75 @@
+[Dungeon]
+Type = Shadow
+
+[Piece0]
+Blueprint = Shadow_temple_mid_003_fire
+Quantity = 1
+Weight = .45
+
+[Piece1]
+Blueprint = Shadow_temple_mid_003_spikes
+Quantity = 1
+Weight = .45
+
+[Piece2]
+Blueprint = Shadow_temple_mid_003_mobs
+Quantity = 1
+Weight = .10
+
+[Piece000]
+Blueprint = Shadow_temple_Start_end
+Quantity = 1
+
+[Piece3]
+Blueprint = Shadow_temple_mid_002_fire
+Quantity = 1
+Weight = .45
+
+[Piece4]
+Blueprint = Shadow_temple_mid_002_spikes
+Quantity = 1
+Weight = .45
+
+[Piece5]
+Blueprint = Shadow_temple_mid_002_mobs
+Quantity = 1
+Weight = .10
+
+[Piece6]
+Blueprint = Shadow_temple_mid_001_fire
+Quantity = 1
+Weight = .45
+
+[Piece6]
+Blueprint = Shadow_temple_mid_001_spikes
+Quantity = 1
+Weight = .45
+
+[Piece7]
+Blueprint = Shadow_temple_mid_001_mobs
+Quantity = 1
+Weight = .10
+
+[Piece8]
+Blueprint = Shadow_temple_FRONT
+Quantity = 1
+
+[Piece9]
+Blueprint = Shadow_temple_centerstage_fire
+Quantity = 1
+Weight = .50
+
+[Piece10]
+Blueprint = Shadow_temple_centerstage_mobs
+Quantity = 1
+Weight = .50
+
+[Piece11]
+Blueprint = Shadow_temple_finalstage_fire
+Quantity = 1
+Weight = .50
+
+[Piece12]
+Blueprint = Shadow_temple_finalstage_mobs
+Quantity = 1
+Weight = .50

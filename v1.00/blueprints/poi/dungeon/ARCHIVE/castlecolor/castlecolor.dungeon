@@ -1,0 +1,48 @@
+[Piece0]
+Blueprint = DNG_castlecolor_0_ground_floor
+Quantity = 1
+
+[Piece1]
+Blueprint = DNG_castlecolor_5_floor1
+Quantity = 1
+
+[Piece2]
+Blueprint = DNG_castlecolor_5_floor2
+Quantity = 2
+
+[Piece3]
+Blueprint = DNG_castlecolor_5_floor3
+Quantity = 1
+
+[Piece4]
+Blueprint = DNG_castlecolor_5_floor4
+Quantity = 2
+
+[Piece5]
+Blueprint = DNG_castlecolor_5_endcap
+Quantity = 1
+Weight = 0
+
+[Piece6]
+Blueprint = DNG_castlecolor_1_room1
+Quantity = 200
+
+[Piece7]
+Blueprint = DNG_castlecolor_2_room1
+Quantity = 200
+
+[Piece8]
+Blueprint = DNG_castlecolor_3_room1
+Quantity = 200
+
+[Piece9]
+Blueprint = DNG_castlecolor_4_room1
+Quantity = 200
+
+[Piece10]
+Blueprint = DNG_castlecolor_7_room1
+Quantity = 200
+
+[Piece11]
+Blueprint = DNG_castlecolor_7_room2
+Quantity = 200

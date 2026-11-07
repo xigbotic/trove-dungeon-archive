@@ -1,0 +1,52 @@
+[Dungeon]
+Type = lair
+
+[Piece0]
+Blueprint = Ground
+Quantity = 1
+Weight = .5
+
+[Piece1]
+Blueprint = BaseA
+Quantity = 1
+Weight = .5
+
+[Piece2]
+Blueprint = LowerBaseA
+Quantity = 1
+Weight = .5
+
+
+[Piece3]
+Blueprint = AqueductBossA
+Quantity = 1
+Weight = .5
+
+[Piece4]
+Blueprint = GroundB
+Quantity = 1
+Weight = .5
+
+[Piece5]
+Blueprint = BaseB
+Quantity = 1
+Weight = .5
+
+[Piece6]
+Blueprint = LowerBaseB
+Quantity = 1
+Weight = .5
+
+[Piece7]
+Blueprint = AqueductBossB
+Quantity = 1
+Weight = .5
+
+
+
+
+
+
+
+
+

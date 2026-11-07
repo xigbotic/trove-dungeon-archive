@@ -1,0 +1,98 @@
+[Dungeon]
+Type = Dungeon
+
+[Piece01]
+Blueprint = encounter01_01
+Quantity = 1
+Weight = 1
+
+[Piece02]
+Blueprint = encounter01_02
+Quantity = 1
+Weight = 1
+
+[Piece03]
+Blueprint = room03_01 
+Quantity = 1
+Weight = 0.50
+
+[Piece04]
+Blueprint = room03_02
+Quantity = 1
+Weight = 0.50
+
+[Piece05]
+Blueprint = coridor02_01
+Quantity = 1
+Weight = 0.50
+
+[Piece06]
+Blueprint = coridor02_02
+Quantity = 1
+Weight = 0.50
+
+[Piece07]
+Blueprint = room02_01
+Quantity = 1
+Weight = 0.50
+
+[Piece08]
+Blueprint = room02_02
+Quantity = 1
+Weight = 0.50
+
+[Piece09]
+Blueprint = startwhite
+Quantity = 1
+
+[Piece10]
+Blueprint = stairs01_01 
+Weight = 0.5
+Quantity = 1
+
+[Piece11]
+Blueprint = stairs01_02 
+Weight = 0.5
+Quantity = 1
+
+[Piece12]
+Blueprint = coridor01_01
+Weight = 0.5
+Quantity = 1
+
+[Piece13]
+Blueprint = coridor01_02
+Weight = 0.5
+Quantity = 1
+
+[Piece14]
+Blueprint = bcoridor01
+Weight = 1
+Quantity = 1
+
+[Piece15]
+Blueprint = boss01
+Weight = 0.5
+Quantity = 1
+
+[Piece16]
+Blueprint = boss02
+Weight = 0.5
+Quantity = 1
+
+[Piece17]
+Blueprint = deadend01
+Weight = 0.33
+Quantity = 2
+
+[Piece18]
+Blueprint = generate
+Weight = 0.33
+Quantity = 1
+
+[Piece19]
+Blueprint = startendrooms
+Weight = 1
+Quantity = 1
+
+

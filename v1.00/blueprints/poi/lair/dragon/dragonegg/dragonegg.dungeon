@@ -1,0 +1,6 @@
+[Dungeon]
+Type = Lair
+
+[Piece0]
+Blueprint = DragonEgg
+Quantity = 1

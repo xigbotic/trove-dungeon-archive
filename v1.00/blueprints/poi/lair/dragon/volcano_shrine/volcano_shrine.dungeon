@@ -1,0 +1,67 @@
+[Dungeon]
+Type = lair
+
+[Piece0] 
+Blueprint = volcano_01
+Quantity = 1
+Weight = .25
+
+[Piece1]
+Blueprint = volcano_02
+Quantity = 1
+Weight = .25
+
+[Piece2]
+Blueprint = volcano_03
+Quantity = 1
+Weight = .25
+
+[Piece3]
+Blueprint = volcano_04
+Quantity = 1
+Weight = .25
+
+[Piece4]
+Blueprint = basement_01a
+Quantity = 1
+Weight = .125
+
+[Piece5]
+Blueprint = basement_01b
+Quantity = 1
+Weight = .125
+
+[Piece6]
+Blueprint = basement_01c
+Quantity = 1
+Weight = .125
+
+[Piece7]
+Blueprint = basement_01d
+Quantity = 1
+Weight = .125
+
+[Piece8]
+Blueprint = basement_02a
+Quantity = 1
+Weight = .125
+
+[Piece9]
+Blueprint = basement_02b
+Quantity = 1
+Weight = .125
+
+[Piece10]
+Blueprint = basement_02c
+Quantity = 1
+Weight = .125
+
+[Piece11]
+Blueprint = basement_02d
+Quantity = 1
+Weight = .125
+
+[Piece12]
+Blueprint = boss_room_01
+Quantity = 1
+Weight = 1

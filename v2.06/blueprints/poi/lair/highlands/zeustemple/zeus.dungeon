@@ -1,0 +1,23 @@
+[Dungeon]
+
+Type = Lair
+
+[Piece0]
+Blueprint = Above_Ground_ShallowRoof_wo_pillars
+Quantity = 1
+
+[Piece1]
+Blueprint = UnderGroundWaterfalls_BottomLeft
+Quantity = 1
+
+[Piece3]
+Blueprint = UnderGroundWaterfalls_BottomRight
+Quantity = 1
+
+[Piece4]
+Blueprint = UnderGroundWaterfalls_LeftBottom
+Quantity = 1
+
+[Piece6]
+Blueprint = UnderGroundWaterfalls_RightTop
+Quantity = 1

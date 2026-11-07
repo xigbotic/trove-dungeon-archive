@@ -1,0 +1,32 @@
+[Dungeon]
+Type = Lair
+
+[Piece1]
+Blueprint = Base_1
+Quantity = 1
+Weight = 0.5
+
+[Piece2]
+Blueprint = Base_2
+Quantity = 1
+Weight = 0.5
+
+[Piece3]
+Blueprint = Head_1
+Quantity = 1
+Weight = 0.5
+
+[Piece4]
+Blueprint = Head_2
+Quantity = 1
+Weight = 0.5
+
+[Piece5]
+Blueprint = Room_1
+Quantity = 1
+Weight = 0.5
+
+[Piece6]
+Blueprint = Room_2
+Quantity = 1
+Weight = 0.5

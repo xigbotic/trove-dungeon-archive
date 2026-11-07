@@ -1,0 +1,11 @@
+[Dungeon]
+
+Type = Dungeon
+
+[Piece0]
+Blueprint = Dragon_Castle_v1
+Quantity = 1
+
+[Piece1]
+Blueprint = Dragon_Castle_v2
+Quantity = 1

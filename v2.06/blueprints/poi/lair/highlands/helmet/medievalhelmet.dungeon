@@ -1,0 +1,33 @@
+[dungeon]
+Type = lair
+
+
+[Piece0]
+Blueprint = medievalhelmet_ala_2a
+Quantity = 1
+Weight = 0.5
+
+[Piece1]
+Blueprint = medievalhelmet_ala_b
+Quantity = 1
+Weight = 0.5
+
+[Piece2]
+Blueprint = medievalhelmet_yla2
+Quantity = 1
+Weight = 0.333
+
+[Piece3]
+Blueprint = medievalhelmet_yla2_b
+Quantity = 1
+Weight = 0.333
+
+[Piece4]
+Blueprint = medievalhelmet_yla2_c2
+Quantity = 1
+Weight = 0.333
+
+[Piece5]
+Blueprint = medievalhelmet_boss_a
+Quantity = 1
+Weight = 1

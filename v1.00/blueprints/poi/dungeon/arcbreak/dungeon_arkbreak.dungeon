@@ -1,0 +1,40 @@
+[Piece01]
+Blueprint = Dungeon_Arkbreak_Terrain
+Quantity = 1
+
+[Piece02]
+Blueprint = Dungeon_Arkbreak_Crash_Site
+Quantity = 1
+
+[Piece03]
+Blueprint = Dungeon_Arkbreak_Underground_Combat_Room
+Quantity = 1
+
+[Piece04]
+Blueprint = Dungeon_Arkbreak_Underground_Warmaster
+Quantity = 1
+
+[Piece05]
+Blueprint = Dungeon_Arkbreak_Scenery_Platform_01
+Quantity = 2
+
+[Piece06]
+Blueprint = Dungeon_Arkbreak_Scenery_Platform_02
+Quantity = 2
+
+[Piece07]
+Blueprint = Dungeon_Arkbreak_Scenery_Platform_03
+Quantity = 2
+
+[Piece08]
+Blueprint = Dungeon_Arkbreak_Scenery_Debris_01
+Quantity = 3
+
+[Piece09]
+Blueprint = Dungeon_Arkbreak_Scenery_Debris_02
+Quantity = 3
+
+[Piece10]
+Blueprint = Dungeon_Arkbreak_Scenery_Debris_03
+Quantity = 1
+

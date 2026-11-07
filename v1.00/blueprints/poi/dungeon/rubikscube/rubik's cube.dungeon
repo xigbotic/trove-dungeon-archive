@@ -1,0 +1,23 @@
+[Piece0]
+Blueprint = Dungeon_RubiksCube_lamafao_Bot-1
+Quantity = 1
+Weight = .65
+
+[Piece1]
+Blueprint = Dungeon_RubiksCube_lamafao_Bot-2
+Quantity = 1
+Weight = .35
+
+[Piece2]
+Blueprint = Dungeon_RubiksCube_lamafao_Mid-1
+Quantity = 1
+Weight = .65
+
+[Piece3]
+Blueprint = Dungeon_RubiksCube_lamafao_Mid-2
+Quantity = 1
+Weight = .35
+
+[Piece4]
+Blueprint = Dungeon_RubiksCube_lamafao_Top
+Quantity = 1

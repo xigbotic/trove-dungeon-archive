@@ -1,0 +1,30 @@
+[Dungeon]
+Type = Lair
+
+[Piece0]
+Blueprint = StaticStorage_OverworldLock
+Quantity = 1
+
+[Piece1]
+Blueprint = StaticStorage_OverworldUnlock
+Quantity = 1
+
+[Piece2]
+Blueprint = StaticStorage_MainStorageOpen
+Quantity = 1
+
+[Piece3]
+Blueprint = StaticStorage_StorageTrue
+Quantity = 6
+
+[Piece4]
+Blueprint = StaticStorage_StorageTrap
+Quantity = 2
+
+[Piece5]
+Blueprint = StaticStorage_QuestRoomHeat
+Quantity = 1
+
+[Piece6]
+Blueprint = StaticStorage_QuestRoomStatic
+Quantity = 1

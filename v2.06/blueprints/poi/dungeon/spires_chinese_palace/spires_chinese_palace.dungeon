@@ -1,0 +1,161 @@
+[Dungeon]
+Type = Dungeon
+
+[Piece0]
+Blueprint = Main_1
+Quantity = 1
+Weight = 1
+
+[Piece1]
+Blueprint = Main_2
+Quantity = 1
+Weight = 1
+
+[Piece2]
+Blueprint = Main_3
+Quantity = 1
+Weight = 1
+
+[Piece3]
+Blueprint = Roof_Blue_1
+Quantity = 1
+Weight = 1
+
+[Piece4]
+Blueprint = Roof_Blue_2
+Quantity = 1
+Weight = 1
+
+[Piece5]
+Blueprint = Roof_Green_1
+Quantity = 1
+Weight = 1
+
+[Piece6]
+Blueprint = Roof_Green_2
+Quantity = 1
+Weight = 1
+
+[Piece7]
+Blueprint = Roof_Yellow_1
+Quantity = 1
+Weight = 1
+
+[Piece8]
+Blueprint = Roof_Yellow_2
+Quantity = 1
+Weight = 1
+
+[Piece9]
+Blueprint = Courtyard_1
+Quantity = 1
+Weight = 1
+
+[Piece10]
+Blueprint = Courtyard_2
+Quantity = 1
+Weight = 1
+
+[Piece11]
+Blueprint = Courtyard_3
+Quantity = 1
+Weight = 1
+
+[Piece12]
+Blueprint = Placeholder
+Quantity = 1
+
+[Piece13]
+Blueprint = Tree_Cherry_1
+Quantity = 2
+Weight = 1
+
+[Piece14]
+Blueprint = Tree_Cherry_2
+Quantity = 2
+Weight = 1
+
+[Piece15]
+Blueprint = Tree_Cherry_3
+Quantity = 2
+Weight = 1
+
+[Piece16]
+Blueprint = Tree_Cherry_4
+Quantity = 2
+Weight = 1
+
+[Piece17]
+Blueprint = Tree_Cherry_5
+Quantity = 2
+Weight = 1
+
+[Piece18]
+Blueprint = Spire_1
+Quantity = 1
+Weight = 1
+
+[Piece19]
+Blueprint = Spire_2
+Quantity = 1
+Weight = 1
+
+[Piece20]
+Blueprint = Spire_3
+Quantity = 1
+Weight = 1
+
+[Piece21]
+Blueprint = Spire_4
+Quantity = 1
+Weight = 1
+
+[Piece22]
+Blueprint = Foliage_1
+Quantity = 1
+Weight = 1
+
+[Piece23]
+Blueprint = Foliage_2
+Quantity = 1
+Weight = 1
+
+[Piece24]
+Blueprint = Tree_Green_1
+Quantity = 1
+Weight = 1
+
+[Piece25]
+Blueprint = Tree_Green_2
+Quantity = 1
+Weight = 1
+
+[Piece26]
+Blueprint = Tree_Green_3
+Quantity = 1
+Weight = 1
+
+[Piece27]
+Blueprint = Rock_1
+Quantity = 5
+Weight = 1
+
+[Piece28]
+Blueprint = Rock_2
+Quantity = 5
+Weight = 1
+
+[Piece29]
+Blueprint = Rock_3
+Quantity = 5
+Weight = 1
+
+[Piece30]
+Blueprint = Rock_4
+Quantity = 5
+Weight = 1
+
+[Piece31]
+Blueprint = Rock_5
+Quantity = 5
+Weight = 1

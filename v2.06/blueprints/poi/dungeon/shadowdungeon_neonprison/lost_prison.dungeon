@@ -1,0 +1,55 @@
+
+[Piece0]
+Blueprint = lostPrison_BasePiece_01
+Quantity = 1
+Weight = 1
+
+[Piece1]
+Blueprint = lostPrison_MiniBossArea_01
+Quantity = 1
+Weight = 1
+
+[Piece2]
+Blueprint = lostPrison_Boss_01
+Quantity = 1
+Weight = 1
+
+[Piece3]
+Blueprint = lostPrison_SidePiece_01
+Quantity = 1
+Weight = 1
+
+[Piece4]
+Blueprint = lostPrison_SidePiece_02
+Quantity = 1
+Weight = 1
+
+[Piece5]
+Blueprint = lostPrison_SidePiece_03
+Quantity = 1
+Weight = 1
+
+[Piece6]
+Blueprint = lostPrison_SidePiece_04
+Quantity = 1
+Weight = 1
+
+[Piece7]
+Blueprint = lostPrison_MiniBossArea_02
+Quantity = 1
+Weight = 1
+
+[Piece8]
+Blueprint = lostPrison_MiniBossArea_03
+Quantity = 1
+Weight = 1
+
+[Piece9]
+Blueprint = lostPrison_Boss_02
+Quantity = 1
+Weight = 1
+
+[Piece10]
+Blueprint = lostPrison_Boss_03
+Quantity = 1
+Weight = 1

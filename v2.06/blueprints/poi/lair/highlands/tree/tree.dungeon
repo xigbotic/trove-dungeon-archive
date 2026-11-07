@@ -1,0 +1,26 @@
+[Dungeon]
+Type = lair
+
+[Piece0]
+Blueprint = lair
+Quantity = 1
+
+[Piece1]
+Blueprint = bossroom_1
+Quantity = 1
+
+[Piece2]
+Blueprint = bossroom_2
+Quantity = 1
+
+[Piece3]
+Blueprint = room_1
+Quantity = 1
+
+[Piece4]
+Blueprint = room_2
+Quantity = 1
+
+[Pierce5]
+Blueprint = airblocks
+Quantity = 1

@@ -1,0 +1,175 @@
+[Dungeon]
+Type = Dungeon
+#Biome = Medieval
+#Creator = JoshuaFT
+#Dungeon name = Tower
+
+[DungeonBasePlain]
+Blueprint = DBase1-Plain
+Quantity = 1
+Weight = 1
+
+[DungeonBaseBamboo]
+Blueprint = DBase2-Bamboo
+Quantity = 1
+Weight = 1
+
+[TowerBase1]
+Blueprint = TowerBaseFloor1
+Quantity = 1
+Weight = 1
+
+[TowerBase2]
+Blueprint = TowerBaseFloor2
+Quantity = 1
+Weight = 1
+
+[1stFloor-1]
+Blueprint = 1stFloor1
+Quantity = 1
+Weight = 1
+
+[1stFloor-1Boss]
+Blueprint = 1stFloor1Boss
+Quantity = 1
+Weight = 1
+
+[1stFloor-2]
+Blueprint = 1stFloor2
+Quantity = 1
+Weight = 1
+
+[1stFloor-2Boss]
+Blueprint = 1stFloor2Boss
+Quantity = 1
+Weight = 1
+
+[1stFloor-3]
+Blueprint = 1stFloor3
+Quantity = 1
+Weight = 1
+
+[1stFloor-3Boss]
+Blueprint = 1stFloor3Boss
+Quantity = 1
+Weight = 1
+
+[2ndFloor-1]
+Blueprint = 2ndFloor1
+Quantity = 1
+Weight = 1
+
+[2ndFloor-1Boss]
+Blueprint = 2ndFloor1Boss
+Quantity = 1
+Weight = 1
+
+[2ndFloor-2]
+Blueprint = 2ndFloor2
+Quantity = 1
+Weight = 1
+
+[2ndFloor-2Boss]
+Blueprint = 2ndFloor2Boss
+Quantity = 1
+Weight = 1
+
+[2ndFloor-3]
+Blueprint = 2ndFloor3
+Quantity = 1
+Weight = 1
+
+[2ndFloor-3Boss]
+Blueprint = 2ndFloor3Boss
+Quantity = 1
+Weight = 1
+
+[3rdFloor-1]
+Blueprint = 3rdFloor1
+Quantity = 1
+Weight = 1
+
+[3rdFloor-1Boss]
+Blueprint = 3rdFloor1Boss
+Quantity = 1
+Weight = 1
+
+[3rdFloor-2]
+Blueprint = 3rdFloor2
+Quantity = 1
+Weight = 1
+
+[3rdFloor-2Boss]
+Blueprint = 3rdFloor2Boss
+Quantity = 1
+Weight = 1
+
+[3rdFloor-3]
+Blueprint = 3rdFloor3
+Quantity = 1
+Weight = 1
+
+[3rdFloor-3Boss]
+Blueprint = 3rdFloor3Boss
+Quantity = 1
+Weight = 1
+
+[ShrineOnbari-1]
+Blueprint = DShrineOnbari1-1
+Quantity = 1
+Weight = 1
+
+[ShrineOnbari-2]
+Blueprint = DShrineOnbari1-2
+Quantity = 1
+Weight = 1
+
+[ShrineOnbari-3]
+Blueprint = DShrineOnbari1-3
+Quantity = 1
+Weight = 1
+
+[ShrineOnbariHigh-1]
+Blueprint = DShrineOnbariHigh1-1
+Quantity = 1
+Weight = 1
+
+[ShrineOnbariHigh-2]
+Blueprint = DShrineOnbariHigh1-2
+Quantity = 1
+Weight = 1
+
+[ShrineOnbariHigh-3]
+Blueprint = DShrineOnbariHigh1-3
+Quantity = 1
+Weight = 1
+
+[DShrineHuirakhan1]
+Blueprint = DShrineHuirakhan1-1
+Quantity = 0.7
+Weight = 1
+
+[DShrineHuirakhan2]
+Blueprint = DShrineHuirakhan1-2
+Quantity = 0.7
+Weight = 1
+
+[DShrineHuirakhan3]
+Blueprint = DShrineHuirakhan1-3
+Quantity = 0.7
+Weight = 1
+
+[DShrineHuirakhanHigh1]
+Blueprint = DShrineHuirakhanHigh1-1
+Quantity = 0.7
+Weight = 1
+
+[DShrineHuirakhanHigh2]
+Blueprint = DShrineHuirakhanHigh1-2
+Quantity = 0.7
+Weight = 1
+
+[DShrineHuirakhanHigh3]
+Blueprint = DShrineHuirakhanHigh1-3
+Quantity = 0.7
+Weight = 1

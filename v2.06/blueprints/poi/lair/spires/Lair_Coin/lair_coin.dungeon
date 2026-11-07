@@ -1,0 +1,77 @@
+[Dungeon]
+Type = Lair
+
+[Piece0]
+Blueprint = Coin_1
+Quantity = 1
+Weight = 1
+
+[Piece00]
+Blueprint = Coin_2
+Quantity = 1
+Weight = 1
+
+[Piece1]
+Blueprint = Boss_1
+Quantity = 1
+Weight = 1
+
+[Piece11]
+Blueprint = Boss_2
+Quantity = 1
+Weight = 1
+
+[Piece2]
+Blueprint = Gallery_1
+Quantity = 1
+Weight = 1
+
+[Piece22]
+Blueprint = Gallery_2
+Quantity = 1
+Weight = 1
+
+[Piece3]
+Blueprint = Painting_1
+Quantity = 1
+Weight = 1
+
+[Piece33]
+Blueprint = Painting_2
+Quantity = 1
+Weight = 1
+
+[Piece333]
+Blueprint = Painting_3
+Quantity = 1
+Weight = 1
+
+[Piece3333]
+Blueprint = Painting_4
+Quantity = 1
+Weight = 1
+
+[Piece33333]
+Blueprint = Painting_5
+Quantity = 1
+Weight = 1
+
+[Piece333333]
+Blueprint = Painting_6
+Quantity = 1
+Weight = 1
+
+[Piece3333333]
+Blueprint = Painting_7
+Quantity = 1
+Weight = 1
+
+[Piece33333333]
+Blueprint = Painting_8
+Quantity = 1
+Weight = 1
+
+[Piece333333333]
+Blueprint = Painting_9
+Quantity = 1
+Weight = 1

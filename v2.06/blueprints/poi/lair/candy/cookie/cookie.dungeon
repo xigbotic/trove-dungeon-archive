@@ -1,0 +1,91 @@
+[Dungeon]
+Type = Lair
+
+[Piece0]
+Blueprint = outer
+Quantity = 1
+
+[Piece01]
+Blueprint = room1
+Quantity = 1
+
+[Piece02]
+Blueprint = r1_optional1
+Quantity = 1
+Weight = 0.50
+
+[Piece03]
+Blueprint = r1_optional2
+Quantity = 1
+Weight = 0.5
+
+[Piece04]
+Blueprint = stairs_optional
+Quantity = 1
+Weight = 0.65
+
+[Piece05]
+Blueprint = r2_optional1
+Weight = 0.5
+Quantity = 1
+
+[Piece06]
+Blueprint = Boss1
+Quantity = 1
+
+[Piece07]
+Blueprint = r2_optional2
+Quantity = 1
+Weight = 0.5
+
+
+[Piece08]
+Blueprint = lolipop1
+Weight = 0.15
+
+[Piece09]
+Blueprint = lolipop2
+Weight = 0.15
+
+[Piece10]
+Blueprint = lolipop3
+Weight = 0.15
+
+[Piece11]
+Blueprint = popstand1
+Weight = 0.15
+
+[Piece12]
+Blueprint = popstand2
+Weight = 0.15
+
+[Piece13]
+Blueprint = popstand3
+Weight = 0.15
+
+
+[Piece14]
+Blueprint = cookie1
+Weight = 0.20
+
+
+[Piece15]
+Blueprint = cookie2
+Weight = 0.25
+
+
+[Piece16]
+Blueprint = glass
+quantity = 1
+Weight = 0.15
+
+[Piece17]
+Blueprint = choco
+Weight = 0.1
+Quantity = 1
+
+[Piece18]
+Blueprint = decoy
+Weight = 0.9
+Quantity = 1
+

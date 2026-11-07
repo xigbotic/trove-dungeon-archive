@@ -1,0 +1,89 @@
+[Piece0]
+Blueprint = DNG_faetemple_Pyramid1
+Quantity = 1
+Weight = 1
+
+[Piece1]
+Blueprint = DNG_faetemple_Pyramid2
+Quantity = 1
+Weight = 1
+
+[Piece2]
+Blueprint = DNG_faetemple_Pyramid3
+Quantity = 1
+Weight = 1
+
+[Piece3]
+Blueprint = DNG_faetemple_Pyramid4
+Quantity = 1
+Weight = 1
+
+[Piece4]
+Blueprint = DNG_faetemple_Pyramid5
+Quantity = 1
+Weight = 1
+
+[Piece5]
+Blueprint = DNG_faetemple_Pyramid6
+Quantity = 1
+Weight = 1
+
+[Piece6]
+Blueprint = DNG_faetemple_Temple
+Quantity = 1
+Weight = 1
+
+[Piece7]
+Blueprint = DNG_faetemple_Totem1
+Quantity = 1
+Weight = 1
+
+[Piece8]
+Blueprint = DNG_faetemple_Totem3
+Quantity = 1
+Weight = 1
+
+[Piece9]
+Blueprint = DNG_faetemple_Totem4
+Quantity = 1
+Weight = 1
+
+[Piece10]
+Blueprint = DNG_faetemple_Totem6
+Quantity = 1
+Weight = 1
+
+[Piece11]
+Blueprint = DNG_faetemple_Totem8
+Quantity = 1
+Weight = 1
+
+[Piece12]
+Blueprint = DNG_faetemple_Totem9
+Quantity = 1
+Weight = 1
+
+[Piece13]
+Blueprint = DNG_faetemple_TotemFinisher
+Quantity = 1
+Weight = 0
+
+[Piece14]
+Blueprint = DNG_faetemple_Cave1
+Quantity = 1
+Weight = 1
+
+[Piece15]
+Blueprint = DNG_faetemple_Cave2
+Quantity = 1
+Weight = 1
+
+[Piece16]
+Blueprint = DNG_faetemple_Cave3
+Quantity = 1
+Weight = 1
+
+[Piece17]
+Blueprint = DNG_faetemple_Cave4
+Quantity = 1
+Weight = 1

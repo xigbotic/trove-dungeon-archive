@@ -1,0 +1,205 @@
+Seed -1554809012
+TotalQueries 21
+================= PIECES =============
+Piece KingsTomb_Red_1 Plug=0 Size=125x104x125
+	Plug Position=0,63,0
+	AABB Min=-62,0,-62 Max=63,104,63
+	Socket 7
+	Socket 1
+Piece KingsTomb_Orange_3 Plug=1 Size=57x31x61
+	Plug Position=0,17,-26
+	AABB Min=-28,0,-30 Max=29,31,31
+	Socket 4
+	Socket 4
+	Socket 4
+	Socket 2
+Piece KingsTomb_Orange_2 Plug=1 Size=57x31x61
+	Plug Position=0,17,-26
+	AABB Min=-28,0,-30 Max=29,31,31
+	Socket 4
+	Socket 4
+	Socket 4
+	Socket 2
+Piece KingsTomb_Orange_4 Plug=1 Size=57x31x61
+	Plug Position=0,17,-26
+	AABB Min=-28,0,-30 Max=29,31,31
+	Socket 4
+	Socket 4
+	Socket 2
+	Socket 4
+	Socket 4
+Piece KingsTomb_Orange_6 Plug=1 Size=57x31x61
+	Plug Position=0,17,-26
+	AABB Min=-28,0,-30 Max=29,31,31
+	Socket 2
+Piece KingsTomb_Orange_5 Plug=1 Size=57x31x61
+	Plug Position=0,17,-26
+	AABB Min=-28,0,-30 Max=29,31,31
+	Socket 4
+	Socket 4
+	Socket 2
+Piece KingsTomb_Orange_1 Plug=1 Size=57x31x61
+	Plug Position=0,17,-26
+	AABB Min=-28,0,-30 Max=29,31,31
+	Socket 4
+	Socket 4
+	Socket 2
+	Socket 4
+Piece KingsTomb_Yellow_7 Plug=2 Size=76x11x32
+	Plug Position=-22,1,15
+	AABB Min=-38,0,-16 Max=38,11,16
+	Socket 6
+Piece KingsTomb_Yellow_4 Plug=2 Size=74x14x32
+	Plug Position=21,4,15
+	AABB Min=-37,0,-16 Max=37,14,16
+	Socket 6
+Piece KingsTomb_Yellow_5 Plug=2 Size=83x11x32
+	Plug Position=17,1,15
+	AABB Min=-41,0,-16 Max=42,11,16
+	Socket 6
+Piece KingsTomb_Yellow_1 Plug=2 Size=118x50x32
+	Plug Position=-1,40,15
+	AABB Min=-59,0,-16 Max=59,50,16
+	Socket 6
+	Socket 4
+	Socket 4
+	Socket 4
+	Socket 6
+	Socket 4
+Piece KingsTomb_Yellow_3 Plug=2 Size=87x35x32
+	Plug Position=15,25,15
+	AABB Min=-43,0,-16 Max=44,35,16
+	Socket 6
+Piece KingsTomb_Yellow_6 Plug=2 Size=82x13x32
+	Plug Position=-18,1,15
+	AABB Min=-41,0,-16 Max=41,13,16
+	Socket 6
+Piece KingsTomb_Yellow_2 Plug=2 Size=117x50x32
+	Plug Position=0,40,15
+	AABB Min=-58,0,-16 Max=59,50,16
+	Socket 6
+	Socket 4
+	Socket 4
+	Socket 4
+	Socket 6
+	Socket 4
+	Socket 4
+Piece KingsTomb_Green_3 Plug=3 Size=18x12x11
+	Plug Position=8,2,0
+	AABB Min=-9,0,-5 Max=9,12,6
+Piece KingsTomb_Green_2 Plug=3 Size=17x12x11
+	Plug Position=8,2,0
+	AABB Min=-8,0,-5 Max=9,12,6
+Piece KingsTomb_Green_1 Plug=3 Size=17x12x11
+	Plug Position=8,2,0
+	AABB Min=-8,0,-5 Max=9,12,6
+Piece KingsTomb_Green_5 Plug=3 Size=18x12x11
+	Plug Position=8,2,0
+	AABB Min=-9,0,-5 Max=9,12,6
+Piece KingsTomb_Green_4 Plug=3 Size=17x12x11
+	Plug Position=8,2,0
+	AABB Min=-8,0,-5 Max=9,12,6
+Piece KingsTomb_Blue_1 Plug=4 Size=16x12x11
+	Plug Position=7,2,0
+	AABB Min=-8,0,-5 Max=8,12,6
+Piece KingsTomb_Blue_4 Plug=4 Size=16x12x11
+	Plug Position=7,2,0
+	AABB Min=-8,0,-5 Max=8,12,6
+Piece KingsTomb_Blue_3 Plug=4 Size=16x12x11
+	Plug Position=7,2,0
+	AABB Min=-8,0,-5 Max=8,12,6
+Piece KingsTomb_Blue_2 Plug=4 Size=16x12x11
+	Plug Position=7,2,0
+	AABB Min=-8,0,-5 Max=8,12,6
+Piece KingsTomb_Purple_2 Plug=5 Size=35x47x66
+	Plug Position=0,39,-7
+	AABB Min=-17,0,-33 Max=18,47,33
+	Socket 3
+	Socket 3
+	Socket 3
+	Socket 3
+	Socket 3
+Piece KingsTomb_Purple_3 Plug=5 Size=35x47x66
+	Plug Position=0,39,-7
+	AABB Min=-17,0,-33 Max=18,47,33
+	Socket 3
+	Socket 3
+	Socket 3
+	Socket 3
+	Socket 3
+Piece KingsTomb_Purple_1 Plug=5 Size=35x47x66
+	Plug Position=0,39,-7
+	AABB Min=-17,0,-33 Max=18,47,33
+	Socket 3
+	Socket 3
+	Socket 3
+Piece KingsTomb_Pink_6 Plug=6 Size=29x45x96
+	Plug Position=0,37,47
+	AABB Min=-14,0,-48 Max=15,45,48
+	Socket 4
+	Socket 4
+Piece KingsTomb_Pink_7 Plug=6 Size=29x45x96
+	Plug Position=0,37,47
+	AABB Min=-14,0,-48 Max=15,45,48
+	Socket 4
+Piece KingsTomb_Pink_5 Plug=6 Size=29x17x73
+	Plug Position=0,9,36
+	AABB Min=-14,0,-36 Max=15,17,37
+Piece KingsTomb_Pink_1 Plug=6 Size=29x11x48
+	Plug Position=0,3,23
+	AABB Min=-14,0,-24 Max=15,11,24
+Piece KingsTomb_Pink_3 Plug=6 Size=29x11x73
+	Plug Position=0,3,36
+	AABB Min=-14,0,-36 Max=15,11,37
+Piece KingsTomb_Pink_2 Plug=6 Size=29x11x49
+	Plug Position=0,3,24
+	AABB Min=-14,0,-24 Max=15,11,25
+Piece KingsTomb_Pink_4 Plug=6 Size=29x17x73
+	Plug Position=0,9,36
+	AABB Min=-14,0,-36 Max=15,17,37
+Piece KingsTomb_Teal_4 Plug=7 Size=61x22x76
+	Plug Position=0,12,-11
+	AABB Min=-30,0,-38 Max=31,22,38
+	Socket 5
+Piece KingsTomb_Teal_2 Plug=7 Size=61x41x76
+	Plug Position=0,31,-11
+	AABB Min=-30,0,-38 Max=31,41,38
+	Socket 3
+	Socket 3
+	Socket 5
+	Socket 3
+Piece KingsTomb_Teal_1 Plug=7 Size=61x41x76
+	Plug Position=0,31,-11
+	AABB Min=-30,0,-38 Max=31,41,38
+	Socket 5
+Piece KingsTomb_Teal_3 Plug=7 Size=61x41x76
+	Plug Position=0,31,-11
+	AABB Min=-30,0,-38 Max=31,41,38
+	Socket 5
+	Socket 3
+	Socket 3
+	Socket 3
+================= LAYOUT =============
+[0] KingsTomb_Red_1 [Q=20, D=20]
+	[1] KingsTomb_Teal_3 [Q=9, D=9]
+		[2] KingsTomb_Purple_2 [Q=5, D=5]
+			[3] KingsTomb_Green_1 [Q=0, D=0]
+			[4] KingsTomb_Green_3 [Q=0, D=0]
+			[5] KingsTomb_Green_3 [Q=0, D=0]
+			[6] KingsTomb_Green_1 [Q=0, D=0]
+			[7] KingsTomb_Green_4 [Q=0, D=0]
+		[8] KingsTomb_Green_3 [Q=0, D=0]
+		[9] KingsTomb_Green_3 [Q=0, D=0]
+		[10] KingsTomb_Green_3 [Q=0, D=0]
+	[11] KingsTomb_Orange_5 [Q=9, D=9]
+		[12] KingsTomb_Blue_2 [Q=0, D=0]
+		[13] KingsTomb_Blue_1 [Q=0, D=0]
+		[14] KingsTomb_Yellow_1 [Q=6, D=6]
+			[15] KingsTomb_Pink_3 [Q=0, D=0]
+			[16] KingsTomb_Blue_1 [Q=0, D=0]
+			[17] KingsTomb_Blue_4 [Q=0, D=0]
+			[18] KingsTomb_Blue_3 [Q=0, D=0]
+			[19] KingsTomb_Pink_2 [Q=0, D=0]
+			[20] KingsTomb_Blue_1 [Q=0, D=0]
+================= MESSAGES =============
+Dungeon.Type = Dungeon, 128x256x128

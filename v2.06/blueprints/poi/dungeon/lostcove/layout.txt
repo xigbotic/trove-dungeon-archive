@@ -1,0 +1,45 @@
+Seed 507474306
+TotalQueries 8
+================= PIECES =============
+Piece treasure_lake Plug=0 Size=125x67x125
+	Plug Position=0,0,0
+	AABB Min=-62,0,-62 Max=63,67,63
+	Socket 2
+	Socket 2
+	Socket 1
+	Socket 3
+	Socket 2
+	Socket 1
+	Socket 1
+Piece x4 Plug=1 Size=9x4x9
+	Plug Position=0,3,-3
+	AABB Min=-4,0,-4 Max=5,4,5
+Piece x2 Plug=1 Size=9x4x9
+	Plug Position=0,3,-3
+	AABB Min=-4,0,-4 Max=5,4,5
+Piece x4 Plug=1 Size=9x4x9
+	Plug Position=0,3,-3
+	AABB Min=-4,0,-4 Max=5,4,5
+Piece x3 Plug=2 Size=9x4x9
+	Plug Position=0,3,-3
+	AABB Min=-4,0,-4 Max=5,4,5
+Piece x3 Plug=2 Size=9x4x9
+	Plug Position=0,3,-3
+	AABB Min=-4,0,-4 Max=5,4,5
+Piece x1 Plug=2 Size=9x4x9
+	Plug Position=0,3,-3
+	AABB Min=-4,0,-4 Max=5,4,5
+Piece treasure_underground Plug=3 Size=74x43x109
+	Plug Position=3,42,3
+	AABB Min=-34,0,-53 Max=40,43,56
+================= LAYOUT =============
+[0] treasure_lake [Q=7, D=7]
+	[1] x1 [Q=0, D=0]
+	[2] x3 [Q=0, D=0]
+	[3] x4 [Q=0, D=0]
+	[4] treasure_underground [Q=0, D=0]
+	[5] x3 [Q=0, D=0]
+	[6] x2 [Q=0, D=0]
+	[7] x4 [Q=0, D=0]
+================= MESSAGES =============
+Dungeon.Type = Dungeon, 128x256x128

@@ -1,0 +1,38 @@
+[Dungeon]
+Type = Lair
+
+[Piece0]
+Blueprint = Walyn_CryoStorage_exterior1
+Quantity = 1
+
+[Piece1]
+Blueprint = Walyn_CryoStorage_exterior2
+Quantity = 1
+
+[Piece2]
+Blueprint = Walyn_CryoStorage_stairs1
+Quantity = 1
+
+[Piece4]
+Blueprint = Walyn_CryoStorage_interior1
+Quantity = 1
+
+[Piece5]
+Blueprint = Walyn_CryoStorage_interior2
+Quantity = 1
+
+[Piece6]
+Blueprint = Walyn_CryoStorage_chamber1
+Quantity = 7
+
+[Piece7]
+Blueprint = Walyn_CryoStorage_chamber2
+Quantity = 7
+
+[Piece8]
+Blueprint = Walyn_CryoStorage_quest1
+Quantity = 1
+
+[Piece9]
+Blueprint = Walyn_CryoStorage_quest2
+Quantity = 1

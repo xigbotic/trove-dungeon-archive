@@ -1,0 +1,33 @@
+[Dungeon]
+
+Type = Lair
+
+[Base1]
+Blueprint = MonumentBase1
+Quantity = 1
+Weight = 0.5
+
+[Base2]
+Blueprint = MonumentBase2
+Quantity = 1
+Weight = 0.5
+
+[Middle1]
+Blueprint = MonumentMiddle1
+Quantity = 1
+Weight = 0.5
+
+[Middle2]
+Blueprint = MonumentMiddle2
+Quantity = 1
+Weight = 0.5
+
+[Top1]
+Blueprint = MonumentTop1
+Quantity = 1
+Weight = 0.5
+
+[Top2]
+Blueprint = MonumentTop2
+Quantity = 1
+Weight = 0.5

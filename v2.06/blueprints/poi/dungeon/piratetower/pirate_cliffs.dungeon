@@ -1,0 +1,12 @@
+[Dungeon]
+type = dungeon
+
+[piece0]
+Blueprint = 2Cliff
+Quantity = 1
+weight = .5
+
+[piece1]
+Blueprint = 1cliff
+quantity = 1
+weight = .5

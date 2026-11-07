@@ -1,0 +1,19 @@
+[Dungeon]
+
+Type = Lair
+
+[Piece0] 
+Blueprint = lockerdeco8
+Quantity = 1
+
+[Piece1]
+Blueprint = lockerdeco9
+Quantity = 1
+
+[Piece2]
+Blueprint = altboss3
+Quantity = 1
+
+[Piece3]
+Blueprint = altboss4
+Quantity = 1

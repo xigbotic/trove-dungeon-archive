@@ -1,0 +1,141 @@
+Seed 6382107
+TotalQueries 38
+================= PIECES =============
+Piece main_00 Plug=0 Size=91x125x91
+	Plug Position=0,13,0
+	AABB Min=-45,0,-45 Max=46,125,46
+	Socket 1
+Piece main_01 Plug=0 Size=91x125x91
+	Plug Position=0,13,0
+	AABB Min=-45,0,-45 Max=46,125,46
+	Socket 1
+Piece stairs_01 Plug=1 Size=37x75x37
+	Plug Position=9,74,0
+	AABB Min=-18,0,-18 Max=19,75,19
+	Socket 2
+	Socket 2
+	Socket 2
+	Socket 2
+	Socket 2
+	Socket 2
+	Socket 2
+	Socket 2
+	Socket 2
+	Socket 2
+	Socket 2
+	Socket 2
+Piece stairs_00 Plug=1 Size=37x75x37
+	Plug Position=9,74,0
+	AABB Min=-18,0,-18 Max=19,75,19
+	Socket 2
+	Socket 2
+	Socket 2
+	Socket 2
+	Socket 2
+	Socket 2
+	Socket 2
+	Socket 2
+	Socket 2
+	Socket 2
+	Socket 2
+	Socket 2
+Piece cage_00 Plug=2 Size=44x24x45
+	Plug Position=22,2,0
+	AABB Min=-21,0,-22 Max=23,24,23
+	Socket 3
+	Socket 7
+Piece biodome_fw Plug=3 Size=38x17x37
+	Plug Position=8,0,6
+	AABB Min=-29,-1,-12 Max=9,16,25
+Piece biodome_mh Plug=3 Size=38x19x37
+	Plug Position=25,-1,13
+	AABB Min=-12,-2,-5 Max=26,17,32
+Piece biodome_cd Plug=3 Size=38x18x37
+	Plug Position=28,0,-8
+	AABB Min=-9,-1,-26 Max=29,17,11
+Piece biodome_fs Plug=3 Size=38x20x37
+	Plug Position=25,0,14
+	AABB Min=-12,-1,-4 Max=26,19,33
+Piece biodome_pf Plug=3 Size=38x19x37
+	Plug Position=8,0,-10
+	AABB Min=-29,-1,-28 Max=9,18,9
+Piece biodome_ph Plug=3 Size=38x19x37
+	Plug Position=19,2,0
+	AABB Min=-18,1,-18 Max=20,20,19
+Piece biodome_dp Plug=3 Size=38x19x37
+	Plug Position=19,2,0
+	AABB Min=-18,1,-18 Max=20,20,19
+Piece biodome_ti Plug=3 Size=38x20x37
+	Plug Position=19,2,0
+	AABB Min=-18,1,-18 Max=20,21,19
+Piece biodome_df Plug=3 Size=38x19x37
+	Plug Position=25,0,-5
+	AABB Min=-12,-1,-23 Max=26,18,14
+Piece biodome_cv Plug=3 Size=38x20x37
+	Plug Position=19,2,0
+	AABB Min=-18,1,-18 Max=20,21,19
+Piece biodome_nc Plug=3 Size=38x17x37
+	Plug Position=18,0,12
+	AABB Min=-19,-1,-6 Max=19,16,31
+Piece biodome_jj Plug=3 Size=38x16x37
+	Plug Position=22,0,13
+	AABB Min=-15,-1,-5 Max=23,15,32
+Piece dome_02 Plug=7 Size=41x19x41
+	Plug Position=19,0,0
+	AABB Min=-20,0,-20 Max=21,19,21
+Piece dome_04 Plug=7 Size=41x19x41
+	Plug Position=19,0,0
+	AABB Min=-20,0,-20 Max=21,19,21
+Piece dome_03 Plug=7 Size=41x19x41
+	Plug Position=19,0,0
+	AABB Min=-20,0,-20 Max=21,19,21
+Piece dome_00 Plug=7 Size=41x19x41
+	Plug Position=19,0,0
+	AABB Min=-20,0,-20 Max=21,19,21
+Piece dome_01 Plug=7 Size=41x19x41
+	Plug Position=19,0,0
+	AABB Min=-20,0,-20 Max=21,19,21
+Piece dome_05 Plug=7 Size=41x19x41
+	Plug Position=19,0,0
+	AABB Min=-20,0,-20 Max=21,19,21
+================= LAYOUT =============
+[0] main_01 [Q=37, D=37]
+	[1] stairs_00 [Q=36, D=36]
+		[2] cage_00 [Q=2, D=2]
+			[3] biodome_jj [Q=0, D=0]
+			[4] dome_01 [Q=0, D=0]
+		[5] cage_00 [Q=2, D=2]
+			[6] biodome_fw [Q=0, D=0]
+			[7] dome_00 [Q=0, D=0]
+		[8] cage_00 [Q=2, D=2]
+			[9] biodome_mh [Q=0, D=0]
+			[10] dome_04 [Q=0, D=0]
+		[11] cage_00 [Q=2, D=2]
+			[12] biodome_fs [Q=0, D=0]
+			[13] dome_02 [Q=0, D=0]
+		[14] cage_00 [Q=2, D=2]
+			[15] biodome_df [Q=0, D=0]
+			[16] dome_05 [Q=0, D=0]
+		[17] cage_00 [Q=2, D=2]
+			[18] biodome_dp [Q=0, D=0]
+			[19] dome_03 [Q=0, D=0]
+		[20] cage_00 [Q=2, D=2]
+			[21] biodome_nc [Q=0, D=0]
+			[22] dome_05 [Q=0, D=0]
+		[23] cage_00 [Q=2, D=2]
+			[24] biodome_pf [Q=0, D=0]
+			[25] dome_05 [Q=0, D=0]
+		[26] cage_00 [Q=2, D=2]
+			[27] biodome_cv [Q=0, D=0]
+			[28] dome_05 [Q=0, D=0]
+		[29] cage_00 [Q=2, D=2]
+			[30] biodome_ti [Q=0, D=0]
+			[31] dome_05 [Q=0, D=0]
+		[32] cage_00 [Q=2, D=2]
+			[33] biodome_cd [Q=0, D=0]
+			[34] dome_05 [Q=0, D=0]
+		[35] cage_00 [Q=2, D=2]
+			[36] biodome_ph [Q=0, D=0]
+			[37] dome_05 [Q=0, D=0]
+================= MESSAGES =============
+Dungeon.Type = Dungeon, 128x256x128

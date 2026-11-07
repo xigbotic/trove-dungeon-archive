@@ -1,0 +1,35 @@
+[Dungeon]
+Type = lair
+
+[Piece0]
+Blueprint = topodiferente
+Quantity = 1
+weight= .33
+
+[Piece1]
+Blueprint = meioplataforma
+Quantity = 1
+weight = .33
+
+[Piece2]
+Blueprint = baseplataforma
+Quantity = 1
+weight = .33
+
+[Piece3]
+Blueprint = toponormal
+Quantity = 1
+weight= .33
+
+[Piece4]
+Blueprint = meiopulador
+Quantity = 1
+weight = .33
+
+[Piece5]
+Blueprint = basepulador
+Quantity = 1
+weight = .33
+
+
+

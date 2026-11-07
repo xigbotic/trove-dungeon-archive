@@ -1,0 +1,142 @@
+[Dungeon]
+Type = Dungeon
+#Mode = 3-star dungeon
+#Title = Command Centre
+#Creator = Evilagician
+
+#mainpiece
+[baseground]
+Blueprint = d_neon_command_centre_base
+Quantity = 1
+
+#Selection towers
+[Spires]
+Blueprint = d_neon_command_centre_spire
+Quantity = 2
+
+[colorinlay001]
+Blueprint = d_neon_command_centre_colorinlay_lumi_green
+Quantity = 1
+weight = 0.44
+
+[colorinlay002]
+Blueprint = d_neon_command_centre_colorinlay_lumi_orange
+Quantity = 1
+weight = 0.44
+
+[colorinlay003]
+Blueprint = d_neon_command_centre_colorinlay_lumi_purple
+Quantity = 1
+weight = 0.44
+
+
+[hologlobe001]
+Blueprint = d_neon_command_centre_hologlobe_001
+Quantity = 1
+weight = 0.44
+
+[hologlobe002]
+Blueprint = d_neon_command_centre_hologlobe_002
+Quantity = 1
+weight = 0.44
+
+[hologlobe003]
+Blueprint = d_neon_command_centre_hologlobe_003
+Quantity = 1
+weight = 0.44
+
+[hologlobe004]
+Blueprint = d_neon_command_centre_hologlobe_004
+Quantity = 1
+weight = 0.44
+
+[Screensetleft001]
+Blueprint = d_neon_command_centre_screen_l_001
+Quantity = 1
+weight = 0.44
+
+[Screensetleft002]
+Blueprint = d_neon_command_centre_screen_l_002
+Quantity = 1
+weight = 0.44
+
+[Screensetleft003]
+Blueprint = d_neon_command_centre_screen_l_003
+Quantity = 1
+weight = 0.44
+
+[Screensetright003]
+Blueprint = d_neon_command_centre_screen_r_001
+Quantity = 1
+weight = 0.44
+
+[Screensetright002]
+Blueprint = d_neon_command_centre_screen_r_002
+Quantity = 1
+weight = 0.44
+
+[Screensetright003]
+Blueprint = d_neon_command_centre_screen_r_003
+Quantity = 1
+weight = 0.44
+
+[minorleft001]
+Blueprint = d_neon_command_centre_minor_l_001
+Quantity = 1
+weight = 0.44
+
+[minorleft002]
+Blueprint = d_neon_command_centre_minor_l_002
+Quantity = 1
+weight = 0.44
+
+[minorleft003]
+Blueprint = d_neon_command_centre_minor_l_003
+Quantity = 1
+weight = 0.44
+
+[minorleft004]
+Blueprint = d_neon_command_centre_minor_l_004
+Quantity = 1
+weight = 0.44
+
+[minorright001]
+Blueprint = d_neon_command_centre_minor_r_001
+Quantity = 1
+weight = 0.44
+
+[minorright002]
+Blueprint = d_neon_command_centre_minor_r_002
+Quantity = 1
+weight = 0.44
+
+[minorright003]
+Blueprint = d_neon_command_centre_minor_r_003
+Quantity = 1
+weight = 0.44
+
+[minorright004]
+Blueprint = d_neon_command_centre_minor_r_004
+Quantity = 1
+weight = 0.44
+
+[majordish001]
+Blueprint = d_neon_command_centre_dish_001
+Quantity = 1
+weight = 0.44
+
+[majordish002]
+Blueprint = d_neon_command_centre_dish_002
+Quantity = 1
+weight = 0.44
+
+[majordish003]
+Blueprint = d_neon_command_centre_dish_003
+Quantity = 1
+weight = 0.44
+
+[majordish004]
+Blueprint = d_neon_command_centre_dish_004
+Quantity = 1
+weight = 0.44
+

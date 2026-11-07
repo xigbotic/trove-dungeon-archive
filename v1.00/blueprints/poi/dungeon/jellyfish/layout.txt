@@ -1,0 +1,79 @@
+Seed 1460148555
+TotalQueries 10
+================= PIECES =============
+Piece shell_template Plug=0 Size=101x79x101
+	Plug Position=0,36,-1
+	AABB Min=-50,0,-51 Max=51,79,50
+	Socket 3
+	Socket 2
+	Socket 1
+	Socket 2
+	Socket 2
+	Socket 3
+	Socket 3
+	Socket 3
+	Socket 2
+Piece boss_03 Plug=1 Size=37x28x37
+	Plug Position=0,13,-1
+	AABB Min=-18,13,-19 Max=19,41,18
+Piece boss_02 Plug=1 Size=37x28x37
+	Plug Position=0,13,-1
+	AABB Min=-18,13,-19 Max=19,41,18
+Piece boss_01 Plug=1 Size=37x28x37
+	Plug Position=0,13,-1
+	AABB Min=-18,13,-19 Max=19,41,18
+Piece boss_04 Plug=1 Size=37x28x37
+	Plug Position=0,13,-1
+	AABB Min=-18,13,-19 Max=19,41,18
+Piece chamber_side_05 Plug=2 Size=23x49x31
+	Plug Position=0,48,-3
+	AABB Min=-11,0,-16 Max=12,49,15
+Piece chamber_side_06 Plug=2 Size=23x49x31
+	Plug Position=0,48,-3
+	AABB Min=-11,0,-16 Max=12,49,15
+Piece chamber_side_01 Plug=2 Size=23x49x31
+	Plug Position=0,48,-3
+	AABB Min=-11,0,-16 Max=12,49,15
+Piece chamber_side_04 Plug=2 Size=23x49x31
+	Plug Position=0,48,-3
+	AABB Min=-11,0,-16 Max=12,49,15
+Piece chamber_side_07 Plug=2 Size=23x49x31
+	Plug Position=0,48,-3
+	AABB Min=-11,0,-16 Max=12,49,15
+Piece chamber_side_03 Plug=2 Size=23x49x31
+	Plug Position=0,48,-3
+	AABB Min=-11,0,-16 Max=12,49,15
+Piece chamber_side_02 Plug=2 Size=23x49x31
+	Plug Position=0,48,-3
+	AABB Min=-11,0,-16 Max=12,49,15
+Piece chamber_corner_02 Plug=3 Size=23x43x23
+	Plug Position=2,42,-3
+	AABB Min=-11,0,-12 Max=12,43,11
+Piece chamber_corner_01 Plug=3 Size=23x43x23
+	Plug Position=2,42,-3
+	AABB Min=-11,0,-12 Max=12,43,11
+Piece chamber_corner_04 Plug=3 Size=23x43x23
+	Plug Position=2,42,-3
+	AABB Min=-11,0,-12 Max=12,43,11
+Piece chamber_corner_06 Plug=3 Size=23x43x23
+	Plug Position=2,42,-3
+	AABB Min=-11,0,-12 Max=12,43,11
+Piece chamber_corner_05 Plug=3 Size=23x43x23
+	Plug Position=2,42,-3
+	AABB Min=-11,0,-12 Max=12,43,11
+Piece chamber_corner_03 Plug=3 Size=23x43x23
+	Plug Position=2,42,-3
+	AABB Min=-11,0,-12 Max=12,43,11
+================= LAYOUT =============
+[0] shell_template [Q=9, D=9]
+	[1] chamber_corner_04 [Q=0, D=0]
+	[2] chamber_side_01 [Q=0, D=0]
+	[3] boss_04 [Q=0, D=0]
+	[4] chamber_side_06 [Q=0, D=0]
+	[5] chamber_side_03 [Q=0, D=0]
+	[6] chamber_corner_06 [Q=0, D=0]
+	[7] chamber_corner_02 [Q=0, D=0]
+	[8] chamber_corner_03 [Q=0, D=0]
+	[9] chamber_side_02 [Q=0, D=0]
+================= MESSAGES =============
+Dungeon.Type = Dungeon, 128x256x128

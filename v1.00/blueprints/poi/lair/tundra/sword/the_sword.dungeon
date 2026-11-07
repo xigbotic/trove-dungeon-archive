@@ -1,0 +1,17 @@
+[Dungeon]
+
+Type = Lair
+
+[Piece01]
+Blueprint = 007_the_sword
+Quantity = 1
+
+[Piece02]
+Blueprint = 007_boss_area_a
+Quantity = 1
+Weight = 0.50
+
+[Piece03]
+Blueprint = 007_boss_area_b
+Quantity = 1
+Weight = 0.50

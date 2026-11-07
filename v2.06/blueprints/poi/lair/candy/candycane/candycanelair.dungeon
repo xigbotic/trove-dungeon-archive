@@ -1,0 +1,21 @@
+[Dungeon]
+Type = Lair
+
+[Piece0]
+Blueprint = candycane
+Quantity = 1
+
+[Piece1]
+Blueprint = candycane_base_1
+Quantity = 1
+Weight = 0.33
+
+[Piece2]
+Blueprint = candycane_base_2
+Quantity = 1
+Weight = 0.33
+
+[Piece3]
+Blueprint = candycane_base_3
+Quantity = 1
+Weight = 0.33

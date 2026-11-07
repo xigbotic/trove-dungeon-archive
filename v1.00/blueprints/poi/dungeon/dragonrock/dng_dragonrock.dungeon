@@ -1,0 +1,28 @@
+[Piece0]
+Blueprint = DNG_DragonRock_Main1
+Quantity = 1
+
+
+[Piece2]
+Blueprint = DNG_DragonRock_Platform
+Quantity = 1
+
+[Piece3]
+Blueprint = DNG_DragonRock_Platform_ext
+Quantity = 1
+
+[Piece4]
+Blueprint = DNG_DragonRock_Fire
+Quantity = 1
+
+[Piece5]
+Blueprint = DNG_DragonRock_Green
+Quantity = 1
+
+[Piece6]
+Blueprint = DNG_DragonRock_Red
+Quantity = 1
+
+[Piece7]
+Blueprint = DNG_DragonRock_Sand
+Quantity = 1

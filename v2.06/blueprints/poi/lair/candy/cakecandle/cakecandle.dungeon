@@ -1,0 +1,22 @@
+[Dungeon]
+Type = Lair
+
+[Piece0]
+Blueprint = TheLie_BaseTop_v1
+Quantity = 1
+
+[Piece1]
+Blueprint = TheLie_Topper
+Quantity = 1
+
+[Piece2]
+Blueprint = TheLie_Base_v1
+Quantity = 1
+
+[Piece3]
+Blueprint = TheLie_Base_v2
+Quantity = 1
+
+[Piece4]
+Blueprint = TheLie_Base_v3
+Quantity = 1

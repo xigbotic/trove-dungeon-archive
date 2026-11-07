@@ -1,0 +1,32 @@
+[Dungeon]
+Type = lair
+
+[Piece0]
+Blueprint = dungeon_recipe_grub_shell_01
+Quantity = 1
+weight= .33
+
+[Piece1]
+Blueprint = dungeon_recipe_grub_shell_02
+Quantity = 1
+weight = .33
+
+[Piece2]
+Blueprint = dungeon_recipe_grub_gameplay_01
+Quantity = 1
+weight = .33
+
+[Piece3]
+Blueprint = dungeon_recipe_grub_gameplay_02
+Quantity = 1
+weight= .33
+
+[Piece4]
+Blueprint = dungeon_recipe_grub_boss_01
+Quantity = 1
+weight= .33
+
+[Piece5]
+Blueprint = dungeon_recipe_grub_boss_02
+Quantity = 1
+weight= .33

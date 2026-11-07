@@ -1,0 +1,76 @@
+[Dungeon]
+Type = Dungeon
+
+[Piece0]
+Blueprint = Cave
+Quantity = 1
+
+[Piece1]
+Blueprint = Cliff_1
+Quantity = 1
+Weight = 0.5
+
+[Piece2]
+Blueprint = Cliff_2
+Quantity = 1
+Weight = 0.5
+
+[Piece3]
+Blueprint = Rock_1
+Weight = 0.5
+
+[Piece4]
+Blueprint = Rock_2
+Weight = 0.5
+
+[Piece5]
+Blueprint = Tree_1
+Weight = 0.5
+
+[Piece6]
+Blueprint = Tree_2
+Weight = 0.5
+
+[Piece7]
+Blueprint = Tree_3
+Weight = 0.4
+
+[Piece8]
+Blueprint = Tree_4
+Weight = 0.4
+
+[Piece9]
+Blueprint = Stalagmite_a
+Weight = 0.5
+
+[Piece10]
+Blueprint = Stalagmite_b
+Weight = 0.5
+
+[Piece11]
+Blueprint = Stalagmite_c
+Weight = 0.5
+
+[Piece12]
+Blueprint = Stalagmite_d
+Weight = 0.5
+
+[Piece13]
+Blueprint = Stalagtite_a
+Weight = 0.5
+
+[Piece14]
+Blueprint = Stalagtite_b
+Weight = 0.5
+
+[Piece15]
+Blueprint = Stalagtite_c
+Weight = 0.5
+
+[Piece16]
+Blueprint = Stalagtite_d
+Weight = 0.5
+
+[Piece17]
+Blueprint = Stalagtite_e
+Weight = 0.5

@@ -1,0 +1,94 @@
+Seed 162341081
+TotalQueries 14
+================= PIECES =============
+Piece three_towers_top_02 Plug=0 Size=93x89x93
+	Plug Position=0,34,-1
+	AABB Min=-46,0,-46 Max=47,89,47
+	Socket 1
+	Socket 1
+	Socket 2
+Piece three_towers_top_01 Plug=0 Size=93x89x93
+	Plug Position=0,34,-1
+	AABB Min=-46,0,-46 Max=47,89,47
+	Socket 2
+	Socket 1
+	Socket 1
+Piece three_towers_minibosses_02 Plug=1 Size=29x42x27
+	Plug Position=1,0,0
+	AABB Min=-14,0,-13 Max=15,42,14
+	Socket 4
+	Socket 3
+	Socket 3
+Piece three_towers_minibosses_01 Plug=1 Size=29x42x27
+	Plug Position=1,0,0
+	AABB Min=-14,0,-13 Max=15,42,14
+	Socket 4
+	Socket 3
+	Socket 3
+Piece three_towers_minibosses_03 Plug=1 Size=26x40x24
+	Plug Position=2,0,-2
+	AABB Min=-13,0,-12 Max=13,40,12
+	Socket 4
+	Socket 3
+	Socket 3
+Piece three_towers_minibosses_04 Plug=1 Size=29x42x29
+	Plug Position=1,0,-1
+	AABB Min=-14,0,-14 Max=15,42,15
+	Socket 3
+	Socket 4
+	Socket 3
+Piece three_towers_boss_02 Plug=2 Size=25x25x25
+	Plug Position=0,24,12
+	AABB Min=-12,0,-12 Max=13,25,13
+Piece three_towers_boss_01 Plug=2 Size=25x25x25
+	Plug Position=0,24,12
+	AABB Min=-12,0,-12 Max=13,25,13
+Piece three_towers_boss_03 Plug=2 Size=25x25x25
+	Plug Position=0,24,12
+	AABB Min=-12,0,-12 Max=13,25,13
+Piece three_towers_plug_extension_miniboss Plug=3 Size=2x1x1
+	Plug Position=0,0,0
+	AABB Min=-1,0,0 Max=1,1,1
+	Socket 5
+Piece three_towers_plug_extension_filler Plug=3 Size=2x1x1
+	Plug Position=0,0,0
+	AABB Min=-1,0,0 Max=1,1,1
+	Socket 4
+Piece three_towers_rubble_01 Plug=4 Size=12x3x12
+	Plug Position=5,0,-1
+	AABB Min=-6,0,-6 Max=6,3,6
+Piece three_towers_rubble_03 Plug=4 Size=13x4x15
+	Plug Position=4,0,0
+	AABB Min=-6,0,-7 Max=7,4,8
+Piece three_towers_rubble_02 Plug=4 Size=12x3x14
+	Plug Position=5,0,-1
+	AABB Min=-6,0,-7 Max=6,3,7
+Piece three_towers_miniboss_02 Plug=5 Size=17x9x15
+	Plug Position=4,4,0
+	AABB Min=-8,4,-7 Max=9,13,8
+Piece three_towers_miniboss_01 Plug=5 Size=16x9x15
+	Plug Position=4,4,0
+	AABB Min=-7,4,-7 Max=9,13,8
+Piece three_towers_miniboss_03 Plug=5 Size=15x9x15
+	Plug Position=4,4,0
+	AABB Min=-6,4,-7 Max=9,13,8
+Piece three_towers_miniboss_04 Plug=5 Size=16x9x15
+	Plug Position=4,4,0
+	AABB Min=-7,4,-7 Max=9,13,8
+================= LAYOUT =============
+[0] three_towers_top_01 [Q=13, D=13]
+	[1] three_towers_boss_03 [Q=0, D=0]
+	[2] three_towers_minibosses_02 [Q=5, D=5]
+		[3] three_towers_rubble_03 [Q=0, D=0]
+		[4] three_towers_plug_extension_miniboss [Q=1, D=1]
+			[5] three_towers_miniboss_03 [Q=0, D=0]
+		[6] three_towers_plug_extension_filler [Q=1, D=1]
+			[7] three_towers_rubble_03 [Q=0, D=0]
+	[8] three_towers_minibosses_04 [Q=5, D=5]
+		[9] three_towers_plug_extension_filler [Q=1, D=1]
+			[10] three_towers_rubble_01 [Q=0, D=0]
+		[11] three_towers_rubble_01 [Q=0, D=0]
+		[12] three_towers_plug_extension_miniboss [Q=1, D=1]
+			[13] three_towers_miniboss_02 [Q=0, D=0]
+================= MESSAGES =============
+Dungeon.Type = Dungeon, 128x256x128

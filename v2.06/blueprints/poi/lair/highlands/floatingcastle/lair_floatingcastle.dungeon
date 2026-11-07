@@ -1,0 +1,6 @@
+[Dungeon]
+Type = Lair
+
+[Piece0]
+Blueprint = Lair_FloatingCastle
+Quantity = 1

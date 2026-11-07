@@ -1,0 +1,63 @@
+[Dungeon]
+Type = Lair
+
+[Piece0]
+Blueprint = spires_lair_hideout_boss1
+Quantity = 1
+Weight = 0.3
+
+[Piece1]
+Blueprint = spires_lair_hideout_boss2
+Quantity = 1
+Weight = 0.3
+
+[Piece2]
+Blueprint = spires_lair_hideout_boss3
+Quantity = 1
+Weight = 0.3
+
+[Piece3]
+Blueprint = spires_lair_hideout_boss4
+Quantity = 1
+Weight = 0.3
+
+[Piece4]
+Blueprint = spires_lair_hideout_room1
+Quantity = 1
+Weight = 0.3
+
+[Piece5]
+Blueprint = spires_lair_hideout_room2
+Quantity = 1
+Weight = 0.3
+
+[Piece6]
+Blueprint = spires_lair_hideout_room3
+Quantity = 1
+Weight = 0.3
+
+[Piece7]
+Blueprint = spires_lair_hideout_room4
+Quantity = 1
+Weight = 0.3
+
+
+[Piece8]
+Blueprint = spires_lair_hideout_top1
+Quantity = 1
+Weight = 0.3
+
+[Piece9]
+Blueprint = spires_lair_hideout_top2
+Quantity = 1
+Weight = 0.3
+
+[Piece10]
+Blueprint = spires_lair_hideout_top3
+Quantity = 1
+Weight = 0.3
+
+[Piece11]
+Blueprint = spires_lair_hideout_top4
+Quantity = 1
+Weight = 0.3

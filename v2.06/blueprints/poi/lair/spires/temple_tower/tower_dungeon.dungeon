@@ -1,0 +1,43 @@
+[Dungeon]
+
+Type = Lair
+
+[Piece0]
+Blueprint = Tower_Top1
+Quantity = 1
+Weight = 0.25
+
+[Piece1]
+Blueprint = Tower_Top2
+Quantity = 1
+Weight = 0.25
+
+[Piece2]
+Blueprint = Tower_Top3
+Quantity = 1
+Weight = 0.25
+
+[Piece3]
+Blueprint = Tower_Top4
+Quantity = 1
+Weight = 0.25
+
+[Piece4]
+Blueprint = Tower_1stlvl1
+Quantity = 1
+Weight = 0.5
+
+[Piece5]
+Blueprint = Tower_1stlvl2
+Quantity = 1
+Weight = 0.5
+
+[Piece6]
+Blueprint = Tower_Boss1
+Quantity = 1
+Weight = 0.5
+
+[Piece7]
+Blueprint = Tower_Boss2
+Quantity = 1
+Weight = 0.5

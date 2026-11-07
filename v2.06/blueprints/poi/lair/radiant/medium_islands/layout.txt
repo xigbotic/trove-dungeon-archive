@@ -1,0 +1,99 @@
+Seed 1875705024
+TotalQueries 20
+================= PIECES =============
+Piece base_01 Plug=0 Size=39x72x39
+	Plug Position=0,28,-1
+	AABB Min=-19,0,-20 Max=20,72,19
+	Socket 5
+	Socket 3
+	Socket 5
+	Socket 3
+	Socket 6
+	Socket 5
+	Socket 5
+	Socket 3
+	Socket 5
+	Socket 6
+	Socket 1
+	Socket 5
+	Socket 2
+	Socket 3
+	Socket 5
+	Socket 4
+	Socket 6
+	Socket 5
+	Socket 6
+Piece underground_01_hollow_template Plug=1 Size=39x70x39
+	Plug Position=0,10,-1
+	AABB Min=-19,0,-20 Max=20,70,19
+Piece underground_01_template Plug=1 Size=39x70x39
+	Plug Position=0,10,-1
+	AABB Min=-19,0,-20 Max=20,70,19
+Piece underground_02_template Plug=2 Size=25x12x25
+	Plug Position=0,1,-1
+	AABB Min=-12,1,-13 Max=13,13,12
+Piece underground_02_hollow_template Plug=2 Size=25x9x25
+	Plug Position=0,1,-1
+	AABB Min=-12,1,-13 Max=13,10,12
+Piece platform_m03_template Plug=3 Size=13x13x13
+	Plug Position=0,0,-1
+	AABB Min=-6,0,-7 Max=7,13,6
+Piece platform_m01_template Plug=3 Size=13x13x13
+	Plug Position=0,0,-1
+	AABB Min=-6,0,-7 Max=7,13,6
+Piece platform_m02_template Plug=3 Size=13x13x13
+	Plug Position=0,0,-1
+	AABB Min=-6,0,-7 Max=7,13,6
+Piece platform_m04_template Plug=3 Size=9x13x9
+	Plug Position=0,0,-1
+	AABB Min=-4,0,-5 Max=5,13,4
+Piece platform_l03_template Plug=4 Size=17x16x17
+	Plug Position=0,0,-1
+	AABB Min=-8,0,-9 Max=9,16,8
+Piece platform_l01_template Plug=4 Size=17x10x17
+	Plug Position=0,0,-1
+	AABB Min=-8,0,-9 Max=9,10,8
+Piece platform_l02_template Plug=4 Size=17x10x17
+	Plug Position=0,0,-1
+	AABB Min=-8,0,-9 Max=9,10,8
+Piece platform_s02_template Plug=5 Size=7x12x7
+	Plug Position=0,5,-1
+	AABB Min=-3,0,-4 Max=4,12,3
+Piece platform_s01_template Plug=5 Size=8x7x9
+	Plug Position=0,0,-1
+	AABB Min=-3,0,-5 Max=5,7,4
+Piece platform_s03_template Plug=5 Size=9x7x9
+	Plug Position=0,0,-1
+	AABB Min=-4,0,-5 Max=5,7,4
+Piece beacon_02_template Plug=6 Size=5x11x5
+	Plug Position=0,0,-1
+	AABB Min=-2,0,-3 Max=3,11,2
+Piece beacon_03_template Plug=6 Size=9x10x9
+	Plug Position=0,0,-1
+	AABB Min=-4,0,-5 Max=5,10,4
+Piece beacon_01_template Plug=6 Size=3x10x3
+	Plug Position=0,0,-1
+	AABB Min=-1,0,-2 Max=2,10,1
+================= LAYOUT =============
+[0] base_01 [Q=19, D=19]
+	[1] platform_s03_template [Q=0, D=0]
+	[2] platform_m03_template [Q=0, D=0]
+	[3] platform_s03_template [Q=0, D=0]
+	[4] platform_m01_template [Q=0, D=0]
+	[5] beacon_02_template [Q=0, D=0]
+	[6] platform_s03_template [Q=0, D=0]
+	[7] platform_s01_template [Q=0, D=0]
+	[8] platform_m03_template [Q=0, D=0]
+	[9] platform_s03_template [Q=0, D=0]
+	[10] beacon_02_template [Q=0, D=0]
+	[11] underground_01_template [Q=0, D=0]
+	[12] platform_s01_template [Q=0, D=0]
+	[13] underground_02_hollow_template [Q=0, D=0]
+	[14] platform_m04_template [Q=0, D=0]
+	[15] platform_s02_template [Q=0, D=0]
+	[16] platform_l03_template [Q=0, D=0]
+	[17] beacon_01_template [Q=0, D=0]
+	[18] platform_s02_template [Q=0, D=0]
+	[19] beacon_02_template [Q=0, D=0]
+================= MESSAGES =============
+Dungeon.Type = Lair, 42x96x42 (64 up, 32 down)

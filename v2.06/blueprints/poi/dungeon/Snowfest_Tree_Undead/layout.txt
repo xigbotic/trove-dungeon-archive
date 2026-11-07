@@ -1,0 +1,64 @@
+Seed -647627756
+TotalQueries 10
+================= PIECES =============
+Piece xmas_undead_base Plug=0 Size=75x125x75
+	Plug Position=0,5,0
+	AABB Min=-37,0,-37 Max=38,125,38
+	Socket 3
+	Socket 3
+	Socket 3
+	Socket 3
+	Socket 3
+	Socket 3
+	Socket 2
+	Socket 1
+	Socket 3
+Piece xmas_mid_02 Plug=1 Size=51x31x52
+	Plug Position=0,8,26
+	AABB Min=-25,0,-25 Max=26,31,27
+Piece xmas_mid_03 Plug=1 Size=51x31x52
+	Plug Position=0,8,26
+	AABB Min=-25,0,-25 Max=26,31,27
+Piece xmas_mid_01 Plug=1 Size=51x31x52
+	Plug Position=0,8,26
+	AABB Min=-25,0,-25 Max=26,31,27
+Piece xmas_top_02 Plug=2 Size=31x29x32
+	Plug Position=0,6,16
+	AABB Min=-15,0,-15 Max=16,29,17
+Piece xmas_top_01 Plug=2 Size=31x29x32
+	Plug Position=0,6,16
+	AABB Min=-15,0,-15 Max=16,29,17
+Piece Undead_mushroom_SkyRider3217 Plug=3 Size=12x12x10
+	Plug Position=-6,0,0
+	AABB Min=-6,0,-4 Max=6,12,6
+Piece Undead_PurpleBlack_Meowsifer Plug=3 Size=13x12x12
+	Plug Position=6,0,0
+	AABB Min=-6,0,-6 Max=7,12,6
+Piece Undead_skeleton_SkyRider3217 Plug=3 Size=9x12x10
+	Plug Position=0,0,6
+	AABB Min=-4,0,-3 Max=5,12,7
+Piece Undead_cat_Minejascraft Plug=3 Size=9x10x8
+	Plug Position=0,0,4
+	AABB Min=-4,0,-3 Max=5,10,5
+Piece Undead_CursedGift_FiannaTiger2 Plug=3 Size=13x12x12
+	Plug Position=-7,0,0
+	AABB Min=-7,0,-5 Max=6,12,7
+Piece Undead_CursedGift_FiannaTiger Plug=3 Size=13x12x12
+	Plug Position=-7,0,0
+	AABB Min=-7,0,-5 Max=6,12,7
+Piece Undead_SkullBox_ST3AMDR4GON Plug=3 Size=12x12x13
+	Plug Position=-1,0,7
+	AABB Min=-6,0,-5 Max=6,12,8
+================= LAYOUT =============
+[0] xmas_undead_base [Q=9, D=9]
+	[1] Undead_PurpleBlack_Meowsifer [Q=0, D=0]
+	[2] Undead_PurpleBlack_Meowsifer [Q=0, D=0]
+	[3] Undead_PurpleBlack_Meowsifer [Q=0, D=0]
+	[4] Undead_cat_Minejascraft [Q=0, D=0]
+	[5] Undead_CursedGift_FiannaTiger [Q=0, D=0]
+	[6] Undead_skeleton_SkyRider3217 [Q=0, D=0]
+	[7] xmas_top_01 [Q=0, D=0]
+	[8] xmas_mid_01 [Q=0, D=0]
+	[9] Undead_SkullBox_ST3AMDR4GON [Q=0, D=0]
+================= MESSAGES =============
+Dungeon.Type = Dungeon, 128x256x128

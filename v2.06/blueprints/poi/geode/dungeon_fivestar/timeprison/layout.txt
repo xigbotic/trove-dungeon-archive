@@ -1,0 +1,118 @@
+Seed -1341325296
+TotalQueries 13
+================= PIECES =============
+Piece main Plug=0 Size=121x38x121
+	Plug Position=0,12,0
+	AABB Min=-60,2,-60 Max=61,40,61
+	Socket 4
+	Socket 4
+	Socket 1
+	Socket 3
+	Socket 3
+	Socket 3
+	Socket 2
+	Socket 3
+	Socket 6
+	Socket 4
+	Socket 4
+	Socket 5
+Piece groundside Plug=1 Size=121x37x121
+	Plug Position=0,36,0
+	AABB Min=-60,0,-60 Max=61,37,61
+Piece roof_003 Plug=2 Size=81x47x81
+	Plug Position=0,0,0
+	AABB Min=-40,0,-40 Max=41,47,41
+Piece roof_001 Plug=2 Size=81x47x81
+	Plug Position=0,0,0
+	AABB Min=-40,0,-40 Max=41,47,41
+Piece roof_002 Plug=2 Size=81x47x81
+	Plug Position=0,0,0
+	AABB Min=-40,0,-40 Max=41,47,41
+Piece side_mob_004 Plug=3 Size=19x37x16
+	Plug Position=0,36,0
+	AABB Min=-9,0,-8 Max=10,37,8
+Piece side_mob_002 Plug=3 Size=19x37x16
+	Plug Position=0,36,0
+	AABB Min=-9,0,-8 Max=10,37,8
+Piece side_mob_001 Plug=3 Size=19x36x16
+	Plug Position=0,35,0
+	AABB Min=-9,0,-8 Max=10,36,8
+Piece side_mob_003 Plug=3 Size=19x37x16
+	Plug Position=0,36,0
+	AABB Min=-9,0,-8 Max=10,37,8
+Piece corner_mob_003 Plug=4 Size=23x37x23
+	Plug Position=-5,36,5
+	AABB Min=-11,0,-11 Max=12,37,12
+Piece corner_mob_004 Plug=4 Size=23x37x23
+	Plug Position=-5,36,5
+	AABB Min=-11,0,-11 Max=12,37,12
+Piece corner_mob_002 Plug=4 Size=23x34x23
+	Plug Position=-5,33,5
+	AABB Min=-11,0,-11 Max=12,34,12
+Piece corner_mob_001 Plug=4 Size=23x37x23
+	Plug Position=-5,36,5
+	AABB Min=-11,0,-11 Max=12,37,12
+Piece clocktimedown_straight_004 Plug=5 Size=5x2x25
+	Plug Position=0,1,-5
+	AABB Min=-2,0,-12 Max=3,2,13
+Piece clocktimedown_straight_003 Plug=5 Size=5x2x25
+	Plug Position=0,1,-5
+	AABB Min=-2,0,-12 Max=3,2,13
+Piece clocktimedown_straight_001 Plug=5 Size=5x2x25
+	Plug Position=0,1,-5
+	AABB Min=-2,0,-12 Max=3,2,13
+Piece clocktimedown_diag_001 Plug=5 Size=18x2x18
+	Plug Position=-3,1,-3
+	AABB Min=-8,0,-8 Max=10,2,10
+Piece clocktimedown_diag_002 Plug=5 Size=18x2x18
+	Plug Position=-3,1,-3
+	AABB Min=-8,0,-8 Max=10,2,10
+Piece clocktimedown_straight_002 Plug=5 Size=5x2x25
+	Plug Position=0,1,-5
+	AABB Min=-2,0,-12 Max=3,2,13
+Piece clocktimedown_diag_004 Plug=5 Size=18x2x18
+	Plug Position=-3,1,-3
+	AABB Min=-8,0,-8 Max=10,2,10
+Piece clocktimedown_diag_003 Plug=5 Size=18x2x18
+	Plug Position=-3,1,-3
+	AABB Min=-8,0,-8 Max=10,2,10
+Piece clocktimeup_straight_003 Plug=6 Size=5x2x25
+	Plug Position=0,0,-5
+	AABB Min=-2,0,-12 Max=3,2,13
+Piece clocktimeup_diag_003 Plug=6 Size=18x2x18
+	Plug Position=-3,0,-3
+	AABB Min=-8,0,-8 Max=10,2,10
+Piece clocktimeup_diag_004 Plug=6 Size=18x2x18
+	Plug Position=-3,0,-3
+	AABB Min=-8,0,-8 Max=10,2,10
+Piece clocktimeup_straight_002 Plug=6 Size=5x2x25
+	Plug Position=0,0,-5
+	AABB Min=-2,0,-12 Max=3,2,13
+Piece clocktimeup_straight_004 Plug=6 Size=5x2x25
+	Plug Position=0,0,-5
+	AABB Min=-2,0,-12 Max=3,2,13
+Piece clocktimeup_diag_001 Plug=6 Size=18x2x18
+	Plug Position=-3,0,-3
+	AABB Min=-8,0,-8 Max=10,2,10
+Piece clocktimeup_diag_002 Plug=6 Size=18x2x18
+	Plug Position=-3,0,-3
+	AABB Min=-8,0,-8 Max=10,2,10
+Piece clocktimeup_straight_001 Plug=6 Size=5x2x25
+	Plug Position=0,0,-5
+	AABB Min=-2,0,-12 Max=3,2,13
+================= LAYOUT =============
+[0] main [Q=12, D=12]
+	[1] corner_mob_001 [Q=0, D=0]
+	[2] corner_mob_002 [Q=0, D=0]
+	[3] groundside [Q=0, D=0]
+	[4] side_mob_001 [Q=0, D=0]
+	[5] side_mob_003 [Q=0, D=0]
+	[6] side_mob_002 [Q=0, D=0]
+	[7] roof_001 [Q=0, D=0]
+	[8] side_mob_004 [Q=0, D=0]
+	[9] clocktimeup_diag_001 [Q=0, D=0]
+	[10] corner_mob_003 [Q=0, D=0]
+	[11] corner_mob_004 [Q=0, D=0]
+	[12] clocktimedown_straight_002 [Q=0, D=0]
+================= MESSAGES =============
+Dungeon.Type = Dungeon, 128x256x128

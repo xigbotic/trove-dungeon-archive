@@ -1,0 +1,26 @@
+[Dungeon]
+Type = Lair
+
+[Piece01]
+Blueprint = Lair_Mushroom_Undead_Entrance
+Quantity = 1
+
+[Piece02]
+Blueprint = Lair_Mushroom_Undead_Entrance_Turret
+Quantity = 1
+
+[Piece03]
+Blueprint = Lair_Mushroom_Undead_Entrance_Spikes
+Quantity = 1
+
+[Piece04]
+Blueprint = Lair_Mushroom_Undead_Boss
+Quantity = 1
+
+[Piece05]
+Blueprint = Lair_Mushroom_Undead_Boss_Spikes
+Quantity = 1
+
+[Piece06]
+Blueprint = Lair_Mushroom_Undead_Boss_Turret
+Quantity = 1

@@ -1,0 +1,42 @@
+[Dungeon]
+Type = lair
+
+[Piece0]
+Blueprint = Staircase_entrance1
+Quantity = 1
+weight = 0.3
+
+[Piece1]
+Blueprint = Staircase_entrance2
+Quantity = 1
+weight = 0.3
+
+[Piece2]
+Blueprint = Staircase_entrance3
+Quantity = 1
+weight = 0.3
+
+[Piece3]
+Blueprint = Staircase_lvl1
+Quantity = 1
+weight = 0.5
+
+[Piece4]
+Blueprint = Staircase_lvl2
+Quantity = 1
+weight = 0.5
+
+[Piece5]
+Blueprint = Staircase_boss
+Quantity = 1
+weight = 0.4
+
+[Piece6]
+Blueprint = Staircase_boss2
+Quantity = 1
+weight = 0.4
+
+[Piece7]
+Blueprint = Staircase_boss3
+Quantity = 1
+weight = 0.2

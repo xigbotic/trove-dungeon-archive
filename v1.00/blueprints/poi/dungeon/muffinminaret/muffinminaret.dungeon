@@ -1,0 +1,95 @@
+[Piece0]
+Blueprint = grounds
+Quantity = 1
+Weight = 1
+
+[Piece3]
+Blueprint = floor_01c
+Quantity = 1
+Weight = .33
+
+[Piece6]
+Blueprint = floor_02ba
+Quantity = 1
+Weight = .5
+
+[Piece10]
+Blueprint = floor_02cc
+Quantity = 1
+Weight = .5
+
+[Piece11]
+Blueprint = floor_03aa
+Quantity = 1
+Weight = .5
+
+[Piece14]
+Blueprint = floor_03bb
+Quantity = 1
+Weight = .5
+
+[Piece16]
+Blueprint = floor_04ab
+Quantity = 1
+Weight = .33
+
+[Piece18]
+Blueprint = floor_04ba
+Quantity = 1
+Weight = .33
+
+[Piece19]
+Blueprint = floor_04bb
+Quantity = 1
+Weight = .33
+
+
+[Piece20]
+Blueprint = floor_05aa
+Quantity = 1
+Weight = .5
+
+[Piece21]
+Blueprint = floor_05ab
+Quantity = 1
+Weight = .5
+
+[Piece22]
+Blueprint = shell_01
+Quantity = 1
+Weight = .125
+
+[Piece23]
+Blueprint = shell_02
+Quantity = 1
+Weight = .125
+
+[Piece24]
+Blueprint = shell_03
+Quantity = 1
+Weight = .125
+
+[Piece25]
+Blueprint = shell_04
+Quantity = 1
+Weight = .125
+
+[Piece26]
+Blueprint = shell_05
+Quantity = 1
+Weight = .125
+
+[Piece27]
+Blueprint = shell_06
+Quantity = 1
+Weight = .125
+
+[Piece28]
+Blueprint = shell_07
+Quantity = 1
+Weight = .125
+
+[Piece29]
+Blueprint = shell_08
+Quantity = 1
+Weight = .125

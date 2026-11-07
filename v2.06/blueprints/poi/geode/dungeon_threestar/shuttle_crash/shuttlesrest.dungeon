@@ -1,0 +1,48 @@
+[Dungeon]
+Type = Dungeon
+
+#STORY
+
+# A shuttle was shot down by undertows minions, but dont worry, everyone made it out!
+# They survived in the caves for a bit, waiting for another shuttle to pick them up!
+
+[Base1]
+Blueprint = shuttlesrest_top_001
+Quantity = 1
+Weight = 0.5
+
+[Base2]
+Blueprint = shuttlesrest_top_002
+Quantity = 1
+Weight = 0.5
+
+[Base3]
+Blueprint = shuttlesrest_top_003
+Quantity = 1
+Weight = 0.5
+
+[Bot1]
+Blueprint = shuttlesrest_bot_001
+Quantity = 1
+Weight = 0.5
+
+[Bot2]
+Blueprint = shuttlesrest_bot_002
+Quantity = 1
+Weight = 0.5
+
+[Bot3]
+Blueprint = shuttlesrest_bot_003
+Quantity = 1
+Weight = 0.5
+
+[Minor2]
+Blueprint = shuttlesrest_minor_002
+Quantity = 1
+Weight = 0.5
+
+[Major]
+Blueprint = shuttlesrest_major
+Quantity = 1
+Weight = 0.5
+

@@ -1,0 +1,86 @@
+[Dungeon]
+Type = Dungeon  
+
+#Mode = 3-star dungeon
+#Creator = Erythra
+#Biome = Geode Topside
+#Indicator = Old storage
+#Title = Old storage invaded by shadows
+
+[Piece0]
+Blueprint = Geode_topside_outside_storage_layout_VARa
+Weight = 0.33
+
+[Piece1]
+Blueprint = Geode_topside_outside_storage_layout_VARb
+Weight = 0.33
+
+[Piece2]
+Blueprint = Geode_topside_outside_storage_layout_VARc
+Weight = 0.33
+
+[Piece3]
+Blueprint = Geode_topside_underground_storage_layout_VARa
+Weight = 0.33
+
+[Piece4]
+Blueprint = Geode_topside_underground_storage_layout_VARb
+Weight = 0.33
+
+[Piece5]
+Blueprint = Geode_topside_underground_storage_layout_VARc
+Weight = 0.33
+
+[Piece6]
+Blueprint = Storage_01
+Weight = 0.33
+
+[Piece7]
+Blueprint = Storage_02
+Weight = 0.33
+
+[Piece8]
+Blueprint = Storage_03
+Weight = 0.33
+
+[Piece9]
+Blueprint = Storage_destroyed_01
+Weight = 0.33
+
+[Piece10]
+Blueprint = Storage_destroyed_02
+Weight = 0.33
+
+[Piece11]
+Blueprint = Storage_destroyed_03
+Weight = 0.33
+
+[Piece12]
+Blueprint = Monster_building_01VARc
+Weight = 0.33
+
+[Piece13]
+Blueprint = Monster_building_01VARb
+Weight = 0.33
+
+[Piece14]
+Blueprint = Monster_building_01VARa
+Weight = 0.33
+
+[Piece15]
+Blueprint = Boss_room_VARb
+Weight = 0.34
+
+[Piece16]
+Blueprint = Boss_room_VARa
+Weight = 0.34
+
+[Piece17]
+Blueprint = Boss_room_VARc
+Weight = 0.34
+
+
+
+
+
+

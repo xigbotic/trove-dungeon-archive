@@ -1,0 +1,153 @@
+Seed -452776043
+TotalQueries 41
+================= PIECES =============
+Piece DNG_frigidHalls_Floor1_grnd Plug=0
+	Socket 4
+	Socket 1
+	Socket 5
+	Socket 6
+	Socket 2
+	Socket 1
+	Socket 2
+	Socket 1
+	Blocker -42,4,-10 Size=2
+	Blocker 26,4,46 Size=2
+	Blocker -3,11,-1 Size=2
+Piece DNG_frigidHalls_Floor3_grnd Plug=0
+	Socket 2
+	Socket 6
+	Socket 4
+	Socket 1
+	Socket 5
+	Socket 2
+	Socket 5
+	Socket 1
+	Socket 3
+	Socket 2
+	Blocker -3,11,-1 Size=2
+	Blocker -48,4,-27 Size=2
+Piece DNG_frigidHalls_Floor2_grnd Plug=0
+	Socket 2
+	Socket 6
+	Socket 3
+	Socket 5
+	Socket 4
+	Socket 5
+	Socket 2
+	Socket 5
+	Blocker -3,11,-1 Size=2
+	Blocker -15,4,7 Size=2
+Piece DNG_frigidHalls_room_org_1 Plug=1
+	Socket 3
+Piece DNG_frigidHalls_room_org_3 Plug=1
+	Socket 3
+Piece DNG_frigidHalls_room_org_2 Plug=1
+	Socket 3
+Piece DNG_frigidHalls_room_yel_1 Plug=2
+Piece DNG_frigidHalls_room_yel_3 Plug=2
+Piece DNG_frigidHalls_room_yel_2 Plug=2
+Piece DNG_frigidHalls_end_grn Plug=3
+Piece DNG_frigidHalls_room_grn_1 Plug=3
+	Socket 5
+Piece DNG_frigidHalls_room_grn_2 Plug=3
+	Socket 5
+	Blocker -17,2,-20 Size=2
+	Blocker -17,2,19 Size=2
+Piece DNG_frigidHalls_room_grn_3 Plug=3
+	Socket 5
+Piece DNG_frigidHalls_stairMid_1 Plug=4
+Piece DNG_frigidHalls_stairMid_2 Plug=4
+Piece DNG_frigidHalls_stairMid_3 Plug=4
+Piece DNG_frigidHalls_end_pur Plug=5
+Piece DNG_frigidHalls_Floor1_bsmnt Plug=5
+	Socket 2
+	Socket 1
+	Socket 1
+	Socket 2
+	Socket 6
+	Socket 1
+	Blocker 27,16,44 Size=2
+	Blocker -41,16,-10 Size=2
+Piece DNG_frigidHalls_Floor2_bsmnt Plug=5
+	Socket 6
+	Socket 3
+	Socket 2
+	Socket 5
+	Socket 2
+	Socket 5
+	Blocker -14,16,6 Size=2
+Piece DNG_frigidHalls_Floor3_bsmnt Plug=5
+	Socket 2
+	Socket 5
+	Socket 1
+	Socket 2
+	Socket 3
+	Socket 1
+	Socket 6
+	Socket 2
+	Blocker -47,16,-30 Size=2
+Piece DNG_frigidHalls_room_pur_1 Plug=5
+	Blocker 3,0,13 Size=2
+Piece DNG_frigidHalls_room_pur_2 Plug=5
+	Blocker 5,1,13 Size=2
+Piece DNG_frigidHalls_room_pur_3 Plug=5
+	Blocker 5,1,13 Size=2
+Piece DNG_frigidHalls_stairBase_1 Plug=6
+Piece DNG_frigidHalls_Floor1_2nd Plug=6
+	Socket 7
+	Socket 2
+	Socket 1
+	Socket 2
+	Socket 1
+	Socket 1
+Piece DNG_frigidHalls_stairBase_2 Plug=6
+Piece DNG_frigidHalls_stairBase_3 Plug=6
+Piece DNG_frigidHalls_Floor2_2nd Plug=6
+	Socket 5
+	Socket 3
+	Socket 5
+	Socket 7
+	Socket 2
+	Socket 2
+Piece DNG_frigidHalls_Floor3_2nd Plug=6
+	Socket 3
+	Socket 2
+	Socket 1
+	Socket 7
+	Socket 2
+	Socket 5
+	Socket 2
+	Socket 1
+Piece DNG_frigidHalls_stairTop_2 Plug=7
+Piece DNG_frigidHalls_stairTop_3 Plug=7
+Piece DNG_frigidHalls_stairTop_1 Plug=7
+================= LAYOUT =============
+[0] DNG_frigidHalls_Floor2_grnd [Q=40, D=27]
+	[1] DNG_frigidHalls_room_yel_2 [Q=0, D=0]
+	[2] DNG_frigidHalls_Floor3_2nd [Q=18, D=11]
+		[3] DNG_frigidHalls_room_grn_2 [Q=2, D=1]
+			[4] DNG_frigidHalls_room_pur_1 [Q=0, D=0]
+		[5] DNG_frigidHalls_room_yel_3 [Q=0, D=0]
+		[6] DNG_frigidHalls_room_org_1 [Q=4, D=1]
+			[7] DNG_frigidHalls_end_grn [Q=0, D=0]
+		[8] DNG_frigidHalls_stairTop_2 [Q=0, D=0]
+		[9] DNG_frigidHalls_room_yel_1 [Q=0, D=0]
+		[10] DNG_frigidHalls_room_pur_1 [Q=0, D=0]
+		[11] DNG_frigidHalls_room_yel_1 [Q=0, D=0]
+		[12] DNG_frigidHalls_room_org_1 [Q=4, D=1]
+			[13] DNG_frigidHalls_end_grn [Q=0, D=0]
+	[14] DNG_frigidHalls_room_grn_3 [Q=1, D=1]
+		[15] DNG_frigidHalls_room_pur_3 [Q=0, D=0]
+	[16] DNG_frigidHalls_room_pur_2 [Q=0, D=0]
+	[17] DNG_frigidHalls_stairMid_3 [Q=0, D=0]
+	[18] DNG_frigidHalls_room_pur_1 [Q=0, D=0]
+	[19] DNG_frigidHalls_room_yel_2 [Q=0, D=0]
+	[20] DNG_frigidHalls_Floor2_bsmnt [Q=13, D=7]
+		[21] DNG_frigidHalls_stairBase_1 [Q=0, D=0]
+		[22] DNG_frigidHalls_room_grn_3 [Q=3, D=1]
+			[23] DNG_frigidHalls_room_pur_3 [Q=0, D=0]
+		[24] DNG_frigidHalls_room_yel_1 [Q=0, D=0]
+		[25] DNG_frigidHalls_room_pur_2 [Q=0, D=0]
+		[26] DNG_frigidHalls_room_yel_2 [Q=0, D=0]
+		[27] DNG_frigidHalls_room_pur_2 [Q=0, D=0]
+================= MESSAGES =============

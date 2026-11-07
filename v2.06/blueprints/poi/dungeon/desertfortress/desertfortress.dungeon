@@ -1,0 +1,25 @@
+[Piece0]
+Blueprint = DFMA_1
+Quantity = 1
+Weight = 1
+
+[Piece1]
+Blueprint = DFMB_2
+Quantity = 1
+Weight = 2
+
+[Piece2]
+Blueprint = DFfrontbase
+Quantity = 1
+
+[Piece3]
+Blueprint = DFtower_4
+Quantity = 1
+
+[Piece4]
+Blueprint = DFhut_5
+Quantity = 1
+
+[Piece5]
+Blueprint = Sky
+Quantity = 1

@@ -1,0 +1,61 @@
+[Dungeon]
+Type = Dungeon
+
+[Piece0]
+Blueprint = main_plug
+Quantity = 1
+
+[Piece1]
+Blueprint = building_corner_01
+Quantity = 3
+Weight = 0.5
+
+[Piece2]
+Blueprint = building_corner_02
+Quantity = 2
+Weight = 0.5
+
+[Piece3]
+Blueprint = building_corner_03
+Quantity = 2
+Weight = 0.5
+
+[Piece4]
+Blueprint = combat_top_01
+Quantity = 2
+Weight = 0.5
+
+[Piece5]
+Blueprint = combat_top_02
+Quantity = 2
+Weight = 0.5
+
+[Piece6]
+Blueprint = combat_top_03
+Quantity = 2
+Weight = 0.5
+
+[Piece7]
+Blueprint = combat_top_04
+Quantity = 1
+Weight = 1
+
+[Piece8]
+Blueprint = combat_bottom_01
+Quantity = 2
+Weight = 0.5
+
+[Piece9]
+Blueprint = combat_bottom_02
+Quantity = 2
+Weight = 0.5
+
+[Piece10]
+Blueprint = combat_bottom_03
+Quantity = 2
+Weight = 0.5
+
+[Piece11]
+Blueprint = combat_bottom_04
+Quantity = 1
+Weight = 1

@@ -1,0 +1,70 @@
+Seed -603447630
+TotalQueries 10
+================= PIECES =============
+Piece mainleft Plug=0 Size=125x125x125
+	Plug Position=0,26,0
+	AABB Min=-62,0,-62 Max=63,125,63
+	Socket 3
+	Socket 2
+	Socket 2
+	Socket 1
+	Socket 1
+	Socket 1
+	Socket 2
+	Socket 2
+	Socket 1
+Piece mainright Plug=0 Size=125x123x125
+	Plug Position=0,26,0
+	AABB Min=-62,0,-62 Max=63,123,63
+	Socket 2
+	Socket 3
+	Socket 2
+	Socket 1
+	Socket 1
+	Socket 1
+	Socket 2
+	Socket 2
+	Socket 1
+Piece wall_02 Plug=1 Size=16x39x75
+	Plug Position=-1,1,0
+	AABB Min=-8,0,-37 Max=8,39,38
+Piece wall_01 Plug=1 Size=16x39x75
+	Plug Position=-1,1,0
+	AABB Min=-8,0,-37 Max=8,39,38
+Piece wall_03 Plug=1 Size=16x39x75
+	Plug Position=-1,1,0
+	AABB Min=-8,0,-37 Max=8,39,38
+Piece wall_04 Plug=1 Size=16x39x75
+	Plug Position=-1,1,0
+	AABB Min=-8,0,-37 Max=8,39,38
+Piece corner_02 Plug=2 Size=26x62x26
+	Plug Position=-12,1,11
+	AABB Min=-13,0,-13 Max=13,62,13
+Piece corner_01 Plug=2 Size=25x48x25
+	Plug Position=-12,1,12
+	AABB Min=-12,0,-12 Max=13,48,13
+Piece cellarwall_001 Plug=3 Size=34x16x13
+	Plug Position=0,1,0
+	AABB Min=0,0,-6 Max=34,16,7
+Piece cellarwall_004 Plug=3 Size=34x16x13
+	Plug Position=0,1,0
+	AABB Min=0,0,-6 Max=34,16,7
+Piece cellarwall_003 Plug=3 Size=34x16x13
+	Plug Position=0,1,0
+	AABB Min=0,0,-6 Max=34,16,7
+Piece cellarwall_002 Plug=3 Size=34x16x13
+	Plug Position=0,1,0
+	AABB Min=0,0,-6 Max=34,16,7
+================= LAYOUT =============
+[0] mainleft [Q=9, D=9]
+	[1] cellarwall_004 [Q=0, D=0]
+	[2] corner_02 [Q=0, D=0]
+	[3] corner_02 [Q=0, D=0]
+	[4] wall_02 [Q=0, D=0]
+	[5] wall_02 [Q=0, D=0]
+	[6] wall_04 [Q=0, D=0]
+	[7] corner_01 [Q=0, D=0]
+	[8] corner_01 [Q=0, D=0]
+	[9] wall_03 [Q=0, D=0]
+================= MESSAGES =============
+Dungeon.Type = Dungeon, 128x256x128

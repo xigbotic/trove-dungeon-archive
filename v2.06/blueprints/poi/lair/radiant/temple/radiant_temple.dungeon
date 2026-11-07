@@ -1,0 +1,18 @@
+[Dungeon]
+Type = Lair
+
+[Piece0]
+Blueprint = radiant_temple_top_one
+Quantity = 1
+
+[Piece1]
+Blueprint = radiant_temple_top_two
+Quantity = 1
+
+[Piece2]
+Blueprint = radiant_temple_bottom_one
+Quantity = 1
+
+[Piece3]
+Blueprint = radiant_temple_bottom_two
+Quantity = 1

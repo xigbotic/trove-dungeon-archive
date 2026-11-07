@@ -1,0 +1,47 @@
+[Dungeon]
+Type = lair
+
+[Piece0]
+Blueprint = core
+Quantity = 1
+Weight = 1
+
+[Piece1]
+Blueprint = headb
+Quantity = 1
+Weight = 0.25
+
+[Piece2]
+Blueprint = headg
+Quantity = 1
+Weight = 0.25
+
+[Piece3]
+Blueprint = headp
+Quantity = 1
+Weight = 0.25
+
+[Piece4]
+Blueprint = heady
+Quantity = 1
+Weight = 0.25
+
+[Piece5]
+Blueprint = tablea
+Quantity = 1
+Weight = 0.5
+
+[Piece6]
+Blueprint = tableb
+Quantity = 1
+Weight = 0.5
+
+[Piece7]
+Blueprint = bossa
+Quantity = 1
+Weight = 0.5
+
+[Piece8]
+Blueprint = bossb
+Quantity = 1
+Weight = 0.5

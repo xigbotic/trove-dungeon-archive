@@ -1,0 +1,95 @@
+[Dungeon]
+Type = Dungeon
+#Author Evilagician (Dark_style_NL)
+
+#Revision 2.0
+#Enlarged minor and major boss areas in height
+#added invisible roof above entrances.
+
+[Piece0a]
+Blueprint = Ice_cathedral_sockets_secret
+Quantity = 1
+Weight = .2	
+
+[Piece0b]
+Blueprint = Ice_cathedral_sockets
+Quantity = 1
+Weight = .9
+
+[Piece1a]
+Blueprint = Ice_cathedral_base
+Quantity = 4
+Weight = .9
+
+[Piece1b]
+Blueprint = Ice_cathedral_base_secret
+Quantity = 4
+Weight = .1
+
+[Piece2]
+Blueprint = Ice_cathedral_structure
+Quantity = 4
+
+[Piece3a]
+Blueprint = Ice_cathedral_top_plate_001
+Quantity = 1
+Weight = .33
+
+[Piece3b]
+Blueprint = Ice_cathedral_top_plate_002
+Quantity = 1
+Weight = .33
+
+[Piece3c]
+Blueprint = Ice_cathedral_top_plate_003
+Quantity = 1
+Weight = .33
+
+[Piece4a]
+Blueprint = Ice_cathedral_mid_plate_001
+Quantity = 1
+Weight = .33
+
+[Piece4b]
+Blueprint = Ice_cathedral_mid_plate_002
+Quantity = 1
+Weight = .33
+
+[Piece4c]
+Blueprint = Ice_cathedral_mid_plate_003
+Quantity = 1
+Weight = .33
+
+[Piece5a]
+Blueprint = Ice_cathedral_secret_plate_001
+Quantity = 1
+Weight = .33
+
+[Piece5b]
+Blueprint = Ice_cathedral_secret_plate_002
+Quantity = 1
+Weight = .33
+
+[Piece5c]
+Blueprint = Ice_cathedral_secret_plate_003
+Quantity = 1
+Weight = .33
+
+[Piece6a]
+Blueprint = Ice_cathedral_bottom_plate_001
+Quantity = 1
+Weight = .33
+
+[Piece6b]
+Blueprint = Ice_cathedral_bottom_plate_002
+Quantity = 1
+Weight = .33
+
+[Piece6c]
+Blueprint = Ice_cathedral_bottom_plate_003
+Quantity = 1
+Weight = .33
+
+[Piece7]
+Blueprint = Ice_cathedral_invisiroof
+Quantity = 4

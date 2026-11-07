@@ -1,0 +1,83 @@
+[Piece0]
+Blueprint = DNG_tree_bossroom
+Quantity = 1
+
+[Piece1]
+Blueprint = DNG_tree_diag_path
+Quantity = 100
+
+[Piece2]
+Blueprint = DNG_tree_endcap1
+Quantity = 100
+
+[Piece3]
+Blueprint = DNG_tree_endcap2
+Quantity = 100
+
+[Piece4]
+Blueprint = DNG_tree_endcap3
+Quantity = 3
+Weight = 0
+
+[Piece5]
+Blueprint = DNG_tree_mid_path1
+Quantity = 100
+
+[Piece6]
+Blueprint = DNG_tree_mid_path2
+Quantity = 100
+
+[Piece7]
+Blueprint = DNG_tree_mid_path3
+Quantity = 100
+
+[Piece8]
+Blueprint = DNG_tree_mid_platform1
+Quantity = 6
+
+[Piece9]
+Blueprint = DNG_tree_mid_platform2
+Quantity = 6
+
+[Piece10]
+Blueprint = DNG_tree_mid_platform3
+Quantity = 6
+
+[Piece11]
+Blueprint = DNG_tree_mid_platform4
+Quantity = 2
+
+[Piece12]
+Blueprint = DNG_tree_spiral1
+Quantity = 5
+Weight = 1.2
+
+[Piece13]
+Blueprint = DNG_tree_spiral2
+Quantity = 5
+Weight = 1.2
+
+[Piece14]
+Blueprint = DNG_tree_top_path1
+Quantity = 100
+
+[Piece15]
+Blueprint = DNG_tree_top_path2
+Quantity = 100
+
+[Piece16]
+Blueprint = DNG_tree_top_platform1
+Quantity = 3
+
+[Piece17]
+Blueprint = DNG_tree_top_platform2
+Quantity = 3
+
+[Piece18]
+Blueprint = DNG_tree_top_platform3
+Quantity = 3
+
+[Piece19]
+Blueprint = DNG_tree_top_platform4
+Quantity = 2
+

@@ -1,0 +1,22 @@
+[Dungeon]
+Type = lair
+
+[Piece0] 
+Blueprint = ship_base_01_template
+Quantity = 1
+Weight = .5
+
+[Piece1]
+Blueprint = ship_base_02_template
+Quantity = 1
+Weight = .5
+
+[Piece2]
+Blueprint = sail_warpseed
+Quantity = 1
+Weight = .5
+
+[Piece3]
+Blueprint = sail_flux
+Quantity = 1
+Weight = .5

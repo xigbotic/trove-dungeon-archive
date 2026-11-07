@@ -1,0 +1,40 @@
+[Dungeon]
+Type = Dungeon
+
+[Piece0]
+Blueprint = treasure_lake
+Quantity = 1
+
+[Piece1]
+Blueprint = x1
+Quantity = 1
+Weight = 0.5
+
+[Piece2]
+Blueprint = x2
+Quantity = 1
+Weight = 0.5
+
+[Piece3]
+Blueprint = x3
+Quantity = 1
+Weight = 0.5
+
+[Piece4]
+Blueprint = x4
+Quantity = 1
+Weight = 0.5
+
+[Piece5]
+Blueprint = x3
+Quantity = 1
+Weight = 0.5
+
+[Piece6]
+Blueprint = x4
+Quantity = 1
+Weight = 0.5
+
+[Piece7]
+Blueprint = treasure_underground
+Quantity = 1

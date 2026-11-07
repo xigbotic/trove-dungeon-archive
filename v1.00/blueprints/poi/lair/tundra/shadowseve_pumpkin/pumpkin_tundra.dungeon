@@ -1,0 +1,259 @@
+[Dungeon]
+Type = Lair
+
+
+
+[Piece0]
+Blueprint = Pumpkin_Core_Tundra
+Quantity = 1
+
+Weight = 1
+
+
+[Piece1]
+Blueprint = Pumpkin_Plugs
+
+Quantity = 1
+
+Weight = 1
+
+
+[Piece2]
+Blueprint = Room_BatHalls
+Quantity = 1
+Weight = 1
+
+
+
+[Piece3]
+Blueprint = Boss_Pumpking
+Quantity = 1
+
+Weight = 1
+
+
+
+[Piece4]
+Blueprint = Tundra_1
+Quantity = 1
+
+Weight = 1
+
+
+
+[Piece5]
+Blueprint = Tundra_2
+Quantity = 1
+
+Weight = 1
+
+
+
+[Piece6]
+Blueprint = Tundra_3
+Quantity = 1
+
+Weight = 1
+
+
+
+[Piece7]
+Blueprint = Tundra_4
+Quantity = 1
+
+Weight = 1
+
+
+
+[Piece8]
+Blueprint = Tundra_5
+Quantity = 1
+
+Weight = 1
+
+
+
+[Piece9]
+Blueprint = Tundra_6
+Quantity = 1
+
+Weight = 1
+
+
+
+[Piece10]
+Blueprint = Tundra_7
+Quantity = 1
+
+Weight = 1
+
+
+
+[Piece11]
+Blueprint = Tundra_8
+Quantity = 1
+
+Weight = 1
+
+
+
+[Piece12]
+Blueprint = Tundra_9
+Quantity = 1
+
+Weight = 1
+
+
+
+[Piece13]
+Blueprint = Tundra_10
+Quantity = 1
+
+Weight = 1
+
+
+
+[Piece14]
+Blueprint = Tundra_11
+Quantity = 1
+
+Weight = 1
+
+
+
+[Piece15]
+Blueprint = Tundra_12
+Quantity = 1
+
+Weight = 1
+
+
+
+[Piece16]
+Blueprint = Tundra_13
+Quantity = 1
+
+Weight = 1
+
+
+
+[Piece17]
+Blueprint = Tundra_14
+Quantity = 1
+
+Weight = 1
+
+
+
+[Piece18]
+Blueprint = Tundra_15
+Quantity = 1
+
+Weight = 1
+
+
+
+[Piece19]
+Blueprint = Tundra_16
+Quantity = 1
+
+Weight = 1
+
+
+
+[Piece20]
+Blueprint = Tundra_17
+Quantity = 1
+
+Weight = 1
+
+
+
+[Piece21]
+Blueprint = Tundra_18
+Quantity = 1
+
+Weight = 1
+
+
+
+[Piece22]
+Blueprint = Tundra_19
+Quantity = 1
+
+Weight = 1
+
+
+
+[Piece23]
+Blueprint = Tundra_20
+Quantity = 1
+
+Weight = 1
+
+
+
+[Piece24]
+Blueprint = Room_FireballBlitz
+Quantity = 1
+
+Weight = 1
+
+
+
+[Piece25]
+Blueprint = Room_Glass_Panes
+Quantity = 1
+
+Weight = 1
+
+
+
+[Piece26]
+Blueprint = Room_PurpleLavaSquares
+Quantity = 1
+
+Weight = 1
+
+
+
+[Piece27]
+Blueprint = Room_Dark
+Quantity = 1
+
+Weight = 1
+
+
+
+[Piece28]
+Blueprint = Room_Ghostly
+Quantity = 1
+
+Weight = 1
+
+
+
+[Piece29]
+Blueprint = Room_GuardedPillars
+Quantity = 1
+
+Weight = 1
+
+
+
+[Piece30]
+Blueprint = Room_LavaPlatforms
+Quantity = 1
+
+Weight = 1
+
+
+
+[Piece31]
+Blueprint = Boss_Midnight
+Quantity = 1
+
+Weight = 1
+
+
+

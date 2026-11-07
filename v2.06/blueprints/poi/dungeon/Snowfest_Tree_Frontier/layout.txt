@@ -1,0 +1,72 @@
+Seed -182684228
+TotalQueries 14
+================= PIECES =============
+Piece xmas_frontier_base Plug=0 Size=75x125x75
+	Plug Position=0,4,0
+	AABB Min=-37,0,-37 Max=38,125,38
+	Socket 3
+	Socket 3
+	Socket 2
+	Socket 3
+	Socket 3
+	Socket 3
+	Socket 3
+	Socket 1
+	Socket 3
+	Socket 3
+	Socket 3
+	Socket 3
+	Socket 3
+Piece xmas_mid_02 Plug=1 Size=51x31x52
+	Plug Position=0,8,26
+	AABB Min=-25,0,-25 Max=26,31,27
+Piece xmas_mid_03 Plug=1 Size=51x31x52
+	Plug Position=0,8,26
+	AABB Min=-25,0,-25 Max=26,31,27
+Piece xmas_mid_01 Plug=1 Size=51x31x52
+	Plug Position=0,8,26
+	AABB Min=-25,0,-25 Max=26,31,27
+Piece xmas_top_02 Plug=2 Size=31x29x32
+	Plug Position=0,6,16
+	AABB Min=-15,0,-15 Max=16,29,17
+Piece xmas_top_01 Plug=2 Size=31x29x32
+	Plug Position=0,6,16
+	AABB Min=-15,0,-15 Max=16,29,17
+Piece Frontier_cactusgift_SkyRider3217 Plug=3 Size=12x12x13
+	Plug Position=0,0,6
+	AABB Min=-6,0,-6 Max=6,12,7
+Piece Frontier_Cacti_SamW2469 Plug=3 Size=10x12x5
+	Plug Position=0,0,3
+	AABB Min=-5,0,-1 Max=5,12,4
+Piece Frontier_steampunkgift_SkyRider3217 Plug=3 Size=9x12x10
+	Plug Position=0,0,5
+	AABB Min=-4,0,-4 Max=5,12,6
+Piece Frontier_cat_Minejascraft Plug=3 Size=9x10x8
+	Plug Position=0,0,3
+	AABB Min=-4,0,-4 Max=5,10,4
+Piece Frontier_Cacti_ZealotFT Plug=3 Size=12x12x12
+	Plug Position=0,0,6
+	AABB Min=-6,0,-5 Max=6,12,7
+Piece Frontier_BowGift_ChrisRyan2468 Plug=3 Size=10x12x11
+	Plug Position=0,0,6
+	AABB Min=-5,0,-4 Max=5,12,7
+Piece Frontier_Train_kilikclia Plug=3 Size=12x12x8
+	Plug Position=-6,0,0
+	AABB Min=-6,0,-4 Max=6,12,4
+================= LAYOUT =============
+[0] xmas_frontier_base [Q=13, D=13]
+	[1] Frontier_Cacti_SamW2469 [Q=0, D=0]
+	[2] Frontier_cat_Minejascraft [Q=0, D=0]
+	[3] xmas_top_01 [Q=0, D=0]
+	[4] Frontier_BowGift_ChrisRyan2468 [Q=0, D=0]
+	[5] Frontier_steampunkgift_SkyRider3217 [Q=0, D=0]
+	[6] Frontier_steampunkgift_SkyRider3217 [Q=0, D=0]
+	[7] Frontier_BowGift_ChrisRyan2468 [Q=0, D=0]
+	[8] xmas_mid_03 [Q=0, D=0]
+	[9] Frontier_steampunkgift_SkyRider3217 [Q=0, D=0]
+	[10] Frontier_Train_kilikclia [Q=0, D=0]
+	[11] Frontier_Train_kilikclia [Q=0, D=0]
+	[12] Frontier_Cacti_SamW2469 [Q=0, D=0]
+	[13] Frontier_Cacti_SamW2469 [Q=0, D=0]
+================= MESSAGES =============
+Dungeon.Type = Dungeon, 128x256x128

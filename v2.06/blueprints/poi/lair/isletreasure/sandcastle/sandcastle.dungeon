@@ -1,0 +1,32 @@
+[Dungeon]
+Type = lair
+
+[Piece0]
+Blueprint = sandcastle
+Quantity = 1
+Weight = 0.5
+
+[Piece1]
+Blueprint = sandcastlev2
+Quantity = 1
+Weight = 0.5
+
+[Piece2]
+Blueprint = sandcastletower
+Quantity = 1
+Weight = 0.5
+
+[Piece3]
+Blueprint = sandcastletowerv2
+Quantity = 1
+Weight = 0.5
+
+[Piece4]
+Blueprint = sandcastleboss
+Quantity = 1
+Weight = 0.4
+
+[Piece5]
+Blueprint = sandcastlebossv2
+Quantity = 1
+Weight = 0.6

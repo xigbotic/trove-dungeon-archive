@@ -1,0 +1,81 @@
+[Dungeon]
+Type = Lair
+
+[Piece0]
+Blueprint = base
+Quantity = 1
+
+[Piece1]
+Blueprint = rock_00
+Quantity = 2
+Weight = 1
+
+[Piece2]
+Blueprint = rock_01
+Quantity = 3
+Weight = 1
+
+[Piece3]
+Blueprint = rock_02
+Quantity = 2
+Weight = 1
+
+[Piece5]
+Blueprint = top_00
+Quantity = 1
+Weight = 1
+
+[Piece6]
+Blueprint = top_01
+Quantity = 1
+Weight = 1
+
+[Piece7]
+Blueprint = spike_00
+Quantity = 1
+Weight = 1
+
+[Piece8]
+Blueprint = spike_01
+Quantity = 2
+Weight = 1
+
+[Piece9]
+Blueprint = spike_02
+Quantity = 3
+Weight = 1
+
+[Piece97]
+Blueprint = spike_03
+Quantity = 1
+Weight = 1
+
+[Piece98]
+Blueprint = spike_04
+Quantity = 2
+Weight = 1
+
+[Piece99]
+Blueprint = spike_05
+Quantity = 3
+Weight = 1
+
+[Piece10]
+Blueprint = room_00
+Quantity = 1
+Weight = 1
+
+[Piece11]
+Blueprint = room_01
+Quantity = 1
+Weight = 1
+
+[Piece12]
+Blueprint = platform_00
+Quantity = 1
+Weight = 1
+
+[Piece13]
+Blueprint = platform_01
+Quantity = 1
+Weight = 1

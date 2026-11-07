@@ -1,0 +1,240 @@
+Seed 975363622
+TotalQueries 39
+================= PIECES =============
+Piece Main_1 Plug=0 Size=105x30x122
+	Plug Position=0,21,0
+	AABB Min=-52,0,-61 Max=53,30,61
+	Socket 5
+	Socket 3
+	Socket 3
+	Socket 5
+	Socket 3
+	Socket 4
+	Socket 5
+	Socket 5
+	Socket 3
+	Socket 5
+	Socket 3
+	Socket 3
+	Socket 3
+	Socket 1
+	Socket 2
+	Socket 5
+	Socket 5
+	Socket 3
+	Socket 3
+Piece Main_2 Plug=0 Size=105x30x122
+	Plug Position=0,21,0
+	AABB Min=-52,0,-61 Max=53,30,61
+	Socket 4
+	Socket 5
+	Socket 5
+	Socket 5
+	Socket 3
+	Socket 5
+	Socket 5
+	Socket 3
+	Socket 2
+	Socket 5
+	Socket 1
+	Socket 5
+	Socket 5
+	Socket 3
+	Socket 3
+	Socket 3
+Piece Main_3 Plug=0 Size=105x30x122
+	Plug Position=0,21,0
+	AABB Min=-52,0,-61 Max=53,30,61
+	Socket 3
+	Socket 3
+	Socket 5
+	Socket 5
+	Socket 1
+	Socket 4
+	Socket 5
+	Socket 5
+	Socket 3
+	Socket 5
+	Socket 3
+	Socket 3
+	Socket 2
+	Socket 3
+	Socket 5
+	Socket 5
+Piece Roof_Green_1 Plug=1 Size=89x28x117
+	Plug Position=0,0,-56
+	AABB Min=-44,0,-58 Max=45,28,59
+Piece Roof_Green_2 Plug=1 Size=89x33x117
+	Plug Position=0,0,-56
+	AABB Min=-44,0,-58 Max=45,33,59
+Piece Roof_Blue_1 Plug=1 Size=89x28x117
+	Plug Position=0,0,-56
+	AABB Min=-44,0,-58 Max=45,28,59
+Piece Roof_Blue_2 Plug=1 Size=89x33x117
+	Plug Position=0,0,-56
+	AABB Min=-44,0,-58 Max=45,33,59
+Piece Roof_Yellow_2 Plug=1 Size=89x33x117
+	Plug Position=0,0,-56
+	AABB Min=-44,0,-58 Max=45,33,59
+Piece Roof_Yellow_1 Plug=1 Size=89x28x117
+	Plug Position=0,0,-56
+	AABB Min=-44,0,-58 Max=45,28,59
+Piece Courtyard_3 Plug=2 Size=67x9x83
+	Plug Position=-10,7,-15
+	AABB Min=-33,0,-41 Max=34,9,42
+	Socket 6
+	Socket 6
+	Socket 6
+	Socket 6
+Piece Courtyard_2 Plug=2 Size=67x8x83
+	Plug Position=-10,7,-15
+	AABB Min=-33,0,-41 Max=34,8,42
+	Socket 6
+	Socket 5
+	Socket 6
+	Socket 6
+	Socket 6
+	Socket 5
+	Socket 6
+	Socket 5
+	Socket 5
+	Socket 5
+	Socket 6
+	Socket 6
+	Socket 5
+	Socket 5
+	Socket 5
+	Socket 6
+	Socket 6
+	Socket 5
+	Socket 6
+	Socket 5
+	Socket 5
+	Socket 5
+Piece Courtyard_1 Plug=2 Size=67x8x83
+	Plug Position=-10,7,-15
+	AABB Min=-33,0,-41 Max=34,8,42
+	Socket 5
+	Socket 5
+	Socket 6
+	Socket 5
+	Socket 5
+	Socket 5
+	Socket 5
+	Socket 6
+	Socket 5
+	Socket 6
+	Socket 6
+	Socket 5
+	Socket 5
+	Socket 6
+	Socket 6
+	Socket 6
+	Socket 5
+	Socket 6
+	Socket 6
+	Socket 5
+	Socket 5
+	Socket 6
+Piece Tree_Green_3 Plug=3 Size=7x8x9
+	Plug Position=-1,0,-1
+	AABB Min=-3,0,-4 Max=4,8,5
+Piece Tree_Green_1 Plug=3 Size=4x6x8
+	Plug Position=0,0,-2
+	AABB Min=-2,0,-4 Max=2,6,4
+Piece Spire_2 Plug=3 Size=3x3x4
+	Plug Position=0,0,-2
+	AABB Min=-1,0,-2 Max=2,3,2
+Piece Spire_3 Plug=3 Size=3x5x4
+	Plug Position=0,0,-2
+	AABB Min=-1,0,-2 Max=2,5,2
+Piece Foliage_2 Plug=3 Size=5x2x5
+	Plug Position=0,0,-3
+	AABB Min=-2,0,-3 Max=3,2,2
+Piece Spire_1 Plug=3 Size=3x2x4
+	Plug Position=0,0,-2
+	AABB Min=-1,0,-2 Max=2,2,2
+Piece Tree_Green_2 Plug=3 Size=6x7x6
+	Plug Position=-2,0,0
+	AABB Min=-3,0,-3 Max=3,7,3
+Piece Spire_4 Plug=3 Size=3x6x5
+	Plug Position=0,0,-2
+	AABB Min=-1,0,-2 Max=2,6,3
+Piece Foliage_1 Plug=3 Size=4x2x5
+	Plug Position=-1,0,-3
+	AABB Min=-2,0,-3 Max=2,2,2
+Piece Placeholder Plug=4 Size=101x44x118
+	Plug Position=0,0,58
+	AABB Min=-50,0,-59 Max=51,44,59
+Piece Rock_3 Plug=5 Size=4x2x5
+	Plug Position=-1,0,3
+	AABB Min=-2,0,-1 Max=2,2,4
+Piece Rock_5 Plug=5 Size=3x3x4
+	Plug Position=0,0,2
+	AABB Min=-1,0,-1 Max=2,3,3
+Piece Rock_4 Plug=5 Size=3x2x4
+	Plug Position=-1,0,3
+	AABB Min=-2,0,0 Max=1,2,4
+Piece Rock_2 Plug=5 Size=3x4x4
+	Plug Position=0,0,2
+	AABB Min=-1,0,-1 Max=2,4,3
+Piece Rock_1 Plug=5 Size=4x2x4
+	Plug Position=-1,0,2
+	AABB Min=-2,0,-1 Max=2,2,3
+Piece Tree_Cherry_5 Plug=6 Size=6x11x9
+	Plug Position=0,0,-1
+	AABB Min=-3,0,-4 Max=3,11,5
+Piece Tree_Cherry_2 Plug=6 Size=6x7x7
+	Plug Position=0,0,-2
+	AABB Min=-3,0,-3 Max=3,7,4
+Piece Tree_Cherry_1 Plug=6 Size=9x8x8
+	Plug Position=0,0,-1
+	AABB Min=-4,0,-4 Max=5,8,4
+Piece Tree_Cherry_3 Plug=6 Size=7x6x5
+	Plug Position=0,0,-1
+	AABB Min=-3,0,-2 Max=4,6,3
+Piece Tree_Cherry_4 Plug=6 Size=9x9x10
+	Plug Position=-1,0,-1
+	AABB Min=-4,0,-5 Max=5,9,5
+================= LAYOUT =============
+[0] Main_2 [Q=38, D=38]
+	[1] Placeholder [Q=0, D=0]
+	[2] Rock_4 [Q=0, D=0]
+	[3] Rock_3 [Q=0, D=0]
+	[4] Rock_4 [Q=0, D=0]
+	[5] Spire_3 [Q=0, D=0]
+	[6] Rock_4 [Q=0, D=0]
+	[7] Rock_5 [Q=0, D=0]
+	[8] Tree_Green_3 [Q=0, D=0]
+	[9] Courtyard_1 [Q=22, D=22]
+		[10] Rock_1 [Q=0, D=0]
+		[11] Rock_4 [Q=0, D=0]
+		[12] Tree_Cherry_4 [Q=0, D=0]
+		[13] Rock_1 [Q=0, D=0]
+		[14] Rock_2 [Q=0, D=0]
+		[15] Rock_1 [Q=0, D=0]
+		[16] Rock_2 [Q=0, D=0]
+		[17] Tree_Cherry_3 [Q=0, D=0]
+		[18] Rock_2 [Q=0, D=0]
+		[19] Tree_Cherry_3 [Q=0, D=0]
+		[20] Tree_Cherry_1 [Q=0, D=0]
+		[21] Rock_1 [Q=0, D=0]
+		[22] Rock_5 [Q=0, D=0]
+		[23] Tree_Cherry_2 [Q=0, D=0]
+		[24] Tree_Cherry_1 [Q=0, D=0]
+		[25] Tree_Cherry_5 [Q=0, D=0]
+		[26] Rock_4 [Q=0, D=0]
+		[27] Tree_Cherry_5 [Q=0, D=0]
+		[28] Tree_Cherry_2 [Q=0, D=0]
+		[29] Rock_5 [Q=0, D=0]
+		[30] Rock_2 [Q=0, D=0]
+		[31] Tree_Cherry_4 [Q=0, D=0]
+	[32] Rock_1 [Q=0, D=0]
+	[33] Roof_Green_1 [Q=0, D=0]
+	[34] Rock_3 [Q=0, D=0]
+	[35] Rock_2 [Q=0, D=0]
+	[36] Tree_Green_1 [Q=0, D=0]
+	[37] Spire_1 [Q=0, D=0]
+	[38] Spire_4 [Q=0, D=0]
+================= MESSAGES =============
+Dungeon.Type = Dungeon, 128x256x128

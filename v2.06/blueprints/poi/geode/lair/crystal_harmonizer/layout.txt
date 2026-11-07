@@ -1,0 +1,108 @@
+Seed 309407064
+TotalQueries 12
+================= PIECES =============
+Piece crystal_harmonizer_piece_base Plug=0 Size=39x90x39
+	Plug Position=-17,30,18
+	AABB Min=-36,0,-1 Max=3,90,38
+	Socket 1
+	Socket 4
+	Socket 5
+	Socket 3
+	Socket 1
+	Socket 1
+	Socket 1
+Piece crystal_harmonizer_piece_alignment_004 Plug=1 Size=2x10x2
+	Plug Position=-1,11,-1
+	AABB Min=-1,2,-1 Max=1,12,1
+	Socket 2
+Piece crystal_harmonizer_piece_alignment_001 Plug=1 Size=2x4x2
+	Plug Position=-1,11,-1
+	AABB Min=-1,11,-1 Max=1,15,1
+	Socket 2
+Piece crystal_harmonizer_piece_alignment_002 Plug=1 Size=2x2x2
+	Plug Position=-1,11,-1
+	AABB Min=-1,10,-1 Max=1,12,1
+	Socket 2
+Piece crystal_harmonizer_piece_alignment_003 Plug=1 Size=2x6x2
+	Plug Position=-1,11,-1
+	AABB Min=-1,6,-1 Max=1,12,1
+	Socket 2
+Piece crystal_harmonizer_piece_wing_damaged Plug=2 Size=12x76x12
+	Plug Position=0,25,0
+	AABB Min=0,0,0 Max=12,76,12
+Piece crystal_harmonizer_piece_wing_smudge Plug=2 Size=12x78x12
+	Plug Position=0,25,0
+	AABB Min=0,0,0 Max=12,78,12
+Piece crystal_harmonizer_piece_wing Plug=2 Size=12x78x12
+	Plug Position=0,25,0
+	AABB Min=0,0,0 Max=12,78,12
+Piece crystal_harmonizer_piece_wing_damagedplus Plug=2 Size=12x53x12
+	Plug Position=0,25,0
+	AABB Min=0,0,0 Max=12,53,12
+Piece crystal_harmonizer_piece_base_top_002 Plug=3 Size=35x9x35
+	Plug Position=0,3,0
+	AABB Min=-17,0,-17 Max=18,9,18
+	Blocker 0,2,-11 Size=2
+	Blocker 0,0,-11 Size=2
+Piece crystal_harmonizer_piece_base_top_004 Plug=3 Size=35x9x35
+	Plug Position=0,3,0
+	AABB Min=-17,0,-17 Max=18,9,18
+	Blocker 0,0,11 Size=2
+	Blocker 0,2,11 Size=2
+Piece crystal_harmonizer_piece_base_top_003 Plug=3 Size=35x9x35
+	Plug Position=0,3,0
+	AABB Min=-17,0,-17 Max=18,9,18
+	Blocker 11,2,0 Size=2
+	Blocker 11,0,0 Size=2
+Piece crystal_harmonizer_piece_base_top_001 Plug=3 Size=35x9x35
+	Plug Position=0,3,0
+	AABB Min=-17,0,-17 Max=18,9,18
+	Blocker -11,0,0 Size=2
+	Blocker -11,2,0 Size=2
+Piece crystal_harmonizer_piece_base_mid_003 Plug=4 Size=35x9x35
+	Plug Position=0,3,0
+	AABB Min=-17,0,-17 Max=18,9,18
+	Blocker -11,2,0 Size=2
+	Blocker -11,0,0 Size=2
+Piece crystal_harmonizer_piece_base_mid_001 Plug=4 Size=35x9x35
+	Plug Position=0,3,0
+	AABB Min=-17,0,-17 Max=18,9,18
+	Blocker 11,0,0 Size=2
+	Blocker 11,2,0 Size=2
+Piece crystal_harmonizer_piece_base_mid_004 Plug=4 Size=35x9x35
+	Plug Position=0,3,0
+	AABB Min=-17,0,-17 Max=18,9,18
+	Blocker 0,2,-11 Size=2
+	Blocker 0,0,-11 Size=2
+Piece crystal_harmonizer_piece_base_mid_002 Plug=4 Size=35x9x35
+	Plug Position=0,3,0
+	AABB Min=-17,0,-17 Max=18,9,18
+	Blocker 0,0,11 Size=2
+	Blocker 0,2,11 Size=2
+Piece crystal_harmonizer_piece_base_bot_002 Plug=5 Size=35x7x35
+	Plug Position=0,2,0
+	AABB Min=-17,0,-17 Max=18,7,18
+Piece crystal_harmonizer_piece_base_bot_004 Plug=5 Size=35x7x35
+	Plug Position=0,2,0
+	AABB Min=-17,0,-17 Max=18,7,18
+Piece crystal_harmonizer_piece_base_bot_003 Plug=5 Size=35x7x35
+	Plug Position=0,2,0
+	AABB Min=-17,0,-17 Max=18,7,18
+Piece crystal_harmonizer_piece_base_bot_001 Plug=5 Size=35x7x35
+	Plug Position=0,2,0
+	AABB Min=-17,0,-17 Max=18,7,18
+================= LAYOUT =============
+[0] crystal_harmonizer_piece_base [Q=11, D=11]
+	[1] crystal_harmonizer_piece_alignment_002 [Q=1, D=1]
+		[2] crystal_harmonizer_piece_wing_smudge [Q=0, D=0]
+	[3] crystal_harmonizer_piece_base_mid_003 [Q=0, D=0]
+	[4] crystal_harmonizer_piece_base_bot_002 [Q=0, D=0]
+	[5] crystal_harmonizer_piece_base_top_002 [Q=0, D=0]
+	[6] crystal_harmonizer_piece_alignment_003 [Q=1, D=1]
+		[7] crystal_harmonizer_piece_wing_smudge [Q=0, D=0]
+	[8] crystal_harmonizer_piece_alignment_004 [Q=1, D=1]
+		[9] crystal_harmonizer_piece_wing_smudge [Q=0, D=0]
+	[10] crystal_harmonizer_piece_alignment_002 [Q=1, D=1]
+		[11] crystal_harmonizer_piece_wing_damaged [Q=0, D=0]
+================= MESSAGES =============
+Dungeon.Type = Lair, 42x96x42 (64 up, 32 down)

@@ -1,0 +1,22 @@
+[Dungeon]
+Type = Lair
+
+[Piece0]
+Blueprint = Potion_Chocolate
+Quantity = 1
+
+[Piece1]
+Blueprint = Potion_Lava
+Quantity = 1
+
+[Piece2]
+Blueprint = Potion_Water
+Quantity = 1
+
+[Piece3]
+Blueprint = Potion_Plasma
+Quantity = 1
+
+[Piece4]
+Blueprint = Potion_Air
+Quantity = 1

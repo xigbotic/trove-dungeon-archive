@@ -1,0 +1,360 @@
+Seed 607265176
+TotalQueries 655
+================= PIECES =============
+Piece DNG_hedgemaze_Base1 Plug=0
+	Socket 1
+	Socket 2
+	Socket 4
+	Blocker -10,4,-52 Size=2
+	Blocker -46,4,-52 Size=2
+	Blocker -52,4,26 Size=2
+	Blocker -52,4,8 Size=2
+	Blocker 38,4,45 Size=2
+	Blocker 8,4,51 Size=2
+	Blocker 26,4,-52 Size=2
+	Blocker 45,4,38 Size=2
+	Blocker -28,4,-52 Size=2
+	Blocker 51,4,26 Size=2
+	Blocker -52,4,-28 Size=2
+	Blocker 51,4,-10 Size=2
+	Blocker 51,4,-46 Size=2
+	Blocker 44,4,-52 Size=2
+	Blocker -28,4,51 Size=2
+	Blocker 26,4,51 Size=2
+	Blocker 8,4,-52 Size=2
+	Blocker 51,4,8 Size=2
+	Blocker 51,4,-28 Size=2
+	Blocker -46,4,51 Size=2
+	Blocker -52,4,-46 Size=2
+	Blocker -10,4,51 Size=2
+	Blocker -52,4,44 Size=2
+Piece DNG_hedgemaze_Base2 Plug=0
+	Socket 2
+	Socket 1
+	Socket 4
+	Blocker -27,4,51 Size=2
+	Blocker 27,4,-52 Size=2
+	Blocker 45,4,-52 Size=2
+	Blocker -52,4,26 Size=2
+	Blocker -52,4,8 Size=2
+	Blocker -9,4,-52 Size=2
+	Blocker 51,4,26 Size=2
+	Blocker -52,4,-10 Size=2
+	Blocker -52,4,-28 Size=2
+	Blocker 51,4,-10 Size=2
+	Blocker 51,4,-46 Size=2
+	Blocker 44,4,38 Size=2
+	Blocker 51,4,8 Size=2
+	Blocker 9,4,51 Size=2
+	Blocker 51,4,-28 Size=2
+	Blocker -9,4,51 Size=2
+	Blocker 27,4,51 Size=2
+	Blocker -52,4,-46 Size=2
+	Blocker -27,4,-52 Size=2
+	Blocker -45,4,51 Size=2
+	Blocker -52,4,44 Size=2
+	Blocker -45,4,-52 Size=2
+	Blocker 38,4,44 Size=2
+Piece DNG_hedgemaze_Base3 Plug=0
+	Socket 1
+	Socket 2
+	Socket 4
+	Blocker -52,4,27 Size=2
+	Blocker 26,4,-52 Size=2
+	Blocker 51,4,9 Size=2
+	Blocker -52,4,9 Size=2
+	Blocker -52,4,-45 Size=2
+	Blocker -28,4,51 Size=2
+	Blocker -46,4,38 Size=2
+	Blocker 51,4,-9 Size=2
+	Blocker -28,4,-52 Size=2
+	Blocker 51,4,-45 Size=2
+	Blocker 26,4,51 Size=2
+	Blocker -46,4,-52 Size=2
+	Blocker 51,4,-27 Size=2
+	Blocker -10,4,-52 Size=2
+	Blocker -52,4,-9 Size=2
+	Blocker -39,4,44 Size=2
+	Blocker -52,4,-27 Size=2
+	Blocker 44,4,51 Size=2
+	Blocker 8,4,-52 Size=2
+	Blocker 51,4,27 Size=2
+	Blocker 8,4,51 Size=2
+	Blocker 44,4,-52 Size=2
+	Blocker 51,4,45 Size=2
+Piece DNG_hedgemaze_Base4 Plug=0
+	Socket 2
+	Socket 4
+	Socket 1
+	Blocker -27,4,51 Size=2
+	Blocker -52,4,45 Size=2
+	Blocker 27,4,-52 Size=2
+	Blocker -9,4,-52 Size=2
+	Blocker 51,4,27 Size=2
+	Blocker 9,4,-52 Size=2
+	Blocker 51,4,-9 Size=2
+	Blocker 44,4,-39 Size=2
+	Blocker 51,4,45 Size=2
+	Blocker -52,4,27 Size=2
+	Blocker -52,4,9 Size=2
+	Blocker 51,4,-27 Size=2
+	Blocker 9,4,51 Size=2
+	Blocker 38,4,-46 Size=2
+	Blocker -9,4,51 Size=2
+	Blocker -52,4,-9 Size=2
+	Blocker -52,4,-27 Size=2
+	Blocker 45,4,51 Size=2
+	Blocker 27,4,51 Size=2
+	Blocker -27,4,-52 Size=2
+	Blocker -45,4,51 Size=2
+	Blocker -52,4,-45 Size=2
+	Blocker -45,4,-52 Size=2
+Piece DNG_hedgemaze_room23 Plug=1
+	Socket 1
+	Blocker 6,0,-1 Size=2
+	Blocker -12,0,0 Size=2
+	Blocker 0,0,6 Size=2
+	Blocker -1,0,-12 Size=2
+Piece DNG_hedgemaze_Finisher Plug=1
+Piece DNG_hedgemaze_room21 Plug=1
+	Socket 1
+	Blocker -12,0,1 Size=2
+	Blocker -1,0,-7 Size=2
+	Blocker 11,0,0 Size=2
+	Blocker 0,0,6 Size=2
+Piece DNG_hedgemaze_room1 Plug=1
+	Blocker 0,0,11 Size=2
+	Blocker -1,0,-12 Size=2
+	Blocker 6,0,0 Size=2
+	Blocker -12,0,0 Size=2
+Piece DNG_hedgemaze_room22 Plug=1
+	Socket 1
+	Blocker -1,0,6 Size=2
+	Blocker -12,0,0 Size=2
+	Blocker 6,0,0 Size=2
+	Blocker -1,0,-12 Size=2
+Piece DNG_hedgemaze_room46 Plug=1
+	Socket 1
+	Socket 1
+	Socket 1
+	Blocker 0,0,6 Size=2
+	Blocker 6,0,0 Size=2
+	Blocker -7,0,0 Size=2
+	Blocker -1,0,-7 Size=2
+Piece DNG_hedgemaze_room41 Plug=1
+	Socket 1
+	Socket 1
+	Socket 1
+	Blocker 0,0,-7 Size=2
+	Blocker 6,0,0 Size=2
+	Blocker -7,0,-1 Size=2
+	Blocker -1,0,6 Size=2
+Piece DNG_hedgemaze_room33 Plug=1
+	Socket 1
+	Socket 1
+	Blocker 6,0,-1 Size=2
+	Blocker 0,0,-12 Size=2
+	Blocker -1,0,6 Size=2
+	Blocker -7,0,-1 Size=2
+Piece DNG_hedgemaze_room42 Plug=1
+	Socket 1
+	Socket 1
+	Socket 1
+	Blocker -1,0,-7 Size=2
+	Blocker -7,0,0 Size=2
+	Blocker 6,0,0 Size=2
+	Blocker -1,0,6 Size=2
+Piece DNG_hedgemaze_room43 Plug=1
+	Socket 1
+	Socket 1
+	Socket 1
+	Blocker -1,0,-7 Size=2
+	Blocker -7,0,0 Size=2
+	Blocker 6,0,0 Size=2
+	Blocker -1,0,6 Size=2
+Piece DNG_hedgemaze_room44 Plug=1
+	Socket 1
+	Socket 1
+	Socket 1
+	Blocker -7,0,0 Size=2
+	Blocker 0,0,-7 Size=2
+	Blocker 0,0,6 Size=2
+	Blocker 6,0,0 Size=2
+Piece DNG_hedgemaze_room31 Plug=1
+	Socket 1
+	Socket 1
+	Blocker 0,0,6 Size=2
+	Blocker 0,0,-12 Size=2
+	Blocker 6,0,0 Size=2
+	Blocker -7,0,-1 Size=2
+Piece DNG_hedgemaze_room45 Plug=1
+	Socket 1
+	Socket 1
+	Socket 1
+	Blocker -1,0,6 Size=2
+	Blocker -7,0,0 Size=2
+	Blocker 6,0,-1 Size=2
+	Blocker -1,0,-7 Size=2
+Piece DNG_hedgemaze_room32 Plug=1
+	Socket 1
+	Socket 1
+	Blocker -1,0,6 Size=2
+	Blocker 0,0,-12 Size=2
+	Blocker 6,0,0 Size=2
+	Blocker -7,0,-1 Size=2
+Piece DNG_hedgemaze_Skirt2 Plug=2
+Piece DNG_hedgemaze_Skirt1 Plug=2
+Piece DNG_hedgemaze_Hedge8 Plug=3
+Piece DNG_hedgemaze_Hedge2 Plug=3
+Piece DNG_hedgemaze_Hedge3 Plug=3
+Piece DNG_hedgemaze_Hedge9 Plug=3
+Piece DNG_hedgemaze_Hedge1 Plug=3
+Piece DNG_hedgemaze_Hedge16 Plug=3
+Piece DNG_hedgemaze_Hedge6 Plug=3
+Piece DNG_hedgemaze_Hedge7 Plug=3
+Piece DNG_hedgemaze_Hedge10 Plug=3
+Piece DNG_hedgemaze_Hedge13 Plug=3
+Piece DNG_hedgemaze_Hedge14 Plug=3
+Piece DNG_hedgemaze_Hedge15 Plug=3
+Piece DNG_hedgemaze_Hedge12 Plug=3
+Piece DNG_hedgemaze_Hedge4 Plug=3
+Piece DNG_hedgemaze_Hedge5 Plug=3
+Piece DNG_hedgemaze_Hedge11 Plug=3
+Piece DNG_hedgemaze_Roof3 Plug=4
+	Socket 3
+	Socket 3
+	Socket 3
+	Socket 3
+	Socket 3
+	Socket 3
+	Socket 3
+	Socket 3
+	Socket 3
+	Socket 3
+	Socket 3
+	Socket 3
+Piece DNG_hedgemaze_Roof1 Plug=4
+	Socket 3
+	Socket 3
+	Socket 3
+	Socket 3
+	Socket 3
+	Socket 3
+	Socket 3
+	Socket 3
+	Socket 3
+	Socket 3
+	Socket 3
+	Socket 3
+Piece DNG_hedgemaze_Roof2 Plug=4
+	Socket 3
+	Socket 3
+	Socket 3
+	Socket 3
+	Socket 3
+	Socket 3
+	Socket 3
+	Socket 3
+	Socket 3
+	Socket 3
+	Socket 3
+	Socket 3
+Piece DNG_hedgemaze_Roof4 Plug=4
+	Socket 3
+	Socket 3
+	Socket 3
+	Socket 3
+	Socket 3
+	Socket 3
+	Socket 3
+	Socket 3
+	Socket 3
+	Socket 3
+	Socket 3
+	Socket 3
+================= LAYOUT =============
+[0] DNG_hedgemaze_Base1 [Q=654, D=83]
+	[1] DNG_hedgemaze_room46 [Q=639, D=68]
+		[2] DNG_hedgemaze_room33 [Q=607, D=65]
+			[3] DNG_hedgemaze_room1 [Q=0, D=0]
+			[4] DNG_hedgemaze_room45 [Q=596, D=63]
+				[5] DNG_hedgemaze_room1 [Q=0, D=0]
+				[6] DNG_hedgemaze_room42 [Q=569, D=60]
+					[7] DNG_hedgemaze_room42 [Q=540, D=57]
+						[8] DNG_hedgemaze_room46 [Q=511, D=54]
+							[9] DNG_hedgemaze_room31 [Q=436, D=46]
+								[10] DNG_hedgemaze_room33 [Q=421, D=44]
+									[11] DNG_hedgemaze_room45 [Q=406, D=42]
+										[12] DNG_hedgemaze_room41 [Q=335, D=34]
+											[13] DNG_hedgemaze_room33 [Q=255, D=27]
+												[14] DNG_hedgemaze_room42 [Q=240, D=25]
+													[15] DNG_hedgemaze_Finisher [Q=0, D=0]
+													[16] DNG_hedgemaze_Finisher [Q=0, D=0]
+													[17] DNG_hedgemaze_room44 [Q=211, D=22]
+														[18] DNG_hedgemaze_room42 [Q=182, D=19]
+															[19] DNG_hedgemaze_room32 [Q=153, D=16]
+																[20] DNG_hedgemaze_room42 [Q=138, D=14]
+																	[21] DNG_hedgemaze_room32 [Q=111, D=11]
+																		[22] DNG_hedgemaze_room31 [Q=97, D=9]
+																			[23] DNG_hedgemaze_room23 [Q=72, D=7]
+																				[24] DNG_hedgemaze_room41 [Q=71, D=6]
+																					[25] DNG_hedgemaze_room42 [Q=42, D=3]
+																						[26] DNG_hedgemaze_Finisher [Q=0, D=0]
+																						[27] DNG_hedgemaze_Finisher [Q=0, D=0]
+																						[28] DNG_hedgemaze_Finisher [Q=0, D=0]
+																					[29] DNG_hedgemaze_Finisher [Q=0, D=0]
+																					[30] DNG_hedgemaze_Finisher [Q=0, D=0]
+																			[31] DNG_hedgemaze_Finisher [Q=0, D=0]
+																		[32] DNG_hedgemaze_room1 [Q=0, D=0]
+																	[33] DNG_hedgemaze_Finisher [Q=0, D=0]
+																	[34] DNG_hedgemaze_room1 [Q=0, D=0]
+																[35] DNG_hedgemaze_Finisher [Q=0, D=0]
+															[36] DNG_hedgemaze_Finisher [Q=0, D=0]
+															[37] DNG_hedgemaze_Finisher [Q=0, D=0]
+														[38] DNG_hedgemaze_Finisher [Q=0, D=0]
+														[39] DNG_hedgemaze_Finisher [Q=0, D=0]
+												[40] DNG_hedgemaze_Finisher [Q=0, D=0]
+											[41] DNG_hedgemaze_Finisher [Q=0, D=0]
+											[42] DNG_hedgemaze_room32 [Q=52, D=4]
+												[43] DNG_hedgemaze_room1 [Q=0, D=0]
+												[44] DNG_hedgemaze_room33 [Q=28, D=2]
+													[45] DNG_hedgemaze_Finisher [Q=0, D=0]
+													[46] DNG_hedgemaze_Finisher [Q=0, D=0]
+										[47] DNG_hedgemaze_room32 [Q=54, D=5]
+											[48] DNG_hedgemaze_Finisher [Q=0, D=0]
+											[49] DNG_hedgemaze_room33 [Q=38, D=3]
+												[50] DNG_hedgemaze_room21 [Q=14, D=1]
+													[51] DNG_hedgemaze_Finisher [Q=0, D=0]
+												[52] DNG_hedgemaze_Finisher [Q=0, D=0]
+										[53] DNG_hedgemaze_Finisher [Q=0, D=0]
+									[54] DNG_hedgemaze_Finisher [Q=0, D=0]
+								[55] DNG_hedgemaze_Finisher [Q=0, D=0]
+							[56] DNG_hedgemaze_room32 [Q=44, D=4]
+								[57] DNG_hedgemaze_room1 [Q=0, D=0]
+								[58] DNG_hedgemaze_room33 [Q=28, D=2]
+									[59] DNG_hedgemaze_Finisher [Q=0, D=0]
+									[60] DNG_hedgemaze_Finisher [Q=0, D=0]
+							[61] DNG_hedgemaze_room23 [Q=14, D=1]
+								[62] DNG_hedgemaze_Finisher [Q=0, D=0]
+						[63] DNG_hedgemaze_Finisher [Q=0, D=0]
+						[64] DNG_hedgemaze_Finisher [Q=0, D=0]
+					[65] DNG_hedgemaze_Finisher [Q=0, D=0]
+					[66] DNG_hedgemaze_Finisher [Q=0, D=0]
+				[67] DNG_hedgemaze_Finisher [Q=0, D=0]
+		[68] DNG_hedgemaze_Finisher [Q=0, D=0]
+		[69] DNG_hedgemaze_Finisher [Q=0, D=0]
+	[70] DNG_hedgemaze_Skirt1 [Q=0, D=0]
+	[71] DNG_hedgemaze_Roof3 [Q=12, D=12]
+		[72] DNG_hedgemaze_Hedge14 [Q=0, D=0]
+		[73] DNG_hedgemaze_Hedge16 [Q=0, D=0]
+		[74] DNG_hedgemaze_Hedge7 [Q=0, D=0]
+		[75] DNG_hedgemaze_Hedge3 [Q=0, D=0]
+		[76] DNG_hedgemaze_Hedge6 [Q=0, D=0]
+		[77] DNG_hedgemaze_Hedge8 [Q=0, D=0]
+		[78] DNG_hedgemaze_Hedge5 [Q=0, D=0]
+		[79] DNG_hedgemaze_Hedge12 [Q=0, D=0]
+		[80] DNG_hedgemaze_Hedge13 [Q=0, D=0]
+		[81] DNG_hedgemaze_Hedge1 [Q=0, D=0]
+		[82] DNG_hedgemaze_Hedge11 [Q=0, D=0]
+		[83] DNG_hedgemaze_Hedge10 [Q=0, D=0]
+================= MESSAGES =============

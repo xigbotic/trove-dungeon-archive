@@ -1,0 +1,34 @@
+[Dungeon]
+Type = Lair
+
+[Piece0]
+Blueprint = iceTowerBottom1
+Quantity = 1
+Weight = 0.5
+
+[Piece1]
+Blueprint = iceTowerBottom2
+Quantity = 1
+Weight = 0.5
+
+[Piece2]
+Blueprint = iceTowerTop1
+Quantity = 1
+Weight = 0.5
+
+[Piece3]
+Blueprint = iceTowerTop2
+Quantity = 1
+Weight = 0.5
+
+[Piece4]
+Blueprint = iceTowerBoss1
+Quantity = 1
+Weight = 0.5
+
+[Piece5]
+Blueprint = iceTowerBoss2
+Quantity = 1
+Weight = 0.5
+
+

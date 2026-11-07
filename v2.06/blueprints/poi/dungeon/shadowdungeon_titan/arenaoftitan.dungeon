@@ -1,0 +1,53 @@
+[Piece0]
+Blueprint = sa_preboss
+Quantity = 1
+
+[Piece1]
+Blueprint = sa_boss
+Quantity = 1
+
+[Piece2]
+Blueprint = sa_pbcorner
+Quantity = 1
+
+[Piece3]
+Blueprint = sa_tunnel1
+Quantity = 1
+Weight = 1
+
+[Piece4]
+Blueprint = sa_tunnel2
+Quantity = 1
+Weight = 1
+
+[Piece5]
+Blueprint = sa_tunnel3
+Quantity = 1
+Weight = 1
+
+[Piece6]
+Blueprint = sa_tcorner
+Quantity = 1
+
+[Piece7]
+Blueprint = sa_enterance1
+Quantity = 1
+Weight = 1
+
+[Piece8]
+Blueprint = sa_enterance2
+Quantity = 1
+Weight = 1
+
+[Piece9]
+Blueprint = sa_enterance3
+Quantity = 1
+Weight = 1
+
+[Piece10]
+Blueprint = sa_spawn
+Quantity = 1
+
+[Piece11]
+Blueprint = sa_market
+Quantity = 1

@@ -1,0 +1,11 @@
+[Piece0]
+Blueprint = Candy_Biome_Recipe_Lair_Recolor2
+Quantity = 1
+
+[Piece1]
+Blueprint = Candy_Biome_Recipe_Lair_BF_Recolor2
+Quantity = 1
+
+[Piece2]
+Blueprint = Candy_Biome_Recipe_Lair_TF_Recolor2
+Quantity = 1

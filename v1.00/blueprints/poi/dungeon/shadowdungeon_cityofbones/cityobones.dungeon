@@ -1,0 +1,165 @@
+[Piece0]
+Blueprint = CityOBones_Layout
+Quantity = 1
+Weight = 1
+
+[Piece1]
+Blueprint = CityOBones_FirstEncounter_01
+Quantity = 1
+Weight = 1
+
+[Piece2]
+Blueprint = CityOfBones_SM_01
+Quantity = 4
+Weight = 2
+
+[Piece3]
+Blueprint = CityOfBones_SM_02
+Quantity = 4
+Weight = 2
+
+[Piece4]
+Blueprint = CityOfBones_SM_03
+Quantity = 4
+Weight = 2
+
+[Piece5]
+Blueprint = CityOfBones_SM_04
+Quantity = 2
+Weight = 1
+
+[Piece6]
+Blueprint = CityOfBones_SM_05
+Quantity = 2
+Weight = 1
+
+[Piece7]
+Blueprint = CityOfBones_SM_06
+Quantity = 4
+Weight = 1
+
+[Piece8]
+Blueprint = CityOfBones_SM_07
+Quantity = 4
+Weight = 1
+
+[Piece9]
+Blueprint = CityOfBones_SM_08
+Quantity = 4
+Weight = 1
+
+[Piece10]
+Blueprint = CityOfBones_House_01
+Quantity = 1
+Weight = 1
+
+[Piece11]
+Blueprint = CityOfBones_House_02
+Quantity = 1
+Weight = 1
+
+[Piece12]
+Blueprint = CityOfBones_House_03
+Quantity = 1
+Weight = 1
+
+[Piece13]
+Blueprint = CityOfBones_House_04
+Quantity = 1
+Weight = 1
+
+[Piece14]
+Blueprint = CityOfBones_House_05
+Quantity = 1
+Weight = 1
+
+[Piece15]
+Blueprint = CityOfBones_House_06
+Quantity = 1
+Weight = 1
+
+[Piece16]
+Blueprint = CityOBones_SecondEncounter_01
+Quantity = 1
+Weight = 1
+
+[Piece17]
+Blueprint = CityOBones_ClockTower_01
+Quantity = 1
+Weight = 1
+
+[Piece18]
+Blueprint = CityOBones_BossTower_01
+Quantity = 1
+Weight = 1
+
+[Piece19]
+Blueprint = CityOfBones_LG_01
+Quantity = 3
+Weight = 1
+
+[Piece20]
+Blueprint = CityOfBones_LG_02
+Quantity = 2
+Weight = 1
+
+
+[Piece21]
+Blueprint = CityOBones_FirstEncounter_02
+Quantity = 1
+Weight = 1
+
+[Piece22]
+Blueprint = CityOBones_FirstEncounter_03
+Quantity = 1
+Weight = 1
+
+[Piece23]
+Blueprint = CityOfBones_LG_03
+Quantity = 1
+Weight = 1
+
+[Piece24]
+Blueprint = CityOfBones_LG_04
+Quantity = 1
+Weight = 1
+
+[Piece25]
+Blueprint = CityOBones_SecondEncounter_02
+Quantity = 1
+Weight = 1
+
+[Piece26]
+Blueprint = CityOBones_ClockTower_02
+Quantity = 1
+Weight = 1
+
+[Piece27]
+Blueprint = CityOBones_SecondEncounter_03
+Quantity = 1
+Weight = 1
+
+[Piece28]
+Blueprint = CityOBones_ClockTower_03
+Quantity = 1
+Weight = 1
+
+[Piece29]
+Blueprint = CityOBones_BossTower_02
+Quantity = 1
+Weight = 1
+
+[Piece30]
+Blueprint = CityOfBones_SM_09
+Quantity = 4
+Weight = 2
+
+[Piece31]
+Blueprint = CityOfBones_LG_05
+Quantity = 2
+Weight = 1
+
+[Piece32]
+Blueprint = CityOfBones_LG_06
+Quantity = 1
+Weight = 1

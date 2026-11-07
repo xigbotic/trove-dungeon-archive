@@ -1,0 +1,59 @@
+[Piece0]
+Blueprint = xmas_candy_base
+Quantity = 1
+
+[Piece1]
+Blueprint = xmas_mid_01
+Quantity = 1
+
+[Piece2]
+Blueprint = xmas_mid_02
+Quantity = 1
+
+[Piece3]
+Blueprint = xmas_mid_03
+Quantity = 1
+
+[Piece4]
+Blueprint = xmas_top_01
+Quantity = 1
+
+[Piece5]
+Blueprint = xmas_top_02
+Quantity = 1
+
+[Piece6]
+Blueprint = Candy_CandoriaCake
+Quantity = 2
+
+[Piece7]
+Blueprint = Candy_Lollipop
+Quantity = 2
+
+[Piece8]
+Blueprint = Candy_Lollipop2
+Quantity = 2
+
+[Piece9]
+Blueprint = Candy_Lollipop3
+Quantity = 2
+
+[Piece10]
+Blueprint = Candy_Peppermint
+Quantity = 2
+
+[Piece11]
+Blueprint = Candy_Peppermint2
+Quantity = 2
+
+[Piece12]
+Blueprint = Candy_SweetSurprise
+Quantity = 2
+
+[Piece13]
+Blueprint = Candy_Waffle
+Quantity = 2
+
+[Piece14]
+Blueprint = Candy_GingerMug
+Quantity = 2

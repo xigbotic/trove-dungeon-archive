@@ -1,0 +1,202 @@
+Seed -911283942
+TotalQueries 32
+================= PIECES =============
+Piece Fae_Grodo Plug=0 Size=125x72x125
+	Plug Position=0,52,0
+	AABB Min=-62,0,-62 Max=63,72,63
+	Socket 6
+	Socket 3
+	Socket 6
+	Socket 4
+	Socket 2
+	Socket 6
+	Socket 6
+	Socket 6
+	Socket 6
+	Socket 5
+	Socket 6
+	Socket 3
+	Socket 2
+	Socket 6
+	Socket 5
+	Socket 6
+	Socket 1
+Piece Mid_Platform_02 Plug=1 Size=35x25x35
+	Plug Position=0,18,0
+	AABB Min=-17,5,-17 Max=18,30,18
+Piece Mid_Platform_01 Plug=1 Size=35x26x35
+	Plug Position=0,18,0
+	AABB Min=-17,3,-17 Max=18,29,18
+Piece Mid_Platform_04 Plug=1 Size=35x23x35
+	Plug Position=0,17,0
+	AABB Min=-17,0,-17 Max=18,23,18
+Piece Mid_Platform_03 Plug=1 Size=35x13x35
+	Plug Position=0,17,0
+	AABB Min=-17,8,-17 Max=18,21,18
+Piece White_02 Plug=2 Size=35x32x35
+	Plug Position=17,1,-17
+	AABB Min=-17,0,-17 Max=18,32,18
+	Socket 6
+	Socket 6
+	Socket 6
+Piece White_03 Plug=2 Size=35x25x35
+	Plug Position=17,1,17
+	AABB Min=-17,0,-17 Max=18,25,18
+	Socket 6
+	Socket 6
+	Socket 6
+Piece White_01 Plug=2 Size=35x17x35
+	Plug Position=17,1,-17
+	AABB Min=-17,0,-17 Max=18,17,18
+	Socket 6
+	Socket 6
+	Socket 6
+Piece White_04 Plug=2 Size=35x20x35
+	Plug Position=17,1,17
+	AABB Min=-17,0,-17 Max=18,20,18
+	Socket 6
+	Socket 6
+Piece Red_02 Plug=3 Size=15x15x15
+	Plug Position=7,1,-7
+	AABB Min=-7,0,-7 Max=8,15,8
+Piece Red_03 Plug=3 Size=15x16x15
+	Plug Position=7,1,-7
+	AABB Min=-7,0,-7 Max=8,16,8
+Piece Red_06 Plug=3 Size=15x24x15
+	Plug Position=7,1,-7
+	AABB Min=-7,0,-7 Max=8,24,8
+Piece Red_05 Plug=3 Size=15x18x15
+	Plug Position=7,1,-7
+	AABB Min=-7,0,-7 Max=8,18,8
+Piece Red_04 Plug=3 Size=15x20x15
+	Plug Position=7,1,-7
+	AABB Min=-7,0,-7 Max=8,20,8
+Piece Red_01 Plug=3 Size=15x20x15
+	Plug Position=7,1,-7
+	AABB Min=-7,0,-7 Max=8,20,8
+Piece Blue_04 Plug=4 Size=51x35x29
+	Plug Position=25,1,-14
+	AABB Min=-25,0,-14 Max=26,35,15
+	Socket 6
+	Socket 6
+	Socket 6
+	Socket 6
+	Socket 6
+Piece Blue_03 Plug=4 Size=51x25x29
+	Plug Position=25,1,-14
+	AABB Min=-25,0,-14 Max=26,25,15
+	Socket 6
+	Socket 6
+	Socket 6
+	Socket 6
+Piece Blue_02 Plug=4 Size=51x33x29
+	Plug Position=25,1,-14
+	AABB Min=-25,0,-14 Max=26,33,15
+	Socket 6
+	Socket 6
+	Socket 6
+	Socket 6
+	Socket 6
+	Socket 6
+	Socket 6
+Piece Blue_01 Plug=4 Size=51x27x29
+	Plug Position=-25,1,14
+	AABB Min=-25,0,-14 Max=26,27,15
+	Socket 6
+	Socket 6
+	Socket 6
+	Socket 6
+	Socket 6
+Piece Yellow_02 Plug=5 Size=31x35x45
+	Plug Position=15,1,22
+	AABB Min=-15,0,-22 Max=16,35,23
+Piece Yellow_01 Plug=5 Size=17x39x45
+	Plug Position=8,1,22
+	AABB Min=-8,0,-22 Max=9,39,23
+	Socket 6
+	Socket 6
+Piece Yellow_03 Plug=5 Size=17x43x45
+	Plug Position=8,1,22
+	AABB Min=-8,0,-22 Max=9,43,23
+	Socket 6
+	Socket 6
+Piece Mush_04 Plug=6 Size=7x9x7
+	Plug Position=2,0,0
+	AABB Min=-3,0,-3 Max=4,9,4
+Piece Mush_08 Plug=6 Size=9x10x9
+	Plug Position=1,0,0
+	AABB Min=-4,0,-4 Max=5,10,5
+Piece Mush_07 Plug=6 Size=9x6x8
+	Plug Position=1,0,0
+	AABB Min=-4,0,-3 Max=5,6,5
+Piece Mush_015 Plug=6 Size=2x8x7
+	Plug Position=1,0,0
+	AABB Min=0,0,-3 Max=2,8,4
+Piece Mush_05 Plug=6 Size=7x3x7
+	Plug Position=1,0,0
+	AABB Min=-3,0,-3 Max=4,3,4
+Piece Mush_02 Plug=6 Size=7x11x7
+	Plug Position=1,0,0
+	AABB Min=-3,0,-3 Max=4,11,4
+Piece Mush_014 Plug=6 Size=3x11x3
+	Plug Position=1,0,0
+	AABB Min=-1,0,-1 Max=2,11,2
+Piece Mush_012 Plug=6 Size=17x16x17
+	Plug Position=0,0,-1
+	AABB Min=-8,0,-8 Max=9,16,9
+Piece Mush_06 Plug=6 Size=9x5x8
+	Plug Position=0,0,0
+	AABB Min=-4,0,-3 Max=5,5,5
+Piece Mush_013 Plug=6 Size=9x10x9
+	Plug Position=0,0,0
+	AABB Min=-4,0,-4 Max=5,10,5
+Piece Mush_011 Plug=6 Size=7x8x7
+	Plug Position=1,0,0
+	AABB Min=-3,0,-2 Max=4,8,5
+Piece Mush_09 Plug=6 Size=9x12x9
+	Plug Position=1,0,0
+	AABB Min=-4,0,-4 Max=5,12,5
+Piece Mush_03 Plug=6 Size=9x9x9
+	Plug Position=1,0,0
+	AABB Min=-4,0,-4 Max=5,9,5
+Piece Mush_01 Plug=6 Size=5x10x5
+	Plug Position=1,0,0
+	AABB Min=-2,0,-2 Max=3,10,3
+Piece Mush_010 Plug=6 Size=11x8x11
+	Plug Position=1,0,0
+	AABB Min=-5,0,-5 Max=6,8,6
+================= LAYOUT =============
+[0] Fae_Grodo [Q=31, D=31]
+	[1] Mush_02 [Q=0, D=0]
+	[2] Red_02 [Q=0, D=0]
+	[3] Mush_02 [Q=0, D=0]
+	[4] Blue_04 [Q=5, D=5]
+		[5] Mush_07 [Q=0, D=0]
+		[6] Mush_01 [Q=0, D=0]
+		[7] Mush_01 [Q=0, D=0]
+		[8] Mush_04 [Q=0, D=0]
+		[9] Mush_01 [Q=0, D=0]
+	[10] White_02 [Q=3, D=3]
+		[11] Mush_03 [Q=0, D=0]
+		[12] Mush_02 [Q=0, D=0]
+		[13] Mush_03 [Q=0, D=0]
+	[14] Mush_04 [Q=0, D=0]
+	[15] Mush_03 [Q=0, D=0]
+	[16] Mush_05 [Q=0, D=0]
+	[17] Mush_04 [Q=0, D=0]
+	[18] Yellow_01 [Q=2, D=2]
+		[19] Mush_015 [Q=0, D=0]
+		[20] Mush_015 [Q=0, D=0]
+	[21] Mush_05 [Q=0, D=0]
+	[22] Red_04 [Q=0, D=0]
+	[23] White_04 [Q=2, D=2]
+		[24] Mush_07 [Q=0, D=0]
+		[25] Mush_07 [Q=0, D=0]
+	[26] Mush_09 [Q=0, D=0]
+	[27] Yellow_03 [Q=2, D=2]
+		[28] Mush_09 [Q=0, D=0]
+		[29] Mush_05 [Q=0, D=0]
+	[30] Mush_014 [Q=0, D=0]
+	[31] Mid_Platform_04 [Q=0, D=0]
+================= MESSAGES =============
+Dungeon.Type = Dungeon, 128x256x128

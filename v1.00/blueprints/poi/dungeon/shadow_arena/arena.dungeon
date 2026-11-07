@@ -1,0 +1,19 @@
+[Piece0]
+Blueprint = E_G_arena_02
+Quantity = 1
+
+[Piece1]
+Blueprint = arena_floor_flameturretslava
+Quantity = 1
+
+[Piece2]
+Blueprint = arena_floor_flamethrowerslava
+Quantity = 1
+
+[Piece3]
+Blueprint = arena_floor_spikes
+Quantity = 1
+
+[Piece4]
+Blueprint = arena_floor_jumpyspikes
+Quantity = 1

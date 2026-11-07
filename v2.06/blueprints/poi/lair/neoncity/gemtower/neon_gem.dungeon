@@ -1,0 +1,22 @@
+[Dungeon]
+Type = Dungeon
+
+[Piece0]
+Blueprint = neon_gem_top_1
+Quantity = 1
+Weight = .50
+
+[Piece1]
+Blueprint = neon_gem_top_2
+Quantity = 1
+Weight = .50
+
+[Piece2]
+Blueprint = neon_gem_bottom1
+Quantity = 1
+Weight = .50
+
+[Piece3]
+Blueprint = neon_gem_bottom2
+Quantity = 1
+Weight = .50

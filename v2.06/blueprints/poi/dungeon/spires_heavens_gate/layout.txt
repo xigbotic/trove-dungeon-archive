@@ -1,0 +1,100 @@
+Seed 668999674
+TotalQueries 21
+================= PIECES =============
+Piece Main_1 Plug=0 Size=88x114x114
+	Plug Position=0,10,-3
+	AABB Min=-43,0,-57 Max=45,114,57
+	Socket 3
+	Socket 3
+	Socket 3
+	Socket 3
+	Socket 3
+	Socket 3
+	Socket 3
+	Socket 3
+	Socket 3
+	Socket 3
+	Socket 3
+	Socket 3
+	Socket 3
+	Socket 3
+	Socket 1
+	Socket 3
+	Socket 3
+Piece Main_2 Plug=0 Size=88x107x114
+	Plug Position=0,10,-3
+	AABB Min=-43,0,-57 Max=45,107,57
+	Socket 3
+	Socket 3
+	Socket 3
+	Socket 3
+	Socket 3
+	Socket 3
+	Socket 3
+	Socket 3
+	Socket 3
+	Socket 3
+	Socket 3
+	Socket 3
+	Socket 3
+	Socket 3
+	Socket 1
+	Socket 3
+	Socket 3
+	Socket 3
+	Socket 3
+	Socket 3
+Piece Placeholder Plug=1 Size=85x34x99
+	Plug Position=-15,0,-1
+	AABB Min=-42,0,-49 Max=43,34,50
+Piece Tree_4 Plug=3 Size=6x11x9
+	Plug Position=-3,0,1
+	AABB Min=-3,0,-4 Max=3,11,5
+Piece Tree_1 Plug=3 Size=4x6x8
+	Plug Position=-1,0,-1
+	AABB Min=-2,0,-4 Max=2,6,4
+Piece Tree_2 Plug=3 Size=6x7x6
+	Plug Position=-3,0,1
+	AABB Min=-3,0,-3 Max=3,7,3
+Piece Rock_Grey_1 Plug=3 Size=4x2x4
+	Plug Position=-1,0,2
+	AABB Min=-2,0,-1 Max=2,2,3
+Piece Rock_Grey_2 Plug=3 Size=3x4x4
+	Plug Position=0,0,2
+	AABB Min=-1,0,-1 Max=2,4,3
+Piece Tree_3 Plug=3 Size=7x8x9
+	Plug Position=-2,0,0
+	AABB Min=-3,0,-4 Max=4,8,5
+Piece Rock_Grey_3 Plug=3 Size=4x2x5
+	Plug Position=-1,0,3
+	AABB Min=-2,0,-1 Max=2,2,4
+Piece Tree_5 Plug=3 Size=15x11x10
+	Plug Position=-3,0,-4
+	AABB Min=-7,0,-5 Max=8,11,5
+Piece Tree_6 Plug=3 Size=10x17x9
+	Plug Position=-1,0,3
+	AABB Min=-5,0,-4 Max=5,17,5
+================= LAYOUT =============
+[0] Main_2 [Q=20, D=20]
+	[1] Rock_Grey_1 [Q=0, D=0]
+	[2] Tree_4 [Q=0, D=0]
+	[3] Rock_Grey_2 [Q=0, D=0]
+	[4] Tree_2 [Q=0, D=0]
+	[5] Tree_2 [Q=0, D=0]
+	[6] Rock_Grey_3 [Q=0, D=0]
+	[7] Rock_Grey_2 [Q=0, D=0]
+	[8] Rock_Grey_3 [Q=0, D=0]
+	[9] Tree_3 [Q=0, D=0]
+	[10] Tree_1 [Q=0, D=0]
+	[11] Rock_Grey_2 [Q=0, D=0]
+	[12] Tree_4 [Q=0, D=0]
+	[13] Tree_2 [Q=0, D=0]
+	[14] Tree_6 [Q=0, D=0]
+	[15] Placeholder [Q=0, D=0]
+	[16] Tree_4 [Q=0, D=0]
+	[17] Tree_3 [Q=0, D=0]
+	[18] Rock_Grey_3 [Q=0, D=0]
+	[19] Tree_6 [Q=0, D=0]
+	[20] Tree_3 [Q=0, D=0]
+================= MESSAGES =============
+Dungeon.Type = Dungeon, 128x256x128

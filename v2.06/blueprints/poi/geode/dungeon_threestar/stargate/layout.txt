@@ -1,0 +1,99 @@
+Seed 693496742
+TotalQueries 4
+================= PIECES =============
+Piece stargate_top_01 Plug=0 Size=61x75x63
+	Plug Position=25,1,-24
+	AABB Min=-30,0,-31 Max=31,75,32
+	Socket 1
+Piece stargate_top_03 Plug=0 Size=61x75x63
+	Plug Position=25,1,-24
+	AABB Min=-30,0,-31 Max=31,75,32
+	Socket 8
+Piece stargate_top_02 Plug=0 Size=61x75x63
+	Plug Position=25,1,-24
+	AABB Min=-30,0,-31 Max=31,75,32
+	Socket 5
+Piece stargate_bottom_01_utopia Plug=1 Size=102x44x102
+	Plug Position=0,43,0
+	AABB Min=-51,0,-51 Max=51,44,51
+	Socket 2
+	Socket 2
+Piece stargate_bottom_02_dystopia Plug=1 Size=102x45x58
+	Plug Position=0,44,28
+	AABB Min=-51,0,-29 Max=51,45,29
+	Socket 3
+	Socket 3
+Piece stargate_bottom_03_space Plug=1 Size=98x45x112
+	Plug Position=-11,44,2
+	AABB Min=-49,0,-56 Max=49,45,56
+	Socket 4
+	Socket 4
+Piece stargate_bottom_01_utopia_boss Plug=2 Size=21x13x20
+	Plug Position=-10,0,2
+	AABB Min=-10,0,-10 Max=11,13,10
+Piece stargate_bottom_01_utopia_miniboss Plug=2 Size=19x5x16
+	Plug Position=-10,0,2
+	AABB Min=-10,0,-8 Max=9,5,8
+Piece stargate_bottom_02_dystopia_miniboss Plug=3 Size=9x6x11
+	Plug Position=0,0,0
+	AABB Min=-4,0,-5 Max=5,6,6
+Piece stargate_bottom_02_dystopia_boss Plug=3 Size=9x6x9
+	Plug Position=0,0,0
+	AABB Min=-4,0,-4 Max=5,6,5
+Piece stargate_bottom_03_space_miniboss Plug=4 Size=17x13x17
+	Plug Position=-8,0,0
+	AABB Min=-8,0,-8 Max=9,13,9
+Piece stargate_bottom_03_space_boss Plug=4 Size=17x18x21
+	Plug Position=-8,0,0
+	AABB Min=-8,0,-10 Max=9,18,11
+Piece stargate_bottom_05_swamp Plug=5 Size=98x43x90
+	Plug Position=-8,42,11
+	AABB Min=-49,0,-45 Max=49,43,45
+	Socket 7
+	Socket 7
+Piece stargate_bottom_04_darkrealm Plug=5 Size=87x42x107
+	Plug Position=-14,41,4
+	AABB Min=-43,0,-53 Max=44,42,54
+	Socket 6
+	Socket 6
+Piece stargate_bottom_04_darkrealm_boss Plug=6 Size=9x11x9
+	Plug Position=0,0,0
+	AABB Min=-4,0,-4 Max=5,11,5
+Piece stargate_bottom_04_darkrealm_miniboss Plug=6 Size=9x6x9
+	Plug Position=0,0,0
+	AABB Min=-4,0,-4 Max=5,6,5
+Piece stargate_bottom_05_swamp_miniboss Plug=7 Size=8x1x10
+	Plug Position=0,0,0
+	AABB Min=-3,0,-5 Max=5,1,5
+Piece stargate_bottom_05_swamp_boss Plug=7 Size=9x2x10
+	Plug Position=0,0,0
+	AABB Min=-4,0,-4 Max=5,2,6
+Piece stargate_bottom_07_geodesurface Plug=8 Size=92x46x74
+	Plug Position=-12,45,17
+	AABB Min=-46,0,-37 Max=46,46,37
+	Socket 10
+	Socket 10
+Piece stargate_bottom_06_geodiancaves Plug=8 Size=79x47x66
+	Plug Position=-20,46,16
+	AABB Min=-39,0,-33 Max=40,47,33
+	Socket 9
+	Socket 9
+Piece stargate_bottom_06_geodiancaves_boss Plug=9 Size=15x15x15
+	Plug Position=0,1,0
+	AABB Min=-7,0,-7 Max=8,15,8
+Piece stargate_bottom_06_geodiancaves_miniboss Plug=9 Size=15x12x15
+	Plug Position=0,1,0
+	AABB Min=-7,0,-7 Max=8,12,8
+Piece stargate_bottom_07_geodesurface_miniboss Plug=10 Size=15x12x15
+	Plug Position=0,1,0
+	AABB Min=-7,0,-7 Max=8,12,8
+Piece stargate_bottom_07_geodesurface_boss Plug=10 Size=13x11x15
+	Plug Position=0,1,0
+	AABB Min=-6,0,-7 Max=7,11,8
+================= LAYOUT =============
+[0] stargate_top_03 [Q=3, D=3]
+	[1] stargate_bottom_07_geodesurface [Q=2, D=2]
+		[2] stargate_bottom_07_geodesurface_boss [Q=0, D=0]
+		[3] stargate_bottom_07_geodesurface_miniboss [Q=0, D=0]
+================= MESSAGES =============
+Dungeon.Type = Dungeon, 128x256x128

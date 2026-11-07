@@ -1,0 +1,52 @@
+[Dungeon]
+Type = dungeon
+
+[Piece0]
+Blueprint = DinoD_floor0
+Quantity = 1
+
+[Piece1]
+Blueprint = DinoD_floor1
+Quantity = 1
+
+[Piece2]
+Blueprint = DinoD_floor2
+Quantity = 1
+
+[Piece3]
+Blueprint = DinoD_floor3
+Quantity = 1
+
+[Piece4]
+Blueprint = DinoD_boss
+Quantity = 1
+
+[Piece5]
+Blueprint = DinoD_floor1_bossroom1
+Quantity = 1
+Weight = 2
+
+[Piece6]
+Blueprint = DinoD_floor1_bossroom2
+Quantity = 1
+Weight = 2
+
+[Piece7]
+Blueprint = DinoD_floor2_bossroom1
+Quantity = 1
+Weight = 2
+
+[Piece8]
+Blueprint = DinoD_floor2_bossroom2
+Quantity = 1
+Weight = 2
+
+[Piece9]
+Blueprint = DinoD_boss_bossroom1
+Quantity = 1
+Weight = 2
+
+[Piece10]
+Blueprint = DinoD_boss_bossroom2
+Quantity = 1
+Weight = 2

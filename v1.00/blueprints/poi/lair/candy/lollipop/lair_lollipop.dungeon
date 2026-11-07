@@ -1,0 +1,17 @@
+[Dungeon]
+Type = Lair
+
+[Piece0]
+Blueprint = DNG_lollipop_base
+Quantity = 1
+Weight = 1
+
+[Piece1]
+Blueprint = DNG_lollipop_layout_01
+Quantity = 1
+Weight = 1
+
+[Piece2]
+Blueprint = DNG_lollipop_layout_02
+Quantity = 1
+Weight = 1

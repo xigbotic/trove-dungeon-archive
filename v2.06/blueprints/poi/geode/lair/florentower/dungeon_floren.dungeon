@@ -1,0 +1,60 @@
+[Dungeon]
+Type = lair
+
+#Created By ABprice
+#Name = Floren
+
+[Base1]
+Blueprint = floren_base1
+Quantity = 1
+Weight = 1
+
+[Base2]
+Blueprint = floren_base2
+Quantity = 1
+Weight = 1
+
+[BottomFloor1]
+Blueprint = floren_bf1
+Quantity = 1
+Weight = 1
+
+[BottomFloor2]
+Blueprint = floren_bf2
+Quantity = 1
+Weight = 1
+
+[Middle1]
+Blueprint = floren_middle1
+Quantity = 1
+Weight = 1
+
+[Middle2]
+Blueprint = floren_middle2
+Quantity = 1
+Weight = 1
+
+[Middle3]
+Blueprint = floren_middle3
+Quantity = 1
+Weight = 1
+
+[TopFloor1]
+Blueprint = floren_tf1
+Quantity = 1
+Weight = 1
+
+[TopFloor2]
+Blueprint = floren_tf2
+Quantity = 1
+Weight = 1
+
+[Tower1]
+Blueprint = floren_tower1
+Quantity = 1
+Weight = 1
+
+[Tower2]
+Blueprint = floren_tower2
+Quantity = 1
+Weight = 1

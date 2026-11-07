@@ -1,0 +1,263 @@
+Seed -1558705391
+TotalQueries 14
+================= PIECES =============
+Piece DNG_island_lava_02 Plug=0 Size=48x22x48
+	Plug Position=-1,6,-1
+	AABB Min=-24,0,-24 Max=24,22,24
+	Socket 4
+	Socket 1
+Piece DNG_island_lava_01b Plug=0 Size=48x26x48
+	Plug Position=-1,10,-1
+	AABB Min=-24,0,-24 Max=24,26,24
+	Socket 4
+	Socket 1
+Piece DNG_island_lava_01a Plug=0 Size=48x26x48
+	Plug Position=-1,10,-1
+	AABB Min=-24,0,-24 Max=24,26,24
+	Socket 1
+	Socket 4
+Piece DNG_crater_02 Plug=1 Size=120x23x120
+	Plug Position=-1,13,23
+	AABB Min=-60,0,-60 Max=60,23,60
+	Socket 2
+	Socket 3
+	Socket 2
+	Socket 3
+	Socket 2
+	Socket 2
+	Socket 2
+	Socket 3
+	Socket 3
+Piece DNG_crater_01 Plug=1 Size=120x22x120
+	Plug Position=-1,12,23
+	AABB Min=-60,0,-60 Max=60,22,60
+	Socket 3
+	Socket 2
+	Socket 2
+	Socket 3
+	Socket 3
+	Socket 2
+	Socket 3
+	Socket 2
+	Socket 2
+Piece DNG_statue_emblemfire Plug=2 Size=13x11x13
+	Plug Position=0,0,0
+	AABB Min=-6,0,-6 Max=7,11,7
+Piece DNG_statue_dragon_biped Plug=2 Size=13x16x13
+	Plug Position=0,0,-1
+	AABB Min=-6,0,-7 Max=7,16,6
+Piece DNG_statue_emblem Plug=2 Size=13x15x13
+	Plug Position=0,0,-1
+	AABB Min=-6,0,-7 Max=7,15,6
+Piece DNG_statue_kneel Plug=2 Size=13x13x13
+	Plug Position=0,0,-1
+	AABB Min=-6,0,-7 Max=7,13,6
+Piece DNG_statue_dragon_rest Plug=2 Size=13x11x13
+	Plug Position=0,0,-1
+	AABB Min=-6,0,-7 Max=7,11,6
+Piece DNG_statue_meteor Plug=2 Size=13x10x13
+	Plug Position=0,0,0
+	AABB Min=-6,0,-6 Max=7,10,7
+Piece DNG_statue_meteor Plug=2 Size=13x10x13
+	Plug Position=0,0,0
+	AABB Min=-6,0,-6 Max=7,10,7
+Piece DNG_rock_float_05cb Plug=3 Size=31x82x31
+	Plug Position=0,0,-1
+	AABB Min=-15,0,-16 Max=16,82,15
+	Socket 2
+	Socket 2
+Piece DNG_rock_float_05bd Plug=3 Size=31x82x31
+	Plug Position=0,0,-1
+	AABB Min=-15,0,-16 Max=16,82,15
+	Socket 2
+	Socket 2
+Piece DNG_rock_float_05ca Plug=3 Size=31x82x31
+	Plug Position=0,0,-1
+	AABB Min=-15,0,-16 Max=16,82,15
+	Socket 2
+	Socket 2
+Piece DNG_rock_float_01b Plug=3 Size=31x82x31
+	Plug Position=0,0,-1
+	AABB Min=-15,0,-16 Max=16,82,15
+Piece DNG_rock_float_01a Plug=3 Size=31x82x31
+	Plug Position=0,0,-1
+	AABB Min=-15,0,-16 Max=16,82,15
+Piece DNG_rock_float_05cc Plug=3 Size=31x82x31
+	Plug Position=0,0,-1
+	AABB Min=-15,0,-16 Max=16,82,15
+	Socket 2
+	Socket 2
+Piece DNG_rock_float_05cd Plug=3 Size=31x82x31
+	Plug Position=0,0,-1
+	AABB Min=-15,0,-16 Max=16,82,15
+	Socket 2
+	Socket 2
+Piece DNG_rock_float_05ba Plug=3 Size=31x82x31
+	Plug Position=0,0,-1
+	AABB Min=-15,0,-16 Max=16,82,15
+	Socket 2
+	Socket 2
+Piece DNG_rock_float_05bb Plug=3 Size=31x82x31
+	Plug Position=0,0,-1
+	AABB Min=-15,0,-16 Max=16,82,15
+	Socket 2
+	Socket 2
+Piece DNG_rock_float_05bc Plug=3 Size=31x82x31
+	Plug Position=0,0,-1
+	AABB Min=-15,0,-16 Max=16,82,15
+	Socket 2
+	Socket 2
+Piece DNG_rock_float_03ad Plug=3 Size=31x82x32
+	Plug Position=1,0,-1
+	AABB Min=-14,0,-17 Max=17,82,15
+Piece DNG_rock_float_03bd Plug=3 Size=31x82x32
+	Plug Position=1,0,-1
+	AABB Min=-14,0,-17 Max=17,82,15
+	Socket 2
+Piece DNG_rock_float_03aa Plug=3 Size=31x82x32
+	Plug Position=1,0,-1
+	AABB Min=-14,0,-17 Max=17,82,15
+Piece DNG_rock_float_03bc Plug=3 Size=31x82x32
+	Plug Position=1,0,-1
+	AABB Min=-14,0,-17 Max=17,82,15
+	Socket 2
+Piece DNG_rock_float_03ba Plug=3 Size=31x82x32
+	Plug Position=1,0,-1
+	AABB Min=-14,0,-17 Max=17,82,15
+	Socket 2
+Piece DNG_rock_float_03bb Plug=3 Size=31x82x32
+	Plug Position=1,0,-1
+	AABB Min=-14,0,-17 Max=17,82,15
+	Socket 2
+Piece DNG_rock_float_03ab Plug=3 Size=31x82x32
+	Plug Position=1,0,-1
+	AABB Min=-14,0,-17 Max=17,82,15
+Piece DNG_rock_float_02c Plug=3 Size=31x82x31
+	Plug Position=0,0,-1
+	AABB Min=-15,0,-16 Max=16,82,15
+	Socket 2
+Piece DNG_rock_float_02d Plug=3 Size=31x82x31
+	Plug Position=0,0,-1
+	AABB Min=-15,0,-16 Max=16,82,15
+	Socket 2
+Piece DNG_rock_float_02b Plug=3 Size=31x82x31
+	Plug Position=0,0,-1
+	AABB Min=-15,0,-16 Max=16,82,15
+	Socket 2
+Piece DNG_rock_float_03ac Plug=3 Size=31x82x32
+	Plug Position=1,0,-1
+	AABB Min=-14,0,-17 Max=17,82,15
+Piece DNG_rock_float_02a Plug=3 Size=31x82x31
+	Plug Position=0,0,-1
+	AABB Min=-15,0,-16 Max=16,82,15
+	Socket 2
+Piece DNG_rock_float_05ba Plug=3 Size=31x82x31
+	Plug Position=0,0,-1
+	AABB Min=-15,0,-16 Max=16,82,15
+	Socket 2
+	Socket 2
+Piece DNG_rock_float_03dd Plug=3 Size=31x82x32
+	Plug Position=1,0,-1
+	AABB Min=-14,0,-17 Max=17,82,15
+	Socket 2
+Piece DNG_rock_float_04aa Plug=3 Size=29x84x27
+	Plug Position=0,0,-1
+	AABB Min=-14,0,-12 Max=15,84,15
+Piece DNG_rock_float_04ab Plug=3 Size=29x84x27
+	Plug Position=0,0,-1
+	AABB Min=-14,0,-12 Max=15,84,15
+Piece DNG_rock_float_05ad Plug=3 Size=32x82x31
+	Plug Position=0,0,-1
+	AABB Min=-16,0,-16 Max=16,82,15
+	Socket 2
+	Socket 2
+Piece DNG_rock_float_05ac Plug=3 Size=32x82x31
+	Plug Position=0,0,-1
+	AABB Min=-16,0,-16 Max=16,82,15
+	Socket 2
+	Socket 2
+Piece DNG_rock_float_03dc Plug=3 Size=31x82x32
+	Plug Position=1,0,-1
+	AABB Min=-14,0,-17 Max=17,82,15
+	Socket 2
+Piece DNG_rock_float_04ac Plug=3 Size=29x84x27
+	Plug Position=0,0,-1
+	AABB Min=-14,0,-12 Max=15,84,15
+Piece DNG_rock_float_03cc Plug=3 Size=31x82x33
+	Plug Position=1,0,-1
+	AABB Min=-14,0,-18 Max=17,82,15
+	Socket 2
+Piece DNG_rock_float_03cd Plug=3 Size=31x82x33
+	Plug Position=1,0,-1
+	AABB Min=-14,0,-18 Max=17,82,15
+	Socket 2
+Piece DNG_rock_float_03cb Plug=3 Size=31x82x33
+	Plug Position=1,0,-1
+	AABB Min=-14,0,-18 Max=17,82,15
+	Socket 2
+Piece DNG_rock_float_04ad Plug=3 Size=29x84x27
+	Plug Position=0,0,-1
+	AABB Min=-14,0,-12 Max=15,84,15
+Piece DNG_rock_float_03ca Plug=3 Size=31x82x33
+	Plug Position=1,0,-1
+	AABB Min=-14,0,-18 Max=17,82,15
+	Socket 2
+Piece DNG_rock_float_03db Plug=3 Size=31x82x32
+	Plug Position=1,0,-1
+	AABB Min=-14,0,-17 Max=17,82,15
+	Socket 2
+Piece DNG_rock_float_05aa Plug=3 Size=32x82x31
+	Plug Position=0,0,-1
+	AABB Min=-16,0,-16 Max=16,82,15
+	Socket 2
+	Socket 2
+Piece DNG_rock_float_01d Plug=3 Size=31x82x31
+	Plug Position=0,0,-1
+	AABB Min=-15,0,-16 Max=16,82,15
+Piece DNG_rock_float_01c Plug=3 Size=31x82x31
+	Plug Position=0,0,-1
+	AABB Min=-15,0,-16 Max=16,82,15
+Piece DNG_rock_float_05ab Plug=3 Size=32x82x31
+	Plug Position=0,0,-1
+	AABB Min=-16,0,-16 Max=16,82,15
+	Socket 2
+	Socket 2
+Piece DNG_rock_float_04bd Plug=3 Size=29x84x27
+	Plug Position=0,0,-1
+	AABB Min=-14,0,-12 Max=15,84,15
+Piece DNG_rock_float_03da Plug=3 Size=31x82x32
+	Plug Position=1,0,-1
+	AABB Min=-14,0,-17 Max=17,82,15
+	Socket 2
+Piece DNG_rock_float_04bc Plug=3 Size=29x84x27
+	Plug Position=0,0,-1
+	AABB Min=-14,0,-12 Max=15,84,15
+Piece DNG_rock_float_04bb Plug=3 Size=29x84x27
+	Plug Position=0,0,-1
+	AABB Min=-14,0,-12 Max=15,84,15
+Piece DNG_island_float_01a Plug=4 Size=63x88x63
+	Plug Position=-1,0,-2
+	AABB Min=-31,0,-32 Max=32,88,31
+Piece DNG_island_float_01c Plug=4 Size=63x88x63
+	Plug Position=-1,0,-2
+	AABB Min=-31,0,-32 Max=32,88,31
+Piece DNG_island_float_01b Plug=4 Size=63x88x63
+	Plug Position=-1,0,-2
+	AABB Min=-31,0,-32 Max=32,88,31
+================= LAYOUT =============
+[0] DNG_island_lava_01a [Q=13, D=13]
+	[1] DNG_crater_01 [Q=11, D=11]
+		[2] DNG_rock_float_03ba [Q=1, D=1]
+			[3] DNG_statue_dragon_biped [Q=0, D=0]
+		[4] DNG_statue_meteor [Q=0, D=0]
+		[5] DNG_statue_dragon_rest [Q=0, D=0]
+		[6] DNG_rock_float_03aa [Q=0, D=0]
+		[7] DNG_rock_float_01a [Q=0, D=0]
+		[8] DNG_statue_kneel [Q=0, D=0]
+		[9] DNG_rock_float_02a [Q=1, D=1]
+			[10] DNG_statue_meteor [Q=0, D=0]
+		[11] DNG_statue_meteor [Q=0, D=0]
+		[12] DNG_statue_meteor [Q=0, D=0]
+	[13] DNG_island_float_01a [Q=0, D=0]
+================= MESSAGES =============
+Dungeon.Type = Dungeon, 128x256x128

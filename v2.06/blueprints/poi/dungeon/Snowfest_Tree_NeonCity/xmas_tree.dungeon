@@ -1,0 +1,61 @@
+[Piece0]
+Blueprint = xmas_neon_base
+Quantity = 1
+
+[Piece1]
+Blueprint = xmas_mid_01
+Quantity = 1
+
+[Piece2]
+Blueprint = xmas_mid_02
+Quantity = 1
+
+[Piece3]
+Blueprint = xmas_mid_03
+Quantity = 1
+
+[Piece4]
+Blueprint = xmas_top_01
+Quantity = 1
+
+[Piece5]
+Blueprint = xmas_top_02
+Quantity = 1
+
+[Piece6]
+Blueprint = Neon_cat
+Quantity = 1
+
+[Piece7]
+Blueprint = Neon_FuturisticWrapping
+Quantity = 3
+
+[Piece8]
+Blueprint = Neon_GlowingGift2
+Quantity = 3
+
+[Piece9]
+Blueprint = Neon_HealthPack
+Quantity = 3
+
+[Piece10]
+Blueprint = Neon_mistletoe
+Quantity = 3
+
+[Piece11]
+Blueprint = Neon_PlasmaBox
+Quantity = 3
+
+[Piece12]
+Blueprint = neon_blue
+Quantity = 3
+
+[Piece13]
+Blueprint = neon_pink
+Quantity = 3
+
+[Piece14]
+Blueprint = neon_yellow
+Quantity = 3
+
+

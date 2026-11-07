@@ -1,0 +1,110 @@
+[Dungeon]
+Type = Lair
+
+[Piece0]
+Blueprint = Gameplay_a1
+Quantity = 1
+
+[Piece1]
+Blueprint = Gameplay_a2
+Quantity = 1
+
+[Piece2]
+Blueprint = Gameplay_a3
+Quantity = 1
+
+[Piece3]
+Blueprint = Gameplay_b1
+Quantity = 1
+
+[Piece4]
+Blueprint = Gameplay_b2
+Quantity = 1
+
+[Piece5]
+Blueprint = Gameplay_b3
+Quantity = 1
+
+[Piece6]
+Blueprint = Boss_Room_A1
+Quantity = 1
+
+[Piece7]
+Blueprint = Boss_Room_A2
+Quantity = 1
+
+[Piece8]
+Blueprint = Boss_Room_A3
+Quantity = 1
+
+[Piece9]
+Blueprint = Boss_Room_B1
+Quantity = 1
+
+[Piece10]
+Blueprint = Boss_Room_B2
+Quantity = 1
+
+[Piece11]
+Blueprint = Boss_Room_B3
+Quantity = 1
+
+[Piece12]
+Blueprint = Mag_Rail_Elevator_Extension_1
+Quantity = 7
+Weight = 1
+
+[Piece13]
+Blueprint = Mag_Rail_Elevator_Extension_2
+Quantity = 3
+Weight = 1
+
+[Piece14]
+Blueprint = Mag_Rail_Elevator_EndCap_1
+Quantity = 1
+Weight = 0
+
+[Piece15]
+Blueprint = Mag_Rail_Elevator_EndCap_2
+Quantity = 1
+Weight = 0
+
+[Piece16]
+Blueprint = Gameplay_Elevator_a1
+Quantity = 10
+
+[Piece17]
+Blueprint = Gameplay_Elevator_a2
+Quantity = 10
+
+[Piece19]
+Blueprint = Gameplay_Elevator_b2
+Quantity = 10
+
+[Piece22]
+Blueprint = Platform_1
+Quantity = 2
+
+[Piece23]
+Blueprint = Platform_2
+Quantity = 2
+
+[Piece24]
+Blueprint = Platform_3
+Quantity = 2
+
+[Piece25]
+Blueprint = Platform_4
+Quantity = 2
+
+[Piece26]
+Blueprint = Platform_5
+Quantity = 2
+
+[Piece27]
+Blueprint = Platform_6
+Quantity = 2
+
+[Piece28]
+Blueprint = Platform_7
+Quantity = 2

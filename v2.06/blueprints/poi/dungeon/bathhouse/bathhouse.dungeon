@@ -1,0 +1,106 @@
+[Dungeon]
+Type = Dungeon
+
+[Piece0]
+Blueprint = d_cursed_bathhouse_socket
+Quantity = 1
+
+[Piece1a]
+Blueprint = d_cursed_bathhouse_land_whole
+Quantity = 3
+Weight = 0.55
+
+[Piece1b]
+Blueprint = d_cursed_bathhouse_land_broken
+Quantity = 3
+Weight = 0.55
+
+[Piece2a]
+Blueprint = d_cursed_bathhouse_bridge_whole
+Quantity = 3
+Weight = 0.55
+
+[Piece2b]
+Blueprint = d_cursed_bathhouse_bridge_broken
+Quantity = 3
+Weight = 0.55
+
+[Piece3]
+Blueprint = d_cursed_bathhouse_lvl001
+Quantity = 1
+
+[Piece4]
+Blueprint = d_cursed_bathhouse_lvl002
+Quantity = 1
+
+[Piece5a]
+Blueprint = d_cursed_raiser_whole
+Quantity = 1
+
+[Piece5b]
+Blueprint = d_cursed_raiser_whole
+Quantity = 1
+Weight = 0.55
+
+[Piece5c]
+Blueprint = d_cursed_raiser_broken001
+Quantity = 2
+Weight = 0.55
+
+[Piece5d]
+Blueprint = d_cursed_raiser_broken002
+Quantity = 2
+Weight = 0.55
+
+[Piece6a]
+Blueprint = d_cursed_bathhouse_traps_001
+Quantity = 2
+Weight = 0.55
+
+[Piece6b]
+Blueprint = d_cursed_bathhouse_traps_002
+Quantity = 2
+Weight = 0.55
+
+[Piece6c]
+Blueprint = d_cursed_bathhouse_traps_003
+Quantity = 2
+Weight = 0.55
+
+[Piece6d]
+Blueprint = d_cursed_bathhouse_traps_004
+Quantity = 2
+Weight = 0.55
+
+[Piece7a]
+Blueprint = d_cursed_bathhouse_tree_01
+Quantity = 12
+Weight = 0.55
+
+[Piece7b]
+Blueprint = d_cursed_bathhouse_tree_dead_01
+Quantity = 12
+Weight = 0.55
+
+[Piece7c]
+Blueprint = d_cursed_bathhouse_tree_dead_02
+Quantity = 12
+Weight = 0.55
+
+
+
+
+[Piece8a]
+Blueprint = d_cursed_bathhouse_roof001
+Quantity = 1
+Weight = 0.55
+
+[Piece8b]
+Blueprint = d_cursed_bathhouse_roof002
+Quantity = 1
+Weight = 0.55
+
+[Piece8c]
+Blueprint = d_cursed_bathhouse_roof003
+Quantity = 1
+Weight = 0.55

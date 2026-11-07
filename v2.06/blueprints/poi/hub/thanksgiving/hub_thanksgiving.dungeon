@@ -1,0 +1,34 @@
+[Dungeon]
+Type = Dungeon
+
+[Piece0]
+Blueprint = E_G_hub_thanksgiving_base
+Quantity = 1
+
+[Piece1]
+Blueprint = E_G_hub_thanksgiving_flora
+Quantity = 1
+
+[Piece2]
+Blueprint = E_G_hub_thanksgiving_dragonforge
+Quantity = 1
+
+[Piece3]
+Blueprint = E_G_hub_thanksgiving_clubhearts
+Quantity = 1
+
+[Piece4]
+Blueprint = E_G_hub_thanksgiving_advtower
+Quantity = 1
+
+[Piece5]
+Blueprint = E_G_hub_thanksgiving_shipshack
+Quantity = 1
+
+[Piece6]
+Blueprint = E_G_hub_thanksgiving_pvpshrine
+Quantity = 1
+
+[Piece7]
+Blueprint = E_G_hub_thanksgiving_turkeyshrine
+Quantity = 1

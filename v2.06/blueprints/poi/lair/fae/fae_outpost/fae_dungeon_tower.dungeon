@@ -1,0 +1,37 @@
+[Dungeon]
+Type = Dungeon
+
+[Piece9]
+Blueprint = Fae_Dungeon_purple_Tower_Boss_01
+Quantity = 1
+Weight = 0.25
+
+[Piece10]
+Blueprint = Fae_Dungeon_purple_Tower_Boss_02
+Quantity = 1
+Weight = 0.25
+
+[Piece11]
+Blueprint = Fae_Dungeon_purple_Tower_Boss_03
+Quantity = 1
+Weight = 0.25
+
+[Piece12]
+Blueprint = Fae_Dungeon_purple_Tower_hall_01
+Quantity = 1
+Weight = 0.25
+
+[Piece13]
+Blueprint = Fae_Dungeon_purple_Tower_hall_02
+Quantity = 1
+Weight = 0.25
+
+[Piece14]
+Blueprint = Fae_dungeon_purple_tower_01
+Quantity = 1
+Weight = 0.25
+
+[Piece15]
+Blueprint = Fae_dungeon_purple_tower_02
+Quantity = 1
+Weight = 0.25

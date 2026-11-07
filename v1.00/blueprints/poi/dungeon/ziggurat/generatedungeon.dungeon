@@ -1,0 +1,82 @@
+[Dungeon]
+
+Type = Dungeon
+
+[Piece0]
+Blueprint = Temple_Main_1
+Quantity = 1
+
+[Piece1]
+Blueprint = Temple_Room1_1
+Quantity = 1
+Weight = 1
+
+[Piece2]
+Blueprint = Temple_Room1_2
+Quantity = 1
+Weight = 1
+
+[Piece3]
+Blueprint = Temple_Room1_3
+Quantity = 1
+Weight = 1
+
+[Piece4]
+Blueprint = E_Fae_tree_small_01
+Quantity = 99
+
+[Piece5]
+Blueprint = E_Fae_tree_small_02
+Quantity = 99
+
+[Piece6]
+Blueprint = Temple_Boss2_1
+Quantity = 1
+Weight = 1
+
+[Piece7]
+Blueprint = Temple_Boss2_2
+Quantity = 1
+Weight = 1
+
+[Piece8]
+Blueprint = Temple_Boss2_3
+Quantity = 1
+Weight = 1
+
+[Piece9]
+Blueprint = Temple_Boss2_4
+Quantity = 1
+Weight = 1
+
+[Piece10]
+Blueprint = Temple_Boss1_1
+Quantity = 1
+Weight = 1
+
+[Piece11]
+Blueprint = Temple_Boss1_2
+Quantity = 1
+Weight = 1
+
+[Piece12]
+Blueprint = Temple_Boss1_3
+Quantity = 1
+Weight = 1
+
+[Piece13]
+Blueprint = Temple_Room2_1
+Quantity = 1
+Weight = 1
+
+[Piece14]
+Blueprint = Temple_Room2_2
+Quantity = 1
+Weight = 1
+
+[Piece15]
+Blueprint = Temple_Main_2
+Quantity = 1
+
+
+

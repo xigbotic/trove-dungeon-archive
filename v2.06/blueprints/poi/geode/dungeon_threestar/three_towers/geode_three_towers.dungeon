@@ -1,0 +1,93 @@
+[Dungeon]
+Type = Dungeon
+
+[Base1]
+Blueprint = three_towers_top_01
+Quantity = 1
+Weight = 0.5
+
+[Base2]
+Blueprint = three_towers_top_02
+Quantity = 1
+Weight = 0.5
+
+[Minibosses1]
+Blueprint = three_towers_minibosses_01
+Quantity = 1
+Weight = 0.5
+
+[Minibosses2]
+Blueprint = three_towers_minibosses_02
+Quantity = 1
+Weight = 0.5
+
+[Minibosses3]
+Blueprint = three_towers_minibosses_03
+Quantity = 1
+Weight = 0.5
+
+[Minibosses4]
+Blueprint = three_towers_minibosses_04
+Quantity = 1
+Weight = 0.5
+
+[Boss1]
+Blueprint = three_towers_boss_01
+Quantity = 1
+Weight = 0.5
+
+[Boss2]
+Blueprint = three_towers_boss_02
+Quantity = 1
+Weight = 0.5
+
+[Boss3]
+Blueprint = three_towers_boss_03
+Quantity = 1
+Weight = 0.5
+
+[PlugExtensionFiller]
+Blueprint = three_towers_plug_extension_filler
+Quantity = 2
+Weight = 1
+
+[PlugExtensionMiniboss]
+Blueprint = three_towers_plug_extension_miniboss
+Quantity = 2
+Weight = 1
+
+[Miniboss1]
+Blueprint = three_towers_miniboss_01
+Quantity = 1
+Weight = 0.5
+
+[Miniboss2]
+Blueprint = three_towers_miniboss_02
+Quantity = 1
+Weight = 0.5
+
+[Miniboss3]
+Blueprint = three_towers_miniboss_03
+Quantity = 1
+Weight = 0.5
+
+[Miniboss4]
+Blueprint = three_towers_miniboss_04
+Quantity = 1
+Weight = 0.5
+
+[Filler1]
+Blueprint = three_towers_rubble_01
+Quantity = 2
+Weight = 0.5
+
+[Filler2]
+Blueprint = three_towers_rubble_02
+Quantity = 2
+Weight = 0.5
+
+[Filler3]
+Blueprint = three_towers_rubble_03
+Quantity = 2
+Weight = 0.5
+

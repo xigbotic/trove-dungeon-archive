@@ -1,0 +1,156 @@
+[Dungeon]
+Type = Dungeon
+#Mode = 3-Star Dungeon
+#Creator = ABprice
+#Biome = Geode Topside
+#Name = Geodian Flower
+
+[roof]
+Blueprint = GeodianFlower_Fakeairroof
+Quantity = 1
+Weight = 1
+
+[Base]
+Blueprint = GeodianFlower_Base
+Quantity = 1
+Weight = 1
+
+[BottomPath1]
+Blueprint = GeodianFlower_BottomPath1
+Quantity = 1
+Weight = 1
+
+[BottomPath2]
+Blueprint = GeodianFlower_BottomPath2
+Quantity = 1
+Weight = 1
+
+[JumpPath1]
+Blueprint = GeodianFlower_JumpPath1
+Quantity = 1
+Weight = 1
+
+[JumpPath2]
+Blueprint = GeodianFlower_JumpPath2
+Quantity = 1
+Weight = 1
+
+[MiddlePath_Support1]
+Blueprint = GeodianFlower_MiddlePath_Support1
+Quantity = 1
+Weight = 1
+
+[MiddlePath_Support2]
+Blueprint = GeodianFlower_MiddlePath_Support2
+Quantity = 1
+Weight = 1
+
+[MiddlePath1]
+Blueprint = GeodianFlower_MiddlePath1
+Quantity = 1
+Weight = 1
+
+[MiddlePath2]
+Blueprint = GeodianFlower_MiddlePath2
+Quantity = 1
+Weight = 1
+
+[Pillers1]
+Blueprint = GeodianFlower_Pillers1
+Quantity = 1
+Weight = 1
+
+[Pillers2]
+Blueprint = GeodianFlower_Pillers2
+Quantity = 1
+Weight = 1
+
+[PlateConenctor1]
+Blueprint = GeodianFlower_PlateConnector1
+Quantity = 1
+Weight = 1
+
+[PlateConenctor2]
+Blueprint = GeodianFlower_PlateConnector2
+Quantity = 1
+Weight = 1
+
+[PlateConenctor3]
+Blueprint = GeodianFlower_PlateConnector3
+Quantity = 1
+Weight = 1
+
+[TopAddon1]
+Blueprint = GeodianFlower_TopAddon1
+Quantity = 1
+Weight = 1
+
+[TopAddon2]
+Blueprint = GeodianFlower_TopAddon2
+Quantity = 1
+Weight = 1
+
+[TopAddon3]
+Blueprint = GeodianFlower_TopAddon3
+Quantity = 1
+Weight = 1
+
+[TopAddon4]
+Blueprint = GeodianFlower_TopAddon4
+Quantity = 1
+Weight = 1
+
+[TopAddon5]
+Blueprint = GeodianFlower_TopAddon5
+Quantity = 1
+Weight = 1
+
+[TopAddon6]
+Blueprint = GeodianFlower_TopAddon6
+Quantity = 1
+Weight = 1
+
+[TopFlower1]
+Blueprint = GeodianFlower_TopFlower1
+Quantity = 1
+Weight = 1
+
+[TopFlower2]
+Blueprint = GeodianFlower_TopFlower2
+Quantity = 1
+Weight = 1
+
+[TopFlower3]
+Blueprint = GeodianFlower_TopFlower3
+Quantity = 1
+Weight = 1
+
+[TopRoom1]
+Blueprint = GeodianFlower_TopRoom1
+Quantity = 4
+Weight = 1
+
+[TopRoom2]
+Blueprint = GeodianFlower_TopRoom2
+Quantity = 4
+Weight = 1
+
+[TopRoom3]
+Blueprint = GeodianFlower_TopRoom3
+Quantity = 4
+Weight = 1
+
+[TopRoom4]
+Blueprint = GeodianFlower_TopRoom4
+Quantity = 4
+Weight = 1
+
+[TopRoom5]
+Blueprint = GeodianFlower_TopRoom5
+Quantity = 4
+Weight = 1
+
+[TopRoom6]
+Blueprint = GeodianFlower_TopRoom6
+Quantity = 4
+Weight = 1

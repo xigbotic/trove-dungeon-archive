@@ -1,0 +1,57 @@
+[Dungeon]
+Type = Lair
+
+[Piece0]
+Blueprint = LavaCrystal_Basement_01
+Quantity = 1
+Weight = 1
+
+[Piece1]
+Blueprint = LavaCrystal_Boss_01
+Quantity = 1
+Weight = 1
+
+[Piece2]
+Blueprint = LavaCrystal_GroundLevel_01
+Quantity = 1
+Weight = 1
+
+[Piece4]
+Blueprint = LavaCrystal_Stair_02
+Quantity = 1
+Weight = 1
+
+[Piece5]
+Blueprint = LavaCrystal_Boss_02
+Quantity = 1
+Weight = 1
+
+[Piece6]
+Blueprint = LavaCrystal_GroundLevel_02
+Quantity = 1
+Weight = 1
+
+[Piece8]
+Blueprint = LavaCrystal_Basement_03
+Quantity = 1
+Weight = 1
+
+[Piece9]
+Blueprint = LavaCrystal_Stair_03
+Quantity = 1
+Weight = 1
+
+[Piece10]
+Blueprint = LavaCrystal_Boss_03
+Quantity = 1
+Weight = 1
+
+[Piece11]
+Blueprint = LavaCrystal_Basement_04
+Quantity = 1
+Weight = 1
+
+[Piece12]
+Blueprint = LavaCrystal_GroundLevel_03
+Quantity = 1
+Weight = 1

@@ -1,0 +1,20 @@
+Seed 1667558511
+TotalQueries 3
+================= PIECES =============
+Piece E_G_tutorial_cn_island_03 Plug=0 Size=112x63x111
+	Plug Position=1,20,-1
+	AABB Min=-56,20,-55 Max=56,83,56
+	Socket 1
+	Socket 2
+Piece E_G_tutorial_cn_deco Plug=1 Size=96x83x96
+	Plug Position=1,1,-1
+	AABB Min=-43,0,-47 Max=53,83,49
+Piece E_G_tutorial_cn_rails_001 Plug=2 Size=78x66x64
+	Plug Position=1,2,-1
+	AABB Min=-32,2,-36 Max=46,68,28
+================= LAYOUT =============
+[0] E_G_tutorial_cn_island_03 [Q=2, D=2]
+	[1] E_G_tutorial_cn_deco [Q=0, D=0]
+	[2] E_G_tutorial_cn_rails_001 [Q=0, D=0]
+================= MESSAGES =============
+Dungeon.Type = Dungeon, 128x256x128

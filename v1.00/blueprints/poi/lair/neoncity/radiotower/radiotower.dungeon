@@ -1,0 +1,40 @@
+[Dungeon]
+Type = Lair
+
+[Piece0]
+Blueprint = door
+Quantity = 1
+
+[Piece1]
+Blueprint = roofway1
+Quantity = 1
+Weight = 1
+
+[Piece2]
+Blueprint = roofway2
+Quantity = 1
+Weight = 1
+
+[Piece3]
+Blueprint = mainfloor1
+Quantity = 1
+
+[Piece4]
+Blueprint = mainfloor2
+Quantity = 1
+
+[Piece5]
+Blueprint = secondfloor1
+Quantity = 1
+
+[Piece6]
+Blueprint = secondfloor2
+Quantity = 1
+
+[Piece7]
+Blueprint = basement1
+Quantity = 1
+
+[Piece8]
+Blueprint = basement2
+Quantity = 1

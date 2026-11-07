@@ -1,0 +1,31 @@
+Type = Lair
+
+[Piece0]
+Blueprint = Lab
+Quantity = 1
+Weight = 0.5 
+
+[Piece1]
+Blueprint = Lab_2
+Quantity = 1 
+Weight = 0.5
+
+[Piece2]
+Blueprint = middle_1
+Quantity = 1
+Weight = 0.5
+
+[Piece3]
+Blueprint = middle_2
+Quantity = 1
+Weight = 0.5
+
+[Piece4]
+Blueprint = bossroom
+Quantity = 1
+Weight = 0.5
+
+[Piece5]
+Blueprint = bossroom_2
+Quantity = 1
+Weight = 0.5

@@ -1,0 +1,103 @@
+[Dungeon]
+Type = Lair
+
+[Piece0]
+Blueprint = Gear_FirstFloor_01
+Quantity = 1
+Weight = 1
+
+[Piece1]
+Blueprint = Gear_FirstFloor_02
+Quantity = 1
+Weight = 1
+
+[Piece2]
+Blueprint = Gear_FirstStair_01
+Quantity = 1
+Weight = 1
+
+[Piece3]
+Blueprint = Gear_SecondFloor_01
+Quantity = 1
+Weight = 1
+
+[Piece4]
+Blueprint = Gear_FirstStair_02
+Quantity = 1
+Weight = 1
+
+[Piece5]
+Blueprint = Gear_SecondStair_01
+Quantity = 1
+Weight = 1
+
+[Piece6]
+Blueprint = Gear_ThirdFloor_01
+Quantity = 1
+Weight = 1
+
+[Piece7]
+Blueprint = Gear_SecondFloor_02
+Quantity = 1
+Weight = 1
+
+[Piece8]
+Blueprint = Gear_SecondStair_02
+Quantity = 1
+Weight = 1
+
+[Piece9]
+Blueprint = Gear_SecondFloor_03
+Quantity = 1
+Weight = 1
+
+[Piece10]
+Blueprint = Gear_ThirdFloor_02
+Quantity = 1
+Weight = 1
+
+[Piece11]
+Blueprint = Gear_SecondFloor_04
+Quantity = 1
+Weight = 100
+
+[Piece12]
+Blueprint = Gear_FirstFloor_03
+Quantity = 1
+Weight = 1
+
+[Piece13]
+Blueprint = Gear_ThirdFloor_03
+Quantity = 1
+Weight = 1
+
+[Piece14]
+Blueprint = Gear_FirstStair_03
+Quantity = 1
+Weight = 1
+
+[Piece15]
+Blueprint = Gear_SecondStair_03
+Quantity = 1
+Weight = 1
+
+[Piece16]
+Blueprint = Gear_FirstFloor_04
+Quantity = 1
+Weight = 1
+
+[Piece17]
+Blueprint = Gear_basement_01
+Quantity = 1
+Weight = 1
+
+[Piece18]
+Blueprint = Gear_basement_02
+Quantity = 1
+Weight = 1
+
+[Piece19]
+Blueprint = Gear_basement_03
+Quantity = 1
+Weight = 1
+

@@ -1,0 +1,27 @@
+[Piece0]
+Blueprint = Top2
+Quantity = 1
+
+[Piece1]
+Blueprint = Theatre_Plug
+Quantity = 1
+
+[Piece2]
+Blueprint = Scene1
+Quantity = 1
+
+[Piece3]
+Blueprint = Scene2
+Quantity = 1
+
+[Piece4]
+Blueprint = Miniboss1
+Quantity = 1
+
+[Piece5]
+Blueprint = Miniboss2
+Quantity = 1
+
+[Piece6]
+Blueprint = Theatre_Entrance
+Quantity = 1

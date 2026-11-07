@@ -1,0 +1,18 @@
+[Dungeon]
+Type = Lair
+
+[Piece0]
+Blueprint = lair_chill-in_Hooborg
+Quantity = 1
+
+[Piece1]
+Blueprint = lair_start_Hooborg
+Quantity = 1
+
+[Piece4]
+Blueprint = lair_chamb3_Hooborg
+Quantity = 1
+
+[Piece5]
+Blueprint = lair_boss_Hooborg
+Quantity = 1

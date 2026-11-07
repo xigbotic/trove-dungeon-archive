@@ -1,0 +1,103 @@
+[Piece0]
+Blueprint = DNG_bonefortress_room01
+Quantity = 1
+
+[Piece1]
+Blueprint = DNG_bonefortress_room02
+Quantity = 1
+
+[Piece2]
+Blueprint = DNG_bonefortress_room03
+Quantity = 1
+
+[Piece3]
+Blueprint = DNG_bonefortress_room04
+Quantity = 1
+
+[Piece4]
+Blueprint = DNG_bonefortress_room05
+Quantity = 1
+
+[Piece5]
+Blueprint = DNG_bonefortress_room06
+Quantity = 1
+
+[Piece6]
+Blueprint = DNG_bonefortress_room07
+Quantity = 1
+
+[Piece7]
+Blueprint = DNG_bonefortress_room08
+Quantity = 1
+
+[Piece8]
+Blueprint = DNG_bonefortress_room09
+Quantity = 1
+
+[Piece9]
+Blueprint = DNG_bonefortress_room10
+Quantity = 1
+
+[Piece10]
+Blueprint = DNG_bonefortress_room11
+Quantity = 1
+
+[Piece11]
+Blueprint = DNG_bonefortress_room12
+Quantity = 1
+
+[Piece12]
+Blueprint = DNG_bonefortress_room13
+Quantity = 1
+
+[Piece13]
+Blueprint = DNG_bonefortress_room14
+Quantity = 1
+
+[Piece14]
+Blueprint = DNG_bonefortress_room15
+Quantity = 1
+
+[Piece15]
+Blueprint = DNG_bonefortress_room16
+Quantity = 1
+
+[Piece16]
+Blueprint = DNG_bonefortress_room17
+Quantity = 1
+
+[Piece17]
+Blueprint = DNG_bonefortress_room18
+Quantity = 1
+
+[Piece18]
+Blueprint = DNG_bonefortress_room19
+Quantity = 1
+Weight = 2
+
+[Piece19]
+Blueprint = DNG_bonefortress_room20
+Quantity = 1
+
+
+[Piece20]
+Blueprint = DNG_bonefortress_room21
+Quantity = 1
+
+[Piece21]
+Blueprint = DNG_bonefortress_room22
+Quantity = 1
+
+[Piece22]
+Blueprint = DNG_bonefortress_room23
+Quantity = 1
+
+[Piece23]
+Blueprint = DNG_bonefortress_room24
+Quantity = 1
+
+[Piece24]
+Blueprint = DNG_bonefortress_layout
+Quantity = 1
+
+

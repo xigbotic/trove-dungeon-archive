@@ -1,0 +1,10 @@
+[Dungeon]
+Type = dungeon
+
+[Piece0]
+Blueprint = shadowcollosseum_base
+Quantity = 1
+
+[Piece1]
+Blueprint = shadowcollosseum_foundation
+Quantity = 1

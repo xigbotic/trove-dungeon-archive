@@ -1,0 +1,27 @@
+Seed -53098223
+TotalQueries 3
+================= PIECES =============
+Piece DNG_neontower_base Plug=0 Size=30x42x30
+	Plug Position=0,10,0
+	AABB Min=-15,0,-15 Max=15,42,15
+	Socket 1
+Piece DNG_neontower_bottomplat_01 Plug=1 Size=24x34x27
+	Plug Position=0,17,1
+	AABB Min=-12,0,-14 Max=12,34,13
+	Socket 2
+Piece DNG_neontower_bottomplat_02 Plug=1 Size=24x29x27
+	Plug Position=0,12,0
+	AABB Min=-12,0,-14 Max=12,29,13
+	Socket 2
+Piece DNG_neontower_topplat_01 Plug=2 Size=27x13x29
+	Plug Position=2,12,-2
+	AABB Min=-13,0,-15 Max=14,13,14
+Piece DNG_neontower_topplat_02 Plug=2 Size=27x13x29
+	Plug Position=2,10,-1
+	AABB Min=-13,0,-15 Max=14,13,14
+================= LAYOUT =============
+[0] DNG_neontower_base [Q=2, D=2]
+	[1] DNG_neontower_bottomplat_01 [Q=1, D=1]
+		[2] DNG_neontower_topplat_01 [Q=0, D=0]
+================= MESSAGES =============
+Dungeon.Type = Dungeon, 128x256x128

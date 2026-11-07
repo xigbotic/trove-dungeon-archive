@@ -1,0 +1,36 @@
+[Dungeon]
+Type = Lair
+
+
+
+[Piece03]
+Blueprint = base_02
+Weight = 0.25
+Quantity = 1
+
+[Piece04]
+Blueprint = base_03
+Weight = 0.25
+Quantity = 1
+
+[Piece07]
+Blueprint = house_01
+Quantity = 1
+
+[Piece10]
+Blueprint = boss_01
+Weight = 0.33
+Quantity = 1
+
+[Piece11]
+Blueprint = boss_02
+Weight = 0.33
+Quantity = 1
+
+[Piece12]
+Blueprint = boss_03
+Weight = 0.33
+Quantity = 1
+
+
+

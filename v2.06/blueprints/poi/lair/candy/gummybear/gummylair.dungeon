@@ -1,0 +1,27 @@
+[Dungeon]
+Type = Lair
+
+[Piece0]
+Blueprint = GummyBoss1
+Quantity = 1
+
+[Piece1]
+Blueprint = GummyBody1
+Quantity = 1
+Weight = .5
+
+[Piece2]
+Blueprint = GummyBody2
+Quantity = 1
+Weight = .5
+
+[Piece3]
+Blueprint = GummyHead1
+Quantity = 1
+Weight = .5
+
+[Piece4]
+Blueprint = GummyHead2
+Quantity = 1
+Weight = .5
+

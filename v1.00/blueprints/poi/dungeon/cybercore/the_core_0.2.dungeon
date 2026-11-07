@@ -1,0 +1,43 @@
+[Piece0]
+Blueprint = the_core1
+Quantity = 1
+
+[Piece1]
+Blueprint = bridge_01
+Quantity = 4
+Weight= 1.0
+
+[Piece2]
+Blueprint = box_regular1
+Quantity = 1
+
+[Piece2.1]
+Blueprint = box_minorboss1
+Quantity = 1
+
+[Piece2.2]
+Blueprint = box_minorboss2
+Quantity = 1
+
+[Piece2.3]
+Blueprint = box_majorboss
+Quantity = 1
+
+[Piece3]
+Blueprint = passage_01
+Quantity = 2
+Weight = 0.33
+
+[Piece3.1]
+Blueprint = passage_02
+Quantity = 2
+Weight = 0.33
+
+[Piece3.2]
+Blueprint = passage_03
+Quantity = 2
+Weight = 0.33
+
+[Piece4]
+Blueprint = robo
+Quantity = 4

@@ -1,0 +1,52 @@
+[Piece0]
+Blueprint = xmas_frontier_base
+Quantity = 1
+
+[Piece1]
+Blueprint = xmas_mid_01
+Quantity = 1
+
+[Piece2]
+Blueprint = xmas_mid_02
+Quantity = 1
+
+[Piece3]
+Blueprint = xmas_mid_03
+Quantity = 1
+
+[Piece4]
+Blueprint = xmas_top_01
+Quantity = 1
+
+[Piece5]
+Blueprint = xmas_top_02
+Quantity = 1
+
+
+[Piece6]
+Blueprint = Frontier_BowGift
+Quantity = 2
+
+[Piece7]
+Blueprint = Frontier_Cacti
+Quantity = 2
+
+[Piece8]
+Blueprint = Frontier_cactusGift
+Quantity = 3
+
+[Piece9]
+Blueprint = Frontier_steampunkGift
+Quantity = 3
+
+[Piece10]
+Blueprint = Frontier_Train
+Quantity = 2
+
+[Piece11]
+Blueprint = Frontier_cat
+Quantity = 1
+
+[Piece12]
+Blueprint = Frontier_Cacti2
+Quantity = 3

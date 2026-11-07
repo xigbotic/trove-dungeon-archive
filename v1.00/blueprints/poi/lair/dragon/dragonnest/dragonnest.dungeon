@@ -1,0 +1,20 @@
+[Dungeon]
+Type = Lair
+
+[Piece0]
+Blueprint = dragon_nest_entrance
+Quantity = 1
+
+[Piece1]
+Blueprint = dragon_nest_adv_1
+Quantity = 1
+Weight = 0.5
+
+[Piece2]
+Blueprint = dragon_nest_adv_2
+Quantity = 1
+Weight = 0.5
+
+[Piece3]
+Blueprint = dragon_nest_boss
+Quantity = 1

@@ -1,0 +1,23 @@
+[Piece0]
+Blueprint = Top
+Quantity = 1
+
+[Piece1]
+Blueprint = Bottom1
+Quantity = 1
+
+[Piece2]
+Blueprint = Bottom2
+Quantity = 1
+
+[Piece3]
+Blueprint = Bottom3
+Quantity = 1
+
+[Piece4]
+Blueprint = Platform
+Quantity = 1
+
+[Piece5]
+Blueprint = Sky
+Quantity = 1

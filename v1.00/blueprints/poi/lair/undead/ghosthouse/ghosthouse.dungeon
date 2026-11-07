@@ -1,0 +1,27 @@
+[Dungeon]
+Type = lair
+
+[Piece0]
+Blueprint = base
+Quantity = 1
+Weight = 1
+
+[Piece1]
+Blueprint = topeasy
+Quantity = 1
+Weight = 0.5
+
+[Piece2]
+Blueprint = topmedium
+Quantity = 1
+Weight = 0.5
+
+[Piece3]
+Blueprint = roof
+Quantity = 1
+Weight = 1
+
+[Piece4]
+Blueprint = crypt1
+Quantity = 1
+Weight = 1

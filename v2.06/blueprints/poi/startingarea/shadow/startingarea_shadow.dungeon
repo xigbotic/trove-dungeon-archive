@@ -1,0 +1,10 @@
+[Dungeon]
+Type = Dungeon
+
+[Piece0]
+Blueprint = E_shadow_startingarea
+Quantity = 1
+
+[Piece1]
+Blueprint = E_shadow_platform_01
+Quantity = 1

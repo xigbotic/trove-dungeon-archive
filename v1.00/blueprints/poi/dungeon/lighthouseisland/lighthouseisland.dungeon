@@ -1,0 +1,6 @@
+[Dungeon]
+Type = Dungeon
+
+[Piece0]
+Blueprint = v6
+Quantity = 1

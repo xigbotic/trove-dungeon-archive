@@ -1,0 +1,92 @@
+[Dungeon]
+Type = Dungeon
+
+#STORY
+
+#To get rowan to the planet of Trove, Geodians had to make a rocket. 
+#But with the threat of Undertow they had to make use of multiple build- and launch sites. 
+#Loads where attacked and raided, but they succeeded with one.
+
+
+[BaseLeft]
+Blueprint = rocketsite_land_L
+Quantity = 1
+Weight = 0.5
+
+[BaseRight]
+Blueprint = rocketsite_land_R
+Quantity = 1
+Weight = 0.5
+
+
+[ShieldT01]
+Blueprint = rocketsite_shield_T_01
+Quantity = 1
+Weight = 0.5
+
+[ShieldT02]
+Blueprint = rocketsite_shield_T_02
+Quantity = 1
+Weight = 0.5
+
+[ShieldT03]
+Blueprint = rocketsite_shield_T_03
+Quantity = 1
+Weight = 0.5
+
+[ShieldB01]
+Blueprint = rocketsite_shield_B_01
+Quantity = 1
+Weight = 0.5
+
+[ShieldB02]
+Blueprint = rocketsite_shield_B_02
+Quantity = 1
+Weight = 0.5
+
+[ShieldB03]
+Blueprint = rocketsite_shield_B_03
+Quantity = 1
+Weight = 0.5
+
+[RocketInlay01]
+Blueprint = rocketsite_rocket_fail_01
+Quantity = 1
+Weight = 0.5
+
+[RocketInlay02]
+Blueprint = rocketsite_rocket_fail_02
+Quantity = 1
+Weight = 0.5
+
+[RocketInlay03]
+Blueprint = rocketsite_rocket_fail_03
+Quantity = 1
+Weight = 0.5
+
+[RocketInlay04]
+Blueprint = rocketsite_rocket_succes
+Quantity = 1
+Weight = 0.5
+
+[RocketMinor1]
+Blueprint = rocketsite_minor_001
+Quantity = 1
+Weight = 1
+
+[RocketMinor2]
+Blueprint = rocketsite_minor_002
+Quantity = 1
+Weight = 1
+
+[RocketMajor]
+Blueprint = rocketsite_major
+Quantity = 1
+Weight = 1
+
+[RocketEmpty]
+Blueprint = rocketsite_empty
+Quantity = 1
+Weight = 0.1
+
+

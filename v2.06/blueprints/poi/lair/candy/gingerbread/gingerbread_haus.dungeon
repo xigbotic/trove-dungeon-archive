@@ -1,0 +1,22 @@
+[Dungeon]
+Type = Lair
+
+[Piece0]
+Blueprint = gingerbread_haus_gnd_lvl
+Quantity = 1
+
+[Piece1]
+Blueprint = gingerbread_haus_sub_01
+Quantity = 1
+
+[Piece2]
+Blueprint = gingerbread_haus_sub_02
+Quantity = 1
+
+[Piece3]
+Blueprint = gingerbread_haus_boss_01
+Quantity = 1
+
+[Piece4]
+Blueprint = gingerbread_haus_boss_02
+Quantity = 1

@@ -1,0 +1,106 @@
+[Dungeon]
+Type = Dungeon
+
+#STORY
+
+# Undertow brought the sandkraken to geode. Devouring everything in its path.
+# Glad the santuarys shield still stops this beast.
+# The greatest treasures are said to be found in its belly.
+
+[BaseTop]
+Blueprint = underlair_main
+Quantity = 1
+
+[Baseunder]
+Blueprint = underlair_under
+Quantity = 1
+
+[UnderWelcome01]
+Blueprint = underlair_welcome_001
+Quantity = 1
+Weight = 0.5
+
+[UnderWelcome02]
+Blueprint = underlair_welcome_002
+Quantity = 1
+Weight = 0.5
+
+[UnderWelcome03]
+Blueprint = underlair_welcome_003
+Quantity = 1
+Weight = 0.5
+
+[TunnelLeft]
+Blueprint = underlair_tunnels_L
+Quantity = 1
+Weight = 0.5
+
+[TunnelRight]
+Blueprint = underlair_tunnels_R
+Quantity = 1
+Weight = 0.5
+
+[StatueDown001]
+Blueprint = underlair_statue_down_green
+Quantity = 4
+Weight = 0.5
+
+[StatueDown002]
+Blueprint = underlair_statue_down_orange
+Quantity = 4
+Weight = 0.5
+
+[StatueDown003]
+Blueprint = underlair_statue_down_purple
+Quantity = 4
+Weight = 0.5
+
+[StatueUp001]
+Blueprint = underlair_statue_up_green
+Quantity = 4
+Weight = 0.5
+
+[StatueUp002]
+Blueprint = underlair_statue_up_orange
+Quantity = 4
+Weight = 0.5
+
+[StatueUp003]
+Blueprint = underlair_statue_up_purple
+Quantity = 4
+Weight = 0.5
+
+[MiniBoss001]
+Blueprint = underlair_miniboss_inlay_001
+Quantity = 1
+Weight = 0.5
+
+[MiniBoss002]
+Blueprint = underlair_miniboss_inlay_002
+Quantity = 1
+Weight = 0.5
+
+[MiniBoss003]
+Blueprint = underlair_miniboss_inlay_003
+Quantity = 1
+Weight = 0.5
+
+[MiniBoss004]
+Blueprint = underlair_miniboss_inlay_004
+Quantity = 1
+Weight = 0.5
+
+[BigBoss001]
+Blueprint = underlair_bigboss_inlay_001
+Quantity = 1
+Weight = 0.5
+
+[BigBoss002]
+Blueprint = underlair_bigboss_inlay_002
+Quantity = 1
+Weight = 0.5
+
+[BigBoss003]
+Blueprint = underlair_bigboss_inlay_003
+Quantity = 1
+Weight = 0.5

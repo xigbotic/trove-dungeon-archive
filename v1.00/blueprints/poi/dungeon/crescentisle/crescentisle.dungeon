@@ -1,0 +1,7 @@
+[Dungeon]
+
+Type = Dungeon
+
+[Piece=0]
+Blueprint = CrescentIsle
+Quantity = 1

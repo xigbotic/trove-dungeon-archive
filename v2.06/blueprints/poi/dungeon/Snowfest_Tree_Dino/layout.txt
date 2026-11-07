@@ -1,0 +1,69 @@
+Seed 1435722734
+TotalQueries 11
+================= PIECES =============
+Piece xmas_jungle_base Plug=0 Size=75x124x75
+	Plug Position=0,4,0
+	AABB Min=-37,-2,-38 Max=38,122,37
+	Socket 3
+	Socket 3
+	Socket 1
+	Socket 2
+	Socket 3
+	Socket 3
+	Socket 3
+	Socket 3
+	Socket 3
+	Socket 3
+Piece xmas_mid_02 Plug=1 Size=51x31x52
+	Plug Position=0,8,26
+	AABB Min=-25,0,-25 Max=26,31,27
+Piece xmas_mid_03 Plug=1 Size=51x31x52
+	Plug Position=0,8,26
+	AABB Min=-25,0,-25 Max=26,31,27
+Piece xmas_mid_01 Plug=1 Size=51x31x52
+	Plug Position=0,8,26
+	AABB Min=-25,0,-25 Max=26,31,27
+Piece xmas_top_02 Plug=2 Size=31x29x32
+	Plug Position=0,6,16
+	AABB Min=-15,0,-15 Max=16,29,17
+Piece xmas_top_01 Plug=2 Size=31x29x32
+	Plug Position=0,6,16
+	AABB Min=-15,0,-15 Max=16,29,17
+Piece Jungle_WoodBox_Stedms Plug=3 Size=12x12x12
+	Plug Position=-1,0,-6
+	AABB Min=-6,0,-6 Max=6,12,6
+Piece Jungle_CarvedBox_Meowsifer Plug=3 Size=12x12x13
+	Plug Position=0,0,-6
+	AABB Min=-6,0,-6 Max=6,12,7
+Piece Jungle_WrappedSkull_Dark_Style_NL Plug=3 Size=12x12x12
+	Plug Position=0,0,5
+	AABB Min=-6,0,-6 Max=6,12,6
+Piece jungle_meteorite_humpypants Plug=3 Size=12x12x13
+	Plug Position=-1,0,-7
+	AABB Min=-6,0,-7 Max=6,12,6
+Piece Jungle_SnowGlobe_Stedms Plug=3 Size=9x9x9
+	Plug Position=3,0,0
+	AABB Min=-5,0,-4 Max=4,9,5
+Piece Jungle_GlassBox_Stedms Plug=3 Size=12x12x12
+	Plug Position=0,0,5
+	AABB Min=-6,0,-6 Max=6,12,6
+Piece Jungle_WrappedMetorite_Meowsifer Plug=3 Size=12x12x13
+	Plug Position=-1,0,-7
+	AABB Min=-6,0,-7 Max=6,12,6
+Piece jungle_bonegift_humpypants Plug=3 Size=12x11x13
+	Plug Position=-1,0,-7
+	AABB Min=-6,0,-7 Max=6,11,6
+================= LAYOUT =============
+[0] xmas_jungle_base [Q=10, D=10]
+	[1] Jungle_WrappedSkull_Dark_Style_NL [Q=0, D=0]
+	[2] Jungle_WoodBox_Stedms [Q=0, D=0]
+	[3] xmas_mid_01 [Q=0, D=0]
+	[4] xmas_top_01 [Q=0, D=0]
+	[5] jungle_meteorite_humpypants [Q=0, D=0]
+	[6] Jungle_GlassBox_Stedms [Q=0, D=0]
+	[7] Jungle_CarvedBox_Meowsifer [Q=0, D=0]
+	[8] Jungle_WrappedSkull_Dark_Style_NL [Q=0, D=0]
+	[9] Jungle_WoodBox_Stedms [Q=0, D=0]
+	[10] Jungle_WrappedSkull_Dark_Style_NL [Q=0, D=0]
+================= MESSAGES =============
+Dungeon.Type = Dungeon, 128x256x128

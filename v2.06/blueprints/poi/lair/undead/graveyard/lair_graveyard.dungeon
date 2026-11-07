@@ -1,0 +1,18 @@
+[Dungeon]
+Type = Lair
+
+[Piece01]
+Blueprint = Lair_grave_yard_base
+Quantity = 1
+
+[Piece02]
+Blueprint = Lair_grave_yard_room_01
+Quantity = 1
+
+[Piece03]
+Blueprint = Lair_grave_yard_room_02
+Quantity = 1
+
+[Piece04]
+Blueprint = Lair_grave_yard_room_03
+Quantity = 1

@@ -1,0 +1,34 @@
+[Dungeon]
+Type = Lair
+
+[Piece0Shoulder]
+Blueprint = Matrix1
+Quantity = 1
+
+[Piece1Jaw]
+Blueprint = Matrix2
+Quantity = 1
+Weight = .5
+
+[Piece1bJaw]
+Blueprint = Matrix2b
+Quantity = 1
+Weight = .5
+
+[Piece2Eyes]
+Blueprint = Matrix3
+Quantity = 1
+Weight = .5
+
+[Piece2bEyes]
+Blueprint = Matrix3b
+Quantity = 1
+Weight = .5
+
+[Piece3Lair]
+Blueprint = Matrix4
+Quantity = 1
+
+[Piece4Top]
+Blueprint = Matrix5
+Quantity = 1

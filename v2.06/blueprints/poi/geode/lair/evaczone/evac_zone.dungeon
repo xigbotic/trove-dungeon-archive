@@ -1,0 +1,64 @@
+[Dungeon]
+
+
+Type = Lair
+
+[PieceBase]
+Blueprint = evac_zone_base
+Quantity = 1
+Weight = 1
+
+[PieceTentacle01]
+Blueprint = evac_zone_tentacle_red
+Quantity = 3
+Weight = 0.5
+
+[PieceTentacle02]
+Blueprint = evac_zone_tentacle_green
+Quantity = 3
+Weight = 0.5
+
+[PieceTop001]
+Blueprint = evac_zone_top_a
+Quantity = 1
+Weight = 0.3
+
+[PieceTop002]
+Blueprint = evac_zone_top_b
+Quantity = 1
+Weight = 0.3
+
+[PieceTop003]
+Blueprint = evac_zone_top_c
+Quantity = 1
+Weight = 0.3
+
+[PieceMid001]
+Blueprint = evac_zone_mid_a
+Quantity = 1
+Weight = 0.3
+
+[PieceMid002]
+Blueprint = evac_zone_mid_b
+Quantity = 1
+Weight = 0.3
+
+[PieceMid003]
+Blueprint = evac_zone_mid_c
+Quantity = 1
+Weight = 0.3
+
+[PieceBot001]
+Blueprint = evac_zone_bot_a
+Quantity = 1
+Weight = 0.3
+
+[PieceBot002]
+Blueprint = evac_zone_bot_b
+Quantity = 1
+Weight = 0.3
+
+[PieceBot003]
+Blueprint = evac_zone_bot_c
+Quantity = 1
+Weight = 0.3

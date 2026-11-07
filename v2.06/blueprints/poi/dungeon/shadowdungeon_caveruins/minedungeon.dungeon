@@ -1,0 +1,10 @@
+[Dungeon]
+Type = Dungeon
+
+[Piece0]
+Blueprint = minedungeon_entrance
+Quantity = 1
+
+[Piece1]
+Blueprint = minedungeon_main
+Quantity = 1

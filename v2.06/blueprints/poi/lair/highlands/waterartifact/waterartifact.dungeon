@@ -1,0 +1,8 @@
+[Dungeon]
+
+Type = Lair
+
+[Piece0]
+Blueprint = Highlands
+Quantity = 1
+

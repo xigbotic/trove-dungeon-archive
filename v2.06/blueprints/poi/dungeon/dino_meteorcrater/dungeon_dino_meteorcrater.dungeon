@@ -1,0 +1,11 @@
+[Piece0]
+Blueprint = dino_meteorcrater_base_001
+Quantity = 1
+
+[Piece1]
+Blueprint = dino_meteorcrater_meteormid_001
+Quantity = 1
+
+[Piece2]
+Blueprint = dino_meteorcrater_meteorbot_001
+Quantity = 1

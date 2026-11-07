@@ -1,0 +1,15 @@
+[Piece0]
+Blueprint = base1
+Quantity = 1
+
+[Piece1]
+Blueprint = base2
+Quantity = 1
+
+[Piece2]
+Blueprint = ufo2
+Quantity = 1
+
+[Piece3]
+Blueprint = ufo3
+Quantity = 1

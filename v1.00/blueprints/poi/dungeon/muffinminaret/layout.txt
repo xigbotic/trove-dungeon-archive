@@ -1,0 +1,140 @@
+Seed -1738770863
+TotalQueries 10
+================= PIECES =============
+Piece grounds Plug=0 Size=121x56x121
+	Plug Position=0,28,-1
+	AABB Min=-60,0,-61 Max=61,56,60
+	Socket 2
+Piece shell_07 Plug=1 Size=51x14x51
+	Plug Position=0,12,-1
+	AABB Min=-25,0,-26 Max=26,14,25
+Piece shell_08 Plug=1 Size=51x14x51
+	Plug Position=0,12,-1
+	AABB Min=-25,0,-26 Max=26,14,25
+Piece shell_06 Plug=1 Size=51x14x51
+	Plug Position=0,12,-1
+	AABB Min=-25,0,-26 Max=26,14,25
+Piece shell_05 Plug=1 Size=51x14x51
+	Plug Position=0,12,-1
+	AABB Min=-25,0,-26 Max=26,14,25
+Piece shell_03 Plug=1 Size=51x14x51
+	Plug Position=0,12,-1
+	AABB Min=-25,0,-26 Max=26,14,25
+Piece shell_02 Plug=1 Size=51x14x51
+	Plug Position=0,12,-1
+	AABB Min=-25,0,-26 Max=26,14,25
+Piece shell_01 Plug=1 Size=51x14x51
+	Plug Position=0,12,-1
+	AABB Min=-25,0,-26 Max=26,14,25
+Piece shell_04 Plug=1 Size=51x14x51
+	Plug Position=0,12,-1
+	AABB Min=-25,0,-26 Max=26,14,25
+Piece floor_01c Plug=2 Size=47x15x47
+	Plug Position=0,0,-1
+	AABB Min=-23,0,-24 Max=24,15,23
+	Socket 1
+	Socket 3
+Piece floor_01b Plug=2 Size=47x15x47
+	Plug Position=0,0,-1
+	AABB Min=-23,0,-24 Max=24,15,23
+	Socket 1
+	Socket 3
+Piece floor_01a Plug=2 Size=47x15x47
+	Plug Position=0,0,-1
+	AABB Min=-23,0,-24 Max=24,15,23
+	Socket 3
+	Socket 1
+Piece floor_02bb Plug=3 Size=47x15x47
+	Plug Position=0,0,-1
+	AABB Min=-23,0,-24 Max=24,15,23
+	Socket 1
+	Socket 4
+Piece floor_02ba Plug=3 Size=47x15x47
+	Plug Position=0,0,-1
+	AABB Min=-23,0,-24 Max=24,15,23
+	Socket 4
+	Socket 1
+Piece floor_02cc Plug=3 Size=47x15x47
+	Plug Position=0,0,-1
+	AABB Min=-23,0,-24 Max=24,15,23
+	Socket 1
+	Socket 4
+Piece floor_02ca Plug=3 Size=47x15x47
+	Plug Position=0,0,-1
+	AABB Min=-23,0,-24 Max=24,15,23
+	Socket 1
+	Socket 4
+Piece floor_02ab Plug=3 Size=47x15x47
+	Plug Position=0,0,-1
+	AABB Min=-23,0,-24 Max=24,15,23
+	Socket 1
+	Socket 4
+Piece floor_02aa Plug=3 Size=47x15x47
+	Plug Position=0,0,-1
+	AABB Min=-23,0,-24 Max=24,15,23
+	Socket 1
+	Socket 4
+Piece floor_02cb Plug=3 Size=47x15x47
+	Plug Position=0,0,-1
+	AABB Min=-23,0,-24 Max=24,15,23
+	Socket 4
+	Socket 1
+Piece floor_03bb Plug=4 Size=47x15x47
+	Plug Position=0,0,-1
+	AABB Min=-23,0,-24 Max=24,15,23
+	Socket 1
+	Socket 7
+Piece floor_03ba Plug=4 Size=47x15x47
+	Plug Position=0,0,-1
+	AABB Min=-23,0,-24 Max=24,15,23
+	Socket 1
+	Socket 7
+Piece floor_03ab Plug=4 Size=47x15x47
+	Plug Position=0,0,-1
+	AABB Min=-23,0,-24 Max=24,15,23
+	Socket 7
+	Socket 1
+Piece floor_03aa Plug=4 Size=47x15x47
+	Plug Position=0,0,-1
+	AABB Min=-23,0,-24 Max=24,15,23
+	Socket 7
+	Socket 1
+Piece floor_05aa Plug=5 Size=53x16x53
+	Plug Position=0,0,-2
+	AABB Min=-26,0,-28 Max=27,16,25
+Piece floor_05ab Plug=5 Size=53x16x53
+	Plug Position=0,0,-2
+	AABB Min=-26,0,-28 Max=27,16,25
+Piece floor_04ab Plug=7 Size=47x15x47
+	Plug Position=0,0,-1
+	AABB Min=-23,0,-24 Max=24,15,23
+	Socket 5
+	Socket 1
+Piece floor_04aa Plug=7 Size=47x15x47
+	Plug Position=0,0,-1
+	AABB Min=-23,0,-24 Max=24,15,23
+	Socket 1
+	Socket 5
+Piece floor_04ba Plug=7 Size=47x15x47
+	Plug Position=0,0,-1
+	AABB Min=-23,0,-24 Max=24,15,23
+	Socket 5
+	Socket 1
+Piece floor_04bb Plug=7 Size=47x15x47
+	Plug Position=0,0,-1
+	AABB Min=-23,0,-24 Max=24,15,23
+	Socket 5
+	Socket 1
+================= LAYOUT =============
+[0] grounds [Q=9, D=9]
+	[1] floor_01c [Q=8, D=8]
+		[2] shell_03 [Q=0, D=0]
+		[3] floor_02ca [Q=6, D=6]
+			[4] shell_08 [Q=0, D=0]
+			[5] floor_03ba [Q=4, D=4]
+				[6] shell_02 [Q=0, D=0]
+				[7] floor_04bb [Q=2, D=2]
+					[8] floor_05ab [Q=0, D=0]
+					[9] shell_04 [Q=0, D=0]
+================= MESSAGES =============
+Dungeon.Type = Dungeon, 128x256x128

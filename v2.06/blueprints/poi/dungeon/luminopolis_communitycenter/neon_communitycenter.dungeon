@@ -1,0 +1,102 @@
+[Dungeon]
+Type = Dungeon
+
+[Base1]
+Blueprint = communitycenter_main_pink
+Quantity = 1
+Weight = 0.5
+
+[Base2]
+Blueprint = communitycenter_main_green
+Quantity = 1
+Weight = 0.5
+
+[Roof]
+Blueprint = communitycenter_main_roof
+Quantity = 1
+Weight = 1
+
+[ExtensionFiller]
+Blueprint = communitycenter_extension_minibossroom
+Quantity = 1
+Weight = 0.5
+
+[ExtensionMiniboss]
+Blueprint = communitycenter_extension_fillerroom
+Quantity = 1
+Weight = 0.5
+
+[Filler1]
+Blueprint = communitycenter_room_filler_conference_blue
+Quantity = 1
+Weight = 0.2
+
+[Filler2]
+Blueprint = communitycenter_room_filler_conference_pink
+Quantity = 1
+Weight = 0.2
+
+[Filler3]
+Blueprint = communitycenter_room_filler_fish_rainbow
+Quantity = 1
+Weight = 0.2
+
+[Filler4]
+Blueprint = communitycenter_room_filler_fish_sword
+Quantity = 1
+Weight = 0.2
+
+[Filler5]
+Blueprint = communitycenter_room_filler_trade_green
+Quantity = 1
+Weight = 0.2
+
+[Filler6]
+Blueprint = communitycenter_room_filler_trade_pink
+Quantity = 1
+Weight = 0.2
+
+[Miniboss1]
+Blueprint = communitycenter_room_miniboss_livingroom
+Quantity = 1
+Weight = 0.5
+
+[Miniboss2]
+Blueprint = communitycenter_room_miniboss_movie
+Quantity = 1
+Weight = 0.5
+
+[Miniboss3]
+Blueprint = communitycenter_room_miniboss_storageroom
+Quantity = 1
+Weight = 0.5
+
+[Miniboss4]
+Blueprint = communitycenter_room_miniboss_waitinghall
+Quantity = 1
+Weight = 0.5
+
+[Boss1]
+Blueprint = communitycenter_room_boss_acid
+Quantity = 1
+Weight = 0.3
+
+[Boss2]
+Blueprint = communitycenter_room_boss_plasma
+Quantity = 1
+Weight = 0.3
+
+[Boss3]
+Blueprint = communitycenter_room_boss_gaezbo_blue
+Quantity = 1
+Weight = 0.3
+
+[Boss4]
+Blueprint = communitycenter_room_boss_gaezbo_green
+Quantity = 1
+Weight = 0.3
+
+[Boss5]
+Blueprint = communitycenter_room_boss_blue_stage
+Quantity = 1
+Weight = 0.3

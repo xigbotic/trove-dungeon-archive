@@ -1,0 +1,61 @@
+Seed -570236578
+TotalQueries 22
+================= PIECES =============
+Piece Temple Plug=0
+	Socket 4
+	Socket 1
+	Socket 5
+	Socket 4
+	Socket 4
+	Socket 4
+Piece Totem6 Plug=1
+	Socket 1
+Piece Totem4 Plug=1
+	Socket 1
+Piece Totem2 Plug=1
+	Socket 1
+Piece Totem8 Plug=1
+	Socket 1
+Piece TotemFinisher Plug=1
+Piece Totem10 Plug=1
+	Socket 1
+Piece Totem1 Plug=1
+	Socket 1
+Piece Totem9 Plug=1
+	Socket 1
+Piece Totem5 Plug=1
+	Socket 1
+Piece Totem3 Plug=1
+	Socket 1
+Piece Totem7 Plug=1
+	Socket 1
+Piece Totem11 Plug=1
+	Socket 1
+Piece Pyramid2 Plug=4
+Piece Pyramid6 Plug=4
+Piece Pyramid4 Plug=4
+Piece Pyramid5 Plug=4
+Piece Pyramid3 Plug=4
+Piece Pyramid1 Plug=4
+Piece Cave4 Plug=5
+Piece Cave1 Plug=5
+Piece Cave3 Plug=5
+Piece Cave2 Plug=5
+================= LAYOUT =============
+[0] Temple [Q=21, D=15]
+	[1] Pyramid4 [Q=0, D=0]
+	[2] Totem10 [Q=15, D=9]
+		[3] Totem1 [Q=14, D=8]
+			[4] Totem6 [Q=13, D=7]
+				[5] Totem7 [Q=12, D=6]
+					[6] Totem3 [Q=11, D=5]
+						[7] Totem11 [Q=10, D=4]
+							[8] Totem8 [Q=9, D=3]
+								[9] Totem4 [Q=8, D=2]
+									[10] Totem2 [Q=7, D=1]
+										[11] TotemFinisher [Q=0, D=0]
+	[12] Cave3 [Q=0, D=0]
+	[13] Pyramid3 [Q=0, D=0]
+	[14] Pyramid2 [Q=0, D=0]
+	[15] Pyramid5 [Q=0, D=0]
+================= MESSAGES =============

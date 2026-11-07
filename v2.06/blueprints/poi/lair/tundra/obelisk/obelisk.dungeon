@@ -1,0 +1,33 @@
+[Dungeon]
+Type = Lair
+
+[Piece0]
+Blueprint = bottom
+Quantity = 1
+Weight = 0.5
+
+[Piece1]
+Blueprint = second_floor
+Quantity = 1
+Weight = 0.5
+
+[Piece2]
+Blueprint = third_floor
+Quantity = 1
+Weight = 0.5
+
+[Piece3]
+Blueprint = fourth_floor
+Quantity = 1
+Weight = 0.5
+
+[Piece4]
+Blueprint = top
+Quantity = 1
+Weight = 0.5
+
+[Piece5]
+Blueprint = boss
+Quantity = 1
+Weight = 0.5
+

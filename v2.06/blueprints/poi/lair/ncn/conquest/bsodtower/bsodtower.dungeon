@@ -1,0 +1,8 @@
+[Dungeon]
+Type = lair
+
+[Piece0]
+Blueprint = Env_NCN_lair_conquest_bsodtower_00
+Quantity = 1
+
+

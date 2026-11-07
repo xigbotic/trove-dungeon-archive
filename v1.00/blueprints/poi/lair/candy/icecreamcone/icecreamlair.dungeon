@@ -1,0 +1,102 @@
+[Dungeon]
+Type = Lair
+
+[Piece0]
+Blueprint = IceCreamLair_clair
+Quantity = 1
+Weight = 1
+
+[Piece1]
+Blueprint = IceCreamLair_clairb
+Quantity = 1
+Weight = 1
+
+[Piece2]
+Blueprint = IceCreamLair_clairc
+Quantity = 1
+Weight = 1
+
+[Piece3]
+Blueprint = IceCreamLair_claire
+Quantity = 1
+Weight = 1
+
+[Piece4]
+Blueprint = IceCreamLair_clair_room1a
+Quantity = 1
+Weight = 1
+
+[Piece5]
+Blueprint = IceCreamLair_clair_room1b
+Quantity = 1
+Weight = 1
+
+[Piece6]
+Blueprint = IceCreamLair_clair_room1ab
+Quantity = 1
+Weight = 1
+
+[Piece7]
+Blueprint = IceCreamLair_clair_room1bb
+Quantity = 1
+Weight = 1
+
+[Piece8]
+Blueprint = IceCreamLair_clair_room1ac
+Quantity = 1
+Weight = 1
+
+[Piece9]
+Blueprint = IceCreamLair_clair_room1bc
+Quantity = 1
+Weight = 1
+
+[Piece10]
+Blueprint = IceCreamLair_clair_room1ae
+Quantity = 1
+Weight = 1
+
+[Piece11]
+Blueprint = IceCreamLair_clair_room1be
+Quantity = 1
+Weight = 1
+
+[Piece12]
+Blueprint = IceCreamLair_clair_room2a
+Quantity = 1
+Weight = 1
+
+[Piece13]
+Blueprint = IceCreamLair_clair_room2b
+Quantity = 1
+Weight = 1
+
+[Piece14]
+Blueprint = IceCreamLair_clair_room2ab
+Quantity = 1
+Weight = 1
+
+[Piece15]
+Blueprint = IceCreamLair_clair_room2bb
+Quantity = 1
+Weight = 1
+
+[Piece16]
+Blueprint = IceCreamLair_clair_room2ac
+Quantity = 1
+Weight = 1
+
+[Piece17]
+Blueprint = IceCreamLair_clair_room2bc
+Quantity = 1
+Weight = 1
+
+[Piece18]
+Blueprint = IceCreamLair_clair_room2ae
+Quantity = 1
+Weight = 1
+
+[Piece19]
+Blueprint = IceCreamLair_clair_room2be
+Quantity = 1
+Weight = 1

@@ -1,0 +1,10 @@
+Seed -582065061
+TotalQueries 1
+================= PIECES =============
+Piece shrine_unity_three Plug=0 Size=19x20x18
+	Plug Position=0,0,1
+	AABB Min=-9,0,-9 Max=10,20,9
+================= LAYOUT =============
+[0] shrine_unity_three [Q=0, D=0]
+================= MESSAGES =============
+Dungeon.Type = Lair, 42x96x42 (64 up, 32 down)

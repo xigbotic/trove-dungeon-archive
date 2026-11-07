@@ -1,0 +1,7 @@
+[Dungeon]
+
+Type = Dungeon
+
+[Piece=0]
+Blueprint = Crater_Island
+Quantity = 1

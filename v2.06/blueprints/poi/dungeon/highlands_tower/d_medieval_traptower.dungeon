@@ -1,0 +1,132 @@
+[Dungeon]
+Type = Dungeon
+#Mode = 3-star dungeon
+#Title = Tower of Knowlegde
+#Creator = Evilagician
+
+#mainpiece
+[Piece0]
+Blueprint = d_medieval_traptower_sockets
+Quantity = 1
+
+#mainpiece
+[Piece1]
+Blueprint = d_medieval_traptower_under1
+Quantity = 1
+Weight = .55
+
+#mainpiece
+[Piece2]
+Blueprint = d_medieval_traptower_under2
+Quantity = 1
+Weight = .55
+
+#Selection left or right jumpers
+[Piece3]
+Blueprint = d_medieval_traptower_towers
+Quantity = 4
+
+[Piece4]
+Blueprint = d_medieval_traptower_land
+Quantity = 4
+
+[Piece5]
+Blueprint = d_medieval_traptower_spike0
+Quantity = 8
+Weight = .55
+
+[Piece6]
+Blueprint = d_medieval_traptower_spike1
+Quantity = 8
+Weight = .55
+
+[Piece7]
+Blueprint = d_medieval_traptower_spike2
+Quantity = 8
+Weight = .55
+
+[Piece8]
+Blueprint = d_medieval_traptower_spike3
+Quantity = 8
+Weight = .55
+
+[Piece9]
+Blueprint = d_medieval_traptower_tow_inner_stair_001
+Quantity = 1
+Weight = .55
+
+[Piece10]
+Blueprint = d_medieval_traptower_tow_inner_pad_001
+Quantity = 1
+Weight = .55
+
+[Piece11]
+Blueprint = d_medieval_traptower_tow_inner_stair_002
+Quantity = 1
+Weight = .55
+
+[Piece12]
+Blueprint = d_medieval_traptower_tow_inner_pad_002
+Quantity = 1
+Weight = .55
+
+[Piece13]
+Blueprint = d_medieval_traptower_hallway_block_001
+Quantity = 1
+
+[Piece14]
+Blueprint = d_medieval_traptower_hallway_block_002
+Quantity = 1
+
+[Piece15]
+Blueprint = d_medieval_traptower_hallway_block_003
+Quantity = 1
+
+[Piece16]
+Blueprint = d_medieval_traptower_hallway_block_004
+Quantity = 1
+
+[Piece17]
+Blueprint = d_medieval_traptower_hallway_enc_book_001
+Quantity = 1
+Weight = .55
+
+[Piece18]
+Blueprint = d_medieval_traptower_hallway_enc_lava_001
+Quantity = 1
+Weight = .55
+
+[Piece19]
+Blueprint = d_medieval_traptower_hallway_enc_book_002
+Quantity = 1
+Weight = .55
+
+[Piece20]
+Blueprint = d_medieval_traptower_hallway_enc_lava_002
+Quantity = 1
+Weight = .55
+
+[Piece21]
+Blueprint = d_medieval_traptower_hallway_minor_001
+Quantity = 1
+
+[Piece22]
+Blueprint = d_medieval_traptower_hallway_major_001
+Quantity = 1
+Weight = .55
+
+[Piece23]
+Blueprint = d_medieval_traptower_hallway_major_002
+Quantity = 1
+Weight = .55
+
+[Piece24]
+Blueprint = d_medieval_traptower_hallway_major_003
+Quantity = 1
+Weight = .55
+
+[Piece25]
+Blueprint = d_medieval_traptower_hallway_major_004
+Quantity = 1
+Weight = .55
+

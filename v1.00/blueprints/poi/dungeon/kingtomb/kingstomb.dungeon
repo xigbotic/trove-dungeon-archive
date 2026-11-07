@@ -1,0 +1,146 @@
+[Piece0]
+Blueprint = Landscape_RO_1
+Quantity = 1
+
+
+
+[Piece1]
+Blueprint = Entrance_OY_1
+Quantity = 1
+Weight = 0.1
+
+[Piece2]
+Blueprint = Entrance_OY_2
+Quantity = 1
+Weight = 0.2
+
+[Piece3]
+Blueprint = Entrance_OY_3
+Quantity = 1
+Weight = 0.2
+
+[Piece4]
+Blueprint = Entrance_OY_4
+Quantity = 1
+Weight = 0.2
+
+[Piece5]
+Blueprint = Entrance_OY_5
+Quantity = 1
+Weight = 0.2
+
+
+
+[Piece6]
+Blueprint = Hall_Y_0
+Quantity = 1
+Weight = 1
+
+[Piece7]
+Blueprint = Hall_Y_1
+Quantity = 1
+Weight = 1
+
+[Piece8]
+Blueprint = Hall_Y_2
+Quantity = 1
+Weight = 1
+
+[Piece9]
+Blueprint = Hall_Y_3
+Quantity = 1
+Weight = 1
+
+[Piece10]
+Blueprint = Hall_Y_4
+Quantity = 1
+Weight = 1
+
+
+
+[Piece11]
+Blueprint = BF2_PTPi_1
+Quantity = 1
+
+
+
+[Piece12]
+Blueprint = Deadend_B_1
+Quantity = 1
+Weight = 1
+
+[Piece13]
+Blueprint = Deadend_B_3
+Quantity = 2
+Weight = 1
+
+[Piece14]
+Blueprint = Deadend_B_4
+Quantity = 2
+Weight = 1
+
+[Piece15]
+Blueprint = Deadend_B_1
+Quantity = 2
+Weight = 0.2
+
+[Piece16]
+Blueprint = Deadend_B_3
+Quantity = 3
+Weight = 0.2
+
+[Piece17]
+Blueprint = Deadend_B_4
+Quantity = 4
+Weight = 0.2
+
+[Piece18]
+Blueprint = Deadend_B_2
+Quantity = 2
+Weight = 0.1
+
+[Piece19]
+Blueprint = Deadend_B_2
+Quantity = 50
+Weight = 0
+
+
+
+[Piece20]
+Blueprint = Room_T_1
+Quantity = 1
+
+[Piece21]
+Blueprint = Room_T_2
+Quantity = 1
+
+[Piece22]
+Blueprint = Room_T_3
+Quantity = 1
+
+
+
+[Piece23]
+Blueprint = Room_P_1
+Quantity = 1
+Weight = 0
+
+[Piece24]
+Blueprint = Room_P_2
+Quantity = 1
+Weight = 0
+
+[Piece25]
+Blueprint = Room_P_BSpawn
+Quantity = 1
+Weight = 1
+
+
+
+[Piece26]
+Blueprint = Room_G_Boss_1
+Quantity = 1
+
+[Piece27]
+Blueprint = Room_G_Boss_2
+Quantity = 1

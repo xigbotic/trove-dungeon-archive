@@ -1,0 +1,89 @@
+[Piece0]
+Blueprint = castle_base
+Quantity = 1
+Weight = 1
+
+[Piece1]
+Blueprint = tower_2
+Quantity = 1
+Weight = 1
+
+[Piece2]
+Blueprint = dragon_blue
+Quantity = 1
+Weight = 1
+
+[Piece2]
+Blueprint = dragon_green
+Quantity = 1
+Weight = 1
+
+[Piece2]
+Blueprint = dragon_red
+Quantity = 1
+Weight = 1
+
+[Piece2]
+Blueprint = dragon_white
+Quantity = 1
+Weight = 1
+
+[Piece3]
+Blueprint = tower_second_floor_1
+Quantity = 1
+Weight = 1
+
+[Piece4]
+Blueprint = tower_top_floor_1
+Quantity = 1
+Weight = 1
+
+[Piece5]
+Blueprint = statue_1
+Quantity = 1
+Weight = 1
+
+[Piece6]
+Blueprint = statue_2
+Quantity = 1
+Weight = 1
+
+[Piece7]
+Blueprint = medium_statue_1
+Quantity = 1
+Weight = 1
+
+[Piece8]
+Blueprint = medium_statue_2
+Quantity = 1
+Weight = 1
+
+[Piece9]
+Blueprint = medium_statue_3
+Quantity = 1
+Weight = 1
+
+[Piece10]
+Blueprint = medium_statue_4
+Quantity = 2
+Weight = 2
+
+[Piece11]
+Blueprint = tower_second_floor_2
+Quantity = 1
+Weight = 1
+
+[Piece12]
+Blueprint = tower_second_floor_3
+Quantity = 1
+Weight = 1
+
+[Piece13]
+Blueprint = tower_second_floor_4
+Quantity = 1
+Weight = 1
+
+[Piece14]
+Blueprint = tower_top_floor_3
+Quantity = 1
+Weight = 1

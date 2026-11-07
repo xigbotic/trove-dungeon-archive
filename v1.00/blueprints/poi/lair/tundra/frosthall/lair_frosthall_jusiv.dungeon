@@ -1,0 +1,42 @@
+[Dungeon]
+Type = Lair
+
+[Piece0]
+Blueprint = lair_FrostHall_top1
+Quantity = 1
+Weight = 0.33
+
+[Piece1]
+Blueprint = lair_FrostHall_top2
+Quantity = 1
+Weight = 0.33
+
+[Piece2]
+Blueprint = lair_FrostHall_top3
+Quantity = 1
+Weight = 0.33
+
+[Piece4]
+Blueprint = lair_FrostHall_mid2
+Quantity = 1
+Weight = 0.33
+
+[Piece5]
+Blueprint = lair_FrostHall_mid3
+Quantity = 1
+Weight = 0.33
+
+[Piece6]
+Blueprint = lair_FrostHall_boss1
+Quantity = 1
+Weight = 0.33
+
+[Piece7]
+Blueprint = lair_FrostHall_boss2
+Quantity = 1
+Weight = 0.33
+
+[Piece8]
+Blueprint = lair_FrostHall_boss3
+Quantity = 1
+Weight = 0.33

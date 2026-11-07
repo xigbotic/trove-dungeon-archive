@@ -1,0 +1,60 @@
+[Dungeon]
+Type = Dungeon
+#Mode = 5-star dungeon
+#Title = Shattered Observatory
+
+
+#Plug 0 Done
+[PieceSelectTop001]
+Blueprint = main_select_001
+Quantity = 1
+Weight = 0.66
+
+#Plug 0 Done
+[PieceSelectTop002]
+Blueprint = main_select_002
+Quantity = 1
+Weight = 0.66
+
+#Plug 1 groundbit main
+[PieceBody001]
+Blueprint = main_hole
+Quantity = 1
+Weight = 0.66
+
+[PieceBody002]
+Blueprint = main_land
+Quantity = 1
+Weight = 0.66
+
+#Plug 2 groundbit alt
+[PieceBody001alt]
+Blueprint = mainalt_hole
+Quantity = 1
+Weight = 0.54
+
+[PieceBody002alt]
+Blueprint = mainalt_land
+Quantity = 1
+Weight = 0.54
+
+#Plug 3 possible trigger position planetbuilding
+[TriggerBlue]
+Blueprint = blueplug
+Quantity = 1
+
+#Plug 4 possible trigger position top
+[TriggerPurple]
+Blueprint = purpleplug
+Quantity = 1
+
+#Plug 5 possible trigger position top
+[GreenMobspawn1]
+Blueprint = greenplug_001
+Quantity = 6
+Weight = 0.54
+
+[GreenMobspawn2]
+Blueprint = greenplug_002
+Quantity = 6
+Weight = 0.54

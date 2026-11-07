@@ -1,0 +1,18 @@
+[Dungeon]
+Type = lair
+
+[Piece0]
+Blueprint = shrine_building
+Quantity = 1
+
+[Piece1]
+Blueprint = shrine_roof
+Quantity = 1
+
+[Piece2]
+Blueprint = shrine_scroll
+Quantity = 1
+
+[Piece3]
+Blueprint = shrine_basement
+Quantity = 1

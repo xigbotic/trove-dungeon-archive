@@ -1,0 +1,68 @@
+[Dungeon]
+Type = dungeon
+
+[Piece0]
+Blueprint = core
+Quantity = 1
+Weight = 0.75
+
+[Piece1]
+Blueprint = core2
+Quantity = 1
+Weight = 0.25
+
+[Piece2]
+Blueprint = top
+Quantity = 1
+Weight = 1
+
+[Piece3]
+Blueprint = 1-water
+Quantity = 1
+Weight = 1
+
+[Piece4]
+Blueprint = 2-wood
+Quantity = 1
+Weight = 1
+
+[Piece5]
+Blueprint = 3-fire
+Quantity = 1
+Weight = 1
+
+[Piece6]
+Blueprint = 4-earth
+Quantity = 1
+Weight = 1
+
+[Piece7]
+Blueprint = 5-metal
+Quantity = 1
+Weight = 1
+
+[Piece8]
+Blueprint = 1-water2
+Quantity = 1
+Weight = 1
+
+[Piece9]
+Blueprint = 2-wood2
+Quantity = 1
+Weight = 1
+
+[Piece10]
+Blueprint = 3-fire2
+Quantity = 1
+Weight = 1
+
+[Piece11]
+Blueprint = 4-earth2
+Quantity = 1
+Weight = 1
+
+[Piece12]
+Blueprint = 5-metal2
+Quantity = 1
+Weight = 1
+

@@ -1,0 +1,44 @@
+Seed 2037601661
+TotalQueries 4
+================= PIECES =============
+Piece altar_01 Plug=0 Size=6x18x18
+	Plug Position=0,13,-5
+	AABB Min=-2,0,-10 Max=4,18,8
+	Socket 2
+	Socket 1
+Piece henge_01 Plug=1 Size=28x18x27
+	Plug Position=-1,7,-5
+	AABB Min=-14,0,-14 Max=14,18,13
+Piece topfloor_03 Plug=2 Size=24x11x28
+	Plug Position=-3,4,10
+	AABB Min=-12,0,-14 Max=12,11,14
+	Socket 3
+Piece topfloor_03b Plug=2 Size=24x11x28
+	Plug Position=-3,4,10
+	AABB Min=-12,0,-14 Max=12,11,14
+	Socket 3
+Piece topfloor_02b Plug=2 Size=24x11x28
+	Plug Position=-3,4,10
+	AABB Min=-12,0,-14 Max=12,11,14
+	Socket 3
+Piece topfloor_01 Plug=2 Size=24x11x28
+	Plug Position=-3,4,10
+	AABB Min=-12,0,-14 Max=12,11,14
+	Socket 3
+Piece topfloor_02 Plug=2 Size=24x11x28
+	Plug Position=-3,4,10
+	AABB Min=-12,0,-14 Max=12,11,14
+	Socket 3
+Piece bottomfloor_01b Plug=3 Size=24x11x28
+	Plug Position=4,10,-10
+	AABB Min=-12,0,-14 Max=12,11,14
+Piece bottomfloor_01 Plug=3 Size=24x11x28
+	Plug Position=4,10,-10
+	AABB Min=-12,0,-14 Max=12,11,14
+================= LAYOUT =============
+[0] altar_01 [Q=3, D=3]
+	[1] topfloor_01 [Q=1, D=1]
+		[2] bottomfloor_01 [Q=0, D=0]
+	[3] henge_01 [Q=0, D=0]
+================= MESSAGES =============
+Dungeon.Type = Lair, 32x96x32 (64 up, 32 down)

@@ -1,0 +1,22 @@
+Seed -1973610472
+TotalQueries 2
+================= PIECES =============
+Piece Beetle_Tree_1 Plug=0 Size=35x61x35
+	Plug Position=0,25,0
+	AABB Min=-17,18,-17 Max=18,79,18
+	Socket 1
+Piece Beetle_Tree_2 Plug=0 Size=35x61x35
+	Plug Position=0,25,0
+	AABB Min=-17,18,-17 Max=18,79,18
+	Socket 1
+Piece Beetle_Bottom_2 Plug=1 Size=35x18x35
+	Plug Position=0,17,-5
+	AABB Min=-17,0,-17 Max=18,18,18
+Piece Beetle_Bottom_1 Plug=1 Size=35x18x35
+	Plug Position=0,17,-5
+	AABB Min=-17,0,-17 Max=18,18,18
+================= LAYOUT =============
+[0] Beetle_Tree_2 [Q=1, D=1]
+	[1] Beetle_Bottom_1 [Q=0, D=0]
+================= MESSAGES =============
+Dungeon.Type = Lair, 42x96x42 (64 up, 32 down)

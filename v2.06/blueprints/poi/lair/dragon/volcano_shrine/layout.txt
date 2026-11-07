@@ -1,0 +1,60 @@
+Seed -712111606
+TotalQueries 3
+================= PIECES =============
+Piece volcano_01 Plug=0 Size=28x14x28
+	Plug Position=0,3,0
+	AABB Min=-14,0,-14 Max=14,14,14
+	Socket 1
+Piece volcano_03 Plug=0 Size=28x25x28
+	Plug Position=0,3,0
+	AABB Min=-14,0,-14 Max=14,25,14
+	Socket 1
+Piece volcano_04 Plug=0 Size=28x27x28
+	Plug Position=0,3,0
+	AABB Min=-14,0,-14 Max=14,27,14
+	Socket 1
+Piece volcano_02 Plug=0 Size=28x18x28
+	Plug Position=0,3,0
+	AABB Min=-14,0,-14 Max=14,18,14
+	Socket 1
+Piece basement_01a Plug=1 Size=28x11x28
+	Plug Position=-2,10,-6
+	AABB Min=-14,0,-14 Max=14,11,14
+	Socket 2
+Piece basement_02a Plug=1 Size=28x11x28
+	Plug Position=-2,10,-6
+	AABB Min=-14,0,-14 Max=14,11,14
+	Socket 2
+Piece basement_01b Plug=1 Size=28x11x28
+	Plug Position=-2,10,-6
+	AABB Min=-14,0,-14 Max=14,11,14
+	Socket 2
+Piece basement_02b Plug=1 Size=28x11x28
+	Plug Position=-2,10,-6
+	AABB Min=-14,0,-14 Max=14,11,14
+	Socket 2
+Piece basement_01d Plug=1 Size=28x11x28
+	Plug Position=-2,10,-6
+	AABB Min=-14,0,-14 Max=14,11,14
+	Socket 2
+Piece basement_02d Plug=1 Size=28x11x28
+	Plug Position=-2,10,-6
+	AABB Min=-14,0,-14 Max=14,11,14
+	Socket 2
+Piece basement_01c Plug=1 Size=28x11x28
+	Plug Position=-2,10,-6
+	AABB Min=-14,0,-14 Max=14,11,14
+	Socket 2
+Piece basement_02c Plug=1 Size=28x11x28
+	Plug Position=-2,10,-6
+	AABB Min=-14,0,-14 Max=14,11,14
+	Socket 2
+Piece boss_room_01 Plug=2 Size=28x11x28
+	Plug Position=-8,10,-1
+	AABB Min=-14,0,-14 Max=14,11,14
+================= LAYOUT =============
+[0] volcano_03 [Q=2, D=2]
+	[1] basement_01c [Q=1, D=1]
+		[2] boss_room_01 [Q=0, D=0]
+================= MESSAGES =============
+Dungeon.Type = Lair, 32x96x32 (64 up, 32 down)

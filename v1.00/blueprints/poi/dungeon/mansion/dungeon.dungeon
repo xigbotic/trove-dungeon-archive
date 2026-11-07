@@ -1,0 +1,71 @@
+[Piece0]
+Blueprint = Dungeonbasev1
+Quantity = 1
+
+[Piece1]
+Blueprint = Dungeonbasev2
+Quantity = 1
+
+[Piece2]
+Blueprint = Dungeonbackhallv1
+Quantity = 1
+
+[Piece3]
+Blueprint = Dungeonbackhallv2
+Quantity = 1
+
+[Piece4]
+Blueprint = Dungeonbuildingv1
+Quantity = 1
+
+[Piece5]
+Blueprint = Dungeonbuildingv2
+Quantity = 1
+
+[Piece6]
+Blueprint = Dungeonentrancehallv1
+Quantity = 1
+
+[Piece7]
+Blueprint = Dungeonentrancehallv2
+Quantity = 1
+
+[Piece8]
+Blueprint = Dungeonlefthallv1
+Quantity = 1
+
+[Piece9]
+Blueprint = Dungeonlefthallv2
+Quantity = 1
+
+[Piece10]
+Blueprint = Dungeonmainv1
+Quantity = 1
+
+[Piece11]
+Blueprint = Dungeonmainv2
+Quantity = 1
+
+[Piece12]
+Blueprint = Dungeonrighthallv1
+Quantity = 1
+
+[Piece13]
+Blueprint = Dungeonrighthallv2
+Quantity = 1
+
+[Piece14]
+Blueprint = Dungeonroomv1
+Quantity = 2
+
+[Piece15]
+Blueprint = Dungeonroomv2
+Quantity = 2
+
+[Piece16]
+Blueprint = Dungeonroomv3
+Quantity = 1
+
+[Piece17]
+Blueprint = Dungeonroomv4
+Quantity = 2

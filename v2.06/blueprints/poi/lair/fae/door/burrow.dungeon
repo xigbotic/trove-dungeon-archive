@@ -1,0 +1,25 @@
+[Dungeon]
+
+Type = Lair
+
+[Piece0]
+Blueprint = DNG_Burrow_Entrance
+Quantity = 1
+
+[Piece1]
+Blueprint = DNG_Burrow_CaveA
+Quantity = 1
+Weight = 0.5
+
+[Piece2]
+Blueprint = DNG_Burrow_CaveB
+Quantity = 1
+Weight = 0.5
+
+[Piece3]
+Blueprint = DNG_Burrow_Stairs
+Quantity = 1
+
+[Piece4]
+Blueprint = DNG_Burrow_Throne
+Quantity = 1

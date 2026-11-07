@@ -1,0 +1,167 @@
+[Dungeon]
+Type = Dungeon
+
+[Piece0]
+Blueprint = Main
+Quantity = 1
+
+[Piece1]
+Blueprint = Lobby_a
+Quantity = 1
+Weight = 0.5
+
+[Piece2]
+Blueprint = Lobby_b
+Quantity = 1
+Weight = 0.5
+
+[Piece3]
+Blueprint = Rock_1
+Quantity = 1
+Weight = 0.5
+
+[Piece4]
+Blueprint = Rock_2
+Quantity = 1
+Weight = 0.5
+
+[Piece5]
+Blueprint = Rock_3
+Quantity = 1
+Weight = 0.5
+
+[Piece6]
+Blueprint = Tree_1
+Quantity = 1
+Weight = 0.5
+
+[Piece7]
+Blueprint = Tree_2
+Quantity = 1
+Weight = 0.5
+
+[Piece8]
+Blueprint = Tree_3
+Quantity = 1
+Weight = 0.5
+
+[Piece9]
+Blueprint = Tree_4
+Quantity = 1
+Weight = 0.5
+
+[Piece10]
+Blueprint = Tree_5
+Quantity = 1
+Weight = 0.5
+
+[Piece11]
+Blueprint = Outside_1
+Quantity = 1
+Weight = 0.5
+
+[Piece12]
+Blueprint = Outside_2
+Quantity = 1
+Weight = 0.5
+
+[Piece13]
+Blueprint = Room_1
+Quantity = 1
+Weight = 0.5
+
+[Piece14]
+Blueprint = Room_2
+Quantity = 1
+Weight = 0.5
+
+[Piece15]
+Blueprint = Room_3
+Quantity = 1
+Weight = 0.5
+
+[Piece16]
+Blueprint = Room_4
+Quantity = 1
+Weight = 0.5
+
+[Piece17]
+Blueprint = Room_5
+Quantity = 1
+Weight = 0.5
+
+[Piece18]
+Blueprint = Room_6
+Quantity = 1
+Weight = 0.5
+
+[Piece19]
+Blueprint = Room_7
+Quantity = 1
+Weight = 0.5
+
+[Piece20]
+Blueprint = Room_8
+Quantity = 1
+Weight = 0.5
+
+[Piece21]
+Blueprint = Jail_1
+Quantity = 5
+Weight = 0.5
+
+[Piece22]
+Blueprint = Jail_2
+Quantity = 5
+Weight = 0.5
+
+[Piece23]
+Blueprint = Jail_3
+Quantity = 5
+Weight = 0.5
+
+[Piece24]
+Blueprint = Jail_4
+Quantity = 5
+Weight = 0.5
+
+[Piece25]
+Blueprint = Floating_1
+Quantity = 1
+
+[Piece26]
+Blueprint = Floating_2
+Quantity = 1
+
+[Piece27]
+Blueprint = Floating_3
+Quantity = 1
+
+[Piece28]
+Blueprint = HoleFiller_1
+Quantity = 7
+Weight = 0.5
+
+[Piece29]
+Blueprint = HoleFiller_2
+Quantity = 7
+Weight = 0.5
+
+[Piece30]
+Blueprint = HoleFiller_3
+Quantity = 7
+Weight = 0.5
+
+[Piece31]
+Blueprint = HoleFiller_4
+Quantity = 7
+Weight = 0.5
+
+[Piece32]
+Blueprint = HoleFiller_5
+Quantity = 7
+Weight = 0.5
+
+
+
+

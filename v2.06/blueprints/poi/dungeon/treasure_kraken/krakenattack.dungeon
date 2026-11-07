@@ -1,0 +1,57 @@
+[Dungeon]
+Type = dungeon
+
+[Piece0]
+Blueprint = core
+Quantity = 1
+Weight = 1
+
+[Piece1]
+Blueprint = centera
+Quantity = 1
+Weight = 0.5
+
+[Piece2]
+Blueprint = centerb
+Quantity = 1
+Weight = 0.5
+
+[Piece3]
+Blueprint = facea
+Quantity = 1
+Weight = 0.5
+
+[Piece4]
+Blueprint = faceb
+Quantity = 1
+Weight = 0.5
+
+[Piece5]
+Blueprint = lefta
+Quantity = 1
+Weight = 0.5
+
+[Piece6]
+Blueprint = leftb
+Quantity = 1
+Weight = 0.5
+
+[Piece7]
+Blueprint = righta
+Quantity = 1
+Weight = 0.5
+
+[Piece8]
+Blueprint = rightb
+Quantity = 1
+Weight = 0.5
+
+[Piece9]
+Blueprint = butta
+Quantity = 1
+Weight = 0.5
+
+[Piece10]
+Blueprint = buttb
+Quantity = 1
+Weight = 0.5

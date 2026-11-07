@@ -1,0 +1,119 @@
+[Piece0]
+Blueprint = DNG_ecospire_C1
+Quantity = 1
+Weight = 5
+
+[Piece1]
+Blueprint = DNG_ecospire_C2
+Quantity = 1
+Weight = 4
+
+[Piece2]
+Blueprint = DNG_ecospire_C3
+Quantity = 1
+Weight = 0
+
+[Piece3]
+Blueprint = DNG_ecospire_CA1
+Quantity = 1
+Weight = 5
+
+[Piece4]
+Blueprint = DNG_ecospire_CA2
+Quantity = 1
+Weight = 4
+
+[Piece5]
+Blueprint = DNG_ecospire_CA3
+Quantity = 1
+Weight = 0
+
+[Piece6]
+Blueprint = DNG_ecospire_D1
+Quantity = 1
+Weight = 5
+
+[Piece7]
+Blueprint = DNG_ecospire_D2
+Quantity = 1
+Weight = 4
+
+[Piece8]
+Blueprint = DNG_ecospire_D3
+Quantity = 1
+Weight = 0
+
+[Piece9]
+Blueprint = DNG_ecospire_F1
+Quantity = 1
+Weight = 5
+
+[Piece10]
+Blueprint = DNG_ecospire_F2
+Quantity = 1
+Weight = 4
+
+[Piece11]
+Blueprint = DNG_ecospire_F3
+Quantity = 1
+Weight = 0
+
+[Piece12]
+Blueprint = DNG_ecospire_FA1
+Quantity = 1
+Weight = 5
+
+[Piece13]
+Blueprint = DNG_ecospire_FA2
+Quantity = 1
+Weight = 4
+
+[Piece14]
+Blueprint = DNG_ecospire_FA3
+Quantity = 1
+Weight = 0
+
+[Piece15]
+Blueprint = DNG_ecospire_I1
+Quantity = 1
+Weight = 5
+
+[Piece16]
+Blueprint = DNG_ecospire_I2
+Quantity = 1
+Weight = 4
+
+[Piece17]
+Blueprint = DNG_ecospire_I3
+Quantity = 1
+Weight = 0
+
+[Piece18]
+Blueprint = DNG_ecospire_layout
+Quantity = 1
+
+[Piece19]
+Blueprint = DNG_ecospire_panel
+Quantity = 2
+
+[Piece20]
+Blueprint = DNG_ecospire_holo
+Quantity = 2
+
+[Piece21]
+Blueprint = DNG_ecospire_Dr1
+Quantity = 1
+Weight = 5
+
+[Piece22]
+Blueprint = DNG_ecospire_Dr2
+Quantity = 1
+Weight = 4
+
+[Piece23]
+Blueprint = DNG_ecospire_Dr3
+Quantity = 1
+Weight = 0
+
+
+

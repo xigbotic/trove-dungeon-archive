@@ -1,0 +1,146 @@
+[Floor.1]
+Blueprint = pin_all_1
+Quantity = 1
+Weight = 100
+
+
+
+[Letters.0]
+Blueprint = pin_Letters_0
+Weight = 1
+
+[Letters.1]
+Blueprint = pin_Letters_1
+Weight = 1
+
+[Letters.2]
+Blueprint = pin_Letters_2
+Weight = 1
+
+[Letters.3]
+Blueprint = pin_Letters_3
+Weight = 1
+
+[Letters.4]
+Blueprint = pin_Letters_4
+Weight = 1
+
+[Letters.5]
+Blueprint = pin_Letters_5
+Weight = 1
+
+[Letters.6]
+Blueprint = pin_Letters_6
+Weight = 1
+
+[Letters.7]
+Blueprint = pin_Letters_7
+Weight = 1
+
+[Letters.8]
+Blueprint = pin_Letters_8
+Weight = 1
+
+[Letters.9]
+Blueprint = pin_Letters_9
+Weight = 1
+
+
+
+
+[Base.Highlands]
+Blueprint = pin_base_hills_1
+
+[Base.Candy]
+Blueprint = pin_base_cand_1
+
+[Base.Undead]
+Blueprint = pin_base_dead_1
+
+[Base.Desert]
+Blueprint = pin_base_des_1
+
+[Base.Dragon]
+Blueprint = pin_base_drag_1
+
+[Base.Fae]
+Blueprint = pin_base_fae_1
+
+[Base.Ice]
+Blueprint = pin_base_ice_1
+
+[Base.Sky]
+Blueprint = pin_base_sky_1
+
+
+
+[Entrance0.1]
+Blueprint = pin_pf_1
+
+[Entrance0.2]
+Blueprint = pin_pf_2
+
+
+[Room1.1P]
+Blueprint = pin_room1_1_p
+
+
+[Room1.2P]
+Blueprint = pin_room1_2_p
+
+
+[Room12.1_P]
+Blueprint = pin_room12_1_p
+
+[Room12.2]
+Blueprint = pin_room12_2
+
+
+
+[Room2.1]
+Blueprint = pin_room2_1
+
+[Room2.2]
+Blueprint = pin_room2_2
+
+
+
+[BossLow.1]
+Blueprint = pin_bosslow_1
+
+[BossLow.2]
+Blueprint = pin_bosslow_2
+
+[BossLow.3]
+Blueprint = pin_bosslow_3
+
+
+
+[BossHigh.1]
+Blueprint = pin_bosshigh_1
+
+[BossHigh.2]
+Blueprint = pin_bosshigh_2
+
+[BossHigh.3]
+Blueprint = pin_bosshigh_3
+
+
+
+
+[Room3.1]
+Blueprint = pin_room3_1
+
+[Room3.2]
+Blueprint = pin_room3_2
+
+
+
+
+
+
+
+
+
+
+

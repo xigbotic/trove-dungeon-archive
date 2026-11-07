@@ -1,0 +1,294 @@
+[Piece0]
+Blueprint = DNG_island_lava_01a
+Quantity = 1
+Weight = .3
+
+[Piece1]
+Blueprint = DNG_island_lava_01b
+Quantity = 1
+Weight = .3
+
+[Piece2]
+Blueprint = DNG_island_lava_02
+Quantity = 1
+Weight = .3
+
+[Piece3]
+Blueprint = DNG_crater_01
+Quantity = 1
+Weight = .5
+
+[Piece4]
+Blueprint = DNG_crater_02
+Quantity = 1
+Weight = .5
+
+[Piece5]
+Blueprint = DNG_statue_meteor
+Quantity = 2
+Weight = .2
+
+[Piece6]
+Blueprint = DNG_statue_emblemfire
+Quantity = 2
+Weight = .3
+
+[Piece7]
+Blueprint = DNG_statue_emblem
+Quantity = 2
+Weight = .4
+
+[Piece8]
+Blueprint = DNG_statue_dragon_rest
+Quantity = 2
+Weight = .5
+
+[Piece9]
+Blueprint = DNG_statue_kneel
+Quantity = 2
+Weight = .6
+
+[Piece10]
+Blueprint = DNG_statue_dragon_biped
+Quantity = 2
+Weight = .7
+
+[Piece11]
+Blueprint = DNG_statue_meteor
+Quantity = 12
+Weight = 1
+
+[Piece12]
+Blueprint = DNG_rock_float_03dd
+Quantity = 1
+Weight = .01
+
+[Piece13]
+Blueprint = DNG_rock_float_03dc
+Quantity = 1
+Weight = .02
+
+[Piece14]
+Blueprint = DNG_rock_float_03db
+Quantity = 1
+Weight = .03
+
+[Piece15]
+Blueprint = DNG_rock_float_03da
+Quantity = 1
+Weight = .04
+
+[Piece16]
+Blueprint = DNG_rock_float_04bd
+Quantity = 1
+Weight = .01
+
+[Piece17]
+Blueprint = DNG_rock_float_04bc
+Quantity = 1
+Weight = .02
+
+[Piece18]
+Blueprint = DNG_rock_float_04bb
+Quantity = 1
+Weight = .03
+
+[Piece19]
+Blueprint = DNG_rock_float_05ba
+Quantity = 1
+Weight = .04
+
+[Piece20]
+Blueprint = DNG_rock_float_05bd
+Quantity = 1
+Weight = .01
+
+[Piece21]
+Blueprint = DNG_rock_float_05bc
+Quantity = 1
+Weight = .02
+
+[Piece22]
+Blueprint = DNG_rock_float_05bb
+Quantity = 1
+Weight = .03
+
+[Piece23]
+Blueprint = DNG_rock_float_05ba
+Quantity = 1
+Weight = .04
+
+[Piece24]
+Blueprint = DNG_rock_float_05cd
+Quantity = 1
+Weight = .01
+
+[Piece25]
+Blueprint = DNG_rock_float_05cc
+Quantity = 1
+Weight = .02
+
+[Piece26]
+Blueprint = DNG_rock_float_05cb
+Quantity = 1
+Weight = .03
+
+[Piece27]
+Blueprint = DNG_rock_float_05ca
+Quantity = 1
+Weight = .04
+
+[Piece28]
+Blueprint = DNG_rock_float_02d
+Quantity = 1
+Weight = .1
+
+[Piece29]
+Blueprint = DNG_rock_float_02c
+Quantity = 1
+Weight = .2
+
+[Piece30]
+Blueprint = DNG_rock_float_02b
+Quantity = 1
+Weight = .3
+
+[Piece31]
+Blueprint = DNG_rock_float_02a
+Quantity = 1
+Weight = .4
+
+[Piece32]
+Blueprint = DNG_rock_float_03ad
+Quantity = 1
+Weight = .1
+
+[Piece33]
+Blueprint = DNG_rock_float_03ac
+Quantity = 1
+Weight = .2
+
+[Piece34]
+Blueprint = DNG_rock_float_03ab
+Quantity = 1
+Weight = .3
+
+[Piece35]
+Blueprint = DNG_rock_float_03aa
+Quantity = 1
+Weight = .4
+
+[Piece36]
+Blueprint = DNG_rock_float_03bd
+Quantity = 1
+Weight = .1
+
+[Piece37]
+Blueprint = DNG_rock_float_03bc
+Quantity = 1
+Weight = .2
+
+[Piece38]
+Blueprint = DNG_rock_float_03bb
+Quantity = 1
+Weight = .3
+
+[Piece39]
+Blueprint = DNG_rock_float_03ba
+Quantity = 1
+Weight = .4
+
+[Piece40]
+Blueprint = DNG_rock_float_03cd
+Quantity = 1
+Weight = .1
+
+[Piece41]
+Blueprint = DNG_rock_float_03cc
+Quantity = 1
+Weight = .2
+
+[Piece42]
+Blueprint = DNG_rock_float_03cb
+Quantity = 1
+Weight = .3
+
+[Piece43]
+Blueprint = DNG_rock_float_03ca
+Quantity = 1
+Weight = .4
+
+[Piece44]
+Blueprint = DNG_rock_float_04ad
+Quantity = 1
+Weight = .1
+
+[Piece45]
+Blueprint = DNG_rock_float_04ac
+Quantity = 1
+Weight = .2
+
+[Piece46]
+Blueprint = DNG_rock_float_04ab
+Quantity = 1
+Weight = .3
+
+[Piece47]
+Blueprint = DNG_rock_float_04aa
+Quantity = 1
+Weight = .4
+
+[Piece48]
+Blueprint = DNG_rock_float_05ad
+Quantity = 1
+Weight = .1
+
+[Piece49]
+Blueprint = DNG_rock_float_05ac
+Quantity = 1
+Weight = .2
+
+[Piece50]
+Blueprint = DNG_rock_float_05ab
+Quantity = 1
+Weight = .3
+
+[Piece51]
+Blueprint = DNG_rock_float_05aa
+Quantity = 1
+Weight = .4
+
+[Piece52]
+Blueprint = DNG_rock_float_01d
+Quantity = 1
+Weight = .1
+
+[Piece53]
+Blueprint = DNG_rock_float_01c
+Quantity = 1
+Weight = .2
+
+[Piece54]
+Blueprint = DNG_rock_float_01b
+Quantity = 1
+Weight = .3
+
+[Piece55]
+Blueprint = DNG_rock_float_01a
+Quantity = 4
+Weight = .4
+
+[Piece56]
+Blueprint = DNG_island_float_01c
+Quantity = 1
+Weight = .1
+
+[Piece57]
+Blueprint = DNG_island_float_01b
+Quantity = 1
+Weight = .25
+
+[Piece58]
+Blueprint = DNG_island_float_01a
+Quantity = 1
+Weight = .5

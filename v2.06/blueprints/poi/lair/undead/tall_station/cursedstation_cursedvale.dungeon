@@ -1,0 +1,39 @@
+[Dungeon]
+Type = lair
+
+#Creator = Cyekie
+
+[PiecePillars]
+Blueprint = cursedstation_cursedvale_pillars
+Quantity = 1
+Weight = 1
+
+[PieceGameplay01]
+Blueprint = cursedstation_cursedvale_gameplay_01
+Quantity = 1
+Weight = 0.5
+
+[PieceGameplay02]
+Blueprint = cursedstation_cursedvale_gameplay_02
+Quantity = 1
+Weight = 0.5
+
+[PieceBossroom01]
+Blueprint = cursedstation_cursedvale_bossroom_01
+Quantity = 1
+Weight = 0.5
+
+[PieceBossroom02]
+Blueprint = cursedstation_cursedvale_bossroom_02
+Quantity = 1
+Weight = 0.5
+
+[PieceShards01]
+Blueprint = cursedstation_cursedvale_shards_01
+Quantity = 1
+Weight = 0.5
+
+[PieceShards02]
+Blueprint = cursedstation_cursedvale_shards_02
+Quantity = 1
+Weight = 0.5

@@ -1,0 +1,66 @@
+Seed 104835939
+TotalQueries 3
+================= PIECES =============
+Piece Coin_2 Plug=0 Size=35x35x35
+	Plug Position=0,2,0
+	AABB Min=-17,0,-17 Max=18,35,18
+	Socket 1
+Piece Coin_1 Plug=0 Size=35x35x35
+	Plug Position=0,2,0
+	AABB Min=-17,0,-17 Max=18,35,18
+	Socket 1
+Piece Boss_2 Plug=1 Size=39x14x39
+	Plug Position=-3,13,0
+	AABB Min=-19,0,-19 Max=20,14,20
+	Socket 2
+Piece Boss_1 Plug=1 Size=39x14x39
+	Plug Position=-3,13,0
+	AABB Min=-19,0,-19 Max=20,14,20
+	Socket 2
+Piece Gallery_1 Plug=2 Size=39x14x39
+	Plug Position=-3,13,0
+	AABB Min=-19,0,-19 Max=20,14,20
+	Socket 3
+	Socket 3
+	Socket 3
+	Socket 3
+	Socket 3
+	Socket 3
+	Socket 3
+	Socket 3
+Piece Gallery_2 Plug=2 Size=39x14x39
+	Plug Position=-3,13,0
+	AABB Min=-19,0,-19 Max=20,14,20
+Piece Painting_5 Plug=3 Size=11x8x2
+	Plug Position=0,0,-1
+	AABB Min=-5,0,-1 Max=6,8,1
+Piece Painting_7 Plug=3 Size=11x8x2
+	Plug Position=0,0,-1
+	AABB Min=-5,0,-1 Max=6,8,1
+Piece Painting_2 Plug=3 Size=11x8x2
+	Plug Position=0,0,-1
+	AABB Min=-5,0,-1 Max=6,8,1
+Piece Painting_6 Plug=3 Size=11x8x2
+	Plug Position=0,0,-1
+	AABB Min=-5,0,-1 Max=6,8,1
+Piece Painting_1 Plug=3 Size=11x8x2
+	Plug Position=0,0,-1
+	AABB Min=-5,0,-1 Max=6,8,1
+Piece Painting_3 Plug=3 Size=11x8x2
+	Plug Position=0,0,-1
+	AABB Min=-5,0,-1 Max=6,8,1
+Piece Painting_8 Plug=3 Size=11x8x2
+	Plug Position=0,0,-1
+	AABB Min=-5,0,-1 Max=6,8,1
+Piece Painting_9 Plug=3 Size=11x8x2
+	Plug Position=0,0,-1
+	AABB Min=-5,0,-1 Max=6,8,1
+Piece Painting_4 Plug=3 Size=11x8x2
+	Plug Position=0,0,-1
+	AABB Min=-5,0,-1 Max=6,8,1
+================= LAYOUT =============
+[0] Coin_2 [Q=2, D=2]
+	[1] Boss_2 [Q=1, D=1]
+		[2] Gallery_2 [Q=0, D=0]
+================= MESSAGES =============
+Dungeon.Type = Lair, 42x96x42 (64 up, 32 down)

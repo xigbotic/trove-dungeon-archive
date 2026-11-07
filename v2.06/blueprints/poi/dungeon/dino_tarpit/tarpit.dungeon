@@ -1,0 +1,59 @@
+[Dungeon]
+Type = dungeon
+
+[Piece0]
+Blueprint = entrance
+Quantity = 1
+Weight = 1
+
+[Piece1]
+Blueprint = surface1
+Quantity = 4
+Weight = 0.4
+
+[Piece2]
+Blueprint = surface2
+Quantity = 4
+Weight = 0.2
+
+[Piece3]
+Blueprint = surface3
+Quantity = 4
+Weight = 0.2
+
+[Piece4]
+Blueprint = surface4
+Quantity = 4
+Weight = 0.2
+
+[Piece5]
+Blueprint = room1
+Quantity = 1
+Weight = 1
+
+[Piece6]
+Blueprint = room3
+Quantity = 1
+Weight = 1
+
+[Piece7]
+Blueprint = room2a
+Quantity = 1
+Weight = 1
+
+[Piece8]
+Blueprint = room2b
+Quantity = 1
+Weight = 1
+
+[Piece9]
+Blueprint = boss1
+Quantity = 1
+Weight = 1
+Weight = 0.5
+
+[Piece10]
+Blueprint = boss2
+Quantity = 1
+Weight = 1
+Weight = 0.5

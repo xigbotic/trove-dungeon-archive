@@ -1,0 +1,156 @@
+[Dungeon]
+Type = Dungeon
+
+[Piece0]
+Blueprint = Black-hole
+Quantity = 1
+
+[Piece1]
+Blueprint = Link-1
+Quantity = 1
+Weight = 0.45
+
+[Piece2]
+Blueprint = Link-2
+Quantity = 1
+Weight = 0.55
+
+[Piece3]
+Blueprint = shadow-platform-1-blue
+Quantity = 1
+Weight = 0.45
+
+[Piece4]
+Blueprint = shadow-platform-1-purple
+Quantity = 1
+Weight = 0.55
+
+[Piece5]
+Blueprint = shadow-platform-2-blue
+Quantity = 1
+Weight = 0.55
+
+[Piece6]
+Blueprint = shadow-platform-2-purple
+Quantity = 1
+Weight = 0.45
+
+[Piece7]
+Blueprint = choco-platform
+Quantity = 1
+Weight = 0.65
+
+[Piece8]
+Blueprint = firepeaks-platform
+Quantity = 1
+Weight = 0.65
+
+[Piece9]
+Blueprint = ice-platform
+Quantity = 1
+Weight = 0.65
+
+[Piece10]
+Blueprint = neon-platform
+Quantity = 1
+Weight = 0.65
+
+[Piece11]
+Blueprint = pinata-platform
+Quantity = 1
+Weight = 0.65
+
+[Piece12]
+Blueprint = tentacle-platform
+Quantity = 1
+Weight = 0.55
+
+[Piece13]
+Blueprint = corrupted-ruins-platform
+Quantity = 1
+Weight = 0.55
+
+[Piece14]
+Blueprint = choco-things-around
+Quantity = 1
+Weight = 0.6
+
+[Piece15]
+Blueprint = choco-things-around-2
+Quantity = 1
+Weight = 0.6
+
+[Piece16]
+Blueprint = firepeaks-things-around
+Quantity = 1
+Weight = 0.6
+
+[Piece17]
+Blueprint = firepeaks-things-around-2
+Quantity = 1
+Weight = 0.6
+
+[Piece18]
+Blueprint = ice-things-around
+Quantity = 1
+Weight = 0.6
+
+[Piece19]
+Blueprint = ice-things-around-2
+Quantity = 1
+Weight = 0.6
+
+[Piece20]
+Blueprint = neon-things-around
+Quantity = 1
+Weight = 0.6
+
+[Piece21]
+Blueprint = neon-things-around-2
+Quantity = 1
+Weight = 0.6
+
+[Piece22]
+Blueprint = pinata-things-around
+Quantity = 1
+Weight = 0.6
+
+[Piece23]
+Blueprint = pinata-things-around-2
+Quantity = 1
+Weight = 0.6
+
+[Piece24]
+Blueprint = tentacle-things-around
+Quantity = 1
+Weight = 0.6
+
+[Piece25]
+Blueprint = tentacle-things-around-2
+Quantity = 1
+Weight = 0.6
+
+[Piece26]
+Blueprint = corrupted-ruins-things-around-1
+Quantity = 1
+Weight = 0.6
+
+[Piece27]
+Blueprint = corrupted-ruins-things-around-2
+Quantity = 1
+Weight = 0.6
+
+[Piece28]
+Blueprint = Traps-1
+Quantity = 1
+Weight = 0.75
+
+[Piece29]
+Blueprint = Traps-2
+Quantity = 1
+Weight = 0.85
+
+[Piece30]
+Blueprint = Traps-3
+Quantity = 1
+Weight = 0.90

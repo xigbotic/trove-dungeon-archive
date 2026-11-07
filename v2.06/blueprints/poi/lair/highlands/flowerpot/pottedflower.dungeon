@@ -1,0 +1,157 @@
+[Dungeon]
+Type = Lair
+
+[Piece0]
+Blueprint = Pot_01
+Quantity = 1
+Weight = 1
+
+[Piece1]
+Blueprint = Stem_01
+Quantity = 1
+Weight = 1
+
+[Piece2]
+Blueprint = Dirt_01
+Quantity = 1
+Weight = 1
+
+[Piece3]
+Blueprint = Lily_periwinkle
+Quantity = 1
+Weight = 1
+
+[Piece4]
+Blueprint = Stem_02
+Quantity = 1
+Weight = 1
+
+[Piece5]
+Blueprint = Lily_Orange
+Quantity = 1
+Weight = 1
+
+[Piece6]
+Blueprint = Stem_03
+Quantity = 1
+Weight = 1
+
+[Piece7]
+Blueprint = Stem_04
+Quantity = 1
+Weight = 1
+
+[Piece8]
+Blueprint = Pot_02
+Quantity = 1
+Weight = 1
+
+[Piece9]
+Blueprint = Pot_03
+Quantity = 1
+Weight = 1
+
+[Piece10]
+Blueprint = Dirt_02
+Quantity = 1
+Weight = 1
+
+[Piece11]
+Blueprint = Dirt_03
+Quantity = 1
+Weight = 1
+
+[Piece12]
+Blueprint = Dirt_04
+Quantity = 1
+Weight = 1
+
+[Piece13]
+Blueprint = Boss_01
+Quantity = 1
+Weight = 1
+
+[Piece14]
+Blueprint = Daisy_Pink
+Quantity = 1
+Weight = 1
+
+[Piece15]
+Blueprint = Daisy_Blue
+Quantity = 1
+Weight = 1
+
+[Piece16]
+Blueprint = Daisy_Purple
+Quantity = 1
+Weight = 1
+
+[Piece17]
+Blueprint = Boss_02
+Quantity = 1
+Weight = 1
+
+[Piece18]
+Blueprint = Eggplant
+Quantity = 1
+Weight = 1
+
+[Piece19]
+Blueprint = Pot_04
+Quantity = 1
+Weight = 1
+
+[Piece20]
+Blueprint = Sunflower
+Quantity = 1
+Weight = 1
+
+[Piece21]
+Blueprint = Buttercup
+Quantity = 1
+Weight = 1
+
+[Piece22]
+Blueprint = Flytrap
+Quanity = 1
+Weight = 1
+
+[Piece23]
+Blueprint = Dirt_05
+Quanity = 1
+Weight = 1
+
+[Piece24]
+Blueprint = Stem_05
+Quanity = 1
+Weight = 1
+
+[Piece25]
+Blueprint = Stem_06
+Quanity = 1
+Weight = 1
+
+[Piece26]
+Blueprint = Pot_05
+Quanity = 1
+Weight = 1
+
+[Piece27]
+Blueprint = Boss_03
+Quanity = 1
+Weight = 1
+
+[Piece28]
+Blueprint = Pot_06
+Quanity = 1
+Weight = 1
+
+[Piece29]
+Blueprint = Star_Purple
+Quanity = 1
+Weight = 1
+
+[Piece30]
+Blueprint = Star_Orange
+Quanity = 1
+Weight = 1

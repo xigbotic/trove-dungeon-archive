@@ -1,0 +1,92 @@
+[Piece0]
+Blueprint = comet_impact_main_a
+Quantity = 1
+
+[Piece1]
+Blueprint = comet_impact_main_b
+Quantity = 1
+
+[Piece2]
+Blueprint = comet_impact_yellow_a
+Quantity = 1
+Weight = .33
+
+[Piece3]
+Blueprint = comet_impact_yellow_b
+Quantity = 1
+Weight = .33
+
+[Piece4]
+Blueprint = comet_impact_yellow_c
+Quantity = 1
+Weight = .33
+
+[Piece5]
+Blueprint = comet_impact_purple_a
+Quantity = 1
+Weight = .33
+
+[Piece6]
+Blueprint = comet_impact_purple_b
+Quantity = 1
+Weight = .33
+
+[Piece7]
+Blueprint = comet_impact_purple_c
+Quantity = 1
+Weight = .33
+
+[Piece8]
+Blueprint = comet_impact_blue_a
+Quantity = 1
+Weight = .50
+
+[Piece9]
+Blueprint = comet_impact_blue_b
+Quantity = 1
+Weight = .20
+
+[Piece10]
+Blueprint = comet_impact_blue_c
+Quantity = 1
+Weight = .30
+
+[Piece11]
+Blueprint = comet_impact_green_a
+Quantity = 1
+Weight = .25
+
+[Piece12]
+Blueprint = comet_impact_green_b
+Quantity = 1
+Weight = .25
+
+[Piece13]
+Blueprint = comet_impact_green_c
+Quantity = 1
+Weight = .25
+
+[Piece14]
+Blueprint = comet_impact_green_d
+Quantity = 1
+Weight = .25
+
+[Piece15]
+Blueprint = comet_impact_green_e
+Quantity = 1
+Weight = .25
+
+[Piece16]
+Blueprint = comet_impact_orange_a
+Quantity = 1
+Weight = .25
+
+[Piece17]
+Blueprint = comet_impact_orange_b
+Quantity = 1
+Weight = .25
+
+[Piece18]
+Blueprint = comet_impact_orange_c
+Quantity = 1
+Weight = .50

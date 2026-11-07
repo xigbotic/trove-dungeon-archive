@@ -1,0 +1,21 @@
+[Dungeon]
+Type = Lair
+
+[Piece0]
+Blueprint = chapel
+Quantity = 1
+
+[Piece1]
+Blueprint = boss1
+Quantity = 1
+Weight = .33
+
+[Piece1]
+Blueprint = boss2
+Quantity = 1
+Weight = .33
+
+[Piece1]
+Blueprint = boss3
+Quantity = 1
+Weight = .33

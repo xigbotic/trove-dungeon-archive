@@ -1,0 +1,28 @@
+[Piece0]
+Blueprint = shades
+Quantity = 1
+
+[Piece1]
+Blueprint = room1
+Quantity = 1
+
+[Piece2]
+Blueprint = room2
+Quantity = 1
+
+[Piece3]
+Blueprint = room3
+Quantity = 1
+
+[Piece4]
+Blueprint = room4
+Quantity = 1
+
+[Piece5]
+Blueprint = room5
+Quantity = 1
+
+
+
+
+

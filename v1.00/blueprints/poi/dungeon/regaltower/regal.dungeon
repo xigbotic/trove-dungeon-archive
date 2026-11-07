@@ -1,0 +1,82 @@
+[Dungeon]
+Type = Dungeon
+
+[Piece0]
+Blueprint = basepiece
+Quantity = 1
+Weight = 1
+
+[Piece1]
+Blueprint = regal_miniboss_01
+Quantity = 1
+Weight = 1
+
+[Piece2]
+Blueprint = regal_miniboss_02
+Quantity = 1
+Weight = 1
+
+[Piece4]
+Blueprint = regal_centerarea_01
+Quantity = 2
+Weight = 1
+
+[Piece5]
+Blueprint = regal_boss_01
+Quantity = 1
+Weight = 1
+
+[Piece6]
+Blueprint = regal_centerarea_02
+Quantity = 2
+Weight = 1
+
+[Piece7]
+Blueprint = regal_miniboss_03
+Quantity = 1
+Weight = 1
+
+[Piece8]
+Blueprint = regal_boss_02
+Quantity = 1
+Weight = 1
+
+[Piece9]
+Blueprint = regal_centerarea_03
+Quantity = 2
+Weight = 1
+
+[Piece10]
+Blueprint = regal_miniboss_04
+Quantity = 1
+Weight = 1
+
+[Piece11]
+Blueprint = regal_miniboss_05
+Quantity = 1
+Weight = 1
+
+[Piece12]
+Blueprint = regal_miniboss_06
+Quantity = 1
+Weight = 1
+
+[Piece13]
+Blueprint = regal_miniboss_07
+Quantity = 1
+Weight = 1
+
+[Piece14]
+Blueprint = regal_centerarea_04
+Quantity = 2
+Weight = 1
+
+[Piece15]
+Blueprint = regal_boss_03
+Quantity = 1
+Weight = 1
+
+[Piece16]
+Blueprint = regal_boss_04
+Quantity = 1
+Weight = 1

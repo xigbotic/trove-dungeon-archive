@@ -1,0 +1,28 @@
+[Dungeon]
+Type = lair
+
+[Piece0]
+Blueprint = turtle1
+Quantity = 1
+weight= .50
+
+[Piece1]
+Blueprint = turtle2
+Quantity = 1
+weight = .50
+
+[Piece2]
+Blueprint = shellsand
+Quantity = 1
+weight = .33
+
+[Piece3]
+Blueprint = shellrock
+Quantity = 1
+weight = .33
+
+[Piece4]
+Blueprint = shellgrass
+Quantity = 1
+weight = .33
+

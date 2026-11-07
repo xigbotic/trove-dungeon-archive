@@ -1,0 +1,175 @@
+Seed -26489883
+TotalQueries 19
+================= PIECES =============
+Piece top_001 Plug=0 Size=115x79x115
+	Plug Position=0,10,0
+	AABB Min=-57,0,-57 Max=58,79,58
+	Socket 1
+Piece top_003 Plug=0 Size=115x80x115
+	Plug Position=0,10,0
+	AABB Min=-57,0,-57 Max=58,80,58
+	Socket 1
+Piece top_002 Plug=0 Size=115x80x115
+	Plug Position=0,10,0
+	AABB Min=-57,0,-57 Max=58,80,58
+	Socket 1
+Piece body_003 Plug=1 Size=115x40x115
+	Plug Position=0,39,0
+	AABB Min=-57,0,-57 Max=58,40,58
+	Socket 10
+	Socket 4
+Piece body_002 Plug=1 Size=115x40x115
+	Plug Position=0,39,0
+	AABB Min=-57,0,-57 Max=58,40,58
+	Socket 10
+	Socket 3
+Piece body_001 Plug=1 Size=115x40x115
+	Plug Position=0,39,0
+	AABB Min=-57,0,-57 Max=58,40,58
+	Socket 10
+	Socket 2
+Piece floorswitch_001 Plug=2 Size=1x34x1
+	Plug Position=0,34,0
+	AABB Min=0,1,0 Max=1,35,1
+	Socket 5
+	Socket 6
+	Socket 7
+Piece floorswitch_003 Plug=3 Size=1x34x1
+	Plug Position=0,34,0
+	AABB Min=0,1,0 Max=1,35,1
+	Socket 6
+	Socket 5
+	Socket 6
+Piece floorswitch_004 Plug=3 Size=1x34x1
+	Plug Position=0,34,0
+	AABB Min=0,1,0 Max=1,35,1
+	Socket 6
+	Socket 7
+	Socket 5
+Piece floorswitch_003 Plug=3 Size=1x34x1
+	Plug Position=0,34,0
+	AABB Min=0,1,0 Max=1,35,1
+	Socket 6
+	Socket 5
+	Socket 6
+Piece floorswitch_005 Plug=4 Size=1x34x1
+	Plug Position=0,34,0
+	AABB Min=0,1,0 Max=1,35,1
+	Socket 7
+	Socket 5
+	Socket 6
+Piece floorswitch_006 Plug=4 Size=1x34x1
+	Plug Position=0,34,0
+	AABB Min=0,1,0 Max=1,35,1
+	Socket 7
+	Socket 6
+	Socket 5
+Piece mazeinlay001_001 Plug=5 Size=99x10x99
+	Plug Position=0,1,0
+	AABB Min=-49,0,-49 Max=50,10,50
+	Socket 9
+	Socket 9
+	Socket 8
+	Socket 8
+Piece mazeinlay001_003 Plug=5 Size=99x10x99
+	Plug Position=0,1,0
+	AABB Min=-49,0,-49 Max=50,10,50
+	Socket 8
+	Socket 9
+	Socket 9
+	Socket 8
+Piece mazeinlay001_002 Plug=5 Size=99x10x99
+	Plug Position=0,1,0
+	AABB Min=-49,0,-49 Max=50,10,50
+	Socket 8
+	Socket 9
+	Socket 8
+	Socket 9
+Piece mazeinlay002_003 Plug=6 Size=99x10x99
+	Plug Position=0,1,0
+	AABB Min=-49,0,-49 Max=50,10,50
+	Socket 8
+	Socket 8
+	Socket 9
+	Socket 9
+Piece mazeinlay002_002 Plug=6 Size=99x10x99
+	Plug Position=0,1,0
+	AABB Min=-49,0,-49 Max=50,10,50
+	Socket 8
+	Socket 8
+	Socket 9
+	Socket 9
+Piece mazeinlay002_001 Plug=6 Size=99x10x99
+	Plug Position=0,1,0
+	AABB Min=-49,0,-49 Max=50,10,50
+	Socket 8
+	Socket 9
+	Socket 9
+	Socket 8
+Piece mazeinlay003_001 Plug=7 Size=99x10x99
+	Plug Position=0,1,0
+	AABB Min=-49,0,-49 Max=50,10,50
+	Socket 9
+	Socket 9
+	Socket 8
+	Socket 8
+Piece mazeinlay003_002 Plug=7 Size=99x10x99
+	Plug Position=0,1,0
+	AABB Min=-49,0,-49 Max=50,10,50
+	Socket 9
+	Socket 8
+	Socket 9
+	Socket 8
+Piece mazeinlay003_003 Plug=7 Size=99x10x99
+	Plug Position=0,1,0
+	AABB Min=-49,0,-49 Max=50,10,50
+	Socket 8
+	Socket 8
+	Socket 9
+	Socket 9
+Piece roomlarge_003 Plug=8 Size=20x9x31
+	Plug Position=7,0,14
+	AABB Min=-10,0,-15 Max=10,9,16
+Piece roomlarge_002 Plug=8 Size=20x9x31
+	Plug Position=7,0,14
+	AABB Min=-10,0,-15 Max=10,9,16
+Piece roomlarge_001 Plug=8 Size=20x9x31
+	Plug Position=7,0,14
+	AABB Min=-10,0,-15 Max=10,9,16
+Piece roomsmall_003 Plug=9 Size=20x9x20
+	Plug Position=-9,0,7
+	AABB Min=-10,0,-10 Max=10,9,10
+Piece roomsmall_001 Plug=9 Size=20x9x20
+	Plug Position=-9,0,7
+	AABB Min=-10,0,-10 Max=10,9,10
+Piece roomsmall_002 Plug=9 Size=20x9x20
+	Plug Position=-9,0,7
+	AABB Min=-10,0,-10 Max=10,9,10
+Piece triggersection_001 Plug=10 Size=45x36x41
+	Plug Position=0,34,0
+	AABB Min=-22,0,-20 Max=23,36,21
+Piece triggersection_002 Plug=10 Size=45x36x35
+	Plug Position=0,34,0
+	AABB Min=-22,0,-17 Max=23,36,18
+================= LAYOUT =============
+[0] top_001 [Q=18, D=18]
+	[1] body_002 [Q=17, D=17]
+		[2] triggersection_001 [Q=0, D=0]
+		[3] floorswitch_003 [Q=15, D=15]
+			[4] mazeinlay002_001 [Q=4, D=4]
+				[5] roomlarge_003 [Q=0, D=0]
+				[6] roomsmall_003 [Q=0, D=0]
+				[7] roomsmall_002 [Q=0, D=0]
+				[8] roomlarge_002 [Q=0, D=0]
+			[9] mazeinlay001_003 [Q=4, D=4]
+				[10] roomlarge_003 [Q=0, D=0]
+				[11] roomsmall_001 [Q=0, D=0]
+				[12] roomsmall_002 [Q=0, D=0]
+				[13] roomlarge_002 [Q=0, D=0]
+			[14] mazeinlay002_002 [Q=4, D=4]
+				[15] roomlarge_002 [Q=0, D=0]
+				[16] roomlarge_001 [Q=0, D=0]
+				[17] roomsmall_003 [Q=0, D=0]
+				[18] roomsmall_003 [Q=0, D=0]
+================= MESSAGES =============
+Dungeon.Type = Dungeon, 128x256x128

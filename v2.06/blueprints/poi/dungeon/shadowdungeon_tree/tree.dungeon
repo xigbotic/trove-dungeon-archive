@@ -1,0 +1,180 @@
+[Piece0]
+Blueprint = WorldTree_Base
+Quantity = 1
+Weight = 1
+
+[Piece1]
+Blueprint = WorldTree_boss_01
+Quantity = 1
+Weight = 1
+
+
+[Piece2]
+Blueprint = WorldTree_boss_02
+Quantity = 1
+Weight = 1
+
+
+[Piece3]
+Blueprint = WorldTree_boss_03
+Quantity = 1
+Weight = 1
+
+[Piece4]
+Blueprint = Boss_01
+Quantity = 1
+Weight = 1
+
+[Piece5]
+Blueprint = Boss_02
+Quantity = 1
+Weight = 1
+
+[Piece6]
+Blueprint = tree1
+Quantity = 12
+Weight = 3
+
+[Piece7]
+Blueprint = tree2
+Quantity = 8
+Weight = 2
+
+[Piece8]
+Blueprint = tree3
+Quantity = 5
+Weight = 1
+
+[Piece9]
+Blueprint = tree4
+Quantity = 3
+Weight = 1
+
+[Piece10]
+Blueprint = tree5
+Quantity = 3
+Weight = 2
+
+[Piece11]
+Blueprint = tree6
+Quantity = 3
+Weight = 2
+
+[Piece12]
+Blueprint = platform_med_01
+Quantity = 1
+Weight = 1
+
+[Piece13]
+Blueprint = platform_med_02
+Quantity = 3
+Weight = 1
+
+[Piece14]
+Blueprint = platform_med_03
+Quantity = 3
+Weight = 1
+
+[Piece15]
+Blueprint = platform_med_04
+Quantity = 3
+Weight = 1
+
+[Piece16]
+Blueprint = platform_med_05
+Quantity = 3
+Weight = 1
+
+[Piece17]
+Blueprint = platform_med_06
+Quantity = 1
+Weight = 1
+
+[Piece18]
+Blueprint = platform_sm_01
+Quantity = 1
+Weight = 1
+
+[Piece19]
+Blueprint = platform_sm_02
+Quantity = 3
+Weight = 1
+
+[Piece120]
+Blueprint = platform_sm_03
+Quantity = 3
+Weight = 1
+
+[Piece21]
+Blueprint = platform_sm_04
+Quantity = 5
+Weight = 1
+
+[Piece22]
+Blueprint = platform_sm_05
+Quantity = 5
+Weight = 1
+
+[Piece23]
+Blueprint = miniboss_05
+Quantity = 1
+Weight = 1
+
+[Piece24]
+Blueprint = platform_med_07
+Quantity = 1
+Weight = 1
+
+[Piece25]
+Blueprint = platform_med_08
+Quantity = 1
+Weight = 1
+
+[Piece26]
+Blueprint = platform_med_09
+Quantity = 1
+Weight = 1
+
+[Piece27]
+Blueprint = platform_sm_06
+Quantity = 5
+Weight = 1
+
+[Piece28]
+Blueprint = platform_sm_07
+Quantity = 2
+Weight = 1
+
+[Piece29]
+Blueprint = platform_sm_08
+Quantity = 2
+Weight = 1
+
+[Piece30]
+Blueprint = miniboss_02
+Quantity = 1
+Weight = 1
+
+
+[Piece31]
+Blueprint = miniboss_03
+Quantity = 1
+Weight = 1
+
+[Piece32]
+Blueprint = miniboss_04
+Quantity = 1
+Weight = 1
+
+[Piece33]
+Blueprint = Boss_03
+Quantity = 1
+Weight = 1
+
+[Piece34]
+Blueprint = Boss_04
+Quantity = 1
+Weight = 1
+
+
+

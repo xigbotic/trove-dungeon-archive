@@ -1,0 +1,259 @@
+[Dungeon]
+Type = Lair
+
+
+
+[Piece0]
+Blueprint = Pumpkin_Core_Fae
+Quantity = 1
+
+Weight = 1
+
+
+[Piece1]
+Blueprint = Pumpkin_Plugs
+
+Quantity = 1
+
+Weight = 1
+
+
+[Piece2]
+Blueprint = Room_BatHalls
+Quantity = 1
+Weight = 1
+
+
+
+[Piece3]
+Blueprint = Boss_Pumpking
+Quantity = 1
+
+Weight = 1
+
+
+
+[Piece4]
+Blueprint = Fae_1
+Quantity = 1
+
+Weight = 1
+
+
+
+[Piece5]
+Blueprint = Fae_2
+Quantity = 1
+
+Weight = 1
+
+
+
+[Piece6]
+Blueprint = Fae_3
+Quantity = 1
+
+Weight = 1
+
+
+
+[Piece7]
+Blueprint = Fae_4
+Quantity = 1
+
+Weight = 1
+
+
+
+[Piece8]
+Blueprint = Fae_5
+Quantity = 1
+
+Weight = 1
+
+
+
+[Piece9]
+Blueprint = Fae_6
+Quantity = 1
+
+Weight = 1
+
+
+
+[Piece10]
+Blueprint = Fae_7
+Quantity = 1
+
+Weight = 1
+
+
+
+[Piece11]
+Blueprint = Fae_8
+Quantity = 1
+
+Weight = 1
+
+
+
+[Piece12]
+Blueprint = Fae_9
+Quantity = 1
+
+Weight = 1
+
+
+
+[Piece13]
+Blueprint = Fae_10
+Quantity = 1
+
+Weight = 1
+
+
+
+[Piece14]
+Blueprint = Fae_11
+Quantity = 1
+
+Weight = 1
+
+
+
+[Piece15]
+Blueprint = Fae_12
+Quantity = 1
+
+Weight = 1
+
+
+
+[Piece16]
+Blueprint = Fae_13
+Quantity = 1
+
+Weight = 1
+
+
+
+[Piece17]
+Blueprint = Fae_14
+Quantity = 1
+
+Weight = 1
+
+
+
+[Piece18]
+Blueprint = Fae_15
+Quantity = 1
+
+Weight = 1
+
+
+
+[Piece19]
+Blueprint = Fae_16
+Quantity = 1
+
+Weight = 1
+
+
+
+[Piece20]
+Blueprint = Fae_17
+Quantity = 1
+
+Weight = 1
+
+
+
+[Piece21]
+Blueprint = Fae_18
+Quantity = 1
+
+Weight = 1
+
+
+
+[Piece22]
+Blueprint = Fae_19
+Quantity = 1
+
+Weight = 1
+
+
+
+[Piece23]
+Blueprint = Fae_20
+Quantity = 1
+
+Weight = 1
+
+
+
+[Piece24]
+Blueprint = Room_FireballBlitz
+Quantity = 1
+
+Weight = 1
+
+
+
+[Piece25]
+Blueprint = Room_Glass_Panes
+Quantity = 1
+
+Weight = 1
+
+
+
+[Piece26]
+Blueprint = Room_PurpleLavaSquares
+Quantity = 1
+
+Weight = 1
+
+
+
+[Piece27]
+Blueprint = Room_Dark
+Quantity = 1
+
+Weight = 1
+
+
+
+[Piece28]
+Blueprint = Room_Ghostly
+Quantity = 1
+
+Weight = 1
+
+
+
+[Piece29]
+Blueprint = Room_GuardedPillars
+Quantity = 1
+
+Weight = 1
+
+
+
+[Piece30]
+Blueprint = Room_LavaPlatforms
+Quantity = 1
+
+Weight = 1
+
+
+
+[Piece31]
+Blueprint = Boss_Midnight
+Quantity = 1
+
+Weight = 1
+
+
+

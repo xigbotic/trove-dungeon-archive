@@ -1,0 +1,57 @@
+[Dungeon]
+Type = Dungeon
+
+#STORY
+
+#
+#
+#
+
+[BaseTop]
+Blueprint = crownkeep_main_roof
+Quantity = 1
+
+[Side1]
+Blueprint = crownkeep_side_stairs_bot_mid
+Quantity = 1
+Weight = 0.5
+
+[Side2]
+Blueprint = crownkeep_side_stairs_mid_top
+Quantity = 1
+Weight = 0.5
+
+[Side3and4]
+Blueprint = crownkeep_side_stairs_no
+Quantity = 2
+Weight = 0.5
+
+[TopPlayfloor]
+Blueprint = crownkeep_platform_top
+Quantity = 1
+
+[MidPlayfloor]
+Blueprint = crownkeep_platform_mid
+Quantity = 1
+
+[BotPlayfloor]
+Blueprint = crownkeep_platform_bot
+Quantity = 1
+
+
+[StartFloor_top]
+Blueprint = crownkeep_start_top
+Quantity = 1
+Weight = 0.5
+
+[StartFloor_mid]
+Blueprint = crownkeep_start_mid
+Quantity = 1
+Weight = 0.5
+
+[StartFloor_bot]
+Blueprint = crownkeep_start_bot
+Quantity = 1
+Weight = 0.5
+
+

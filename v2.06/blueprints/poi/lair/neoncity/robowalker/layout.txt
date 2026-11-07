@@ -1,0 +1,56 @@
+Seed 990012047
+TotalQueries 4
+================= PIECES =============
+Piece legs_01c Plug=0 Size=29x39x29
+	Plug Position=0,10,-1
+	AABB Min=-14,0,-15 Max=15,39,14
+	Socket 1
+	Socket 3
+Piece legs_01a Plug=0 Size=29x39x29
+	Plug Position=0,10,-1
+	AABB Min=-14,0,-15 Max=15,39,14
+	Socket 1
+	Socket 3
+Piece legs_01 Plug=0 Size=29x39x29
+	Plug Position=0,10,-1
+	AABB Min=-14,0,-15 Max=15,39,14
+	Socket 1
+	Socket 3
+Piece legs_01b Plug=0 Size=29x39x29
+	Plug Position=0,10,-1
+	AABB Min=-14,0,-15 Max=15,39,14
+	Socket 1
+	Socket 3
+Piece boss_02a Plug=1 Size=29x28x29
+	Plug Position=0,1,12
+	AABB Min=-14,0,-15 Max=15,28,14
+Piece boss_01 Plug=1 Size=29x11x29
+	Plug Position=0,1,12
+	AABB Min=-14,0,-15 Max=15,11,14
+	Socket 2
+Piece boss_01a Plug=1 Size=29x11x29
+	Plug Position=0,1,12
+	AABB Min=-14,0,-15 Max=15,11,14
+	Socket 2
+Piece boss_02 Plug=1 Size=29x28x29
+	Plug Position=0,1,12
+	AABB Min=-14,0,-15 Max=15,28,14
+Piece head_01 Plug=2 Size=29x24x29
+	Plug Position=0,1,12
+	AABB Min=-14,0,-15 Max=15,24,14
+Piece head_01b Plug=2 Size=29x24x29
+	Plug Position=0,1,12
+	AABB Min=-14,0,-15 Max=15,24,14
+Piece head_01a Plug=2 Size=29x24x29
+	Plug Position=0,1,12
+	AABB Min=-14,0,-15 Max=15,24,14
+Piece base Plug=3 Size=29x30x29
+	Plug Position=0,29,-1
+	AABB Min=-14,0,-15 Max=15,30,14
+================= LAYOUT =============
+[0] legs_01c [Q=3, D=3]
+	[1] boss_01a [Q=1, D=1]
+		[2] head_01a [Q=0, D=0]
+	[3] base [Q=0, D=0]
+================= MESSAGES =============
+Dungeon.Type = Lair, 32x96x32 (64 up, 32 down)

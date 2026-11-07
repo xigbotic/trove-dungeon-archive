@@ -1,0 +1,36 @@
+Seed -756858022
+TotalQueries 4
+================= PIECES =============
+Piece shell_b Plug=0 Size=38x87x39
+	Plug Position=-1,28,0
+	AABB Min=-19,0,-19 Max=19,87,20
+	Socket 1
+Piece shell_a Plug=0 Size=38x86x39
+	Plug Position=-1,28,0
+	AABB Min=-19,0,-19 Max=19,86,20
+	Socket 1
+Piece base_a Plug=1 Size=38x10x39
+	Plug Position=-1,7,-9
+	AABB Min=-19,-1,-19 Max=19,9,20
+	Socket 2
+Piece base_b Plug=1 Size=38x10x39
+	Plug Position=-1,7,-9
+	AABB Min=-19,-1,-19 Max=19,9,20
+	Socket 2
+Piece b1 Plug=2 Size=36x8x37
+	Plug Position=17,7,18
+	AABB Min=-18,0,-18 Max=18,8,19
+	Socket 3
+Piece b2_b Plug=3 Size=36x22x37
+	Plug Position=17,21,18
+	AABB Min=-18,0,-18 Max=18,22,19
+Piece b2_a Plug=3 Size=36x22x37
+	Plug Position=17,21,18
+	AABB Min=-18,0,-18 Max=18,22,19
+================= LAYOUT =============
+[0] shell_a [Q=3, D=3]
+	[1] base_a [Q=2, D=2]
+		[2] b1 [Q=1, D=1]
+			[3] b2_b [Q=0, D=0]
+================= MESSAGES =============
+Dungeon.Type = Lair, 42x96x42 (64 up, 32 down)

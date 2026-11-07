@@ -1,0 +1,7 @@
+[Dungeon]
+Type = Dungeon
+
+[Piece0]
+Blueprint = dungeon_dragonlair_pirate_base_01
+Quantity = 1
+Weight = 1

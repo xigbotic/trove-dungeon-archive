@@ -1,0 +1,50 @@
+[Dungeon]
+Type = Lair
+
+[Piece0]
+Blueprint = shardShrine_exterior2
+Quantity = 1
+
+[Piece1]
+Blueprint = shardShrine_exterior1
+Quantity = 1
+
+[Piece2]
+Blueprint = shardShrine_pillar_intact
+Quantity = 14
+
+[Piece3]
+Blueprint = shardShrine_pillar_broken1
+Quantity = 7
+
+[Piece4]
+Blueprint = shardShrine_pillar_broken2
+Quantity = 7
+
+[Piece5]
+Blueprint = shardShrine_pillar_toppled
+Quantity = 3
+
+[Piece6]
+Blueprint = shardShrine_stairwell1
+Quantity = 1
+
+[Piece7]
+Blueprint = shardShrine_stairwell2
+Quantity = 1
+
+[Piece8]
+Blueprint = shardShrine_interior1
+Quantity = 1
+
+[Piece8]
+Blueprint = shardShrine_interior2
+Quantity = 1
+
+[Piece9]
+Blueprint = shardShrine_quest1
+Quantity = 1
+
+[Piece10]
+Blueprint = shardShrine_quest2
+Quantity = 1

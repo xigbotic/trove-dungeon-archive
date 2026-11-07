@@ -1,0 +1,41 @@
+[Dungeon]
+Type = Lair
+
+[Piece0]
+Blueprint = Cake_Entrance
+Quantity = 1
+
+[Piece1]
+Blueprint = Level_01
+Quantity = 1
+Weight = .50
+
+[Piece2]
+Blueprint = Level_01_Alternative
+Quantity = 1
+Weight = .50
+
+[Piece3]
+Blueprint = Level_02
+Quantity = 1
+Weight = 1
+
+[Piece4]
+Blueprint = Level_03
+Quantity = 1
+Weight = .50
+
+[Piece5]
+Blueprint = Level_03_Alternative
+Quantity = 1
+Weight = .50
+
+[Piece6]
+Blueprint = Boss_Room
+Quantity = 1
+Weight = .50
+
+[Piece7]
+Blueprint = Boss_Room_Alternative
+Quantity = 1
+Weight = .50

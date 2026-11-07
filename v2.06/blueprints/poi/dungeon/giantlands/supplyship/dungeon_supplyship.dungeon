@@ -1,0 +1,67 @@
+[Dungeon]
+Type = Dungeon
+
+[Piece0]
+Blueprint = dungeon_supplyship_layout_01
+Quantity = 1
+Weight = 0.5
+
+[Piece1]
+Blueprint = dungeon_supplyship_layout_02
+Quantity = 1
+Weight = 0.5
+
+[Piece2]
+Blueprint = dungeon_supplyship_layout_03
+Quantity = 1
+Weight = 0.5
+
+[Piece3]
+Blueprint = dungeon_supplyship_corridor_01
+Quantity = 2
+Weight = 0.5
+
+[Piece4]
+Blueprint = dungeon_supplyship_corridor_02
+Quantity = 2
+Weight = 0.5
+
+[Piece5]
+Blueprint = dungeon_supplyship_corridor_03
+Quantity = 2
+Weight = 0.5
+
+[Piece6]
+Blueprint = dungeon_supplyship_miniboss_01
+Quantity = 2
+Weight = 0.5
+
+[Piece7]
+Blueprint = dungeon_supplyship_miniboss_02
+Quantity = 2
+Weight = 0.5
+
+[Piece8]
+Blueprint = dungeon_supplyship_miniboss_03
+Quantity = 3
+Weight = 0.5
+
+[Piece9]
+Blueprint = dungeon_supplyship_boss_01
+Quantity = 1
+Weight = 1
+
+[Piece10]
+Blueprint = dungeon_supplyship_boss_02
+Quantity = 1
+Weight = 1
+
+[Piece11]
+Blueprint = dungeon_supplyship_case_01
+Quantity = 1
+Weight = 0.5
+
+[Piece12]
+Blueprint = dungeon_supplyship_case_02
+Quantity = 1
+Weight = 0.5

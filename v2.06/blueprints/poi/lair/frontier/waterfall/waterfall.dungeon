@@ -1,0 +1,50 @@
+[Dungeon]
+
+Type = Lair
+
+[Piece0]
+Blueprint = waterfall_0_main
+Quantity = 1
+
+[Piece1]
+Blueprint = waterfall_1_stairs1
+Quantity = 1
+
+[Piece2]
+Blueprint = waterfall_2_room1
+Quantity = 1
+Weight = 0.25
+
+[Piece3]
+Blueprint = waterfall_2_room2
+Quantity = 1
+Weight = 0.25
+
+[Piece4]
+Blueprint = waterfall_2_room3
+Quantity = 1
+Weight = 0.25
+
+[Piece5]
+Blueprint = waterfall_2_room4
+Quantity = 1
+Weight = 0.25
+
+[Piece6]
+Blueprint = waterfall_3_stairs2
+Quantity = 1
+
+[Piece7]
+Blueprint = waterfall_4_bossroom1
+Quantity = 1
+Weight = 0.5
+
+[Piece8]
+Blueprint = waterfall_4_bossroom2
+Quantity = 1
+Weight = 0.25
+
+[Piece9]
+Blueprint = waterfall_4_bossroom3
+Quantity = 1
+Weight = 0.25

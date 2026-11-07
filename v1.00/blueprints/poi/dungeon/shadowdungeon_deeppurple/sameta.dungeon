@@ -1,0 +1,34 @@
+[Dungeon]
+Type = Dungeon
+
+[Piece0]
+Blueprint = DNG_SA_meta_Spawn
+Quantity = 1
+
+[Piece01]
+Blueprint = DNG_SA_meta_Completion
+Quantity = 1
+
+[Piece02]
+Blueprint = DNG_SA_meta_Boss
+Quantity = 1
+
+[Piece03]
+Blueprint = DNG_SA_meta_GP1
+Quantity = 1
+
+[Piece04]
+Blueprint = DNG_SA_meta_GP2
+Quantity = 1
+
+[Piece05]
+Blueprint = DNG_SA_meta_GP3
+Quantity = 1
+
+[Piece06]
+Blueprint = DNG_SA_meta_Start
+Quantity = 1
+
+[Piece07]
+Blueprint = DNG_SA_meta_miniBoss
+Quantity = 1

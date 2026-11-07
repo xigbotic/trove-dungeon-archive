@@ -1,0 +1,23 @@
+[Dungeon]
+Type = lair
+
+[Piece0]
+Blueprint = DNG_neontower_base
+Quantity = 1
+
+[Piece1]
+Blueprint = DNG_neontower_bottomplat_01
+Quantity = 1
+
+[Piece2]
+Blueprint = DNG_neontower_bottomplat_02
+Quantity = 1
+
+[Piece3]
+Blueprint = DNG_neontower_topplat_01
+Quantity = 1
+
+[Piece4]
+Blueprint = DNG_neontower_topplat_02
+Quantity = 1
+

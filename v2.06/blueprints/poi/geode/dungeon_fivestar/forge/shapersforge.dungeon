@@ -1,0 +1,83 @@
+[Dungeon]
+Type = Dungeon
+
+#STORY
+
+# Undertow brought the sandkraken to geode. Devouring everything in its path.
+# Glad the santuarys shield still stops this beast.
+# The greatest treasures are said to be found in its belly.
+
+[BaseTopLeft]
+Blueprint = shapersforge_main_L
+Quantity = 1
+Weight = 0.5
+
+[BaseTopRight]
+Blueprint = shapersforge_main_R
+Quantity = 1
+Weight = 0.5
+
+[Anvil001]
+Blueprint = shapersforge_anvil_001
+Quantity = 1
+Weight = 0.5
+
+[Anvil002]
+Blueprint = shapersforge_anvil_002
+Quantity = 1
+Weight = 0.5
+
+[Anvil003]
+Blueprint = shapersforge_anvil_003
+Quantity = 1
+Weight = 0.5
+
+[Anvil004]
+Blueprint = shapersforge_anvil_004
+Quantity = 1
+Weight = 0.5
+
+[TopSectionClosed]
+Blueprint = shapersforge_top_closed
+Quantity = 1
+Weight = 0.80
+
+[TopSectionOpen]
+Blueprint = shapersforge_top_open
+Quantity = 1
+Weight = 0.50
+
+[Boss001]
+Blueprint = shapersforge_bossroom_001
+Quantity = 2
+Weight = 0.50
+
+[Boss002]
+Blueprint = shapersforge_bossroom_002
+Quantity = 2
+Weight = 0.50
+
+[Boss003]
+Blueprint = shapersforge_bossroom_003
+Quantity = 2
+Weight = 0.50
+
+[Boss004]
+Blueprint = shapersforge_bossroom_004
+Quantity = 2
+Weight = 0.50
+
+[Boss005]
+Blueprint = shapersforge_bossroom_005
+Quantity = 2
+Weight = 0.50
+
+[Boss006]
+Blueprint = shapersforge_bossroom_006
+Quantity = 2
+Weight = 0.50
+
+[Boss007]
+Blueprint = shapersforge_bossroom_007
+Quantity = 2
+Weight = 0.50

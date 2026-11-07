@@ -1,0 +1,19 @@
+[Piece0]
+Blueprint = dungeon_coliseum_thunderised
+Quantity = 1
+
+[Piece1]
+Blueprint = Boss_Leftside1
+Quantity = 1
+
+[Piece2]
+Blueprint = Boss_Leftside2
+Quantity = 1
+
+[Piece3]
+Blueprint = Boss_Rightside1
+Quantity = 1
+
+[Piece4]
+Blueprint = Boss_Rightside2
+Quantity = 1

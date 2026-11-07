@@ -1,0 +1,81 @@
+[Dungeon]
+Type = Dungeon
+
+[Piece0]
+Blueprint = fae_dungeon_purple_castle
+Quantity = 1
+Weight = .50
+
+[Piece1]
+Blueprint = fae_dungeon_green_castle
+Weight = .50
+
+[Piece2]
+Blueprint = fae_dungeon_green_castle_boss_01
+Quantity = 1
+Weight = 0.25
+
+[Piece3]
+Blueprint = fae_dungeon_green_castle_boss_02
+Quantity = 1
+Weight = 0.25
+
+[Piece4]
+Blueprint = fae_dungeon_green_castle_boss_03
+Quantity = 1
+Weight = 0.25
+
+[Piece5]
+Blueprint = Fae_Dungeon_Green_Castle_grandhall_01
+Quantity = 1
+Weight = 0.25
+
+[Piece6]
+Blueprint = Fae_Dungeon_Green_Castle_grandhall_02
+Quantity = 1
+Weight = 0.25
+
+[Piece7]
+Blueprint = fae_dungeon_purple_castle_boss_01
+Quantity = 1
+Weight = 0.25
+
+[Piece8]
+Blueprint = fae_dungeon_purple_castle_boss_02
+Quantity = 1
+Weight = 0.25
+
+[Piece9]
+Blueprint = fae_dungeon_purple_castle_boss_03
+Quantity = 1
+Weight = 0.25
+
+[Piece10]
+Blueprint = Fae_Dungeon_purple_Castle_grandhall_01
+Quantity = 1
+Weight = 0.25
+
+[Piece11]
+Blueprint = Fae_Dungeon_purple_Castle_grandhall_02
+Quantity = 1
+Weight = 0.25
+
+[Piece12]
+Blueprint = Fae_Dungeon_Green_Castle_hall_01
+Quantity = 1
+Weight = 0.25
+
+[Piece13]
+Blueprint = Fae_Dungeon_Green_Castle_hall_02
+Quantity = 1
+Weight = 0.25
+
+[Piece14]
+Blueprint = Fae_Dungeon_purple_Castle_hall_01
+Quantity = 1
+Weight = 0.25
+
+[Piece15]
+Blueprint = Fae_Dungeon_purple_Castle_hall_02
+Quantity = 1
+Weight = 0.25

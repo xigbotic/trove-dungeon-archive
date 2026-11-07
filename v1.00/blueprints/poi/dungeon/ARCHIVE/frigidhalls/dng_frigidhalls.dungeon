@@ -1,0 +1,132 @@
+[Piece0]
+Blueprint = DNG_frigidHalls_Floor1_grnd
+Quantity = 1
+
+[Piece1]
+Blueprint = DNG_frigidHalls_Floor2_grnd
+Quantity = 1
+
+[Piece2]
+Blueprint = DNG_frigidHalls_Floor3_grnd
+Quantity = 1
+
+[Piece3]
+Blueprint = DNG_frigidHalls_Floor1_2nd
+Quantity = 1
+
+[Piece4]
+Blueprint = DNG_frigidHalls_Floor2_2nd
+Quantity = 1
+
+[Piece5]
+Blueprint = DNG_frigidHalls_Floor3_2nd
+Quantity = 1
+
+[Piece6]
+Blueprint = DNG_frigidHalls_Floor1_bsmnt
+Quantity = 1
+
+[Piece7]
+Blueprint = DNG_frigidHalls_Floor2_bsmnt
+Quantity = 1
+
+[Piece8]
+Blueprint = DNG_frigidHalls_Floor3_bsmnt
+Quantity = 1
+
+[Piece9]
+Blueprint = DNG_frigidHalls_stairBase_1
+Quantity = 1
+Weight = 0
+
+[Piece10]
+Blueprint = DNG_frigidHalls_stairBase_2
+Quantity = 1
+Weight = 0
+
+[Piece11]
+Blueprint = DNG_frigidHalls_stairBase_3
+Quantity = 1
+Weight = 0
+
+[Piece12]
+Blueprint = DNG_frigidHalls_stairMid_1
+Quantity = 1
+
+[Piece13]
+Blueprint = DNG_frigidHalls_stairMid_2
+Quantity = 1
+
+[Piece14]
+Blueprint = DNG_frigidHalls_stairMid_3
+Quantity = 1
+
+[Piece15]
+Blueprint = DNG_frigidHalls_stairTop_1
+Quantity = 1
+
+[Piece16]
+Blueprint = DNG_frigidHalls_stairTop_2
+Quantity = 1
+
+[Piece17]
+Blueprint = DNG_frigidHalls_stairTop_3
+Quantity = 1
+
+[Piece18]
+Blueprint = DNG_frigidHalls_room_yel_1
+Quantity = 3
+
+[Piece19]
+Blueprint = DNG_frigidHalls_room_yel_2
+Quantity = 3
+
+[Piece20]
+Blueprint = DNG_frigidHalls_room_yel_3
+Quantity = 3
+
+[Piece21]
+Blueprint = DNG_frigidHalls_room_org_1
+Quantity = 3
+
+[Piece22]
+Blueprint = DNG_frigidHalls_room_org_2
+Quantity = 3
+
+[Piece23]
+Blueprint = DNG_frigidHalls_room_org_3
+Quantity = 3
+
+[Piece24]
+Blueprint = DNG_frigidHalls_room_grn_1
+Quantity = 3
+
+[Piece25]
+Blueprint = DNG_frigidHalls_room_grn_2
+Quantity = 2
+
+[Piece26]
+Blueprint = DNG_frigidHalls_room_grn_3
+Quantity = 3
+
+[Piece27]
+Blueprint = DNG_frigidHalls_room_pur_1
+Quantity = 3
+
+[Piece28]
+Blueprint = DNG_frigidHalls_room_pur_2
+Quantity = 3
+
+[Piece29]
+Blueprint = DNG_frigidHalls_room_pur_3
+Quantity = 3
+
+[Piece30]
+Blueprint = DNG_frigidHalls_end_pur
+Quantity = 10
+Weight = 0
+
+[Piece31]
+Blueprint = DNG_frigidHalls_end_grn
+Quantity = 10
+Weight = 0

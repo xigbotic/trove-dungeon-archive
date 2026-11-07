@@ -1,0 +1,7 @@
+[Dungeon]
+Type = lair
+
+[Piece0]
+Blueprint = Env_NCN_shrine_outpost_turtletree_00
+Quantity = 1
+

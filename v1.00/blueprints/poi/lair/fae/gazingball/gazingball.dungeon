@@ -1,0 +1,22 @@
+[Dungeon]
+Type = Lair
+
+[Piece0]
+Blueprint = 01GazingBallBottom01
+Quantity = 1
+Weight = 1
+
+[Piece1]
+Blueprint = 01GazingBallBottom02
+Quantity = 1
+Weight = 1
+
+[Piece2]
+Blueprint = 02GazingBallTop01
+Quantity = 1
+Weight = 1
+
+[Piece3]
+Blueprint = 02GazingBallTop02
+Quantity = 1
+Weight = 1

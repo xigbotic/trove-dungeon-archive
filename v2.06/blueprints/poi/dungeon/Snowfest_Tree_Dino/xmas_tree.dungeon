@@ -1,0 +1,56 @@
+[Piece0]
+Blueprint = xmas_jungle_base
+Quantity = 1
+
+[Piece1]
+Blueprint = xmas_mid_01
+Quantity = 1
+
+[Piece2]
+Blueprint = xmas_mid_02
+Quantity = 1
+
+[Piece3]
+Blueprint = xmas_mid_03
+Quantity = 1
+
+[Piece4]
+Blueprint = xmas_top_01
+Quantity = 1
+
+[Piece5]
+Blueprint = xmas_top_02
+Quantity = 1
+
+[Piece6]
+Blueprint = Jungle_GlassBox
+Quantity = 3
+
+[Piece7]
+Blueprint = Jungle_SnowGlobe
+Quantity = 3
+
+[Piece8]
+Blueprint = Jungle_WoodBox
+Quantity = 3
+
+[Piece9]
+Blueprint = Jungle_WrappedSkull
+Quantity = 3
+
+[Piece10]
+Blueprint = jungle_bonegift
+Quantity = 3
+
+[Piece11]
+Blueprint = jungle_meteorite
+Quantity = 3
+
+[Piece12]
+Blueprint = Jungle_CarvedBox
+Quantity = 3
+
+[Piece13]
+Blueprint = Jungle_WrappedMetorite
+Quantity = 3
+

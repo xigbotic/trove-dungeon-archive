@@ -1,0 +1,7 @@
+[Dungeon]
+Type = lair
+
+[Piece0] 
+Blueprint = lighthouse_01
+Quantity = 1
+Weight = 1

@@ -1,0 +1,27 @@
+[Piece0]
+Blueprint = Shadow_dungeon_encounter_1
+Quantity = 1
+
+[Piece1]
+Blueprint = Shadow_dungeon_encounter_2
+Quantity = 1
+
+[Piece2]
+Blueprint = Shadow_dungeon_encounter_3
+Quantity = 1
+
+[Piece3]
+Blueprint = Shadow_dungeon_regular_quest
+Quantity = 1
+
+[Piece4]
+Blueprint = Shadow_dungeon_boss_area
+Quantity = 1
+
+[Piece5]
+Blueprint = Shadow_dungeon_completion_area
+Quantity = 1
+
+[Piece6]
+Blueprint = Shadow_dungeon_spawn_in
+Quantity = 1

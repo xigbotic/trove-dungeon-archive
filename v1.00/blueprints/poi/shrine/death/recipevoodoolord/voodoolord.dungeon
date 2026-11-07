@@ -1,0 +1,26 @@
+[dungeon]
+type = lair
+
+[piece0]
+blueprint = voodoolord_1_floor1.blueprint
+quantity = 1
+
+[piece1]
+blueprint = voodoolord_1_floor2.blueprint
+quantity = 1
+
+[piece2]
+blueprint = voodoolord_1_endcaps.blueprint
+quantity = 1
+
+[piece3]
+blueprint = voodoolord_2_floor1.blueprint
+quantity = 1
+
+[piece4]
+blueprint = voodoolord_2_floor2.blueprint
+quantity = 1
+
+[piece5]
+blueprint = voodoolord_2_endcaps.blueprint
+quantity = 1

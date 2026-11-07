@@ -1,0 +1,196 @@
+[Dungeon]
+Type = Dungeon
+
+[Piece0]
+Blueprint = Dungeon_base
+Quantity = 1
+
+[Piece1]
+Blueprint = Small_room_miniquest
+Quantity = 1
+Weight = 1
+
+[Piece2]
+Blueprint = Small_room_empty_1
+Quantity = 1
+Weight = 0.50
+
+[Piece3]
+Blueprint = Small_room_empty_2
+Quantity = 1
+Weight = 0.75
+
+[Piece4]
+Blueprint = Miniboss_piece
+Quantity = 1
+Weight = 0.50
+
+[Piece5]
+Blueprint = Miniboss_piece_but_empty
+Quantity = 3
+Weight = 0.50
+
+[Piece6]
+Blueprint = White_statues
+Quantity = 1
+Weight = 0.50
+
+[Piece7]
+Blueprint = Towers
+Quantity = 1
+Weight = 0.75
+
+[Piece8]
+Blueprint = Boss_room_green
+Quantity = 1
+Weight = 0.50
+
+[Piece9]
+Blueprint = Boss_room_blue
+Quantity = 1
+Weight = 0.75
+
+[Piece10]
+Blueprint = Boss_room_red
+Quantity = 1
+Weight = 0.88
+
+[Piece11]
+Blueprint = Boss_platform_green
+Quantity = 1
+Weight = 0.50
+
+[Piece12]
+Blueprint = Boss_platform_blue
+Quantity = 1
+Weight = 0.75
+
+[Piece13]
+Blueprint = Boss_platform_red
+Quantity = 1
+Weight = 0.88
+
+[Piece14]
+Blueprint = Big_ring_A1
+Quantity = 1
+Weight = 0.10
+
+[Piece15]
+Blueprint = Big_ring_B1
+Quantity = 1
+Weight = 0.19
+
+[Piece16]
+Blueprint = Big_ring_A2
+Quantity = 1
+Weight = 0.27
+
+[Piece17]
+Blueprint = Big_ring_B2
+Quantity = 1
+Weight = 0.34
+
+[Piece18]
+Blueprint = Big_ring_A3
+Quantity = 1
+Weight = 0.41
+
+[Piece19]
+Blueprint = Big_ring_B3
+Quantity = 1
+Weight = 0.47
+
+[Piece20]
+Blueprint = Big_ring_A4
+Quantity = 1
+Weight = 0.52
+
+[Piece21]
+Blueprint = Big_ring_B4
+Quantity = 1
+Weight = 0.57
+
+[Piece22]
+Blueprint = Small_ring_A1
+Quantity = 1
+Weight = 0.25
+
+[Piece23]
+Blueprint = Small_ring_A2
+Quantity = 1
+Weight = 0.44
+
+[Piece24]
+Blueprint = Small_ring_A3
+Quantity = 1
+Weight = 0.58
+
+[Piece25]
+Blueprint = Small_ring_A4
+Quantity = 1
+Weight = 0.70
+
+[Piece26]
+Blueprint = Small_ring_B1
+Quantity = 1
+Weight = 0.25
+
+[Piece27]
+Blueprint = Small_ring_B2
+Quantity = 1
+Weight = 0.44
+
+[Piece28]
+Blueprint = Small_ring_B3
+Quantity = 1
+Weight = 0.58
+
+[Piece29]
+Blueprint = Small_ring_B4
+Quantity = 1
+Weight = 0.70
+
+[Piece30]
+Blueprint = 1in_green_statues
+Quantity = 1
+Weight = 0.50
+
+[Piece31]
+Blueprint = 1in_blue_statues
+Quantity = 1
+Weight = 0.50
+
+[Piece32]
+Blueprint = 1in_red_statues
+Quantity = 1
+Weight = 0.50
+
+[Piece33]
+Blueprint = 1in_green_towers
+Quantity = 1
+Weight = 0.50
+
+[Piece34]
+Blueprint = 1in_blue_towers
+Quantity = 1
+Weight = 0.50
+
+[Piece35]
+Blueprint = 1in_red_towers
+Quantity = 1
+Weight = 0.50
+
+[Piece36]
+Blueprint = 1_empty
+Quantity = 1
+Weight = 0.01
+
+[Piece37]
+Blueprint = Hill_variant_Gongs
+Quantity = 1
+Weight = 0.50
+
+[Piece38]
+Blueprint = Hill_variant_Trees
+Quantity = 1
+Weight = 0.75

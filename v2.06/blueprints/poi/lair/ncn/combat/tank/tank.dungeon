@@ -1,0 +1,10 @@
+[Dungeon]
+Type = lair
+
+[Piece0]
+Blueprint = Env_NCN_lair_combat_tank_00
+Quantity = 1
+
+
+
+

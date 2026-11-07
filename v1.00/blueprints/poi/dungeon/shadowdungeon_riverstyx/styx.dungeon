@@ -1,0 +1,59 @@
+[Piece0]
+Blueprint = styx_core
+Quantity = 1
+Weight = 1
+
+[Piece1]
+Blueprint = Styx_Entrance_01
+Quantity = 1
+Weight = 1
+
+[Piece2]
+Blueprint = Styx_River_01
+Quantity = 1
+Weight = 1
+
+[Piece3]
+Blueprint = Styx_MiniBoss_01
+Quantity = 1
+Weight = 1
+
+[Piece4]
+Blueprint = Styx_Boss_01
+Quantity = 1
+Weight = 1
+
+[Piece5]
+Blueprint = Styx_Entrance_02
+Quantity = 1
+Weight = 1
+
+[Piece6]
+Blueprint = Styx_Boss_02
+Quantity = 1
+Weight = 10
+
+[Piece7]
+Blueprint = Styx_River_02
+Quantity = 2
+Weight = 1
+
+[Piece8]
+Blueprint = Styx_River_03
+Quantity = 2
+Weight = 1
+
+[Piece9]
+Blueprint = Styx_River_04
+Quantity = 2
+Weight = 1
+
+[Piece10]
+Blueprint = Styx_MiniBoss_02
+Quantity = 1
+Weight = 1
+
+[Piece11]
+Blueprint = Styx_River_05
+Quantity = 2
+Weight = 1

@@ -1,0 +1,161 @@
+[Dungeon]
+Type = Dungeon
+#Mode = 5-star dungeon
+#Title = Ancients Rest
+
+
+#Plug 0 Done
+[PieceTop001]
+Blueprint = top_001
+Quantity = 1
+Weight = 0.66
+
+[PieceTop002]
+Blueprint = top_002
+Quantity = 1
+Weight = 0.66
+
+[PieceTop003]
+Blueprint = top_003
+Quantity = 1
+Weight = 0.66
+
+#Plug 1 groundbit
+[PieceBody001]
+Blueprint = body_001
+Quantity = 1
+Weight = 0.66
+
+[PieceBody002]
+Blueprint = body_002
+Quantity = 1
+Weight = 0.66
+
+[PieceBody003]
+Blueprint = body_003
+Quantity = 1
+Weight = 0.66
+
+#Plug 2 First Switchset
+[PieceSwitch001]
+Blueprint = floorswitch_001
+Quantity = 1
+Weight = 0.54
+
+[PieceSwitch002]
+Blueprint = floorswitch_003
+Quantity = 1
+Weight = 0.54
+
+#Plug 3 Second Switchset
+[PieceSwitch003]
+Blueprint = floorswitch_003
+Quantity = 1
+Weight = 0.54
+
+[PieceSwitch004]
+Blueprint = floorswitch_004
+Quantity = 1
+Weight = 0.54
+
+#Plug 4 Second Switchset
+[PieceSwitch005]
+Blueprint = floorswitch_005
+Quantity = 1
+Weight = 0.54
+
+[PieceSwitch006]
+Blueprint = floorswitch_006
+Quantity = 1
+Weight = 0.54
+
+#Plug 5 MazeInlaySet1
+[PieceMazeSet1var1]
+Blueprint = mazeinlay001_001
+Quantity = 1
+Weight = 0.54
+
+[PieceMazeSet1var2]
+Blueprint = mazeinlay001_002
+Quantity = 1
+Weight = 0.54
+
+[PieceMazeSet1var3]
+Blueprint = mazeinlay001_003
+Quantity = 1
+Weight = 0.54
+
+#Plug 6 MazeInlaySet2
+[PieceMazeSet2var1]
+Blueprint = mazeinlay002_001
+Quantity = 1
+Weight = 0.54
+
+[PieceMazeSet2var2]
+Blueprint = mazeinlay002_002
+Quantity = 1
+Weight = 0.54
+
+[PieceMazeSet2var3]
+Blueprint = mazeinlay002_003
+Quantity = 1
+Weight = 0.54
+
+#Plug 7 MazeInlaySet3
+[PieceMazeSet3var1]
+Blueprint = mazeinlay003_001
+Quantity = 1
+Weight = 0.54
+
+[PieceMazeSet3var2]
+Blueprint = mazeinlay003_002
+Quantity = 1
+Weight = 0.54
+
+[PieceMazeSet3var3]
+Blueprint = mazeinlay003_003
+Quantity = 1
+Weight = 0.54
+
+#Plug 8 BigroomInlays
+[RoomLargeInlay001]
+Blueprint = roomlarge_001
+Quantity = 4
+Weight = 0.54
+
+[RoomLargeInlay002]
+Blueprint = roomlarge_002
+Quantity = 4
+Weight = 0.54
+
+[RoomLargeInlay003]
+Blueprint = roomlarge_003
+Quantity = 4
+Weight = 0.54
+
+#Plug 9 SmallRoomInlays
+[RoomSmallInlay001]
+Blueprint = roomsmall_001
+Quantity = 4
+Weight = 0.54
+
+[RoomSmallInlay002]
+Blueprint = roomsmall_002
+Quantity = 4
+Weight = 0.54
+
+[RoomSmallInlay003]
+Blueprint = roomsmall_003
+Quantity = 4
+Weight = 0.54
+
+#Plug 10 Stairs
+[StairsMid001]
+Blueprint = triggersection_001
+Quantity = 1
+Weight = 0.54
+
+[StairsMid002]
+Blueprint = triggersection_002
+Quantity = 1
+Weight = 0.54

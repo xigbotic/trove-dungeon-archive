@@ -1,0 +1,6 @@
+[Dungeon]
+Type = lair
+
+[Piece0]
+Blueprint = Env_NCN_lair_dimension_deadturtle_00
+Quantity = 1

@@ -1,0 +1,46 @@
+[Dungeon] 
+Type=lair
+
+
+[Piece0]
+Blueprint = TIisland1
+Quantity = 1
+Weight = .50
+
+
+[Piece1]
+Blueprint = TIIsland2
+Quantity = 1
+Weight = .50
+
+
+[Piece2]
+Blueprint = TIbase1
+Quantity = 1
+Weight = .50
+
+
+[Piece3]
+Blueprint = TIbase2
+Quantity = 1
+Weight = .50
+
+
+[Piece4]
+Blueprint = TIcannon1
+Quantity = 1
+Weight = .50
+
+
+[Piece5]
+Blueprint = TIcannon2
+Quantity = 1
+Weight = .50
+
+
+
+
+
+
+
+

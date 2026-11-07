@@ -1,0 +1,31 @@
+[Dungeon]
+Type = lair
+
+[Piece0]
+Blueprint = snow_lair_top01
+Quantity = 1
+
+[Piece1]
+Blueprint = snow_lair_mid01
+Quantity = 1
+Weight = .33
+
+[Piece2]
+Blueprint = snow_lair_mid02
+Quantity = 1
+Weight = .33
+
+[Piece3]
+Blueprint = snow_lair_mid03
+Quantity = 1
+Weight = .33
+
+[Piece4]
+Blueprint = snow_lair_bot01
+Quantity = 1
+Weight = .5
+
+[Piece5]
+Blueprint = snow_lair_bot02
+Quantity = 1
+Weight = .5

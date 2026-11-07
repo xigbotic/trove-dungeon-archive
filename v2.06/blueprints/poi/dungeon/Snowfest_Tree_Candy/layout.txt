@@ -1,0 +1,72 @@
+Seed 1367714740
+TotalQueries 11
+================= PIECES =============
+Piece xmas_candy_base Plug=0 Size=75x125x75
+	Plug Position=-25,0,26
+	AABB Min=-62,-4,-11 Max=13,121,64
+	Socket 3
+	Socket 3
+	Socket 2
+	Socket 3
+	Socket 3
+	Socket 3
+	Socket 3
+	Socket 1
+	Socket 3
+	Socket 3
+Piece xmas_mid_03 Plug=1 Size=51x31x52
+	Plug Position=0,8,26
+	AABB Min=-25,0,-25 Max=26,31,27
+Piece xmas_mid_02 Plug=1 Size=51x31x52
+	Plug Position=0,8,26
+	AABB Min=-25,0,-25 Max=26,31,27
+Piece xmas_mid_01 Plug=1 Size=51x31x52
+	Plug Position=0,8,26
+	AABB Min=-25,0,-25 Max=26,31,27
+Piece xmas_top_02 Plug=2 Size=31x29x32
+	Plug Position=0,6,16
+	AABB Min=-15,0,-15 Max=16,29,17
+Piece xmas_top_01 Plug=2 Size=31x29x32
+	Plug Position=0,6,16
+	AABB Min=-15,0,-15 Max=16,29,17
+Piece Candy_SweetSurprise Plug=3 Size=12x12x12
+	Plug Position=5,0,1
+	AABB Min=-6,0,-5 Max=6,12,7
+Piece Candy_Lollipop2 Plug=3 Size=13x12x12
+	Plug Position=6,0,1
+	AABB Min=-6,0,-5 Max=7,12,7
+Piece Candy_Lollipop3 Plug=3 Size=13x12x12
+	Plug Position=6,0,1
+	AABB Min=-6,0,-5 Max=7,12,7
+Piece Candy_GingerMug Plug=3 Size=12x12x9
+	Plug Position=-6,0,0
+	AABB Min=-6,0,-4 Max=6,12,5
+Piece Candy_Peppermint2 Plug=3 Size=13x12x12
+	Plug Position=6,0,1
+	AABB Min=-6,0,-5 Max=7,12,7
+Piece Candy_Lollipop Plug=3 Size=13x12x12
+	Plug Position=6,0,1
+	AABB Min=-6,0,-5 Max=7,12,7
+Piece Candy_CandoriaCake Plug=3 Size=13x12x12
+	Plug Position=6,0,1
+	AABB Min=-6,0,-5 Max=7,12,7
+Piece Candy_Waffle Plug=3 Size=13x12x12
+	Plug Position=6,0,1
+	AABB Min=-6,0,-5 Max=7,12,7
+Piece Candy_Peppermint Plug=3 Size=13x12x12
+	Plug Position=6,0,1
+	AABB Min=-6,0,-5 Max=7,12,7
+================= LAYOUT =============
+[0] xmas_candy_base [Q=10, D=10]
+	[1] Candy_CandoriaCake [Q=0, D=0]
+	[2] Candy_SweetSurprise [Q=0, D=0]
+	[3] xmas_top_02 [Q=0, D=0]
+	[4] Candy_Lollipop3 [Q=0, D=0]
+	[5] Candy_Peppermint2 [Q=0, D=0]
+	[6] Candy_Waffle [Q=0, D=0]
+	[7] Candy_Peppermint [Q=0, D=0]
+	[8] xmas_mid_02 [Q=0, D=0]
+	[9] Candy_SweetSurprise [Q=0, D=0]
+	[10] Candy_Peppermint [Q=0, D=0]
+================= MESSAGES =============
+Dungeon.Type = Dungeon, 128x256x128

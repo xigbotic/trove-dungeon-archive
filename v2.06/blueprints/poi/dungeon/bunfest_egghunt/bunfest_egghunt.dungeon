@@ -1,0 +1,72 @@
+[Dungeon]
+Type = lair
+
+[Piece0]
+Blueprint = egghunt_base
+Quantity = 1
+Weight= 1
+
+[Piece1]
+Blueprint = egghunt_orange_01
+Quantity = 1
+Weight = .5
+
+[Piece2]
+Blueprint = egghunt_orange_02
+Quantity = 1
+Weight = .53
+
+[Piece3]
+Blueprint = egghunt_yellow_01
+Quantity = 1
+Weight = .5
+
+[Piece4]
+Blueprint = egghunt_yellow_02
+Quantity = 1
+Weight = .5
+
+[Piece5]
+Blueprint = egghunt_green_01
+Quantity = 1
+Weight = .5
+
+[Piece6]
+Blueprint = egghunt_green_02
+Quantity = 1
+Weight = .5
+
+[Piece7]
+Blueprint = egghunt_blue_01
+Quantity = 1
+Weight = .5
+
+[Piece8]
+Blueprint = egghunt_blue_02
+Quantity = 1
+Weight = .5
+
+[Piece9]
+Blueprint = egghunt_purple_01
+Quantity = 1
+Weight = .5
+
+[Piece10]
+Blueprint = egghunt_purple_02
+Quantity = 1
+Weight = .5
+
+[Piece11]
+Blueprint = egghunt_pink_01
+Quantity = 1
+Weight = .5
+
+[Piece12]
+Blueprint = egghunt_pink_02
+Quantity = 1
+Weight = .5
+
+[Piece13]
+Blueprint = egghunt_roof
+Quantity = 1
+Weight = 1

@@ -1,0 +1,20 @@
+Seed 871171247
+TotalQueries 3
+================= PIECES =============
+Piece dino_meteorcrater_base_001 Plug=0 Size=111x55x111
+	Plug Position=0,25,0
+	AABB Min=-55,0,-55 Max=56,55,56
+	Socket 1
+Piece dino_meteorcrater_meteormid_001 Plug=1 Size=53x11x47
+	Plug Position=1,10,1
+	AABB Min=-26,0,-23 Max=27,11,24
+	Socket 2
+Piece dino_meteorcrater_meteorbot_001 Plug=2 Size=53x7x47
+	Plug Position=1,6,1
+	AABB Min=-26,0,-23 Max=27,7,24
+================= LAYOUT =============
+[0] dino_meteorcrater_base_001 [Q=2, D=2]
+	[1] dino_meteorcrater_meteormid_001 [Q=1, D=1]
+		[2] dino_meteorcrater_meteorbot_001 [Q=0, D=0]
+================= MESSAGES =============
+Dungeon.Type = Dungeon, 128x256x128

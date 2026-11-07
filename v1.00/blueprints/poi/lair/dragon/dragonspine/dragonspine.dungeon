@@ -1,0 +1,61 @@
+[Dungeon]
+Type = Lair
+
+[Piece0]
+Blueprint = dragonspine_firstfloor_02
+Quantity = 1
+Weight = 1
+
+[Piece1]
+Blueprint = dragonspine_secondfloor_01
+Quantity = 1
+Weight = 1
+
+[Piece2]
+Blueprint = dragonspine_boss_01
+Quantity = 1
+Weight = 1
+
+[Piece3]
+Blueprint = dragonspine_boss_02
+Quantity = 1
+Weight = 1
+
+[Piece4]
+Blueprint = dragonspine_firstfloor_01
+Quantity = 1
+Weight = 1
+
+[Piece5]
+Blueprint = dragonspine_boss_03
+Quantity = 1
+Weight = 1
+
+[Piece6]
+Blueprint = dragonspine_firstfloor_03
+Quantity = 1
+Weight = 1
+
+[Piece7]
+Blueprint = dragonspine_firstfloor_04
+Quantity = 1
+Weight = 1
+
+[Piece8]
+Blueprint = dragonspine_secondfloor_02
+Quantity = 1
+Weight = 1
+
+[Piece9]
+Blueprint = dragonspine_secondfloor_03
+Quantity = 1
+Weight = 1
+
+[Piece10]
+Blueprint = dragonspine_secondfloor_04
+Quantity = 1
+Weight = 1
+
+
+
+

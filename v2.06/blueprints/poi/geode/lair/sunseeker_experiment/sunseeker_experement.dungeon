@@ -1,0 +1,39 @@
+[Dungeon]
+Type = lair
+
+#Creator = onigiry
+#Dungeon name = Sunseeker Experiment
+
+[Piece1]
+Blueprint = SKE_entrance1
+Quantity = 1
+Weight = 0.5
+
+[Piece2]
+Blueprint = SKE_bossroom1
+Quantity = 1
+Weight = 0.25
+
+[Piece3]
+Blueprint = SKE_bossroom2
+Quantity = 1
+Weight = 0.25
+
+[Piece4]
+Blueprint = SKE_entrance2
+Quantity = 1
+Weight = 0.5
+
+[Piece5]
+Blueprint = SKE_bossroom3
+Quantity = 1
+Weight = 0.25
+
+[Piece6]
+Blueprint = SKE_bossroom4
+Quantity = 1
+Weight = 0.25
+
+[Piece7]
+Blueprint = SKE_fakeair
+Quantity = 1

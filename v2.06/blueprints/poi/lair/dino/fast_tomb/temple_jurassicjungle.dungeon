@@ -1,0 +1,34 @@
+[Dungeon]
+Type = lair
+
+#Creator = Cyekie
+
+[PieceEntrance01]
+Blueprint = temple_jurassicjungle_entrance_01
+Quantity = 1
+Weight = 1
+
+[PieceGameplay01]
+Blueprint = temple_jurassicjungle_gameplay_01
+Quantity = 1
+Weight = 1
+
+[PieceGameplay02]
+Blueprint = temple_jurassicjungle_gameplay_02
+Quantity = 1
+Weight = 1
+
+[PieceBossroom01]
+Blueprint = temple_jurassicjungle_bossroom_01
+Quantity = 1
+Weight = 1
+
+[PieceBossroom02]
+Blueprint = temple_jurassicjungle_bossroom_02
+Quantity = 1
+Weight = 1
+
+[PieceBossroom03]
+Blueprint = temple_jurassicjungle_bossroom_03
+Quantity = 1
+Weight = 1

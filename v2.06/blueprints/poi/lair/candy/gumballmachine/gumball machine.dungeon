@@ -1,0 +1,17 @@
+[Dungeon]
+
+Type = Lair
+
+[Piece0]
+Blueprint = Gumball_Machine_Lair
+Quantity = 1
+
+[Piece1]
+Blueprint = Gumball_Machine_Boss1
+Quantity = 1
+Weight = 50
+
+[Piece2]
+Blueprint = Gumball_Machine_Boss2
+Quantity = 1
+Weight = 50

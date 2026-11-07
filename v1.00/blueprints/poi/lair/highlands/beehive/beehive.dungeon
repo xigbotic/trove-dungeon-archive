@@ -1,0 +1,49 @@
+[Dungeon]
+Type = Lair
+
+[Piece0]
+Blueprint = Beehive_FirstFloor_01
+Quantity = 1
+Weight = 1
+[Piece1]
+Blueprint = Beehive_SecondFloor_01
+Quantity = 1
+Weight = 1
+[Piece2]
+Blueprint = Beehive_TopFloor_01
+Quantity = 1
+Weight = 1
+[Piece3]
+Blueprint = Beehive_Stump_01
+Quantity = 1
+Weight = 1
+
+[Piece4]
+Blueprint = Beehive_FirstFloor_02
+Quantity = 1
+Weight = 1
+
+[Piece5]
+Blueprint = Beehive_SecondFloor_02
+Quantity = 1
+Weight = 1
+
+[Piece6]
+Blueprint = Beehive_TopFloor_02
+Quantity = 1
+Weight = 1
+
+[Piece7]
+Blueprint = Beehive_FirstFloor_03
+Quantity = 1
+Weight = 1
+
+[Piece8]
+Blueprint = Beehive_SecondFloor_03
+Quantity = 1
+Weight = 1
+
+[Piece9]
+Blueprint = Beehive_Stump_02
+Quantity = 1
+Weight = 1

@@ -1,0 +1,41 @@
+[Dungeon]
+Type = lair
+
+[Piece0]
+Blueprint = ctentv1
+Quantity = 1
+weight = .25
+
+[Piece1]
+Blueprint = ctentv2
+Quantity = 1
+weight = .25
+
+[Piece2]
+Blueprint = ctentv3
+Quantity = 1
+weight = .25
+
+[Piece3]
+Blueprint = ctentv4
+Quantity = 1
+weight = .25
+
+[Piece4]
+Blueprint = cttop
+Quantity = 1
+
+[Piece5]
+Blueprint = ctbottomv1
+Quantity = 1
+weight = .33
+
+[Piece6]
+Blueprint = ctbottomv2
+Quantity = 1
+weight = .33
+
+[Piece7]
+Blueprint = ctbottomv3
+Quantity = 1
+weight = .33

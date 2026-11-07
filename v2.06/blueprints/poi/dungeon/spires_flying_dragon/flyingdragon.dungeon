@@ -1,0 +1,37 @@
+[Dungeon]
+Type = Dungeon
+
+[Piece0]
+Blueprint = Dragon_1
+Quantity = 1
+Weight = 1
+
+[Piece1]
+Blueprint = Dragon_2
+Quantity = 1
+Weight = 1
+
+[Piece2]
+Blueprint = Inside_1
+Quantity = 1
+Weight = 1
+
+[Piece3]
+Blueprint = Inside_2
+Quantity = 1
+Weight = 1
+
+[Piece4]
+Blueprint = Bones
+Quantity = 1
+Weight = 1
+
+
+
+
+
+
+
+
+
+

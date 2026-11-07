@@ -1,0 +1,26 @@
+[Dungeon]
+Type = Lair
+
+[Piece0]
+Blueprint = Grot_Entry
+Quantity = 1
+
+[Piece1]
+Blueprint = Grot_EntryStairs
+Quantity = 1
+
+[Piece2]
+Blueprint = Grot_MainRoom2
+Quantity = 1
+
+[Piece3]
+Blueprint = Grot_MainRoom4
+Quantity = 1
+
+[Piece4]
+Blueprint = Grot_Stairs5
+Quantity = 1
+
+[Piece5]
+Blueprint = Grot_BossRoom
+Quantity = 1

@@ -1,0 +1,44 @@
+[Dungeon]
+Type = dungeon
+
+[Piece01]
+Blueprint = dome_base01
+Quantity = 1
+
+[Piece02]
+Blueprint = dome
+Quantity = 1
+
+[Piece03]
+Blueprint = ground
+Quantity = 1
+
+[Piece04]
+Blueprint = statue01
+Weight = 0.15
+Quantity = 2
+
+[Piece05]
+Blueprint = statue02
+Weight = 0.15
+Quantity = 2
+
+[Piece06]
+Blueprint = statue03
+Weight = 0.20
+Quantity = 2
+
+[Piece07]
+Blueprint = statue04
+Weight = 0.15
+Quantity = 2
+
+[Piece08]
+Blueprint = statue05
+Weight = 0.20
+Quantity = 2
+
+[Piece09]
+Blueprint = statue06
+Weight = 0.15
+Quantity = 2

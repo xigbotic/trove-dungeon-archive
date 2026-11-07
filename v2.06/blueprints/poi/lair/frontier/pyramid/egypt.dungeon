@@ -1,0 +1,34 @@
+[Dungeon]
+Type = lair
+#Creator = 4rkeN | Aaron
+#version = 2
+
+[ENTRANCE_SPYHNX]
+Blueprint = entrance_sphynx
+Quantity = 1
+Weight = 1
+
+[ENTRANCE_PYRAMIDE]
+Blueprint = entrance_pyramide
+Quantity = 1
+Weight = 1
+
+[GAMEPLAY_NPC]
+Blueprint = gameplay_npc
+Quantity = 1
+Weight = 1
+
+[GAMEPLAY_JNR]
+Blueprint = gameplay_jnr
+Quantity = 1
+Weight = 1
+
+[BOSSROOM_PILLAR]
+Blueprint = bossroom_pillar
+Quantity = 1
+Weight = 1
+
+[BOSSROOM_SARCOPHAGE]
+Blueprint = bossrom_sarcophage
+Quantity = 1
+Weight = 1

@@ -1,0 +1,83 @@
+Seed 1021268640
+TotalQueries 15
+================= PIECES =============
+Piece xmas_highland_base Plug=0 Size=75x125x75
+	Plug Position=0,4,0
+	AABB Min=-37,0,-37 Max=38,125,38
+	Socket 3
+	Socket 3
+	Socket 3
+	Socket 3
+	Socket 3
+	Socket 3
+	Socket 3
+	Socket 3
+	Socket 3
+	Socket 3
+	Socket 1
+	Socket 2
+	Socket 3
+	Socket 3
+Piece xmas_mid_01 Plug=1 Size=51x31x52
+	Plug Position=0,8,26
+	AABB Min=-25,0,-25 Max=26,31,27
+Piece xmas_mid_02 Plug=1 Size=51x31x52
+	Plug Position=0,8,26
+	AABB Min=-25,0,-25 Max=26,31,27
+Piece xmas_mid_03 Plug=1 Size=51x31x52
+	Plug Position=0,8,26
+	AABB Min=-25,0,-25 Max=26,31,27
+Piece xmas_top_02 Plug=2 Size=31x29x32
+	Plug Position=0,6,16
+	AABB Min=-15,0,-15 Max=16,29,17
+Piece xmas_top_01 Plug=2 Size=31x29x32
+	Plug Position=0,6,16
+	AABB Min=-15,0,-15 Max=16,29,17
+Piece xmas_highland_gift_03 Plug=3 Size=10x10x10
+	Plug Position=-4,0,0
+	AABB Min=-4,0,-5 Max=6,10,5
+Piece Highlands_cat_Minejascraft Plug=3 Size=9x10x8
+	Plug Position=0,0,4
+	AABB Min=-4,0,-3 Max=5,10,5
+Piece Highlands_mushroom_SkyRider3217 Plug=3 Size=12x12x10
+	Plug Position=0,0,-4
+	AABB Min=-6,0,-4 Max=6,12,6
+Piece xmas_highland_gift_04 Plug=3 Size=6x10x5
+	Plug Position=3,0,0
+	AABB Min=-2,0,-2 Max=4,10,3
+Piece Highlands_mushroom_SamW2469 Plug=3 Size=8x12x8
+	Plug Position=2,0,0
+	AABB Min=-4,0,-3 Max=4,12,5
+Piece Highlands_mistletoe _bobfishkins23 Plug=3 Size=10x4x10
+	Plug Position=0,0,-4
+	AABB Min=-5,0,-4 Max=5,4,6
+Piece xmas_highland_gift_02 Plug=3 Size=12x12x12
+	Plug Position=-6,0,1
+	AABB Min=-6,0,-6 Max=6,12,6
+Piece xmas_highland_gift_01 Plug=3 Size=12x10x12
+	Plug Position=-6,0,-1
+	AABB Min=-6,0,-6 Max=6,10,6
+Piece Highlands_SteelGift_DestertOne Plug=3 Size=12x12x13
+	Plug Position=0,0,-6
+	AABB Min=-6,0,-6 Max=6,12,7
+Piece Highlands_Beehive_Keyserino95 Plug=3 Size=12x12x11
+	Plug Position=0,0,-4
+	AABB Min=-6,0,-4 Max=6,12,7
+================= LAYOUT =============
+[0] xmas_highland_base [Q=14, D=14]
+	[1] Highlands_SteelGift_DestertOne [Q=0, D=0]
+	[2] Highlands_SteelGift_DestertOne [Q=0, D=0]
+	[3] Highlands_Beehive_Keyserino95 [Q=0, D=0]
+	[4] xmas_highland_gift_02 [Q=0, D=0]
+	[5] Highlands_mistletoe _bobfishkins23 [Q=0, D=0]
+	[6] xmas_highland_gift_03 [Q=0, D=0]
+	[7] xmas_highland_gift_01 [Q=0, D=0]
+	[8] xmas_highland_gift_04 [Q=0, D=0]
+	[9] xmas_highland_gift_02 [Q=0, D=0]
+	[10] Highlands_cat_Minejascraft [Q=0, D=0]
+	[11] xmas_mid_03 [Q=0, D=0]
+	[12] xmas_top_02 [Q=0, D=0]
+	[13] Highlands_SteelGift_DestertOne [Q=0, D=0]
+	[14] xmas_highland_gift_04 [Q=0, D=0]
+================= MESSAGES =============
+Dungeon.Type = Dungeon, 128x256x128

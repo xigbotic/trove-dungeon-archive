@@ -1,0 +1,10 @@
+[Dungeon]
+Type = Lair
+
+[Piece0]
+Blueprint = Cactus1
+Quantity = 1
+
+[Piece1]
+Blueprint = Cactus2
+Quantity = 1

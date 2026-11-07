@@ -1,0 +1,19 @@
+[Dungeon]
+Type = Lair
+
+[Piece0]
+Blueprint = boathull1
+Quantity = 1
+
+[Piece1]
+Blueprint = boatdeck1
+Quantity = 1
+
+[Piece3]
+Blueprint = boathull2
+Quantity = 1
+
+
+[Piece4]
+Blueprint = boatdeck2
+Quantity = 1

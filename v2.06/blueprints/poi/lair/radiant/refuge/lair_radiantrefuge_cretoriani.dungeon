@@ -1,0 +1,42 @@
+[Dungeon]
+Type = Lair
+
+[Piece0]
+Blueprint = lair_RadiantRefuge_core_Cretoriani
+Quantity = 1
+
+[Piece1]
+Blueprint = lair_RadiantRefuge_largeEarth_Cretoriani
+Quantity = 1
+
+[Piece2]
+Blueprint = lair_RadiantRefuge_largePlatform_Cretoriani
+Quantity = 1
+
+[Piece3]
+Blueprint = lair_RadiantRefuge_smallEarth_Cretoriani
+Quantity = 1
+
+[Piece4]
+Blueprint = lair_RadiantRefuge_smallPlatform_Cretoriani
+Quantity = 1
+
+[Piece5]
+Blueprint = lair_RadiantRefuge_tinyEarth_Cretoriani
+Quantity = 1
+
+[Piece6]
+Blueprint = lair_RadiantRefuge_tinyPlatform_Cretoriani
+Quantity = 1
+
+[Piece7]
+Blueprint = lair_RadiantRefuge_verticalChamber_Cretoriani
+Quantity = 4
+
+[Piece8]
+Blueprint = lair_RadiantRefuge_portal_Cretoriani
+Quantity = 1
+
+[Piece9]
+Blueprint = lair_RadiantRefuge_portalNull_Cretoriani
+Quantity = 1

@@ -1,0 +1,42 @@
+[Dungeon]
+Type = lair
+
+[Piece0]
+Blueprint = Exterior1
+Quantity = 1
+
+[Piece1]
+Blueprint = RoomOne1
+Quantity = 1
+
+[Piece2]
+Blueprint = RoomOne2
+Quantity = 1
+
+[Piece3]
+Blueprint = RoomTwo1
+Quantity = 1
+
+[Piece4]
+Blueprint = RoomTwo2
+Quantity = 1
+
+[Piece5]
+Blueprint = Exterior2
+Quantity = 1
+
+[Piece6]
+Blueprint = Exterior3
+Quantity = 1
+
+[Piece7]
+Blueprint = Exterior4
+Quantity = 1
+
+[Piece8]
+Blueprint = Exterior5
+Quantity = 1
+
+[Piece9]
+Blueprint = Exterior6
+Quantity = 1

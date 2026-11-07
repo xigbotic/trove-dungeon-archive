@@ -1,0 +1,59 @@
+[Dungeon]
+type = Lair
+
+[Piece0]
+Blueprint = lair1
+Quantity = 1
+
+[Piece1]
+Blueprint = lair2
+Quantity = 1
+
+[Piece2]
+Blueprint = statue1
+Quantity = 1
+
+[Piece3]
+Blueprint = statue2
+Quantity = 1
+
+
+[Piece4]
+Blueprint = statue3
+Quantity = 1
+
+[Piece5]
+Blueprint = statue4
+Quantity = 1
+
+[Piece6]
+Blueprint = statue5
+Quantity = 1
+
+[Piece7]
+Blueprint = statue6
+Quantity = 1
+
+[Piece8]
+Blueprint = statue7
+Quantity = 1
+
+[Piece9]
+Blueprint = statue8
+Quantity = 1
+
+[Piece10]
+Blueprint = Deco1
+Quantity = 2
+
+[Piece11]
+Blueprint = Deco2
+Quantity = 2
+
+[Piece12]
+Blueprint = Deco3
+Quantity = 2
+
+[Piece12]
+Blueprint = lair3
+Quantity = 1

@@ -1,0 +1,184 @@
+[Dungeon]
+Type = lair
+
+[Piece0]
+Blueprint = base
+Quantity = 1
+Weight = 1
+
+[Piece1]
+Blueprint = Tribe_Wrap1
+Quantity = 1
+Weight = 1
+
+[Piece2]
+Blueprint = Tribe_Wrap2
+Quantity = 1
+Weight = 1
+
+[Piece3]
+Blueprint = Tribe_Wrap3
+Quantity = 1
+Weight = 1
+
+[Piece4]
+Blueprint = Tribe_Wrap4
+Quantity = 1
+Weight = 1
+
+[Piece5]
+Blueprint = Tribe_Wrap5
+Quantity = 1
+Weight = 1
+
+[Piece6]
+Blueprint = Stedms_Wrap1
+Quantity = 1
+Weight = 1
+
+[Piece7]
+Blueprint = Stedms_Wrap2
+Quantity = 1
+Weight = 1
+
+[Piece8]
+Blueprint = Stedms_Wrap3
+Quantity = 1
+Weight = 1
+
+[Piece9]
+Blueprint = Stedms_Wrap4
+Quantity = 1
+Weight = 1
+
+[Piece10]
+Blueprint = Stedms_Wrap5
+Quantity = 1
+Weight = 1
+
+[Piece11]
+Blueprint = Lykos_Wrap1
+Quantity = 1
+Weight = 1
+
+[Piece12]
+Blueprint = Lykos_Wrap2
+Quantity = 1
+Weight = 1
+
+[Piece13]
+Blueprint = Lykos_Wrap3
+Quantity = 1
+Weight = 1
+
+[Piece14]
+Blueprint = Lykos_Wrap4
+Quantity = 1
+Weight = 1
+
+[Piece15]
+Blueprint = Lykos_Wrap5
+Quantity = 1
+Weight = 1
+
+[Piece16]
+Blueprint = Tribe_Room1
+Quantity = 1
+Weight = 1
+
+[Piece17]
+Blueprint = Tribe_Room2
+Quantity = 1
+Weight = 1
+
+[Piece18]
+Blueprint = Tribe_Room3
+Quantity = 1
+Weight = 1
+
+[Piece19]
+Blueprint = Tribe_Room4
+Quantity = 1
+Weight = 1
+
+[Piece20]
+Blueprint = Stedms_Room1
+Quantity = 1
+Weight = 1
+
+[Piece21]
+Blueprint = Stedms_Room2
+Quantity = 1
+Weight = 1
+
+[Piece22]
+Blueprint = Stedms_Room3
+Quantity = 1
+Weight = 1
+
+[Piece23]
+Blueprint = Stedms_Room4
+Quantity = 1
+Weight = 1
+
+[Piece24]
+Blueprint = FriedSushi_Wrap1
+Quantity = 1
+Weight = 1
+
+[Piece25]
+Blueprint = FriedSushi_Wrap2
+Quantity = 1
+Weight = 1
+
+[Piece26]
+Blueprint = BossShell
+Quantity = 1
+Weight = 1
+
+[Piece27]
+Blueprint = Tribe_BTrap1
+Quantity = 1
+Weight = 1
+
+[Piece28]
+Blueprint = Tribe_BTrap2
+Quantity = 1
+Weight = 1
+
+[Piece29]
+Blueprint = Tribe_BTrap3
+Quantity = 1
+Weight = 1
+
+[Piece30]
+Blueprint = Tribe_BTrap4
+Quantity = 1
+Weight = 1
+
+[Piece31]
+Blueprint = Tribe_BTrap5
+Quantity = 1
+Weight = 1
+
+[Piece32]
+Blueprint = Stedms_BTrap1
+Quantity = 1
+Weight = 1
+
+[Piece33]
+Blueprint = Stedms_BTrap2
+Quantity = 1
+Weight = 1
+
+[Piece34]
+Blueprint = Stedms_BTrap3
+Quantity = 1
+Weight = 1
+
+[Piece35]
+Blueprint = Stedms_BTrap4
+Quantity = 1
+Weight = 1
+
+

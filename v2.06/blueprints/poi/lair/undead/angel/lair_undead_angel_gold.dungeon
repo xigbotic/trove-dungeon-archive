@@ -1,0 +1,26 @@
+[Dungeon]
+Type = Lair
+
+[Piece01]
+Blueprint = Lair_Undead_Angel_Entrance_Gold
+Quantity = 1
+
+[Piece02]
+Blueprint = Lair_Undead_Angel_Underground_Gold
+Quantity = 1
+
+[Piece03]
+Blueprint = Lair_Undead_Angel_Fill
+Quantity = 1
+
+[Piece04]
+Blueprint = Lair_Undead_Angel_Variant_Pillars_Gold
+Quantity = 1
+
+[Piece05]
+Blueprint = Lair_Undead_Angel_Variant_Platforms_Gold
+Quantity = 1
+
+[Piece06]
+Blueprint = Lair_Undead_Angel_Variant_Walls_Gold
+Quantity = 1

@@ -1,0 +1,80 @@
+[Dungeon]
+Type = Dungeon
+
+[Piece0]
+Blueprint = Deck6
+Quantity = 1
+
+[Piece1]
+Blueprint = Deck5_a
+Quantity = 1
+Weight = .5
+
+[Piece2]
+Blueprint = Deck5_b
+Quantity = 1
+Weight = .5
+
+[Piece3]
+Blueprint = Deck4_a
+Quantity = 1
+Weight = .5
+
+[Piece4]
+Blueprint = Deck4_b
+Quantity = 1
+Weight = .5
+
+[Piece5]
+Blueprint = Deck3
+Quantity = 1
+
+[Piece6]
+Blueprint = Deck2
+Quantity = 1
+
+[Piece7]
+Blueprint = Deck1
+Quantity = 1
+
+[Piece8]
+Blueprint = Cabin_1
+Quantity = 3
+Weight = .5
+
+[Piece9]
+Blueprint = Cabin_2
+Quantity = 4
+Weight = .5
+
+[Piece10]
+Blueprint = Cabin_3
+Quantity = 4
+Weight = .5
+
+[Piece11]
+Blueprint = Cabin_4
+Quantity = 4
+Weight = .5
+
+[Piece12]
+Blueprint = Cabin_5
+Quantity = 4
+Weight = .5
+
+[Piece13]
+Blueprint = Cabin_6
+Quantity = 3
+Weight = .5
+
+[Piece14]
+Blueprint = Cell_1
+Quantity = 3
+Weight = .5
+
+[Piece15]
+Blueprint = Cell_2
+Quantity = 3
+Weight = .5
+
+

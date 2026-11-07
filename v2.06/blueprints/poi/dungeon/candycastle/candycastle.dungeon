@@ -1,0 +1,27 @@
+[Piece0]
+Blueprint = ccastle
+Quantity = 1
+
+[Piece1]
+Blueprint = ccastle2
+Quantity = 1
+
+[Piece2]
+Blueprint = ccastle3
+Quantity = 1
+
+[Piece3]
+Blueprint = ctower
+Quantity = 1
+
+[Piece5]
+Blueprint = chouse
+Quantity = 1
+
+[Piece6]
+Blueprint = chouse2
+Quantity = 1
+
+[Piece7]
+Blueprint = genericSky
+Quantity = 1

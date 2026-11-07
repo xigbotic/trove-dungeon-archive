@@ -1,0 +1,42 @@
+[Dungeon]
+Type = Lair
+
+[Piece0]
+Blueprint = cake_plate_desert
+Quantity = 1
+Weight = 1
+
+[Piece1]
+Blueprint = cake_case_carys
+Quantity = 1
+Weight = 1
+
+[Piece2]
+Blueprint = cake_room_bottom_01
+Quantity = 1
+Weight = 1
+
+[Piece3]
+Blueprint = cake_room_bottom_02
+Quantity = 1
+Weight = 1
+
+[Piece4]
+Blueprint = cake_room_bottom_03
+Quantity = 1
+Weight = 1
+
+[Piece5]
+Blueprint = cake_room_top_01
+Quantity = 1
+Weight = 1
+
+[Piece6]
+Blueprint = cake_room_top_02
+Quantity = 1
+Weight = 1
+
+[Piece7]
+Blueprint = cake_room_top_03
+Quantity = 1
+Weight = 1

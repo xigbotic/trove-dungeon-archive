@@ -1,0 +1,87 @@
+[Dungeon]
+
+Type = Dungeon
+
+[Piece0]
+Blueprint = Pillars_Outer_1
+Quantity = 1
+
+[Piece1]
+Blueprint = Pillars_Main_1
+Quantity = 1
+Weight = 1
+
+[Piece2]
+Blueprint = Pillars_Main_2
+Quantity = 1
+Weight = 1
+
+[Piece3]
+Blueprint = Pillars_Main_3
+Quantity = 1
+Weight = 1
+
+[Piece4]
+Blueprint = Pillars_Main_4
+Quantity = 1
+Weight = 1
+
+[Piece5]
+Blueprint = Pillars_Room1_1
+Quantity = 1
+Weight = 1
+
+[Piece6]
+Blueprint = Pillars_Room1_2
+Quantity = 1
+Weight = 1
+
+[Piece7]
+Blueprint = Pillars_Room2_1
+Quantity = 1
+Weight = 1
+
+[Piece8]
+Blueprint = Pillars_Tower_1
+Quantity = 1
+Weight = 1
+
+[Piece9]
+Blueprint = Pillars_Room3_1
+Quantity = 1
+Weight = 1
+
+[Piece10]
+Blueprint = Pillars_Room3_2
+Quantity = 1
+Weight = 1
+
+[Piece11]
+Blueprint = Pillars_Room1_3
+Quantity = 1
+Weight = 1
+
+[Piece12]
+Blueprint = Pillars_Room1_4
+Quantity = 1
+Weight = 1
+
+[Piece13]
+Blueprint = Pillars_Room4_1
+Quantity = 1
+Weight = 1
+
+[Piece14]
+Blueprint = Pillars_Room4_2
+Quantity = 1
+Weight = 1
+
+[Piece15]
+Blueprint = Pillars_Tower_2
+Quantity = 1
+Weight = 1
+
+[Piece16]
+Blueprint = Pillars_Outer_2
+Quantity = 1
+

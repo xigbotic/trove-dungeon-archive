@@ -1,0 +1,74 @@
+[Piece0]
+Blueprint = DNG_island_lava_01a
+Quantity = 1
+Weight = 1
+
+[Piece1]
+Blueprint = DNG_island_lava_02
+Quantity = 1
+Weight = 1
+
+[Piece2]
+Blueprint = DNG_crater_01
+Quantity = 1
+Weight = 1
+
+[Piece3]
+Blueprint = DNG_crater_02
+Quantity = 1
+Weight = 1
+
+[Piece4]
+Blueprint = DNG_statue_cloaked
+Quantity = 2
+Weight = .01
+
+[Piece5]
+Blueprint = DNG_statue_kneel
+Quantity = 2
+Weight = .05
+
+[Piece6]
+Blueprint = DNG_statue_dragon_biped
+Quantity = 1
+Weight = .2
+
+[Piece7]
+Blueprint = DNG_statue_dragon_rest
+Quantity = 2
+Weight = .2
+
+[Piece8]
+Blueprint = DNG_statue_meteor
+Quantity = 2
+Weight = .4
+
+[Piece9]
+Blueprint = DNG_statue_emblem
+Quantity = 2
+Weight = .8
+
+[Piece10]
+Blueprint = DNG_statue_emblemfire
+Quantity = 2
+Weight = 1
+
+[Piece11]
+Blueprint = DNG_rock_float_03ca
+Quantity = 4
+Weight = 1
+
+[Piece12]
+Blueprint = DNG_island_float_01a
+Quantity = 1
+Weight = 1
+
+[Piece13]
+Blueprint = DNG_island_float_01a
+Quantity = 1
+Weight = .2
+
+[Piece14]
+Blueprint = DNG_island_float_01a
+Quantity = 1
+Weight = .1

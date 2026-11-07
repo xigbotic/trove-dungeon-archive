@@ -1,0 +1,22 @@
+[Dungeon]
+Type = lair
+
+[piece0]
+Blueprint = entrance_1
+Quantity = 1
+Weight = 0.5
+
+[piece1]
+Blueprint = entrance_2
+Quantity = 1
+Weight = 0.5
+
+[piece2]
+Blueprint = undergroundroom_1
+Quantity = 1
+Weight = 0.5
+
+[piece3]
+Blueprint = undergroundroom_2
+Quantity = 1
+Weight = 0.5

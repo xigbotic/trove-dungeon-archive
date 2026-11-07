@@ -1,0 +1,90 @@
+[Dungeon]
+Type = Dungeon
+
+[Piece0]
+Blueprint = base_bottom_01
+Quantity = 1
+
+[Piece1]
+Blueprint = base_top_01
+Quantity = 2
+
+[Piece11]
+Blueprint = base_top_02
+Quantity = 2
+
+[Piece12]
+Blueprint = base_top_03
+Quantity = 2
+
+[Piece2]
+Blueprint = center_spine_01
+Quantity = 1
+
+[Piece21]
+Blueprint = center_spine_02
+Quantity = 1
+
+[Piece3]
+Blueprint = room_entrance_01
+Quantity = 1
+
+[Piece31]
+Blueprint = room_entrance_02
+Quantity = 1
+
+[Piece32]
+Blueprint = room_entrance_03
+Quantity = 1
+
+[Piece4]
+Blueprint = room_top_01
+Quantity = 1
+
+[Piece41]
+Blueprint = room_top_02
+Quantity = 1
+
+[Piece42]
+Blueprint = room_top_03
+Quantity = 1
+
+[Piece5]
+Blueprint = room_middle_01
+Quantity = 1
+
+[Piece51]
+Blueprint = room_middle_02
+Quantity = 1
+
+[Piece52]
+Blueprint = room_middle_03
+Quantity = 1
+
+[Piece6]
+Blueprint = room_bottom_01
+Quantity = 1
+
+[Piece61]
+Blueprint = room_bottom_02
+Quantity = 1
+
+[Piece7]
+Blueprint = room_corner_01
+Quantity = 1
+
+[Piece71]
+Blueprint = room_corner_02
+Quantity = 2
+
+[Piece72]
+Blueprint = room_corner_03
+Quantity = 3
+
+[Piece73]
+Blueprint = room_corner_04
+Quantity = 2
+
+[Piece8]
+Blueprint = fakeair_roof
+Quantity = 1

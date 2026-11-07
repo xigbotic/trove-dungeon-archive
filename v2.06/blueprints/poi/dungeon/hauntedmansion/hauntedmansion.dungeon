@@ -1,0 +1,56 @@
+[Dungeon]
+Type = Dungeon
+
+[Piece0]
+Blueprint = Mansion
+Quantity = 1
+
+[Piece1]
+Blueprint = Room1
+Quantity = 1
+Weight = .125
+
+[Piece2]
+Blueprint = Room2
+Quantity = 1
+Weight = .125
+
+[Piece3]
+Blueprint = Room3
+Quantity = 1
+Weight = .125
+
+[Piece4]
+Blueprint = Room4
+Quantity = 1
+Weight = .125
+
+[Piece5]
+Blueprint = Room5
+Quantity = 1
+Weight = .125
+
+[Piece6]
+Blueprint = Room6
+Quantity = 1
+Weight = .125
+
+[Piece7]
+Blueprint = Room7
+Quantity = 1
+Weight = .125
+
+[Piece8]
+Blueprint = Room8
+Quantity = 1
+Weight = .125
+
+[Piece9]
+Blueprint = Boss1
+Quantity = 1
+Weight = .5
+
+[Piece10]
+Blueprint = Boss2
+Quantity = 1
+Weight = .5

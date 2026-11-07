@@ -1,0 +1,90 @@
+Seed -1374073770
+TotalQueries 12
+================= PIECES =============
+Piece main_select_001 Plug=0 Size=1x2x1
+	Plug Position=0,1,0
+	AABB Min=0,0,0 Max=1,2,1
+	Socket 1
+Piece main_select_002 Plug=0 Size=1x2x1
+	Plug Position=0,1,0
+	AABB Min=0,0,0 Max=1,2,1
+	Socket 2
+Piece main_hole Plug=1 Size=125x125x125
+	Plug Position=0,49,0
+	AABB Min=-62,0,-62 Max=63,125,63
+	Socket 3
+	Socket 4
+	Socket 3
+	Socket 3
+	Socket 3
+	Socket 3
+	Socket 3
+	Socket 5
+	Socket 3
+	Socket 3
+Piece main_land Plug=1 Size=125x125x125
+	Plug Position=1,49,0
+	AABB Min=-62,0,-62 Max=63,125,63
+	Socket 3
+	Socket 3
+	Socket 3
+	Socket 5
+	Socket 3
+	Socket 3
+	Socket 3
+	Socket 3
+	Socket 3
+	Socket 4
+Piece mainalt_land Plug=2 Size=125x125x125
+	Plug Position=-1,49,0
+	AABB Min=-62,0,-62 Max=63,125,63
+	Socket 3
+	Socket 3
+	Socket 5
+	Socket 3
+	Socket 4
+	Socket 3
+	Socket 3
+	Socket 3
+	Socket 3
+	Socket 3
+Piece mainalt_hole Plug=2 Size=125x125x125
+	Plug Position=0,49,0
+	AABB Min=-62,0,-62 Max=63,125,63
+	Socket 5
+	Socket 3
+	Socket 3
+	Socket 3
+	Socket 3
+	Socket 3
+	Socket 3
+	Socket 3
+	Socket 4
+	Socket 3
+Piece greenplug_002 Plug=3 Size=15x15x15
+	Plug Position=0,0,0
+	AABB Min=-7,0,-7 Max=8,15,8
+Piece greenplug_001 Plug=3 Size=15x15x15
+	Plug Position=0,0,0
+	AABB Min=-7,0,-7 Max=8,15,8
+Piece blueplug Plug=4 Size=15x15x15
+	Plug Position=0,0,0
+	AABB Min=-7,0,-7 Max=8,15,8
+Piece purpleplug Plug=5 Size=15x15x15
+	Plug Position=0,0,0
+	AABB Min=-7,0,-7 Max=8,15,8
+================= LAYOUT =============
+[0] main_select_001 [Q=11, D=11]
+	[1] main_land [Q=10, D=10]
+		[2] greenplug_001 [Q=0, D=0]
+		[3] greenplug_001 [Q=0, D=0]
+		[4] greenplug_001 [Q=0, D=0]
+		[5] blueplug [Q=0, D=0]
+		[6] greenplug_001 [Q=0, D=0]
+		[7] greenplug_001 [Q=0, D=0]
+		[8] greenplug_002 [Q=0, D=0]
+		[9] greenplug_001 [Q=0, D=0]
+		[10] greenplug_002 [Q=0, D=0]
+		[11] blueplug [Q=0, D=0]
+================= MESSAGES =============
+Dungeon.Type = Dungeon, 128x256x128

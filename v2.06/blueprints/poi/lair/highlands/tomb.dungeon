@@ -1,0 +1,6 @@
+[Dungeon]
+Type = lair
+
+[Piece0]
+Blueprint = tomb_medium
+Quantity = 1

@@ -1,0 +1,20 @@
+[Dungeon]
+Type = Lair
+
+[Piece0]
+Blueprint = base_box
+Quantity = 1
+
+[Piece1]
+Blueprint = popsicle_grape
+Quantity = 1
+Weight = 0.5
+
+[Piece1.1]
+Blueprint = popsicle_strawberry
+Quantity = 1
+Weight = 0.5
+
+[Piece3]
+Blueprint = candyroom_01
+Quantity = 1

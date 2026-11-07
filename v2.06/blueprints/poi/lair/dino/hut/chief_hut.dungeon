@@ -1,0 +1,82 @@
+[Dungeon]
+Type = Lair
+
+[Piece1]
+Blueprint = top_1
+Quantity = 1
+Weight = 0.3
+
+[Piece2]
+Blueprint = top_2
+Quantity = 1
+Weight = 0.3
+
+[Piece3]
+Blueprint = top_3
+Quantity = 1
+Weight = 0.1
+
+[Piece4]
+Blueprint = bottom_wall_1
+Quantity = 1
+Weight = 0.2
+
+[Piece5]
+Blueprint = bottom_wall_2
+Quantity = 1
+Weight = 0.3
+
+[Piece6]
+Blueprint = bottom_wall_3
+Quantity = 1
+Weight = 0.1
+
+[Piece7]
+Blueprint = bottom_room_1
+Quantity = 1
+Weight = 0.2
+
+[Piece8]
+Blueprint = bottom_room_2
+Quantity = 1
+Weight = 0.2
+
+[Piece9]
+Blueprint = bottom_room_3
+Quantity = 1
+Weight = 0.2
+
+[Piece10]
+Blueprint = bottom_room_4
+Quantity = 1
+Weight = 0.2
+
+[Piece11]
+Blueprint = bottom_room_5
+Quantity = 1
+Weight = 0.2
+
+[Piece12]
+Blueprint = bottom_room_6
+Quantity = 1
+Weight = 0.2
+
+[Piece13]
+Blueprint = bottom_room_7
+Quantity = 1
+Weight = 0.2
+
+[Piece14]
+Blueprint = bottom_room_8
+Quantity = 1
+Weight = 0.2
+
+[Piece15]
+Blueprint = boss_1
+Quantity = 1
+Weight = 0.2
+
+[Piece16]
+Blueprint = boss_2
+Quantity = 1
+Weight = 0.2

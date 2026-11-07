@@ -1,0 +1,171 @@
+[Dungeon]
+Type = Dungeon
+
+[AllAboutThatBase]
+Blueprint = Jurassic_Walled_sockets
+Quantity = 1
+
+[PieceWalla]
+Blueprint = Jurassic_Walled_wall_001
+Quantity = 2
+Weight = .7
+
+[PieceWallb]
+Blueprint = Jurassic_Walled_wall_002
+Quantity = 2
+Weight = .7
+
+[PieceWallc]
+Blueprint = Jurassic_Walled_wall_003
+Quantity = 2
+Weight = .7
+
+[PieceWalld]
+Blueprint = Jurassic_Walled_wall_004
+Quantity = 2
+Weight = .7
+
+[PieceWalle]
+Blueprint = Jurassic_Walled_wall_005
+Quantity = 2
+Weight = .7
+
+[PieceTopa]
+Blueprint = Jurassic_Walled_Centre_001
+Quantity = 1
+Weight = .7
+
+[PieceTopb]
+Blueprint = Jurassic_Walled_Centre_002
+Quantity = 1
+Weight = .7
+
+[PieceTopc]
+Blueprint = Jurassic_Walled_Centre_003
+Quantity = 1
+Weight = .7
+
+[PieceTopd]
+Blueprint = Jurassic_Walled_Centre_004
+Quantity = 1
+Weight = .7
+
+[Piece3a]
+Blueprint = Jurassic_Walled_under_001w
+Quantity = 1
+Weight = .6
+
+[Piece3b]
+Blueprint = Jurassic_Walled_under_001l
+Quantity = 1
+Weight = .6
+
+[Piece4aw]
+Blueprint = Jurassic_Walled_under_m_001w
+Quantity = 2
+Weight = .7
+
+[Piece4al]
+Blueprint = Jurassic_Walled_under_m_001l
+Quantity = 2
+Weight = .7
+
+[Piece4bw]
+Blueprint = Jurassic_Walled_under_m_002w
+Quantity = 2
+Weight = .7
+
+[Piece4bl]
+Blueprint = Jurassic_Walled_under_m_002l
+Quantity = 2
+Weight = .7
+
+[Piece4cw]
+Blueprint = Jurassic_Walled_under_m_003w
+Quantity = 2
+Weight = .7
+
+[Piece4cl]
+Blueprint = Jurassic_Walled_under_m_003l
+Quantity = 2
+Weight = .7
+
+
+[Piece5w]
+Blueprint = Jurassic_Walled_under_c_startw
+Quantity = 1
+
+[Piece5l]
+Blueprint = Jurassic_Walled_under_c_startl
+Quantity = 1
+
+[Piece5aw]
+Blueprint = Jurassic_Walled_under_c_001w
+Quantity = 1
+Weight = .7
+
+[Piece5al]
+Blueprint = Jurassic_Walled_under_c_001l
+Quantity = 2
+Weight = .7
+
+[Piece5bw]
+Blueprint = Jurassic_Walled_under_c_002w
+Quantity = 1
+Weight = .7
+
+[Piece5bl]
+Blueprint = Jurassic_Walled_under_c_002l
+Quantity = 2
+Weight = .7
+
+[Piece5cw]
+Blueprint = Jurassic_Walled_under_c_003w
+Quantity = 1
+Weight = .7
+
+[Piece5cl]
+Blueprint = Jurassic_Walled_under_c_003l
+Quantity = 2
+Weight = .7
+
+[Piece5dw]
+Blueprint = Jurassic_Walled_under_c_004w
+Quantity = 1
+Weight = .7
+
+[Piece5dl]
+Blueprint = Jurassic_Walled_under_c_004l
+Quantity = 2
+Weight = .7
+
+[Piece6a]
+Blueprint = Jurassic_Walled_under_002l
+Quantity = 1
+Weight = .7
+
+[Piece6b]
+Blueprint = Jurassic_Walled_under_002w
+Quantity = 1
+Weight = .7
+
+
+[Piece7al]
+Blueprint = Jurassic_Walled_final_lava
+Quantity = 1
+Weight = .6
+
+[Piece7bl]
+Blueprint = Jurassic_Walled_final_lava_alt
+Quantity = 1
+Weight = .6
+
+[Piece7aw]
+Blueprint = Jurassic_Walled_final_water
+Quantity = 1
+Weight = .6
+
+[Piece7bw]
+Blueprint = Jurassic_Walled_final_water_alt
+Quantity = 1
+Weight = .6

@@ -1,0 +1,28 @@
+Seed -1204534562
+TotalQueries 3
+================= PIECES =============
+Piece Main_2 Plug=0 Size=39x26x39
+	Plug Position=0,2,0
+	AABB Min=-19,0,-19 Max=20,26,20
+	Socket 2
+Piece Main_1 Plug=0 Size=39x25x39
+	Plug Position=0,1,0
+	AABB Min=-19,0,-19 Max=20,25,20
+	Socket 1
+	Socket 2
+Piece Bottom Plug=1 Size=39x10x39
+	Plug Position=0,9,2
+	AABB Min=-19,0,-19 Max=20,10,20
+Piece Lantern Plug=2 Size=39x36x39
+	Plug Position=0,1,0
+	AABB Min=-19,1,-19 Max=20,37,20
+	Socket 3
+Piece Placeholder Plug=3 Size=39x2x39
+	Plug Position=0,0,0
+	AABB Min=-19,0,-19 Max=20,2,20
+================= LAYOUT =============
+[0] Main_2 [Q=2, D=2]
+	[1] Lantern [Q=1, D=1]
+		[2] Placeholder [Q=0, D=0]
+================= MESSAGES =============
+Dungeon.Type = Lair, 42x96x42 (64 up, 32 down)

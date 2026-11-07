@@ -1,0 +1,13 @@
+Seed -1467530741
+TotalQueries 1
+================= PIECES =============
+Piece jade_lion Plug=0 Size=27x73x29
+	Plug Position=1,20,-2
+	AABB Min=-13,0,-14 Max=14,73,15
+Piece jade_monkey Plug=0 Size=27x73x29
+	Plug Position=1,21,-2
+	AABB Min=-13,0,-14 Max=14,73,15
+================= LAYOUT =============
+[0] jade_monkey [Q=0, D=0]
+================= MESSAGES =============
+Dungeon.Type = Lair, 42x96x42 (64 up, 32 down)

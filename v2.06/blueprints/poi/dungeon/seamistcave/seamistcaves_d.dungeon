@@ -1,0 +1,11 @@
+[Piece0]
+Blueprint = Seamist_Caves
+Quantity = 1
+
+[Piece1]
+Blueprint = Seamist_Caves_B1
+Quantity = 1
+
+[Piece2]
+Blueprint = Seamist_Caves_B2
+Quantity = 1

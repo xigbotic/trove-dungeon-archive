@@ -1,0 +1,177 @@
+[Dungeon]
+Type = Dungeon
+
+[Piece0]
+Blueprint = body
+Quantity = 1
+Weight = 1
+
+[Piece1]
+Blueprint = inside0
+Quantity = 1
+Weight = 1
+
+[Piece2]
+Blueprint = inside1-A
+Quantity = .33
+Weight = 1
+
+[Piece3]
+Blueprint = inside2-A
+Quantity = .33
+Weight = 1
+
+[Piece4]
+Blueprint = inside3-A
+Quantity = 1
+Weight = 1
+
+[Piece5]
+Blueprint = tentacle-A
+Quantity = 3.4
+Weight = .33
+
+[Piece6]
+Blueprint = tentacle-B
+Quantity = 3.3
+Weight = .33
+
+[Piece7]
+blueprint = tentacle-C
+Quantity = 3.3
+Weight = .33
+
+[Piece8]
+Blueprint = top-A
+Quantity = 7
+Weight = .43
+
+[Piece9]
+Blueprint = top-B
+Quantity = 7
+Weight = .54
+
+[Piece10]
+Blueprint = boss-A
+Quantity = 12
+Weight = .33
+
+[Piece11]
+Blueprint = boss-B
+Quantity = 1
+Weight = .33
+
+[Piece12]
+Blueprint = boss-C
+Quantity = 1
+Weight = .33
+
+[Piece13]
+Blueprint = quest-A
+Quantity = 1
+Weight = 10
+
+[Piece14]
+Blueprint = quest-B
+Quantity = 1
+Weight = 10
+
+[Piece15]
+Blueprint = quest-C
+Quantity = 1
+Weight = 10
+
+[Piece13-a]
+Blueprint = quest-A-a
+Quantity = 1
+Weight = 10
+
+[Piece14-a]
+Blueprint = quest-B-a
+Quantity = 1
+Weight = 10
+
+[Piece15-a]
+Blueprint = quest-C-a
+Quantity = 1
+Weight = 10
+
+[Piece13-b]
+Blueprint = quest-A-b
+Quantity = 1
+Weight = 10
+
+[Piece14-b]
+Blueprint = quest-B-b
+Quantity = 1
+Weight = 10
+
+[Piece15-b]
+Blueprint = quest-C-b
+Quantity = 1
+Weight = 10
+
+[Piece13-c]
+Blueprint = quest-A-c
+Quantity = 1
+Weight = 10
+
+[Piece14-c]
+Blueprint = quest-B-c
+Quantity = 1
+Weight = 10
+
+[Piece15-c]
+Blueprint = quest-C-c
+Quantity = 1
+Weight = 10
+
+[Piece13-d]
+Blueprint = quest-A-d
+Quantity = 1
+Weight = 10
+
+[Piece14-d]
+Blueprint = quest-B-d
+Quantity = 1
+Weight = 10
+
+[Piece15-d]
+Blueprint = quest-C-d
+Quantity = 1
+Weight = 10
+
+[Piece13-e]
+Blueprint = quest-A-e
+Quantity = 1
+Weight = 10
+
+[Piece14-e]
+Blueprint = quest-B-e
+Quantity = 1
+Weight = 10
+
+[Piece15-e]
+Blueprint = quest-C-e
+Quantity = 1
+Weight = 10
+
+[Piece16]
+Blueprint = inside1-B
+Quantity = 1
+Weight = .33
+
+[Piece17]
+Blueprint = inside2-B
+Quantity = 1
+Weight = .33
+
+[Piece18]
+Blueprint = inside1-C
+Quantity = 1
+Weight = .33
+
+[Piece19]
+Blueprint = inside2-C
+Quantity = 1
+Weight = .33

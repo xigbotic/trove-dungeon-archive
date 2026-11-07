@@ -1,0 +1,67 @@
+[Dungeon]
+Type = Lair
+
+[Piece0]
+Blueprint = watershrine_top1
+Quantity = 1
+Weight = 0.5
+
+[Piece1]
+Blueprint = watershrine_top2
+Quantity = 1
+Weight = 0.5
+
+
+[Piece2]
+Blueprint = watershrine_top3
+Quantity = 1
+Weight = 0.5
+
+[Piece3]
+Blueprint = watershrine_roomplug
+Quantity = 1
+Weight = 1
+
+[Piece4]
+Blueprint = watershrine_roomendcap
+Quantity = 1
+Weight = 1
+
+[Piece5]
+Blueprint = watershrine_room01
+Quantity = 1
+Weight = 0.5
+
+
+[Piece6]
+Blueprint = watershrine_room02
+Quantity = 1
+Weight = 0.5
+
+
+[Piece7]
+Blueprint = watershrine_room03
+Quantity = 1
+Weight = 0.5
+
+
+[Piece8]
+Blueprint = watershrine_room04
+Quantity = 1
+Weight = 0.5
+
+
+[Piece9]
+Blueprint = watershrine_boss1
+Quantity = 1
+Weight = 0.5
+
+[Piece10]
+Blueprint = watershrine_boss2
+Quantity = 1
+Weight = 0.5
+
+[Piece11]
+Blueprint = watershrine_boss3
+Quantity = 1
+Weight = 0.5

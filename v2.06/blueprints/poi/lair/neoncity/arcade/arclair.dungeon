@@ -1,0 +1,22 @@
+[Dungeon]
+Type = Lair
+
+[Piece0]
+Blueprint = arcshell
+Quantity = 1
+
+[Piece1]
+Blueprint = bossfloor1
+Quantity = 1
+
+[Piece2]
+Blueprint = middlefloor1
+Quantity = 1
+
+[Piece3]
+Blueprint = bottomfloor1
+Quantity = 1
+
+[Piece4]
+Blueprint = middlefloor2
+Quantity = 1

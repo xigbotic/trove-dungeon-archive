@@ -1,0 +1,6 @@
+[Dungeon]
+Type = Lair
+
+[Piece0]
+Blueprint = Sea_Treasure_Chest
+Quantity = 1

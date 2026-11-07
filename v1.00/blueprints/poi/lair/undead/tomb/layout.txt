@@ -1,0 +1,30 @@
+Seed -771508826
+TotalQueries 5
+================= PIECES =============
+Piece plinth_01 Plug=0 Size=18x9x14
+	Plug Position=0,0,0
+	AABB Min=-9,0,-7 Max=9,9,7
+	Socket 2
+	Socket 1
+Piece statue_emp Plug=1 Size=11x16x5
+	Plug Position=1,0,-1
+	AABB Min=-5,0,-3 Max=6,16,2
+Piece stairwell Plug=2 Size=12x13x12
+	Plug Position=0,0,0
+	AABB Min=-2,-12,-6 Max=10,1,6
+	Socket 3
+Piece topfloor_01 Plug=3 Size=28x9x28
+	Plug Position=-5,8,0
+	AABB Min=-14,0,-14 Max=14,9,14
+	Socket 4
+Piece bottomfloor_01 Plug=4 Size=28x9x28
+	Plug Position=-9,8,-12
+	AABB Min=-14,0,-14 Max=14,9,14
+================= LAYOUT =============
+[0] plinth_01 [Q=4, D=4]
+	[1] stairwell [Q=2, D=2]
+		[2] topfloor_01 [Q=1, D=1]
+			[3] bottomfloor_01 [Q=0, D=0]
+	[4] statue_emp [Q=0, D=0]
+================= MESSAGES =============
+Dungeon.Type = Lair, 32x96x32 (64 up, 32 down)

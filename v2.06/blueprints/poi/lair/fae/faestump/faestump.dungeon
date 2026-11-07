@@ -1,0 +1,33 @@
+[Dungeon]
+
+
+[Piece0]
+Blueprint = faestump_v1
+Quantity = 1
+Weight = 0.5
+
+[Piece1]
+Blueprint = faestump_v2
+Quantity = 1
+Weight = 0.5
+
+[Piece2]
+Blueprint = faestumpmid_v1
+Quantity = 1
+Weight = 0.5
+
+[Piece3]
+Blueprint = faestumpmid_v2
+Quantity = 1
+Weight = 0.5
+
+[Piece4]
+Blueprint = faestumpboss_v1
+Quantity = 1
+Weight = 0.5
+
+[Piece5]
+Blueprint = faestumpboss_v2
+Quantity = 1
+Weight = 0.5
+

@@ -1,0 +1,177 @@
+[Dungeon]
+Type = Lair
+
+[Piece0]
+Blueprint = base
+Quantity = 1
+
+
+[Piece01]
+Blueprint = base_stairs
+Quantity = 1
+Weight = 0.50
+
+[Piece02]
+Blueprint = base_stairs01
+Quantity = 1
+Weight = 0.50
+
+[Piece03]
+Blueprint = base_stairs_eat
+Quantity = 1
+Weight = 0
+
+
+[Piece04]
+Blueprint = domino_12
+Quantity = 1
+Weight = 0.12
+
+[Piece05]
+Blueprint = domino_25
+Quantity = 1
+Weight = 0.12
+
+[Piece06]
+Blueprint = domino_36
+Quantity = 1
+Weight = 0.12
+
+[Piece07]
+Blueprint = domino_41
+Quantity = 1
+Weight = 0.12
+
+[Piece08]
+Blueprint = domino_54
+Quantity = 1
+Weight = 0.14
+
+[Piece09]
+Blueprint = domino_61
+Quantity = 1
+Weight = 0.14
+
+[Piece10]
+Blueprint = domino_65
+Quantity = 1
+Weight = 0.12
+
+[Piece11]
+Blueprint = domino_eat1
+Quantity = 1
+Weight = 0.12
+
+[Piece12]
+Blueprint = domino_eat2
+Quantity = 1
+Weight = 0
+
+[Piece13]
+Blueprint = decoy_portal01
+Quantity = 1
+Weight = 0.30
+
+[Piece14]
+Blueprint = decoy_portal02
+Quantity = 1
+Weight = 0.30
+
+[Piece15]
+Blueprint = decoy_portal03
+Quantity = 1
+Weight = 0.30
+
+[Piece16]
+Blueprint = decoy_portal04
+Quantity = 1
+Weight = 0.30
+
+[Piece17]
+Blueprint = decoy_portal05
+Quantity = 1
+Weight = 0.30
+
+[Piece18]
+Blueprint = true_portal
+Quantity = 1
+Weight = 0.25
+
+[Piece19]
+Blueprint = groundbase_true
+Quantity = 1
+Weight = 0
+
+[Piece20]
+Blueprint = groundbase01_01
+Quantity = 1
+Weight = 0.25
+
+[Piece21]
+Blueprint = groundbase01_02
+Quantity = 1
+Weight = 0.25
+
+[Piece22]
+Blueprint = groundbase01_03
+Quantity = 1
+Weight = 0.25
+[Piece23]
+Blueprint = groundbase01_04
+Quantity = 1
+Weight = 0.25
+
+[Piece24]
+Blueprint = groundbase02_01
+Quantity = 1
+Weight = 0.2
+
+[Piece25]
+Blueprint = groundbase02_02
+Quantity = 1
+Weight = 0.2
+
+[Piece26]
+Blueprint = groundbase02_03
+Quantity = 1
+Weight = 0.2
+
+[Piece27]
+Blueprint = groundbase02_04
+Quantity = 1
+Weight = 0.2
+
+[Piece28]
+Blueprint = groundbase02_05
+Quantity = 1
+Weight = 0.2
+
+[Piece29]
+Blueprint = groundbase02_06
+Quantity = 1
+Weight = 0.2
+
+[Piece30]
+Blueprint = boss01
+Quantity = 1
+Weight = 0.33
+
+[Piece31]
+Blueprint = boss02
+Quantity = 1
+Weight = 0.33
+
+[Piece32]
+Blueprint = boss03
+Quantity = 1
+Weight = 0.33
+
+[Piece33]
+Blueprint = portalground_true
+Quantity = 1
+Weight = 1
+
+[Piece34]
+Blueprint = portalground_decoy
+Quantity = 1
+Weight = 0

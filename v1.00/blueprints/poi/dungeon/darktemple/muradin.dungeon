@@ -1,0 +1,41 @@
+[Dungeon]
+Type = Dungeon
+
+[Piece0]
+Blueprint = opened
+Quantity = 1
+
+[Piece1]
+Blueprint = passes
+Quantity = 1
+Weigth = .33
+
+[Piece2]
+Blueprint = roomstuck
+Quantity = 1
+Weigth = .33
+
+[Piece3]
+Blueprint = roomopen
+Quantity = 1
+Weigth = .33
+
+[Piece4]
+Blueprint = bosses
+Quantity = 1
+Weigth = .33
+
+[Piece5]
+Blueprint = secondbo
+Quantity = 1
+Weigth = .33
+
+[Piece6]
+Blueprint = antilast
+Quantity = 1
+Weigth = .33
+
+[Piece7]
+Blueprint = bosfinal
+Quantity = 1
+Weigth = .33

@@ -1,0 +1,95 @@
+[Dungeon]
+Type = Dungeon
+
+[Piece0]
+Blueprint = Boss
+Quantity = 1
+
+
+[Piece1]
+Blueprint = SpawnExit_1
+Quantity = 1
+Weight = .33
+
+[Piece2]
+Blueprint = SpawnExit_2
+Quantity = 1
+Weight = .33
+
+[Piece3]
+Blueprint = SpawnExit_3
+Quantity = 1
+Weight = .33
+
+[Piece4]
+Blueprint = MiniBoss_1
+Quantity = 1
+Weight = .33
+
+[Piece5]
+Blueprint = MiniBoss_2
+Quantity = 1
+Weight = .33
+
+[Piece6]
+Blueprint = MiniBoss_3
+Quantity = 1
+Weight = .33
+
+[Piece7]
+Blueprint = Stairs_1
+Quantity = 1
+Weight = .5
+
+[Piece8]
+Blueprint = Stairs_2
+Quantity = 1
+Weight = .5
+
+[Piece9]
+Blueprint = Drop_1
+Quantity = 1
+Weight = .33
+
+[Piece10]
+Blueprint = Drop_2
+Quantity = 1
+Weight = .33
+
+[Piece11]
+Blueprint = Drop_3
+Quantity = 1
+Weight = .33
+
+[Piece12]
+Blueprint = Corner_1
+Quantity = 1
+Weight = .33
+
+[Piece13]
+Blueprint = Corner_2
+Quantity = 1
+Weight = .33
+
+[Piece14]
+Blueprint = Corner_3
+Quantity = 1
+Weight = .33
+
+[Piece15]
+Blueprint = Portal_1
+Quantity = 1
+Weight = .33
+
+[Piece16]
+Blueprint = Portal_2
+Quantity = 1
+Weight = .33
+
+[Piece17]
+Blueprint = Portal_3
+Quantity = 1
+Weight = .33
+
+
+

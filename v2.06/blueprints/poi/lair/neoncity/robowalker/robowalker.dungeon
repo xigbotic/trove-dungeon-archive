@@ -1,0 +1,61 @@
+[Dungeon]
+Type = lair
+
+[Piece0]
+Blueprint = legs_01
+Quantity = 1
+Weight = .25
+
+[Piece1]
+Blueprint = legs_01a
+Quantity = 1
+Weight = .25
+
+[Piece2]
+Blueprint = legs_01b
+Quantity = 1
+Weight = .25
+
+[Piece3]
+Blueprint = legs_01c
+Quantity = 1
+Weight = .25
+
+[Piece4]
+Blueprint = boss_02
+Quantity = 1
+Weight = .25
+
+[Piece5]
+Blueprint = boss_02a
+Quantity = 1
+Weight = .25
+
+[Piece6]
+Blueprint = boss_01
+Quantity = 1
+Weight = .25
+
+[Piece7]
+Blueprint = boss_01a
+Quantity = 1
+Weight = .25
+
+[Piece8]
+Blueprint = head_01
+Quantity = 1
+Weight = .33
+
+[Piece9]
+Blueprint = head_01a
+Quantity = 1
+Weight = .33
+
+[Piece10]
+Blueprint = head_01b
+Quantity = 1
+Weight = .33
+
+[Piece11]
+Blueprint = base
+Quantity = 1

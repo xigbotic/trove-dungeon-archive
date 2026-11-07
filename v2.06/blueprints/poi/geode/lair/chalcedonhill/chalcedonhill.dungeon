@@ -1,0 +1,112 @@
+[Dungeon]
+Type = Lair
+#Mode = 3-star dungeon
+#Title = Treehillcaves
+
+
+#Plug 0 Done
+[PieceMain]
+Blueprint = main
+Quantity = 1
+Weight = 0.54
+
+[PieceMainAlt]
+Blueprint = main_alt
+Quantity = 1
+Weight = 0.54
+
+#Plug 1 groundbit
+[PieceTop001]
+Blueprint = 001_top
+Quantity = 1
+Weight = 0.54
+
+[PieceTop002]
+Blueprint = 002_top
+Quantity = 1
+Weight = 0.54
+
+[PieceTop003]
+Blueprint = 003_top
+Quantity = 1
+Weight = 0.54
+
+#Plug 2 layer 2
+[PieceMid001]
+Blueprint = 001_mid
+Quantity = 1
+Weight = 0.54
+
+[PieceMid002]
+Blueprint = 002_mid
+Quantity = 1
+Weight = 0.54
+
+[PieceMid003]
+Blueprint = 003_mid
+Quantity = 1
+Weight = 0.54
+
+#Plug 3 layer 3
+[PieceBot001]
+Blueprint = 001_bot
+Quantity = 1
+Weight = 0.54
+
+[PieceBot002]
+Blueprint = 002_bot
+Quantity = 1
+Weight = 0.54
+
+[PieceBot003]
+Blueprint = 003_bot
+Quantity = 1
+Weight = 0.54
+
+#Plug 4 groundbit
+[PieceTop001alt]
+Blueprint = 001_top_alt
+Quantity = 1
+Weight = 0.54
+
+[PieceTop002alt]
+Blueprint = 002_top_alt
+Quantity = 1
+Weight = 0.54
+
+[PieceTop003alt]
+Blueprint = 003_top_alt
+Quantity = 1
+Weight = 0.54
+
+#Plug 5 layer 2
+[PieceMid001alt]
+Blueprint = 001_mid_alt
+Quantity = 1
+Weight = 0.54
+
+[PieceMid002alt]
+Blueprint = 002_mid_alt
+Quantity = 1
+Weight = 0.54
+
+[PieceMid003alt]
+Blueprint = 003_mid_alt
+Quantity = 1
+Weight = 0.54
+
+#Plug 6 layer 3
+[PieceBot001alt]
+Blueprint = 001_bot_alt
+Quantity = 1
+Weight = 0.54
+
+[PieceBot002alt]
+Blueprint = 002_bot_alt
+Quantity = 1
+Weight = 0.54
+
+[PieceBot003alt]
+Blueprint = 003_bot_alt
+Quantity = 1
+Weight = 0.54

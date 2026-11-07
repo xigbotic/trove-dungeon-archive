@@ -1,0 +1,7 @@
+[Dungeon]
+Type = lair
+
+[Piece0]
+Blueprint = E_geode_outpost_landingpad_00
+Quantity = 1
+

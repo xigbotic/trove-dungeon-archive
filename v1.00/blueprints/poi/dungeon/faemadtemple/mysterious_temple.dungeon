@@ -1,0 +1,56 @@
+[Piece0]
+Blueprint = temple_entrance
+Quantity = 1
+Weight = .33
+
+[Piece1]
+Blueprint = Temple_mini_boss_I_a
+Quantity = 1
+Weight = .33
+
+[Piece2]
+Blueprint = Temple_mini_boss_I_b
+Quantity = 1
+Weight = .33
+
+[Piece3]
+Blueprint = Temple_underground_I_a
+Quantity = 1
+Weight = .33
+
+[Piece4]
+Blueprint = Temple_underground_I_b
+Quantity = 1
+Weight = .33
+
+[Piece5]
+Blueprint = Temple_mini_boss_II_a
+Quantity = 1
+Weight = .33
+
+[Piece6]
+Blueprint = Temple_mini_boss_II_b
+Quantity = 1
+Weight = .33
+
+[Piece7]
+Blueprint = Temple_mini_boss_II_c
+Quantity = 1
+Weight = .33
+
+[Piece8]
+Blueprint = Temple_mini_boss_II_d
+Quantity = 1
+Weight = .33
+
+[Piece9]
+Blueprint = Temple_main_boss_a
+Quantity = 1
+Weight = .33
+
+[Piece10]
+Blueprint = Temple_main_boss_b
+Quantity = 1
+Weight = .33
+
+

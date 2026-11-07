@@ -1,0 +1,103 @@
+[Dungeon]
+Type = Dungeon
+
+[Piece0]
+Blueprint = base
+Quantity = 1
+
+[Piece1]
+Blueprint = SkyStone_MajorQuest1L
+Quantity = 1
+
+[Piece2]
+Blueprint = SkyStone_MajorQuest1W
+Quantity = 1
+
+[Piece3]
+Blueprint = SkyStone_MajorQuest2L
+Quantity = 1
+
+[Piece4]
+Blueprint = SkyStone_MajorQuest1W
+Quantity = 1
+
+[Piece5]
+Blueprint = SkyStone_MinorQuest1L
+Quantity = 1
+
+[Piece6]
+Blueprint = SkyStone_MinorQuest1W
+Quantity = 1
+
+[Piece7]
+Blueprint = SkyStone_MinorQuest2L
+Quantity = 1
+
+[Piece8]
+Blueprint = SkyStone_MinorQuest1W
+Quantity = 1
+
+[Piece9]
+Blueprint = SkyStone_FloatStone1
+Quantity = 1
+
+[Piece10]
+Blueprint = SkyStone_FloatStone2
+Quantity = 1
+
+[Piece11]
+Blueprint = SkyStone_FloatStone3
+Quantity = 1
+
+[Piece12]
+Blueprint = SkyStone_FloatStone4
+Quantity = 1
+
+[Piece13]
+Blueprint = FaeTree_Medium1
+Quantity = 10
+
+[Piece14]
+Blueprint = FaeTree_Medium2
+Quantity = 10
+
+[Piece15]
+Blueprint = FaeTree_Medium3
+Quantity = 10
+
+[Piece16]
+Blueprint = FaeTree_Medium4
+Quantity = 10
+
+[Piece17]
+Blueprint = FaeTree_SmallA1
+Quantity = 5
+
+[Piece18]
+Blueprint = FaeTree_SmallA2
+Quantity = 5
+
+[Piece19]
+Blueprint = FaeTree_SmallA3
+Quantity = 5
+
+[Piece20]
+Blueprint = FaeTree_SmallA4
+Quantity = 5
+
+[Piece21]
+Blueprint = FaeTree_SmallB1
+Quantity = 5
+
+[Piece22]
+Blueprint = FaeTree_SmallB2
+Quantity = 5
+
+[Piece23]
+Blueprint = FaeTree_SmallB3
+Quantity = 5
+
+[Piece24]
+Blueprint = FaeTree_SmallB4
+Quantity = 5
+

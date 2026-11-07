@@ -1,0 +1,37 @@
+[Dungeon]
+Type = lair
+
+[Piece0]
+Blueprint = watchtower
+Quantity = 1
+Weight = 0.4
+
+[Piece1]
+Blueprint = watchtowerv2
+Quantity = 1
+Weight = 0.3
+
+[Piece2]
+Blueprint = watchtowermid
+Quantity = 1
+Weight = 0.4
+
+[Piece3]
+Blueprint = watchtowermidv2
+Quantity = 1
+Weight = 0.4
+
+[Piece4]
+Blueprint = watchtowermidv3
+Quantity = 1
+Weight = 0.2
+
+[Piece6]
+Blueprint = watchtowerboss
+Quantity = 1
+Weight = 0.5
+
+[Piece5]
+Blueprint = watchtowerbossv2
+Quantity = 1
+Weight = 0.5

@@ -1,0 +1,75 @@
+[Dungeon]
+Type = Dungeon
+
+[Piece0]
+Blueprint = FaeDungeon1a
+Quantity = 1
+
+[Piece1]
+Blueprint = FaeDungeon2a
+Quantity = 1
+
+[Piece2]
+Blueprint = PortalRoom1
+Quantity = 1
+
+[Piece3]
+Blueprint = PortalRoom2
+Quantity = 1
+
+[Piece4]
+Blueprint = DoubleRoom1
+Quantity = 1
+Weight = .33
+
+[Piece5]
+Blueprint = DoubleRoom2
+Quantity = 1
+Weight = .33
+
+[Piece6]
+Blueprint = DoubleRoom3
+Quantity = 1
+Weight = .33
+
+[Piece7]
+Blueprint = DoubleRoom4
+Quantity = 1
+Weight = .33
+
+[Piece8]
+Blueprint = EndRoom1
+Quantity = 1
+
+[Piece9]
+Blueprint = EndRoom2
+Quantity = 1
+
+[Piece10]
+Blueprint = BottomEnd1
+Quantity = 1
+
+
+[Piece11]
+Blueprint = BottomEnd2
+Quantity = 1
+
+[Piece12]
+Blueprint = MiniRoom1
+Quantity = 1
+Weight = .33
+
+[Piece13]
+Blueprint = MiniRoom2
+Quantity = 1
+Weight = .33
+
+[Piece14]
+Blueprint = BossRoom1
+Quantity = 1
+Weight = .33
+
+[Piece15]
+Blueprint = BossRoom2
+Quantity = 1
+Weight = .33

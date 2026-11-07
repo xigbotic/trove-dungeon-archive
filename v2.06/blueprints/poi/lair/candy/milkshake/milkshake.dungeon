@@ -1,0 +1,31 @@
+[Dungeon]
+Type = Lair
+
+[Piece0]
+Blueprint = lair_bot
+Quantity = 1
+
+[Piece1]
+Blueprint = lair_mid
+Quantity = 1
+
+[Piece2]
+Blueprint = lair_top
+Quantity = 1
+
+[Piece3]
+Blueprint = lair_botv2
+Quantity = 1
+
+[Piece4]
+Blueprint = lair_midv2
+Quantity = 1
+
+[Piece5]
+Blueprint = lair_topv2
+Quantity = 1
+
+[Piece6]
+Blueprint = lair_topv3
+Quantity = 1
+

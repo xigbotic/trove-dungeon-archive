@@ -1,0 +1,39 @@
+[Piece0]
+Blueprint = DNG_castle2_room4_center
+Quantity = 1
+Weight = 9
+
+[Piece1]
+Blueprint = DNG_castle2_room1
+Quantity = 100
+Weight = 9
+
+[Piece2]
+Blueprint = DNG_castle2_room2
+Quantity = 100
+Weight = 9
+
+[Piece3]
+Blueprint = DNG_castle2_room3
+Quantity = 100
+Weight = 9
+
+[Piece4]
+Blueprint = DNG_castle2_room4
+Quantity = 100
+Weight = 8
+
+[Piece5]
+Blueprint = DNG_castle2_hallway1
+Quantity = 100
+Weight = 9
+
+[Piece6]
+Blueprint = DNG_castle2_endcap1
+Quantity = 100
+Weight = 0
+
+[Piece7]
+Blueprint = DNG_castle2_endcap2
+Quantity = 100
+Weight = 0

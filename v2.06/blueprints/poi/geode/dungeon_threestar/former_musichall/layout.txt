@@ -1,0 +1,92 @@
+Seed 539657339
+TotalQueries 11
+================= PIECES =============
+Piece musichall_top_002 Plug=0 Size=125x85x125
+	Plug Position=0,49,0
+	AABB Min=-62,40,-62 Max=63,125,63
+	Socket 1
+Piece musichall_top_001 Plug=0 Size=125x85x125
+	Plug Position=0,49,0
+	AABB Min=-62,40,-62 Max=63,125,63
+	Socket 1
+Piece musichall_top_003 Plug=0 Size=125x85x125
+	Plug Position=0,49,0
+	AABB Min=-62,40,-62 Max=63,125,63
+	Socket 1
+Piece musichall_bot_R Plug=1 Size=125x41x125
+	Plug Position=0,40,0
+	AABB Min=-62,0,-62 Max=63,41,63
+	Socket 2
+	Socket 2
+	Socket 4
+	Socket 2
+	Socket 3
+	Socket 2
+	Socket 2
+	Socket 2
+	Socket 2
+Piece musichall_bot_L Plug=1 Size=125x41x125
+	Plug Position=0,40,0
+	AABB Min=-62,0,-62 Max=63,41,63
+	Socket 2
+	Socket 2
+	Socket 3
+	Socket 2
+	Socket 2
+	Socket 2
+	Socket 2
+	Socket 2
+	Socket 4
+Piece musichall_hall_005 Plug=2 Size=27x12x11
+	Plug Position=-13,2,0
+	AABB Min=-13,0,-5 Max=14,12,6
+Piece musichall_hall_001 Plug=2 Size=27x12x11
+	Plug Position=-13,2,0
+	AABB Min=-13,0,-5 Max=14,12,6
+Piece musichall_hall_004 Plug=2 Size=27x12x11
+	Plug Position=-13,2,0
+	AABB Min=-13,0,-5 Max=14,12,6
+Piece musichall_hall_007 Plug=2 Size=27x12x11
+	Plug Position=-13,2,0
+	AABB Min=-13,0,-5 Max=14,12,6
+Piece musichall_hall_006 Plug=2 Size=27x12x11
+	Plug Position=-13,2,0
+	AABB Min=-13,0,-5 Max=14,12,6
+Piece musichall_hall_003 Plug=2 Size=27x12x11
+	Plug Position=-13,2,0
+	AABB Min=-13,0,-5 Max=14,12,6
+Piece musichall_hall_002 Plug=2 Size=27x12x11
+	Plug Position=-13,2,0
+	AABB Min=-13,0,-5 Max=14,12,6
+Piece musichall_minor_002 Plug=3 Size=31x12x31
+	Plug Position=5,2,15
+	AABB Min=-15,0,-15 Max=16,12,16
+Piece musichall_minor_003 Plug=3 Size=31x12x31
+	Plug Position=5,2,15
+	AABB Min=-15,0,-15 Max=16,12,16
+Piece musichall_minor_001 Plug=3 Size=31x12x31
+	Plug Position=5,2,15
+	AABB Min=-15,0,-15 Max=16,12,16
+Piece musichall_major_003 Plug=4 Size=31x12x31
+	Plug Position=0,2,-15
+	AABB Min=-15,0,-15 Max=16,12,16
+Piece musichall_major_001 Plug=4 Size=31x12x31
+	Plug Position=0,2,-15
+	AABB Min=-15,0,-15 Max=16,12,16
+Piece musichall_major_002 Plug=4 Size=31x12x31
+	Plug Position=0,2,-15
+	AABB Min=-15,0,-15 Max=16,12,16
+================= LAYOUT =============
+[0] musichall_top_003 [Q=10, D=10]
+	[1] musichall_bot_R [Q=9, D=9]
+		[2] musichall_hall_002 [Q=0, D=0]
+		[3] musichall_hall_004 [Q=0, D=0]
+		[4] musichall_major_001 [Q=0, D=0]
+		[5] musichall_hall_007 [Q=0, D=0]
+		[6] musichall_minor_001 [Q=0, D=0]
+		[7] musichall_hall_003 [Q=0, D=0]
+		[8] musichall_hall_001 [Q=0, D=0]
+		[9] musichall_hall_006 [Q=0, D=0]
+		[10] musichall_hall_005 [Q=0, D=0]
+================= MESSAGES =============
+Dungeon.Type = Dungeon, 128x256x128

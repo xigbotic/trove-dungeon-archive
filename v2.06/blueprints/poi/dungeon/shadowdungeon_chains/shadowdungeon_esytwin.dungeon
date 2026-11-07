@@ -1,0 +1,25 @@
+[Piece0]
+Blueprint = esy_start
+Quantity = 1
+
+[Piece1]
+Blueprint = esy_conectorpart1
+Quantity = 1
+
+[Piece2]
+Blueprint = esy_conectorpart2
+Quantity = 1
+
+[Piece3]
+Blueprint = esy_conectorup
+Quantity = 1
+
+[Piece4]
+Blueprint = esy_topmobs
+Quantity = 1
+
+[Piece5]
+Blueprint = esy_boss
+Quantity = 1
+
+

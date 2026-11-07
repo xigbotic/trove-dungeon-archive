@@ -1,0 +1,57 @@
+Seed 643050457
+TotalQueries 12
+================= PIECES =============
+Piece castle_base Plug=0 Size=97x54x54
+	Plug Position=-3,0,11
+	AABB Min=-47,0,-22 Max=50,54,32
+	Socket 6
+	Socket 5
+	Socket 5
+	Socket 1
+	Socket 6
+Piece dragon_white Plug=2 Size=35x45x41
+	Plug Position=7,34,-2
+	AABB Min=-17,0,-20 Max=18,45,21
+Piece tower_second_floor_3 Plug=3 Size=25x17x25
+	Plug Position=12,1,12
+	AABB Min=-12,0,-12 Max=13,17,13
+Piece tower_second_floor_4 Plug=3 Size=25x16x25
+	Plug Position=12,1,12
+	AABB Min=-12,0,-12 Max=13,16,13
+Piece tower_second_floor_1 Plug=3 Size=25x16x25
+	Plug Position=12,1,12
+	AABB Min=-12,0,-12 Max=13,16,13
+Piece tower_second_floor_2 Plug=3 Size=25x12x25
+	Plug Position=12,1,12
+	AABB Min=-12,0,-12 Max=13,12,13
+Piece tower_top_floor_1 Plug=4 Size=25x14x25
+	Plug Position=12,1,12
+	AABB Min=-12,0,-12 Max=13,14,13
+Piece tower_top_floor_3 Plug=4 Size=25x14x25
+	Plug Position=12,1,12
+	AABB Min=-12,0,-12 Max=13,14,13
+Piece statue_1 Plug=5 Size=5x11x6
+	Plug Position=1,0,-1
+	AABB Min=-3,0,-3 Max=2,11,3
+Piece statue_2 Plug=5 Size=5x9x7
+	Plug Position=3,0,0
+	AABB Min=-1,0,-3 Max=4,9,4
+Piece medium_statue_3 Plug=6 Size=21x13x26
+	Plug Position=0,0,-15
+	AABB Min=-10,0,-15 Max=11,13,11
+Piece medium_statue_1 Plug=6 Size=25x6x28
+	Plug Position=0,0,-15
+	AABB Min=-12,0,-15 Max=13,6,13
+Piece medium_statue_4 Plug=6 Size=31x25x31
+	Plug Position=0,0,-15
+	AABB Min=-15,0,-15 Max=16,25,16
+Piece medium_statue_2 Plug=6 Size=19x13x25
+	Plug Position=0,0,-15
+	AABB Min=-9,0,-15 Max=10,13,10
+================= MESSAGES =============
+Dungeon.Type = Dungeon, 128x256x128
+Dungeon generator failed to find layout
+Piece castle_base unable to find any plugs to fill socket 1
+Piece castle_base fit, but unable find child for socket 1
+Piece castle_base unable fill sockets
+Piece root fit, but unable find child for socket 0

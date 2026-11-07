@@ -1,0 +1,105 @@
+[Dungeon]
+Type = Lair
+
+[piece0]
+Blueprint = Cargo_Vault
+
+[piece1]
+Blueprint = Cargo_SidePath1
+Quantity = 1
+
+[piece2]
+Blueprint = Cargo_Hatch1
+Weight = .5
+Quantity = 2
+
+[piece3]
+Blueprint = Cargo_Hatch2
+Weight = .5
+Quantity = 2
+
+[piece4]
+Blueprint = Cargo_Ship
+Quantity = 1
+
+[piece5]
+Blueprint = Cargo_Chain1
+Weight = .33
+Quantity = 1
+
+[piece6]
+Blueprint = Cargo_Chain2
+Weight = .33
+Quantity = 1
+
+[piece7]
+Blueprint = Cargo_Chain3
+Weight = .33
+Quantity = 1
+
+[piece8]
+Blueprint = Cargo_Trophy1
+Weight = .20
+Quantity = 1
+
+[piece9]
+Blueprint = Cargo_Trophy2
+Weight = .20
+Quantity = 1
+
+[piece10]
+Blueprint = Cargo_Trophy3
+Weight = .20
+Quantity = 1
+
+[piece11]
+Blueprint = Cargo_Trophy4
+Weight = .20
+Quantity = 1
+
+[piece12]
+Blueprint = Cargo_Trophy5
+Weight = .20
+Quantity = 1
+
+[piece13]
+Blueprint = Cargo_UpperPlatform1
+Weight = .5
+Quantity = 1
+
+[piece14]
+Blueprint = Cargo_UpperPlatform2
+Weight = .5
+Quantity = 1
+
+[piece15]
+Blueprint = Cargo_LowerPlatform1
+Weight = .5
+Quantity = 1
+
+[piece16]
+Blueprint = Cargo_LowerPlatform2
+Weight = .5
+Quantity = 1
+
+[piece17]
+Blueprint = Cargo_Endcap
+Quantity = 2
+
+[piece18]
+Blueprint = Cargo_Boss1
+Weight = .5
+Quantity = 1
+
+[piece19]
+Blueprint = Cargo_Boss2
+Weight = .5
+Quantity = 1
+
+[piece20]
+Blueprint = Cargo_SidePath2
+Quantity = 1
+
+[piece21]
+Blueprint = Cargo_SidePath3
+Quantity = 1

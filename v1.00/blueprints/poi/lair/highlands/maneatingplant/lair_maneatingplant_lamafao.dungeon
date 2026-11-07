@@ -1,0 +1,33 @@
+[Dungeon]
+
+Type = Lair
+
+[Piece0]
+Blueprint = Flower_Bot
+Quantity = 1
+Weight = 0.50
+
+[Piece1]
+Blueprint = Flower_Bot_Alt
+Quantity = 1
+Weight = 0.50
+
+[Piece2]
+Blueprint = Flower_Top
+Quantity = 1
+Weight = 0.50
+
+[Piece3]
+Blueprint = Flower_Top_Alt
+Quantity = 1
+Weight = 0.50
+
+[Piece4]
+Blueprint = Flower_Boss
+Quantity = 1
+Weight = 0.50
+
+[Piece5]
+Blueprint = Flower_Boss_Alt
+Quantity = 1
+Weight = 0.50

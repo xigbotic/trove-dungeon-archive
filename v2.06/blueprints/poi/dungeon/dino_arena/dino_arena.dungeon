@@ -1,0 +1,71 @@
+[Dungeon]
+Type = Dungeon
+
+[Piece0]
+Blueprint = Terrain
+Quantity = 1
+
+[Piece1]
+Blueprint = Cover_1
+Quantity = 1
+Weight = 0.5
+
+[Piece2]
+Blueprint = Cover_2
+Quantity = 1
+Weight = 0.5
+
+[Piece3]
+Blueprint = Variation_1_Skeleton
+Quantity = 1
+Weight = 0.5
+
+[Piece4]
+Blueprint = Variation_2_Trees
+Quantity = 1
+Weight = 0.5
+
+[Piece5]
+Blueprint = Pit_Lava
+Quantity = 1
+Weight = 0.5
+
+[Piece6]
+Blueprint = Pit_Spikes
+Quantity = 1
+Weight = 0.5
+
+[Piece7]
+Blueprint = Rock_Minor_Spawn
+Quantity = 1
+Weight = 1
+
+[Piece8]
+Blueprint = Just_Rock_Enemy
+Quantity = 2
+Weight = 0.5
+
+[Piece9]
+Blueprint = Just_Rock_Water
+Quantity = 2
+Weight = 0.5
+
+[Piece10]
+Blueprint = Arena_Rooms_version_001
+Quantity = 1
+Weight = 0.5
+
+[Piece11]
+Blueprint = Arena_Rooms_version_002
+Quantity = 1
+Weight = 0.5
+
+[Piece12]
+Blueprint = Arena_Rooms_version_003
+Quantity = 1
+Weight = 0.5
+
+[Piece13]
+Blueprint = Arena_Rooms_version_004
+Quantity = 1
+Weight = 0.5

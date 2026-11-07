@@ -1,0 +1,34 @@
+[Dungeon]
+Type = lair
+
+[Piece1]
+Blueprint = lair_wt_spyzviridian_baseA
+Quantity = 1
+
+[Piece2]
+Blueprint = lair_wt_spyzviridian_sec1A
+Quantity = 1
+
+[Piece3]
+Blueprint = lair_wt_spyzviridian_sec2A
+Quantity = 1
+
+[Piece4]
+Blueprint = lair_wt_spyzviridian_bossA
+Quantity = 1
+
+[Piece5]
+Blueprint = lair_wt_spyzviridian_baseB
+Quantity = 1
+
+[Piece6]
+Blueprint = lair_wt_spyzviridian_sec1B
+Quantity = 1
+
+[Piece7]
+Blueprint = lair_wt_spyzviridian_sec2B
+Quantity = 1
+
+[Piece8]
+Blueprint = lair_wt_spyzviridian_bossB
+Quantity = 1

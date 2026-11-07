@@ -1,0 +1,200 @@
+Seed 11751705
+TotalQueries 138
+================= PIECES =============
+Piece body Plug=0 Size=53x56x53
+	Plug Position=0,38,0
+	AABB Min=-26,0,-26 Max=27,56,27
+	Socket 5
+	Socket 5
+	Socket 5
+	Socket 5
+	Socket 5
+	Socket 5
+	Socket 5
+	Socket 5
+	Socket 5
+	Socket 5
+	Socket 2
+	Socket 5
+	Socket 5
+	Socket 1
+Piece inside0 Plug=1 Size=49x26x49
+	Plug Position=0,25,-3
+	AABB Min=-24,0,-24 Max=25,26,25
+Piece inside1-B Plug=2 Size=29x11x31
+	Plug Position=1,25,-3
+	AABB Min=-20,15,-8 Max=9,26,23
+	Socket 3
+Piece inside1-A Plug=2 Size=29x11x31
+	Plug Position=1,25,-3
+	AABB Min=-20,15,-8 Max=9,26,23
+	Socket 3
+Piece inside1-C Plug=2 Size=29x11x31
+	Plug Position=1,25,-3
+	AABB Min=-20,15,-8 Max=9,26,23
+	Socket 3
+Piece inside2-C Plug=3 Size=29x15x31
+	Plug Position=-9,15,9
+	AABB Min=-20,1,-8 Max=9,16,23
+	Socket 4
+Piece inside2-B Plug=3 Size=29x15x31
+	Plug Position=-9,15,9
+	AABB Min=-20,1,-8 Max=9,16,23
+	Socket 4
+Piece inside2-A Plug=3 Size=29x15x31
+	Plug Position=-9,15,9
+	AABB Min=-20,1,-8 Max=9,16,23
+	Socket 4
+Piece inside3-A Plug=4 Size=32x9x46
+	Plug Position=-8,5,10
+	AABB Min=-8,1,-23 Max=24,10,23
+	Socket 7
+Piece quest-C-e Plug=5 Size=50x70x35
+	Plug Position=-6,3,17
+	AABB Min=-25,0,-17 Max=25,70,18
+	Blocker -18,36,-11 Size=9
+	Blocker 6,36,-11 Size=9
+Piece quest-C-b Plug=5 Size=50x70x35
+	Plug Position=-6,3,17
+	AABB Min=-25,0,-17 Max=25,70,18
+	Blocker -18,36,-11 Size=9
+	Blocker 6,36,-11 Size=9
+Piece quest-B-e Plug=5 Size=50x70x35
+	Plug Position=-6,3,17
+	AABB Min=-25,0,-17 Max=25,70,18
+	Blocker -18,36,-11 Size=9
+	Blocker 6,36,-11 Size=9
+Piece quest-C-d Plug=5 Size=50x70x35
+	Plug Position=-6,3,17
+	AABB Min=-25,0,-17 Max=25,70,18
+	Blocker -18,36,-11 Size=9
+	Blocker 6,36,-11 Size=9
+Piece quest-B-d Plug=5 Size=50x70x35
+	Plug Position=-6,3,17
+	AABB Min=-25,0,-17 Max=25,70,18
+	Blocker -18,36,-11 Size=9
+	Blocker 6,36,-11 Size=9
+Piece quest-C-c Plug=5 Size=50x70x35
+	Plug Position=-6,3,17
+	AABB Min=-25,0,-17 Max=25,70,18
+	Blocker -18,36,-11 Size=9
+	Blocker 6,36,-11 Size=9
+Piece tentacle-B Plug=5 Size=11x26x15
+	Plug Position=-2,3,10
+	AABB Min=-5,0,-4 Max=6,26,11
+	Socket 6
+	Blocker 2,25,-1 Size=2
+Piece tentacle-A Plug=5 Size=7x26x16
+	Plug Position=0,3,10
+	AABB Min=-3,0,-4 Max=4,26,12
+	Socket 6
+	Blocker 0,25,3 Size=2
+Piece tentacle-C Plug=5 Size=11x26x15
+	Plug Position=2,3,10
+	AABB Min=-5,0,-4 Max=6,26,11
+	Socket 6
+	Blocker -2,25,-1 Size=2
+Piece quest-C-a Plug=5 Size=50x70x35
+	Plug Position=-6,3,17
+	AABB Min=-25,0,-17 Max=25,70,18
+	Blocker -18,36,-11 Size=9
+	Blocker 6,36,-11 Size=9
+Piece quest-B-b Plug=5 Size=50x70x35
+	Plug Position=-6,3,17
+	AABB Min=-25,0,-17 Max=25,70,18
+	Blocker -18,36,-11 Size=9
+	Blocker 6,36,-11 Size=9
+Piece quest-A-b Plug=5 Size=50x70x35
+	Plug Position=-6,3,17
+	AABB Min=-25,0,-17 Max=25,70,18
+	Blocker 6,36,-11 Size=9
+	Blocker -18,36,-11 Size=9
+Piece quest-B Plug=5 Size=50x70x35
+	Plug Position=-6,3,17
+	AABB Min=-25,0,-17 Max=25,70,18
+	Blocker -18,36,-11 Size=9
+	Blocker 6,36,-11 Size=9
+Piece quest-A-c Plug=5 Size=50x70x35
+	Plug Position=-6,3,17
+	AABB Min=-25,0,-17 Max=25,70,18
+	Blocker 6,36,-11 Size=9
+	Blocker -18,36,-11 Size=9
+Piece quest-A-a Plug=5 Size=50x70x35
+	Plug Position=-6,3,17
+	AABB Min=-25,0,-17 Max=25,70,18
+	Blocker 6,36,-11 Size=9
+	Blocker -18,36,-11 Size=9
+Piece quest-A Plug=5 Size=50x70x35
+	Plug Position=-6,3,17
+	AABB Min=-25,0,-17 Max=25,70,18
+	Blocker 6,36,-11 Size=9
+	Blocker -18,36,-11 Size=9
+Piece quest-B-c Plug=5 Size=50x70x35
+	Plug Position=-6,3,17
+	AABB Min=-25,0,-17 Max=25,70,18
+	Blocker -18,36,-11 Size=9
+	Blocker 6,36,-11 Size=9
+Piece quest-B-a Plug=5 Size=50x70x35
+	Plug Position=-6,3,17
+	AABB Min=-25,0,-17 Max=25,70,18
+	Blocker -18,36,-11 Size=9
+	Blocker 6,36,-11 Size=9
+Piece quest-A-d Plug=5 Size=50x70x35
+	Plug Position=-6,3,17
+	AABB Min=-25,0,-17 Max=25,70,18
+	Blocker 6,36,-11 Size=9
+	Blocker -18,36,-11 Size=9
+Piece quest-A-e Plug=5 Size=50x70x35
+	Plug Position=-6,3,17
+	AABB Min=-25,0,-17 Max=25,70,18
+	Blocker -18,36,-11 Size=9
+	Blocker 6,36,-11 Size=9
+Piece quest-C Plug=5 Size=50x70x35
+	Plug Position=-6,3,17
+	AABB Min=-25,0,-17 Max=25,70,18
+	Blocker -18,36,-11 Size=9
+	Blocker 6,36,-11 Size=9
+Piece top-B Plug=6 Size=7x19x15
+	Plug Position=0,0,-1
+	AABB Min=-3,0,-7 Max=4,19,8
+Piece top-A Plug=6 Size=7x18x15
+	Plug Position=0,0,-1
+	AABB Min=-3,0,-7 Max=4,18,8
+Piece boss-A Plug=7 Size=20x8x28
+	Plug Position=-10,1,8
+	AABB Min=-10,0,-14 Max=10,8,14
+Piece boss-B Plug=7 Size=20x8x28
+	Plug Position=-10,1,8
+	AABB Min=-10,0,-14 Max=10,8,14
+Piece boss-C Plug=7 Size=20x7x28
+	Plug Position=-10,1,8
+	AABB Min=-10,0,-14 Max=10,7,14
+================= LAYOUT =============
+[0] body [Q=137, D=25]
+	[1] quest-C-e [Q=0, D=0]
+	[2] tentacle-B [Q=1, D=1]
+		[3] top-B [Q=0, D=0]
+	[4] quest-A-b [Q=0, D=0]
+	[5] quest-B-a [Q=0, D=0]
+	[6] quest-C-c [Q=0, D=0]
+	[7] tentacle-C [Q=1, D=1]
+		[8] top-B [Q=0, D=0]
+	[9] tentacle-B [Q=1, D=1]
+		[10] top-A [Q=0, D=0]
+	[11] tentacle-C [Q=1, D=1]
+		[12] top-B [Q=0, D=0]
+	[13] tentacle-A [Q=1, D=1]
+		[14] top-A [Q=0, D=0]
+	[15] tentacle-C [Q=1, D=1]
+		[16] top-A [Q=0, D=0]
+	[17] inside1-B [Q=3, D=3]
+		[18] inside2-C [Q=2, D=2]
+			[19] inside3-A [Q=1, D=1]
+				[20] boss-B [Q=0, D=0]
+	[21] tentacle-A [Q=1, D=1]
+		[22] top-B [Q=0, D=0]
+	[23] tentacle-B [Q=1, D=1]
+		[24] top-A [Q=0, D=0]
+	[25] inside0 [Q=0, D=0]
+================= MESSAGES =============
+Dungeon.Type = Dungeon, 128x256x128

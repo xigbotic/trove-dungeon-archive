@@ -1,0 +1,19 @@
+[Piece0]
+Blueprint = Entry
+Quantity = 1
+
+[Piece1]
+Blueprint = Gameplay
+Quantity = 1
+
+[Piece2]
+Blueprint = Lid
+Quantity = 1
+
+[Piece3]
+Blueprint = Boss
+Quantity = 1
+
+[Piece4]
+Blueprint = Exit
+Quantity = 1

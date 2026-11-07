@@ -1,0 +1,249 @@
+[Dungeon]
+Type = Dungeon
+#Mode = 3-star dungeon
+#Title = Energy Generator
+#Creator = Evilagician
+#EvilSpecial = the funky disco tower & discoland version is the ultra rare version of this dungeon.
+
+#Socketlayout:
+#SOCKET 0 =	Dungeon plug
+#SOCKET 1 =	Land plugs
+#SOCKET 2 =	building plugs
+#SOCKET 3 =	land colors
+#SOCKET 4 =	building colors
+#SOCKET 5 =	main tower
+#SOCKET 6 =	random boss fights minor
+#SOCKET 7 =	random boss fights major
+#SOCKET 8 =	roof
+
+#Socket 0 -> Socket 1 & 2 for land and building colors. These enable 25 building options.
+#Socket 0 -> Socket 8 for the invisible roof
+#Socket 1 -> Socket 3 
+#Socket 2 -> Socket 4 & Socket 5
+
+
+
+#Special
+#Yellow
+#Pink
+#Green
+#Blue
+#Plug
+
+
+#Plug 0 Done
+[PiecePlugs]
+Blueprint = d_neon_generator_sockets
+Quantity = 1
+
+#Plug 1
+[PiecelandplugsBlue]
+Blueprint = d_neon_generator_landsockets_Bl
+Quantity = 1
+Weight = 0.44
+
+[PiecelandplugsGreen]
+Blueprint = d_neon_generator_landsockets_Gr
+Quantity = 1
+Weight = 0.44
+
+[PiecelandplugsYellow]
+Blueprint = d_neon_generator_landsockets_Ye
+Quantity = 1
+Weight = 0.44
+
+[PiecelandplugsPink]
+Blueprint = d_neon_generator_landsockets_Pi
+Quantity = 1
+Weight = 0.44
+
+[PiecelandplugsParty]
+Blueprint = d_neon_generator_landsockets_Sp
+Quantity = 1
+Weight = 0.34
+
+#Plug 2
+[PieceBuildplugsBlue]
+Blueprint = d_neon_generator_buildsockets_Bl
+Quantity = 1
+Weight = 0.44
+
+[PieceBuildplugsGreen]
+Blueprint = d_neon_generator_buildsockets_Gr
+Quantity = 1
+Weight = 0.45
+
+[PieceBuildplugsYellow]
+Blueprint = d_neon_generator_buildsockets_Ye
+Quantity = 1
+Weight = 0.46
+
+[PieceBuildplugsPink]
+Blueprint = d_neon_generator_buildsockets_Pi
+Quantity = 1
+Weight = 0.47
+
+[PieceBuildplugsParty]
+Blueprint = d_neon_generator_buildsockets_Sp
+Quantity = 1
+Weight = 0.34
+#End plugvariations
+
+#Start land options variation 5 colors 
+
+[PieceLandBlue]
+Blueprint = d_neon_generator_land_Bl
+Quantity = 4
+
+[PieceLandGreen]
+Blueprint = d_neon_generator_land_Gr
+Quantity = 4
+
+[PieceLandYellow]
+Blueprint = d_neon_generator_land_Ye
+Quantity = 4
+
+[PieceLandPink]
+Blueprint = d_neon_generator_land_Pi
+Quantity = 4
+
+[PieceLandParty]
+Blueprint = d_neon_generator_land_Sp
+Quantity = 4
+#End land options variation 5 colors 
+
+#Start Building options variation 5 colors
+[PieceBuildSideBlue]
+Blueprint = d_neon_generator_base_Bl
+Quantity = 4
+
+[PieceBuildSideGreen]
+Blueprint = d_neon_generator_base_Gr
+Quantity = 4
+
+[PieceBuildSideYellow]
+Blueprint = d_neon_generator_base_Ye
+Quantity = 4
+
+[PieceBuildSidePink]
+Blueprint = d_neon_generator_base_Pi
+Quantity = 4
+
+[PieceBuildSideParty]
+Blueprint = d_neon_generator_base_Sp
+Quantity = 4
+#End Building options variation 5 colors
+
+
+#Start Building options variation 5 colors
+[PieceBuildTowerBL]
+Blueprint = d_neon_generator_tower_BL
+Quantity = 1
+Weight = 0.44
+
+[PieceBuildTowerGr]
+Blueprint = d_neon_generator_tower_Gr
+Quantity = 1
+Weight = 0.45
+
+[PieceBuildTowerYe]
+Blueprint = d_neon_generator_tower_Ye
+Quantity = 1
+Weight = 0.46
+
+[PieceBuildTowerPi]
+Blueprint = d_neon_generator_tower_Pi
+Quantity = 1
+Weight = 0.47
+
+[PieceBuildTowerSp]
+Blueprint = d_neon_generator_tower_Sp
+Quantity = 1
+Weight = 0.34
+#End Building options variation 5 colors
+
+#Start minorlow options variation 5
+[PieceMinorBot001]
+Blueprint = d_neon_generator_minorquestlow_001
+Quantity = 1
+Weight = 0.44
+
+[PieceMinorBot002]
+Blueprint = d_neon_generator_minorquestlow_002
+Quantity = 1
+Weight = 0.45
+
+[PieceMinorBot003]
+Blueprint = d_neon_generator_minorquestlow_003
+Quantity = 1
+Weight = 0.46
+
+[PieceMinorBot004]
+Blueprint = d_neon_generator_minorquestlow_004
+Quantity = 1
+Weight = 0.47
+
+[PieceMinorBot005]
+Blueprint = d_neon_generator_minorquestlow_005
+Quantity = 1
+Weight = 0.34
+#End  minorlow options variation 5
+
+#Start  minorhigh options variation 5
+[PieceMinorTop001]
+Blueprint = d_neon_generator_minorquesthigh_001
+Quantity = 1
+Weight = 0.44
+
+[PieceMinorTop002]
+Blueprint = d_neon_generator_minorquesthigh_002
+Quantity = 1
+Weight = 0.45
+
+[PieceMinorTop003]
+Blueprint = d_neon_generator_minorquesthigh_003
+Quantity = 1
+Weight = 0.46
+
+[PieceMinorTop004]
+Blueprint = d_neon_generator_minorquesthigh_004
+Quantity = 1
+Weight = 0.47
+
+[PieceMinorTop005]
+Blueprint = d_neon_generator_minorquesthigh_005
+Quantity = 1
+Weight = 0.34
+#End minorhigh options variation 5
+
+#Start Major options variation 5
+[PieceMajor001]
+Blueprint = d_neon_generator_majorquest_001
+Quantity = 1
+Weight = 0.44
+
+[PieceMajor002]
+Blueprint = d_neon_generator_majorquest_002
+Quantity = 1
+Weight = 0.45
+
+[PieceMajor003]
+Blueprint = d_neon_generator_majorquest_003
+Quantity = 1
+Weight = 0.46
+
+[PieceMajor004]
+Blueprint = d_neon_generator_majorquest_004
+Quantity = 1
+Weight = 0.47
+
+[PieceMajor005]
+Blueprint = d_neon_generator_majorquest_005
+Quantity = 1
+Weight = 0.34
+#Start Major options variation 5
+
+[PieceCoverEnd]
+Blueprint = d_neon_generator_cover
+Quantity = 4
+

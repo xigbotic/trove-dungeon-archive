@@ -1,0 +1,187 @@
+[Dungeon]
+Type = Dungeon
+
+[Piece0]
+Blueprint = entrancebunker0
+Quantity = 1
+
+[Piece1]
+Blueprint = BunkersGR
+Quantity = 1
+
+[Piece2]
+Blueprint = BunkersG
+Quantity = 1
+
+[Piece3]
+Blueprint = BunkersB
+Quantity = 1
+
+[Piece4]
+Blueprint = BunkersBR
+Quantity = 1
+
+[Piece5]
+Blueprint = BunkersYP
+Quantity = 1
+
+[Piece6]
+Blueprint = BunkersYPR
+Quantity = 1
+
+[Piece7]
+Blueprint = deco1
+Quantity = 1
+
+[Piece8]
+Blueprint = deco2
+Quantity = 2
+
+[Piece9]
+Blueprint = tunnel_both
+Quantity = 10
+
+[Piece10]
+Blueprint = xpipe0
+Quantity = 1
+Weight = 10
+
+[Piece11]
+Blueprint = xpipe1
+Quantity = 2
+Weight = 10
+
+[Piece12]
+Blueprint = xpipe2
+Quantity = 1
+Weight = 10
+
+[Piece13]
+Blueprint = endtunnel_quest
+Quantity = 1
+Weight = 5
+
+[Piece14]
+Blueprint = entrancegate0
+Quantity = 1
+
+[Piece15]
+Blueprint = questpagoda0
+Quantity = 1
+Weight = 100
+
+[Piece16]
+Blueprint = endtunnel2_drop1
+Quantity = 1
+Weight = 5
+
+[Piece17]
+Blueprint = tunnel_layer2
+Quantity = 10
+
+[Piece18]
+Blueprint = start_tunnel1
+Quantity = 2
+weight = 2
+
+[Piece19]
+Blueprint = tower_thing1
+Quantity = 1
+
+[Piece20]
+Blueprint = endtunnel3
+Quantity = 3
+
+[Piece21]
+Blueprint = EndTunnel2
+Quantity = 3
+
+[Piece22]
+Blueprint = EndTunnel1
+Quantity = 3
+
+[Piece23]
+Blueprint = pipeendcap5
+Quantity = 5
+Weight = 0
+
+[Piece24]
+Blueprint = pipeendcap6
+Quantity = 3
+Weight = 0
+
+[Piece25]
+Blueprint = pipeendcap7
+Quantity = 10
+Weight = 0
+
+[Piece26]
+Blueprint = pipebarred
+Quantity = 4
+
+[Piece27]
+Blueprint = tunnel_layer1
+Quantity = 10
+
+[Piece28]
+Blueprint = start_tunnel2_2
+Quantity = 2
+Weight = 2
+
+[Piece29]
+Blueprint = neonshrine
+Quantity = 1
+Weight = 2
+
+[Piece30]
+Blueprint = false_pagoda0
+Quantity = 1
+
+[Piece31]
+Blueprint = halfblank_plug_cyan
+Quantity = 1
+Weight = 0
+
+[Piece32]
+Blueprint = Halfblank
+Quantity = 4
+Weight = 2
+
+[Piece33]
+Blueprint = Pond
+Quantity = 1
+Weight = 3
+
+[Piece34]
+Blueprint = Halfblank_plug
+Quantity = 6
+Weight = 0
+
+[Piece35]
+Blueprint = false_pagoda1
+Quantity = 6
+
+[Piece36]
+Blueprint = questpagoda1
+Quantity = 1
+Weight = 100
+
+[Piece37]
+Blueprint = entrancegate1
+Quantity = 1
+
+[Piece38]
+Blueprint = entrancebunker1
+Quantity = 1
+
+[Piece39]
+Blueprint = tower_thing2
+Quantity = 1
+
+[Piece40]
+Blueprint = tower_thing3
+Quantity = 1
+
+[Piece41]
+Blueprint = tower_thing4
+Quantity = 1

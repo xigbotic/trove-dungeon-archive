@@ -1,0 +1,65 @@
+[Dungeon]
+Type = dungeon
+
+[Piece0]
+Blueprint = Base_final
+Quantity = 1
+Weight = 1
+
+[Piece1]
+Blueprint = BossRoom
+Quantity = 1
+Weight = 1
+
+[Piece2]
+Blueprint = Intestines
+Quantity = 1
+Weight = 1
+
+[Piece3]
+Blueprint = PoopRoomNotReally
+Quantity = 1
+Weight = 1
+
+[Piece4]
+Blueprint = hall1
+Quantity = 1
+Weight = 1
+
+[Piece5]
+Blueprint = hall2
+Quantity = 1
+Weight = 1
+
+[Piece6]
+Blueprint = hall3
+Quantity = 1
+Weight = 1
+
+[Piece7]
+Blueprint = hall4
+Quantity = 1
+Weight = 1
+
+[Piece8]
+Blueprint = Minor1
+Quantity = 1
+Weight = 1
+
+
+[Piece9]
+Blueprint = Minor2
+Quantity = 1
+Weight = 1
+
+[Piece10]
+Blueprint = Minor3
+Quantity = 1
+Weight = 1
+
+[Piece11]
+Blueprint = Minor4
+Quantity = 1
+Weight = 1
+
+

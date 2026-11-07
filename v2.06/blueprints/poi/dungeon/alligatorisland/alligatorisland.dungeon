@@ -1,0 +1,130 @@
+[Dungeon]
+Type = Dungeon
+
+[Piece0]
+Blueprint = AlligatorIslandSurface_a
+Quantity = 1
+Weight = .5
+
+[Piece1]
+Blueprint = AlligatorIslandSurface_b
+Quantity = 1
+Weight = .5
+
+[Piece2]
+Blueprint = Ship2_a
+Quantity = 1
+Weight = .33
+
+[Piece3]
+Blueprint = Ship2_b
+Quantity = 1
+Weight = .33
+
+[Piece4]
+Blueprint = Ship2_c
+Quantity = 1
+Weight = .33
+
+[Piece5]
+Blueprint = Ship1_a
+Quantity = 1
+Weight = .33
+
+[Piece6]
+Blueprint = Ship1_b
+Quantity = 1
+Weight = .33
+
+[Piece7]
+Blueprint = Tree_a
+Weight = .2
+
+[Piece8]
+Blueprint = Tree_b
+Weight = .2
+
+[Piece9]
+Blueprint = Tree_c
+Weight = .2
+
+[Piece10]
+Blueprint = Tree_d
+Weight = .2
+
+[Piece11]
+Blueprint = Tree_e
+Weight = .18
+
+[Piece12]
+Blueprint = Rock_a
+Weight = .2
+
+[Piece13]
+Blueprint = Rock_b
+Weight = .2
+
+[Piece14]
+Blueprint = Rock_z
+Weight = .2
+
+[Piece15]
+Blueprint = AlligatorIslandBoss
+Quantity = 1
+
+[Piece16]
+Blueprint = Rock_c
+Weight = .2
+
+[Piece17]
+Blueprint = Rock_d
+Weight = .2
+
+[Piece18]
+Blueprint = Rock_q
+Weight = .2
+
+[Piece19]
+Blueprint = Stalagmite_a
+Weight = .2
+
+[Piece20]
+Blueprint = Stalagmite_b
+Weight = .2
+
+[Piece21]
+Blueprint = Stalagmite_c
+Weight = .2
+
+[Piece22]
+Blueprint = Stalagmite_d
+Weight = .2
+
+
+[Piece23]
+Blueprint = Stalagtite_a
+Weight = .2
+
+[Piece24]
+Blueprint = Stalagtite_b
+Weight = .2
+
+[Piece25]
+Blueprint = Stalagtite_c
+Weight = .15
+
+[Piece26]
+Blueprint = Stalagtite_d
+Weight = .2
+
+[Piece27]
+Blueprint = Stalagtite_e
+Weight = .2
+
+
+
+
+
+
+
+

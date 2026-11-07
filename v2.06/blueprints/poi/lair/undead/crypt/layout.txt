@@ -1,0 +1,54 @@
+Seed 816520270
+TotalQueries 5
+================= PIECES =============
+Piece Lair_Entrance Plug=0 Size=30x31x30
+	Plug Position=0,15,0
+	AABB Min=-15,0,-15 Max=15,31,15
+	Socket 4
+Piece Lair_Boss_Spike Plug=4 Size=30x12x30
+	Plug Position=0,11,-3
+	AABB Min=-15,0,-15 Max=15,12,15
+	Socket 5
+	Socket 5
+	Socket 5
+Piece Lair_Boss_Natural Plug=4 Size=30x12x30
+	Plug Position=0,11,-3
+	AABB Min=-15,0,-15 Max=15,12,15
+	Socket 5
+	Socket 5
+	Socket 5
+Piece Lair_Boss_Lava Plug=4 Size=30x12x30
+	Plug Position=0,11,-3
+	AABB Min=-15,0,-15 Max=15,12,15
+	Socket 5
+	Socket 5
+	Socket 5
+Piece Lair_Boss_Water Plug=4 Size=30x12x30
+	Plug Position=0,11,-3
+	AABB Min=-15,0,-15 Max=15,12,15
+	Socket 5
+	Socket 5
+	Socket 5
+Piece Lair_Wall_Coffin_2 Plug=5 Size=4x9x14
+	Plug Position=-2,0,-1
+	AABB Min=-2,0,-7 Max=2,9,7
+Piece Lair_Wall_Coffin_3 Plug=5 Size=4x9x14
+	Plug Position=-2,0,-1
+	AABB Min=-2,0,-7 Max=2,9,7
+Piece Lair_Wall_Door Plug=5 Size=4x9x14
+	Plug Position=-2,0,-1
+	AABB Min=-2,0,-7 Max=2,9,7
+Piece Lair_Wall_Plain Plug=5 Size=4x9x14
+	Plug Position=-2,0,-1
+	AABB Min=-2,0,-7 Max=2,9,7
+Piece Lair_Wall_Coffin_1 Plug=5 Size=4x9x14
+	Plug Position=-2,0,-1
+	AABB Min=-2,0,-7 Max=2,9,7
+================= LAYOUT =============
+[0] Lair_Entrance [Q=4, D=4]
+	[1] Lair_Boss_Water [Q=3, D=3]
+		[2] Lair_Wall_Door [Q=0, D=0]
+		[3] Lair_Wall_Coffin_2 [Q=0, D=0]
+		[4] Lair_Wall_Plain [Q=0, D=0]
+================= MESSAGES =============
+Dungeon.Type = Lair, 42x96x42 (64 up, 32 down)

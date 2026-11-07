@@ -1,0 +1,183 @@
+[Piece0]
+Blueprint = DNG_DryGulch_shell_Cretoriani
+Quantity = 1
+
+[Piece1]
+Blueprint = DNG_DryGulch_floor1_Cretoriani
+Quantity = 1
+
+[Piece2]
+Blueprint = DNG_DryGulch_floor2_Cretoriani
+Quantity = 1
+
+[Piece3]
+Blueprint = DNG_DryGulch_floor3_Cretoriani
+Quantity = 1
+
+[Piece4]
+Blueprint = DNG_DryGulch_bossQuest1_Cretoriani
+Quantity = 1
+
+[Piece5]
+Blueprint = DNG_DryGulch_bossQuest2_Cretoriani
+Quantity = 1
+
+[Piece6]
+Blueprint = DNG_DryGulch_bossQuest3_Cretoriani
+Quantity = 1
+
+[Piece7]
+Blueprint = DNG_DryGulch_quest1_Cretoriani
+Quantity = 2
+
+[Piece8]
+Blueprint = DNG_DryGulch_quest2_Cretoriani
+Quantity = 2
+
+[Piece9]
+Blueprint = DNG_DryGulch_quest3_Cretoriani
+Quantity = 2
+
+[Piece10]
+Blueprint = DNG_DryGulch_bldg1_large_Cretoriani
+Quantity = 100
+
+[Piece11]
+Blueprint = DNG_DryGulch_bldg2_large_Cretoriani
+Quantity = 100
+
+[Piece12]
+Blueprint = DNG_DryGulch_bldg3_large_Cretoriani
+Quantity = 100
+
+[Piece13]
+Blueprint = DNG_DryGulch_bldg4_large_Cretoriani
+Quantity = 100
+
+[Piece14]
+Blueprint = DNG_DryGulch_bldg5_large_Cretoriani
+Quantity = 100
+
+[Piece15]
+Blueprint = DNG_DryGulch_bldg1_small_Cretoriani
+Quantity = 100
+
+[Piece16]
+Blueprint = DNG_DryGulch_bldg2_small_Cretoriani
+Quantity = 100
+
+[Piece17]
+Blueprint = DNG_DryGulch_bldg3_small_Cretoriani
+Quantity = 100
+
+[Piece18]
+Blueprint = DNG_DryGulch_bldg4_small_Cretoriani
+Quantity = 100
+
+[Piece19]
+Blueprint = DNG_DryGulch_bldg5_small_Cretoriani
+Quantity = 100
+
+[Piece20]
+Blueprint = DNG_DryGulch_rocks1_large_Cretoriani
+Quantity = 100
+
+[Piece21]
+Blueprint = DNG_DryGulch_rocks2_large_Cretoriani
+Quantity = 100
+
+[Piece22]
+Blueprint = DNG_DryGulch_rocks3_large_Cretoriani
+Quantity = 100
+
+[Piece23]
+Blueprint = DNG_DryGulch_rocks4_large_Cretoriani
+Quantity = 100
+
+[Piece24]
+Blueprint = DNG_DryGulch_rocks1_small_Cretoriani
+Quantity = 100
+
+[Piece25]
+Blueprint = DNG_DryGulch_rocks2_small_Cretoriani
+Quantity = 100
+
+[Piece26]
+Blueprint = DNG_DryGulch_rocks3_small_Cretoriani
+Quantity = 100
+
+[Piece27]
+Blueprint = DNG_DryGulch_rocks4_small_Cretoriani
+Quantity = 100
+
+[Piece28]
+Blueprint = DNG_DryGulch_stalag_bothStalag_short_small_Cretoriani
+Quantity = 100
+
+[Piece29]
+Blueprint = DNG_DryGulch_stalag_merged_short_small_Cretoriani
+Quantity = 100
+
+[Piece30]
+Blueprint = DNG_DryGulch_stalag_stalagmite_short_small_Cretoriani
+Quantity = 100
+
+[Piece31]
+Blueprint = DNG_DryGulch_stalag_stalagtite_short_small_Cretoriani
+Quantity = 100
+
+[Piece32]
+Blueprint = DNG_DryGulch_stalag_merged1_short_large_Cretoriani
+Quantity = 100
+
+[Piece33]
+Blueprint = DNG_DryGulch_stalag_merged2_short_large_Cretoriani
+Quantity = 100
+
+[Piece34]
+Blueprint = DNG_DryGulch_stalag_stalagmite_short_large_Cretoriani
+Quantity = 100
+
+[Piece35]
+Blueprint = DNG_DryGulch_stalag_stalagtite_short_large_Cretoriani
+Quantity = 100
+
+[Piece36]
+Blueprint = DNG_DryGulch_stalag_bothStalags_tall_small_Cretoriani
+Quantity = 100
+
+[Piece37]
+Blueprint = DNG_DryGulch_stalag_stalagmite_tall_small_Cretoriani
+Quantity = 100
+
+[Piece38]
+Blueprint = DNG_DryGulch_stalag_stalagtite_tall_small_Cretoriani
+Quantity = 100
+
+[Piece39]
+Blueprint = DNG_DryGulch_stalag_merged_tall_large_Cretoriani
+Quantity = 100
+
+[Piece40]
+Blueprint = DNG_DryGulch_stalag_stalagmite_tall_large_Cretoriani
+Quantity = 100
+
+[Piece41]
+Blueprint = DNG_DryGulch_stalag_stalagtite_tall_large_Cretoriani
+Quantity = 100
+
+[Piece42]
+Blueprint = DNG_DryGulch_sky_Cretoriani
+Quantity = 1
+
+[Piece43]
+Blueprint = DNG_DryGulch_CactusTop1_Cretoriani
+Quantity = 100
+
+[Piece44]
+Blueprint = DNG_DryGulch_CactusTop2_Cretoriani
+Quantity = 100
+
+[Piece45]
+Blueprint = DNG_DryGulch_CactusTop3_Cretoriani
+Quantity = 100

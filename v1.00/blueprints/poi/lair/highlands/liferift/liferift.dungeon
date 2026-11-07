@@ -1,0 +1,47 @@
+[Dungeon]
+Type = lair
+
+[Piece0]
+Blueprint = TreeLower1
+Quantity = 1
+Weight = 1
+
+[Piece1]
+Blueprint = TreeLower2
+Quantity = 1
+Weight = 1
+
+[Piece2]
+Blueprint = TreeLower3
+Quantity = 1
+Weight = 1
+
+[Piece3]
+Blueprint = TreeLower4
+Quantity = 1
+Weight = 1
+
+[Piece4]
+Blueprint = TreeUpper1
+Quantity = 1
+Weight = 1
+
+[Piece5]
+Blueprint = TreeUpper2
+Quantity = 1
+Weight = 1
+
+[Piece6]
+Blueprint = TreeUpper3
+Quantity = 1
+Weight = 1
+
+[Piece7]
+Blueprint = TreeUpper4
+Quantity = 1
+Weight = 1
+
+[Piece8]
+Blueprint = Rift
+Quantity = 1
+Weight = 1

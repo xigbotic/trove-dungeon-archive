@@ -1,0 +1,122 @@
+[Dungeon]
+Type = Dungeon
+
+[Base1]
+Blueprint = stargate_top_01
+Quantity = 1
+Weight = 0.5
+
+[Base2]
+Blueprint = stargate_top_02
+Quantity = 1
+Weight = 0.5
+
+[Base3]
+Blueprint = stargate_top_03
+Quantity = 1
+Weight = 0.5
+
+[Minibosses1]
+Blueprint = stargate_bottom_01_utopia
+Quantity = 1
+Weight = 0.3
+
+[FightplaceUtopia1]
+Blueprint = stargate_bottom_01_utopia_boss
+Quantity = 1
+Weight = 0.5
+
+[FightplaceUtopia2]
+Blueprint = stargate_bottom_01_utopia_miniboss
+Quantity = 1
+Weight = 0.5
+
+[Minibosses2]
+Blueprint = stargate_bottom_02_dystopia
+Quantity = 1
+Weight = 0.3
+
+[FightplaceDystopia1]
+Blueprint = stargate_bottom_02_dystopia_boss
+Quantity = 1
+Weight = 0.5
+
+[FightplaceDystopia2]
+Blueprint = stargate_bottom_02_dystopia_miniboss
+Quantity = 1
+Weight = 0.5
+
+[Minibosses3]
+Blueprint = stargate_bottom_03_space
+Quantity = 1
+Weight = 0.3
+
+[FightplaceSpace1]
+Blueprint = stargate_bottom_03_space_boss
+Quantity = 1
+Weight = 0.5
+
+[FightplaceSpace2]
+Blueprint = stargate_bottom_03_space_miniboss
+Quantity = 1
+Weight = 0.5
+
+[Minibosses4]
+Blueprint = stargate_bottom_04_darkrealm
+Quantity = 1
+Weight = 0.3
+
+[FightplaceDark1]
+Blueprint = stargate_bottom_04_darkrealm_boss
+Quantity = 1
+Weight = 0.5
+
+[FightplaceDark2]
+Blueprint = stargate_bottom_04_darkrealm_miniboss
+Quantity = 1
+Weight = 0.5
+
+[Minibosses5]
+Blueprint = stargate_bottom_05_swamp
+Quantity = 1
+Weight = 0.3
+
+[FightplaceSwamp1]
+Blueprint = stargate_bottom_05_swamp_boss
+Quantity = 1
+Weight = 0.5
+
+[FightplaceSwamp2]
+Blueprint = stargate_bottom_05_swamp_miniboss
+Quantity = 1
+Weight = 0.5
+
+[Minibosses6]
+Blueprint = stargate_bottom_06_geodiancaves
+Quantity = 1
+Weight = 0.5
+
+[FightplaceCaves1]
+Blueprint = stargate_bottom_06_geodiancaves_boss
+Quantity = 1
+Weight = 0.5
+
+[FightplaceCaves2]
+Blueprint = stargate_bottom_06_geodiancaves_miniboss
+Quantity = 1
+Weight = 0.5
+
+[Minibosses7]
+Blueprint = stargate_bottom_07_geodesurface
+Quantity = 1
+Weight = 0.5
+
+[FightplaceGeode1]
+Blueprint = stargate_bottom_07_geodesurface_boss
+Quantity = 1
+Weight = 0.5
+
+[FightplaceGeode2]
+Blueprint = stargate_bottom_07_geodesurface_miniboss
+Quantity = 1
+Weight = 0.5

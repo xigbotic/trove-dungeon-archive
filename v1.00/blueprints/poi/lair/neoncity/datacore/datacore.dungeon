@@ -1,0 +1,100 @@
+[Dungeon]
+Type = lair
+
+[Piece0]
+Blueprint = base
+Quantity = 1
+
+[Piece1]
+Blueprint = data_struct_01
+Quantity = 1
+Weight = .125
+
+[Piece2]
+Blueprint = data_struct_02
+Quantity = 1
+Weight = .125
+
+[Piece3]
+Blueprint = data_struct_03
+Quantity = 1
+Weight = .125
+
+[Piece4]
+Blueprint = data_struct_04
+Quantity = 1
+Weight = .125
+
+[Piece5]
+Blueprint = data_struct_05
+Quantity = 1
+Weight = .125
+
+[Piece6]
+Blueprint = data_struct_06
+Quantity = 1
+Weight = .125
+
+[Piece7]
+Blueprint = data_struct_07
+Quantity = 1
+Weight = .125
+
+[Piece8]
+Blueprint = data_struct_08
+Quantity = 1
+Weight = .125
+
+[Piece9]
+Blueprint = hopup_pads_02
+Quantity = 1
+Weight = .33
+
+[Piece10]
+Blueprint = hopup_pads_03a
+Quantity = 1
+Weight = .33
+
+[Piece11]
+Blueprint = hopup_pads_03b
+Quantity = 1
+Weight = .33
+
+[Piece12]
+Blueprint = shell
+Quantity = 1
+
+[Piece13]
+Blueprint = floor_bottom_01
+Quantity = 1
+Weight = .33
+
+[Piece14]
+Blueprint = floor_bottom_02
+Quantity = 1
+Weight = .33
+
+[Piece15]
+Blueprint = floor_bottom_03
+Quantity = 1
+Weight = .33
+
+[Piece16]
+Blueprint = floor_bottom_04
+Quantity = 1
+Weight = .33
+
+[Piece17]
+Blueprint = floor_boss_01
+Quantity = 1
+Weight = .33
+
+[Piece18]
+Blueprint = floor_boss_02
+Quantity = 1
+Weight = .33
+
+[Piece19]
+Blueprint = floor_boss_03
+Quantity = 1
+Weight = .33

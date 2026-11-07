@@ -1,0 +1,31 @@
+[Piece0]
+Blueprint = LollipopDungeonF0
+Quantity = 1
+
+[Piece1]
+Blueprint = LollipopDungeonF1
+Quantity = 1
+
+[Piece2]
+Blueprint = LollipopDungeonF2
+Quantity = 1
+
+[Piece3]
+Blueprint = LollipopDungeonF3
+Quantity = 1
+
+[Piece4]
+Blueprint = LollipopDungeonF4
+Quantity = 1
+
+[Piece5]
+Blueprint = LollipopDungeonF5
+Quantity = 1
+
+[Piece6]
+Blueprint = LollipopDungeonF6
+Quantity = 1
+
+[Piece7]
+Blueprint = LollipopDungeonF7
+Quantity = 1

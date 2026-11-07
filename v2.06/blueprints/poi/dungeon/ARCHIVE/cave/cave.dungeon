@@ -1,0 +1,97 @@
+[Piece0]
+Blueprint = DNG_cave_0_entrance
+Quantity = 1
+
+[Piece1]
+Blueprint = DNG_cave_1_bigroom1
+Quantity = 3
+
+[Piece2]
+Blueprint = DNG_cave_1_bigroom2
+Quantity = 3
+
+[Piece3]
+Blueprint = DNG_cave_2_endcap
+Quantity = 100
+Weight = 0
+
+[Piece4]
+Blueprint = DNG_cave_2_room1
+Quantity = 20
+
+[Piece5]
+Blueprint = DNG_cave_2_room2
+Quantity = 20
+
+[Piece6]
+Blueprint = DNG_cave_2_room3
+Quantity = 20
+
+[Piece7]
+Blueprint = DNG_cave_2_room4
+Quantity = 20
+
+[Piece8]
+Blueprint = DNG_cave_3_endcap
+Quantity = 100
+Weight = 0
+
+[Piece9]
+Blueprint = DNG_cave_3_room1
+Quantity = 20
+
+[Piece10]
+Blueprint = DNG_cave_3_room2
+Quantity = 20
+
+[Piece11]
+Blueprint = DNG_cave_3_room3
+Quantity = 20
+
+[Piece12]
+Blueprint = DNG_cave_4_endcap
+Quantity = 100
+Weight = 0
+
+[Piece13]
+Blueprint = DNG_cave_4_room1
+Quantity = 20
+
+[Piece14]
+Blueprint = DNG_cave_4_room2
+Quantity = 20
+
+[Piece15]
+Blueprint = DNG_cave_4_room3
+Quantity = 20
+
+[Piece16]
+Blueprint = DNG_cave_4_room4
+Quantity = 20
+
+[Piece17]
+Blueprint = DNG_cave_4_room5
+Quantity = 20
+
+[Piece18]
+Blueprint = DNG_cave_5_endcap
+Quantity = 100
+Weight = 0
+
+[Piece19]
+Blueprint = DNG_cave_5_room1
+Quantity = 4
+
+[Piece20]
+Blueprint = DNG_cave_5_room2
+Quantity = 4
+
+[Piece21]
+Blueprint = DNG_cave_7_endcap
+Quantity = 100
+Weight = 0
+
+[Piece22]
+Blueprint = DNG_cave_7_room1
+Quantity = 2
+

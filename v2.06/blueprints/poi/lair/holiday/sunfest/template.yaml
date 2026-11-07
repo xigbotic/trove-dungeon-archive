@@ -1,0 +1,393 @@
+# Every biome has its own Plate, there are no plates for Peaceful Hills, Everdark or Radiant Ruins.
+# Please use single-target kill quests, the size of boss room is not perfectly suitable for cursed skull objectives.
+#Candoria
+    - folder: poi/lair/holiday/sunfest
+      quests: []
+      npcs: []
+      npcTriggers: []
+      npcTags: []
+      pieces:
+      - cake_plate_candoria
+      - cake_case_bisquit
+      - cake_case_bundt
+      - cake_case_carrot
+      - cake_case_carys
+      - cake_case_panatea
+      - cake_case_pineapple
+      - cake_case_rainbow
+      - cake_case_tiramisu
+      - cake_case_tysorion
+      - cake_case_velvet
+      - cake_room_bottom_01
+      - cake_room_bottom_02
+      - cake_room_bottom_03
+      - cake_room_bottom_04
+      - cake_room_bottom_05
+      - cake_room_bottom_06
+      - cake_room_top_01
+      - cake_room_top_02
+      - cake_room_top_03
+      - cake_room_top_04
+      - cake_room_top_05
+      - cake_room_top_06
+#Cursed Vale
+    - folder: poi/lair/holiday/sunfest
+      quests: []
+      npcs: []
+      npcTriggers: []
+      npcTags: []
+      pieces:
+      - cake_plate_cursed
+      - cake_case_bisquit
+      - cake_case_bundt
+      - cake_case_carrot
+      - cake_case_carys
+      - cake_case_panatea
+      - cake_case_pineapple
+      - cake_case_rainbow
+      - cake_case_tiramisu
+      - cake_case_tysorion
+      - cake_case_velvet
+      - cake_room_bottom_01
+      - cake_room_bottom_02
+      - cake_room_bottom_03
+      - cake_room_bottom_04
+      - cake_room_bottom_05
+      - cake_room_bottom_06
+      - cake_room_top_01
+      - cake_room_top_02
+      - cake_room_top_03
+      - cake_room_top_04
+      - cake_room_top_05
+      - cake_room_top_06
+#Dragonfire Peaks
+    - folder: poi/lair/holiday/sunfest
+      quests: []
+      npcs: []
+      npcTriggers: []
+      npcTags: []
+      pieces:
+      - cake_plate_dragon
+      - cake_case_bisquit
+      - cake_case_bundt
+      - cake_case_carrot
+      - cake_case_carys
+      - cake_case_panatea
+      - cake_case_pineapple
+      - cake_case_rainbow
+      - cake_case_tiramisu
+      - cake_case_tysorion
+      - cake_case_velvet
+      - cake_room_bottom_01
+      - cake_room_bottom_02
+      - cake_room_bottom_03
+      - cake_room_bottom_04
+      - cake_room_bottom_05
+      - cake_room_bottom_06
+      - cake_room_top_01
+      - cake_room_top_02
+      - cake_room_top_03
+      - cake_room_top_04
+      - cake_room_top_05
+      - cake_room_top_06
+#Desert Frontier
+    - folder: poi/lair/holiday/sunfest
+      quests: []
+      npcs: []
+      npcTriggers: []
+      npcTags: []
+      pieces:
+      - cake_plate_desert
+      - cake_case_bisquit
+      - cake_case_bundt
+      - cake_case_carrot
+      - cake_case_carys
+      - cake_case_panatea
+      - cake_case_pineapple
+      - cake_case_rainbow
+      - cake_case_tiramisu
+      - cake_case_tysorion
+      - cake_case_velvet
+      - cake_room_bottom_01
+      - cake_room_bottom_02
+      - cake_room_bottom_03
+      - cake_room_bottom_04
+      - cake_room_bottom_05
+      - cake_room_bottom_06
+      - cake_room_top_01
+      - cake_room_top_02
+      - cake_room_top_03
+      - cake_room_top_04
+      - cake_room_top_05
+      - cake_room_top_06
+#Fae Forest
+    - folder: poi/lair/holiday/sunfest
+      quests: []
+      npcs: []
+      npcTriggers: []
+      npcTags: []
+      pieces:
+      - cake_plate_fae
+      - cake_case_bisquit
+      - cake_case_bundt
+      - cake_case_carrot
+      - cake_case_carys
+      - cake_case_panatea
+      - cake_case_pineapple
+      - cake_case_rainbow
+      - cake_case_tiramisu
+      - cake_case_tysorion
+      - cake_case_velvet
+      - cake_room_bottom_01
+      - cake_room_bottom_02
+      - cake_room_bottom_03
+      - cake_room_bottom_04
+      - cake_room_bottom_05
+      - cake_room_bottom_06
+      - cake_room_top_01
+      - cake_room_top_02
+      - cake_room_top_03
+      - cake_room_top_04
+      - cake_room_top_05
+      - cake_room_top_06
+#Forbidden Spires
+    - folder: poi/lair/holiday/sunfest
+      quests: []
+      npcs: []
+      npcTriggers: []
+      npcTags: []
+      pieces:
+      - cake_plate_spires
+      - cake_case_bisquit
+      - cake_case_bundt
+      - cake_case_carrot
+      - cake_case_carys
+      - cake_case_panatea
+      - cake_case_pineapple
+      - cake_case_rainbow
+      - cake_case_tiramisu
+      - cake_case_tysorion
+      - cake_case_velvet
+      - cake_room_bottom_01
+      - cake_room_bottom_02
+      - cake_room_bottom_03
+      - cake_room_bottom_04
+      - cake_room_bottom_05
+      - cake_room_bottom_06
+      - cake_room_top_01
+      - cake_room_top_02
+      - cake_room_top_03
+      - cake_room_top_04
+      - cake_room_top_05
+      - cake_room_top_06
+#Geode - cercesandsea, hollowdunes, weatheredwastelands
+    - folder: poi/lair/holiday/sunfest
+      quests: []
+      npcs: []
+      npcTriggers: []
+      npcTags: []
+      pieces:
+      - cake_plate_geode
+      - cake_case_bisquit
+      - cake_case_bundt
+      - cake_case_carrot
+      - cake_case_carys
+      - cake_case_panatea
+      - cake_case_pineapple
+      - cake_case_rainbow
+      - cake_case_tiramisu
+      - cake_case_tysorion
+      - cake_case_velvet
+      - cake_room_bottom_01
+      - cake_room_bottom_02
+      - cake_room_bottom_03
+      - cake_room_bottom_04
+      - cake_room_bottom_05
+      - cake_room_bottom_06
+      - cake_room_top_01
+      - cake_room_top_02
+      - cake_room_top_03
+      - cake_room_top_04
+      - cake_room_top_05
+      - cake_room_top_06
+#Jurrasic Jungle, both swamp and forest
+    - folder: poi/lair/holiday/sunfest
+      quests: []
+      npcs: []
+      npcTriggers: []
+      npcTags: []
+      pieces:
+      - cake_plate_jungle
+      - cake_case_bisquit
+      - cake_case_bundt
+      - cake_case_carrot
+      - cake_case_carys
+      - cake_case_panatea
+      - cake_case_pineapple
+      - cake_case_rainbow
+      - cake_case_tiramisu
+      - cake_case_tysorion
+      - cake_case_velvet
+      - cake_room_bottom_01
+      - cake_room_bottom_02
+      - cake_room_bottom_03
+      - cake_room_bottom_04
+      - cake_room_bottom_05
+      - cake_room_bottom_06
+      - cake_room_top_01
+      - cake_room_top_02
+      - cake_room_top_03
+      - cake_room_top_04
+      - cake_room_top_05
+      - cake_room_top_06
+#Medieval Highlands
+    - folder: poi/lair/holiday/sunfest
+      quests: []
+      npcs: []
+      npcTriggers: []
+      npcTags: []
+      pieces:
+      - cake_plate_highlands
+      - cake_case_bisquit
+      - cake_case_bundt
+      - cake_case_carrot
+      - cake_case_carys
+      - cake_case_panatea
+      - cake_case_pineapple
+      - cake_case_rainbow
+      - cake_case_tiramisu
+      - cake_case_tysorion
+      - cake_case_velvet
+      - cake_room_bottom_01
+      - cake_room_bottom_02
+      - cake_room_bottom_03
+      - cake_room_bottom_04
+      - cake_room_bottom_05
+      - cake_room_bottom_06
+      - cake_room_top_01
+      - cake_room_top_02
+      - cake_room_top_03
+      - cake_room_top_04
+      - cake_room_top_05
+      - cake_room_top_06
+#Neon City and Luminopolis
+    - folder: poi/lair/holiday/sunfest
+      quests: []
+      npcs: []
+      npcTriggers: []
+      npcTags: []
+      pieces:
+      - cake_plate_neon
+      - cake_case_bisquit
+      - cake_case_bundt
+      - cake_case_carrot
+      - cake_case_carys
+      - cake_case_panatea
+      - cake_case_pineapple
+      - cake_case_rainbow
+      - cake_case_tiramisu
+      - cake_case_tysorion
+      - cake_case_velvet
+      - cake_room_bottom_01
+      - cake_room_bottom_02
+      - cake_room_bottom_03
+      - cake_room_bottom_04
+      - cake_room_bottom_05
+      - cake_room_bottom_06
+      - cake_room_top_01
+      - cake_room_top_02
+      - cake_room_top_03
+      - cake_room_top_04
+      - cake_room_top_05
+      - cake_room_top_06
+#Permafrost
+    - folder: poi/lair/holiday/sunfest
+      quests: []
+      npcs: []
+      npcTriggers: []
+      npcTags: []
+      pieces:
+      - cake_plate_permafrost
+      - cake_case_bisquit
+      - cake_case_bundt
+      - cake_case_carrot
+      - cake_case_carys
+      - cake_case_panatea
+      - cake_case_pineapple
+      - cake_case_rainbow
+      - cake_case_tiramisu
+      - cake_case_tysorion
+      - cake_case_velvet
+      - cake_room_bottom_01
+      - cake_room_bottom_02
+      - cake_room_bottom_03
+      - cake_room_bottom_04
+      - cake_room_bottom_05
+      - cake_room_bottom_06
+      - cake_room_top_01
+      - cake_room_top_02
+      - cake_room_top_03
+      - cake_room_top_04
+      - cake_room_top_05
+      - cake_room_top_06
+#Treasure Isles
+    - folder: poi/lair/holiday/sunfest
+      quests: []
+      npcs: []
+      npcTriggers: []
+      npcTags: []
+      pieces:
+      - cake_plate_isles
+      - cake_case_bisquit
+      - cake_case_bundt
+      - cake_case_carrot
+      - cake_case_carys
+      - cake_case_panatea
+      - cake_case_pineapple
+      - cake_case_rainbow
+      - cake_case_tiramisu
+      - cake_case_tysorion
+      - cake_case_velvet
+      - cake_room_bottom_01
+      - cake_room_bottom_02
+      - cake_room_bottom_03
+      - cake_room_bottom_04
+      - cake_room_bottom_05
+      - cake_room_bottom_06
+      - cake_room_top_01
+      - cake_room_top_02
+      - cake_room_top_03
+      - cake_room_top_04
+      - cake_room_top_05
+      - cake_room_top_06
+#Sundered Uplands - please use lair setup from build\server_data\biome\gen\lair_giantlands_topside_00.yaml for the cakes to spawn only on top layer!
+    - folder: poi/lair/holiday/sunfest
+      quests: []
+      npcs: []
+      npcTriggers: []
+      npcTags: []
+      pieces:
+      - cake_plate_giantlands
+      - cake_case_bisquit
+      - cake_case_bundt
+      - cake_case_carrot
+      - cake_case_carys
+      - cake_case_panatea
+      - cake_case_pineapple
+      - cake_case_rainbow
+      - cake_case_tiramisu
+      - cake_case_tysorion
+      - cake_case_velvet
+      - cake_room_bottom_01
+      - cake_room_bottom_02
+      - cake_room_bottom_03
+      - cake_room_bottom_04
+      - cake_room_bottom_05
+      - cake_room_bottom_06
+      - cake_room_top_01
+      - cake_room_top_02
+      - cake_room_top_03
+      - cake_room_top_04
+      - cake_room_top_05
+      - cake_room_top_06
+...

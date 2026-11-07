@@ -1,0 +1,10 @@
+[Dungeon]
+type = lair
+
+[Piece0]
+Blueprint = mound
+Quantity = 1
+
+[Piece1]
+Blueprint = boss
+Quantity = 1

@@ -1,0 +1,7 @@
+[Dungeon]
+Type = lair
+
+[Piece0]
+Blueprint = Env_luminopolis_shrine_outpost_redjinja_00
+Quantity = 1
+

@@ -1,0 +1,45 @@
+[Piece0]
+Blueprint = xmas_dragon_base
+Quantity = 1
+
+[Piece1]
+Blueprint = xmas_mid_01
+Quantity = 1
+
+[Piece2]
+Blueprint = xmas_mid_02
+Quantity = 1
+
+[Piece3]
+Blueprint = xmas_mid_03
+Quantity = 1
+
+[Piece4]
+Blueprint = xmas_top_01
+Quantity = 1
+
+[Piece5]
+Blueprint = xmas_top_02
+Quantity = 1
+
+[Piece6]
+Blueprint = Dragon_BurntGift
+Quantity = 3
+
+[Piece7]
+Blueprint = Dragon_DrippingLava
+Quantity = 3
+
+[Piece8]
+Blueprint = Dragon_LavaBox
+Quantity = 3
+
+[Piece9]
+Blueprint = Dragon_lavaGift
+Quantity = 3
+
+[Piece10]
+Blueprint = Dragon_smbox
+Quantity = 3
+
+

@@ -1,0 +1,92 @@
+[Dungeon]
+
+Type = Dungeon
+
+[Piece=0]
+Blueprint = shell_template
+Quantity = 1
+
+[Piece=1]
+Blueprint = boss_01
+Quantity = 1
+Weight = .25
+
+[Piece=2]
+Blueprint = boss_02
+Quantity = 1
+Weight = .25
+
+[Piece=3]
+Blueprint = boss_03
+Quantity = 1
+Weight = .25
+
+[Piece=4]
+Blueprint = boss_04
+Quantity = 1
+Weight = .25
+
+[Piece=5]
+Blueprint = chamber_side_01
+Quantity = 1
+Weight = 99
+
+[Piece=6]
+Blueprint = chamber_side_02
+Quantity = 1
+Weight = .25
+
+[Piece=7]
+Blueprint = chamber_side_03
+Quantity = 1
+Weight = .25
+
+[Piece=8]
+Blueprint = chamber_side_04
+Quantity = 1
+Weight = .25
+
+[Piece=9]
+Blueprint = chamber_side_05
+Quantity = 1
+Weight = .25
+
+[Piece=10]
+Blueprint = chamber_side_06
+Quantity = 1
+Weight = .25
+
+[Piece=11]
+Blueprint = chamber_side_07
+Quantity = 1
+Weight = .25
+
+[Piece=12]
+Blueprint = chamber_corner_01
+Quantity = 1
+Weight = .15
+
+[Piece=13]
+Blueprint = chamber_corner_02
+Quantity = 1
+Weight = .15
+
+[Piece=14]
+Blueprint = chamber_corner_03
+Quantity = 1
+Weight = .15
+
+[Piece=15]
+Blueprint = chamber_corner_04
+Quantity = 1
+Weight = .15
+
+[Piece=16]
+Blueprint = chamber_corner_05
+Quantity = 1
+Weight = .15
+
+[Piece=17]
+Blueprint = chamber_corner_06
+Quantity = 1
+Weight = .15

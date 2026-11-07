@@ -1,0 +1,260 @@
+[Dungeon]
+Type = Lair
+
+
+
+[Piece0]
+Blueprint = Pumpkin_Core_Frontier
+Quantity = 1
+
+Weight = 1
+
+
+[Piece1]
+Blueprint = Pumpkin_Plugs
+
+Quantity = 1
+
+Weight = 1
+
+
+[Piece2]
+Blueprint = Room_BatHalls
+Quantity = 1
+Weight = 1
+
+
+
+[Piece3]
+Blueprint = Boss_Pumpking
+Quantity = 1
+
+Weight = 1
+
+
+
+[Piece4]
+Blueprint = Frontier_1
+Quantity = 1
+
+Weight = 1
+
+
+
+[Piece5]
+Blueprint = Frontier_2
+Quantity = 1
+
+Weight = 1
+
+
+
+[Piece6]
+Blueprint = Frontier_3
+Quantity = 1
+
+Weight = 1
+
+
+
+[Piece7]
+Blueprint = Frontier_4
+Quantity = 1
+
+Weight = 1
+
+
+
+[Piece8]
+Blueprint = Frontier_5
+Quantity = 1
+
+Weight = 1
+
+
+
+[Piece9]
+Blueprint = Frontier_6
+Quantity = 1
+
+Weight = 1
+
+
+
+[Piece10]
+Blueprint = Frontier_7
+Quantity = 1
+
+Weight = 1
+
+
+
+[Piece11]
+Blueprint = Frontier_8
+Quantity = 1
+
+Weight = 1
+
+
+
+[Piece12]
+Blueprint = Frontier_9
+Quantity = 1
+
+Weight = 1
+
+
+
+[Piece13]
+Blueprint = Frontier_10
+Quantity = 1
+
+Weight = 1
+
+
+
+[Piece14]
+Blueprint = Frontier_11
+Quantity = 1
+
+Weight = 1
+
+
+
+[Piece15]
+Blueprint = Frontier_12
+Quantity = 1
+
+Weight = 1
+
+
+
+[Piece16]
+Blueprint = Frontier_13
+Quantity = 1
+
+Weight = 1
+
+
+
+[Piece17]
+Blueprint = Frontier_14
+Quantity = 1
+
+Weight = 1
+
+
+
+[Piece18]
+Blueprint = Frontier_15
+Quantity = 1
+
+Weight = 1
+
+
+
+[Piece19]
+Blueprint = Frontier_16
+Quantity = 1
+
+Weight = 1
+
+
+
+[Piece20]
+Blueprint = Frontier_17
+Quantity = 1
+
+Weight = 1
+
+
+
+[Piece21]
+Blueprint = Frontier_18
+Quantity = 1
+
+Weight = 1
+
+
+
+[Piece22]
+Blueprint = Frontier_19
+Quantity = 1
+
+Weight = 1
+
+
+
+[Piece23]
+Blueprint = Frontier_20
+Quantity = 1
+
+Weight = 1
+
+
+
+[Piece24]
+Blueprint = Room_FireballBlitz
+Quantity = 1
+
+Weight = 1
+
+
+
+[Piece25]
+Blueprint = Room_Glass_Panes
+Quantity = 1
+
+Weight = 1
+
+
+
+[Piece26]
+Blueprint = Room_PurpleLavaSquares
+Quantity = 1
+
+Weight = 1
+
+
+
+[Piece27]
+Blueprint = Room_Dark
+Quantity = 1
+
+Weight = 1
+
+
+
+[Piece28]
+Blueprint = Room_Ghostly
+Quantity = 1
+
+Weight = 1
+
+
+
+[Piece29]
+Blueprint = Room_GuardedPillars
+Quantity = 1
+
+Weight = 1
+
+
+
+[Piece30]
+Blueprint = Room_LavaPlatforms
+Quantity = 1
+
+Weight = 1
+
+
+
+[Piece31]
+Blueprint = Boss_Midnight
+Quantity = 1
+
+Weight = 1
+
+
+
+

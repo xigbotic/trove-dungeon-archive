@@ -1,0 +1,42 @@
+[Dungeon]
+Type = Lair
+
+[Piece0]
+Blueprint = DNG_frontierchurch_base
+Quantity = 1
+
+[Piece1]
+Blueprint = DNG_frontierchurch_exterior1
+Quantity = 1
+
+[Piece2]
+Blueprint = DNG_frontierchurch_exterior2
+Quantity = 1
+
+[Piece3]
+Blueprint = DNG_frontierchurch_exterior3
+Quantity = 1
+
+[Piece4]
+Blueprint = DNG_frontierchurch_church1
+Quantity = 1
+
+[Piece5]
+Blueprint = DNG_frontierchurch_church2
+Quantity = 1
+
+[Piece6]
+Blueprint = DNG_frontierchurch_church3
+Quantity = 1
+
+[Piece7]
+Blueprint = DNG_frontierchurch_boss1
+Quantity = 1
+
+[Piece8]
+Blueprint = DNG_frontierchurch_boss2
+Quantity = 1
+
+[Piece9]
+Blueprint = DNG_frontierchurch_boss3
+Quantity = 1

@@ -1,0 +1,45 @@
+Seed 1245210850
+TotalQueries 7
+================= PIECES =============
+Piece base_02 Plug=0 Size=29x19x29
+	Plug Position=0,15,-1
+	AABB Min=-14,0,-15 Max=15,19,14
+	Socket 2
+	Socket 2
+	Socket 2
+	Socket 2
+	Socket 1
+Piece base_01 Plug=0 Size=29x19x29
+	Plug Position=0,15,-1
+	AABB Min=-14,0,-15 Max=15,19,14
+	Socket 2
+	Socket 2
+	Socket 2
+	Socket 1
+	Socket 2
+Piece pumpkin_01 Plug=1 Size=23x12x22
+	Plug Position=0,0,0
+	AABB Min=-11,0,-11 Max=12,12,11
+	Socket 3
+Piece vine_01 Plug=2 Size=11x32x10
+	Plug Position=2,0,1
+	AABB Min=-5,0,-5 Max=6,32,5
+Piece vine_02 Plug=2 Size=11x32x10
+	Plug Position=2,0,1
+	AABB Min=-5,0,-5 Max=6,32,5
+Piece lid_02 Plug=3 Size=23x18x22
+	Plug Position=0,0,0
+	AABB Min=-11,0,-11 Max=12,18,11
+Piece lid_01 Plug=3 Size=23x11x22
+	Plug Position=0,0,0
+	AABB Min=-11,0,-11 Max=12,11,11
+================= LAYOUT =============
+[0] base_01 [Q=6, D=6]
+	[1] vine_01 [Q=0, D=0]
+	[2] vine_01 [Q=0, D=0]
+	[3] vine_01 [Q=0, D=0]
+	[4] pumpkin_01 [Q=1, D=1]
+		[5] lid_01 [Q=0, D=0]
+	[6] vine_01 [Q=0, D=0]
+================= MESSAGES =============
+Dungeon.Type = Dungeon, 128x256x128

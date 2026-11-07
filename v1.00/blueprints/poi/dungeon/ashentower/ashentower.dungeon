@@ -1,0 +1,55 @@
+[Piece0]
+Blueprint = Ashen_groundpiece_01
+Quantity = 1
+
+[Piece1]
+Blueprint = Ashen_towergroundfloor_01
+Quantity = 1
+
+[Piece2]
+Blueprint = Ashen_towergroundfloor_02
+Quantity = 1
+
+[Piece3]
+Blueprint = Ashen_towersecondfloor_01
+Quantity = 1
+
+[Piece4]
+Blueprint = Ashen_towersecondfloor_02
+Quantity = 1
+
+[Piece5]
+Blueprint = Ashen_towersbossfloor_01
+Quantity = 1
+
+[Piece6]
+Blueprint = Ashen_towergroundfloor_03
+Quantity = 1
+
+[Piece7]
+Blueprint = Ashen_towersbossfloor_02
+Quantity = 1
+
+[Piece8]
+Blueprint = Ashen_towersecondfloor_03
+Quantity = 1
+
+[Piece9]
+Blueprint = Ashen_towersbossfloor_03
+Quantity = 1
+
+[Piece10]
+Blueprint = Ashen_towersbossfloor_04
+Quantity = 1
+
+[Piece11]
+Blueprint = Ashen_towersecondfloor_04
+Quantity = 1
+
+[Piece12]
+Blueprint = Ashen_towersecondfloor_05
+Quantity = 1
+
+[Piece13]
+Blueprint = Ashen_towergroundfloor_04
+Quantity = 1

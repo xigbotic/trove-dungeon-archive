@@ -1,0 +1,11 @@
+[Dungeon]
+
+Type = Dungeon
+
+[Piece=0]
+Blueprint = TrovianAncientTempleUndead
+Quantity = 1
+
+[Piece=1]
+Blueprint = Sky
+Quantity = 1
